@@ -1,0 +1,747 @@
+[
+    {
+        "character": "爱",
+        "pinyin": "ài",
+        "meaning": "Amar"
+    },
+    {
+        "character": "八",
+        "pinyin": "bā",
+        "meaning": "Ocho"
+    },
+    {
+        "character": "爸爸",
+        "pinyin": "bàba",
+        "meaning": "Papá"
+    },
+    {
+        "character": "杯子",
+        "pinyin": "bēizi",
+        "meaning": "Vaso"
+    },
+    {
+        "character": "北京",
+        "pinyin": "Běijīng",
+        "meaning": "Pekín"
+    },
+    {
+        "character": "本",
+        "pinyin": "běn",
+        "meaning": "Clasif. para libros"
+    },
+    {
+        "character": "不",
+        "pinyin": "bù",
+        "meaning": "No"
+    },
+    {
+        "character": "不客气",
+        "pinyin": "bù kèqi",
+        "meaning": "De nada"
+    },
+    {
+        "character": "菜",
+        "pinyin": "cài",
+        "meaning": "Plato, verdura"
+    },
+    {
+        "character": "茶",
+        "pinyin": "chá",
+        "meaning": "Té"
+    },
+    {
+        "character": "吃",
+        "pinyin": "chī",
+        "meaning": "Comer"
+    },
+    {
+        "character": "出租车",
+        "pinyin": "chūzūchē",
+        "meaning": "Taxi"
+    },
+    {
+        "character": "打电话",
+        "pinyin": "dǎ diànhuà",
+        "meaning": "Llamar por teléfono"
+    },
+    {
+        "character": "大",
+        "pinyin": "dà",
+        "meaning": "Grande"
+    },
+    {
+        "character": "的",
+        "pinyin": "de",
+        "meaning": "Partícula posesiva"
+    },
+    {
+        "character": "点",
+        "pinyin": "diǎn",
+        "meaning": "Hora, punto"
+    },
+    {
+        "character": "电脑",
+        "pinyin": "diànnǎo",
+        "meaning": "Ordenador"
+    },
+    {
+        "character": "电视",
+        "pinyin": "diànshì",
+        "meaning": "Televisión"
+    },
+    {
+        "character": "电影",
+        "pinyin": "diànyǐng",
+        "meaning": "Película"
+    },
+    {
+        "character": "东西",
+        "pinyin": "dōngxi",
+        "meaning": "Cosa"
+    },
+    {
+        "character": "都",
+        "pinyin": "dōu",
+        "meaning": "Todo"
+    },
+    {
+        "character": "读",
+        "pinyin": "dú",
+        "meaning": "Leer"
+    },
+    {
+        "character": "对不起",
+        "pinyin": "duìbuqǐ",
+        "meaning": "Lo siento"
+    },
+    {
+        "character": "多",
+        "pinyin": "duō",
+        "meaning": "Mucho"
+    },
+    {
+        "character": "多少",
+        "pinyin": "duōshao",
+        "meaning": "Cuánto"
+    },
+    {
+        "character": "儿子",
+        "pinyin": "érzi",
+        "meaning": "Hijo"
+    },
+    {
+        "character": "二",
+        "pinyin": "èr",
+        "meaning": "Dos"
+    },
+    {
+        "character": "饭店",
+        "pinyin": "fàndiàn",
+        "meaning": "Restaurante"
+    },
+    {
+        "character": "飞机",
+        "pinyin": "fēijī",
+        "meaning": "Avión"
+    },
+    {
+        "character": "分钟",
+        "pinyin": "fēnzhōng",
+        "meaning": "Minuto"
+    },
+    {
+        "character": "高兴",
+        "pinyin": "gāoxìng",
+        "meaning": "Contento"
+    },
+    {
+        "character": "个",
+        "pinyin": "gè",
+        "meaning": "Clasif. general"
+    },
+    {
+        "character": "工作",
+        "pinyin": "gōngzuò",
+        "meaning": "Trabajar, trabajo"
+    },
+    {
+        "character": "狗",
+        "pinyin": "gǒu",
+        "meaning": "Perro"
+    },
+    {
+        "character": "汉语",
+        "pinyin": "Hànyǔ",
+        "meaning": "Chino (idioma)"
+    },
+    {
+        "character": "好",
+        "pinyin": "hǎo",
+        "meaning": "Bien, bueno"
+    },
+    {
+        "character": "喝",
+        "pinyin": "hē",
+        "meaning": "Beber"
+    },
+    {
+        "character": "和",
+        "pinyin": "hé",
+        "meaning": "Y"
+    },
+    {
+        "character": "很",
+        "pinyin": "hěn",
+        "meaning": "Muy"
+    },
+    {
+        "character": "后面",
+        "pinyin": "hòumiàn",
+        "meaning": "Detrás"
+    },
+    {
+        "character": "回",
+        "pinyin": "huí",
+        "meaning": "Volver"
+    },
+    {
+        "character": "会",
+        "pinyin": "huì",
+        "meaning": "Poder, saber"
+    },
+    {
+        "character": "几",
+        "pinyin": "jǐ",
+        "meaning": "Cuántos"
+    },
+    {
+        "character": "家",
+        "pinyin": "jiā",
+        "meaning": "Casa, familia"
+    },
+    {
+        "character": "叫",
+        "pinyin": "jiào",
+        "meaning": "Llamarse, llamar"
+    },
+    {
+        "character": "今天",
+        "pinyin": "jīntiān",
+        "meaning": "Hoy"
+    },
+    {
+        "character": "九",
+        "pinyin": "jiǔ",
+        "meaning": "Nueve"
+    },
+    {
+        "character": "开",
+        "pinyin": "kāi",
+        "meaning": "Abrir, conducir"
+    },
+    {
+        "character": "看",
+        "pinyin": "kàn",
+        "meaning": "Mirar"
+    },
+    {
+        "character": "看见",
+        "pinyin": "kànjiàn",
+        "meaning": "Ver"
+    },
+    {
+        "character": "块",
+        "pinyin": "kuài",
+        "meaning": "Unidad de dinero, trozo"
+    },
+    {
+        "character": "来",
+        "pinyin": "lái",
+        "meaning": "Venir"
+    },
+    {
+        "character": "老师",
+        "pinyin": "lǎoshī",
+        "meaning": "Profesor"
+    },
+    {
+        "character": "了",
+        "pinyin": "le",
+        "meaning": "Partícula de aspecto cumplido"
+    },
+    {
+        "character": "冷",
+        "pinyin": "lěng",
+        "meaning": "Frío"
+    },
+    {
+        "character": "里",
+        "pinyin": "lǐ",
+        "meaning": "Dentro"
+    },
+    {
+        "character": "六",
+        "pinyin": "liù",
+        "meaning": "Seis"
+    },
+    {
+        "character": "妈妈",
+        "pinyin": "māma",
+        "meaning": "Mamá"
+    },
+    {
+        "character": "吗",
+        "pinyin": "ma",
+        "meaning": "Partícula interrogativa"
+    },
+    {
+        "character": "买",
+        "pinyin": "mǎi",
+        "meaning": "Comprar"
+    },
+    {
+        "character": "猫",
+        "pinyin": "māo",
+        "meaning": "Gato"
+    },
+    {
+        "character": "没关系",
+        "pinyin": "méi guānxi",
+        "meaning": "No importa"
+    },
+    {
+        "character": "没有",
+        "pinyin": "méiyǒu",
+        "meaning": "No tener, no haber"
+    },
+    {
+        "character": "米饭",
+        "pinyin": "mǐfàn",
+        "meaning": "Arroz cocido"
+    },
+    {
+        "character": "明天",
+        "pinyin": "míngtiān",
+        "meaning": "Mañana"
+    },
+    {
+        "character": "名字",
+        "pinyin": "míngzi",
+        "meaning": "Nombre"
+    },
+    {
+        "character": "哪",
+        "pinyin": "nǎ",
+        "meaning": "Cuál"
+    },
+    {
+        "character": "哪儿",
+        "pinyin": "nǎr",
+        "meaning": "Dónde"
+    },
+    {
+        "character": "那",
+        "pinyin": "nà",
+        "meaning": "Ese"
+    },
+    {
+        "character": "呢",
+        "pinyin": "ne",
+        "meaning": "Partícula interrogativa de énfasis"
+    },
+    {
+        "character": "能",
+        "pinyin": "néng",
+        "meaning": "Poder (habilidad, posibilidad)"
+    },
+    {
+        "character": "你",
+        "pinyin": "nǐ",
+        "meaning": "Tú"
+    },
+    {
+        "character": "年",
+        "pinyin": "nián",
+        "meaning": "Año"
+    },
+    {
+        "character": "女儿",
+        "pinyin": "nǚ'ér",
+        "meaning": "Hija"
+    },
+    {
+        "character": "朋友",
+        "pinyin": "péngyou",
+        "meaning": "Amigo"
+    },
+    {
+        "character": "漂亮",
+        "pinyin": "piàoliang",
+        "meaning": "Bonito"
+    },
+    {
+        "character": "苹果",
+        "pinyin": "píngguǒ",
+        "meaning": "Manzana"
+    },
+    {
+        "character": "七",
+        "pinyin": "qī",
+        "meaning": "Siete"
+    },
+    {
+        "character": "钱",
+        "pinyin": "qián",
+        "meaning": "Dinero"
+    },
+    {
+        "character": "前面",
+        "pinyin": "qiánmiàn",
+        "meaning": "Delante"
+    },
+    {
+        "character": "请",
+        "pinyin": "qǐng",
+        "meaning": "Por favor, invitar"
+    },
+    {
+        "character": "去",
+        "pinyin": "qù",
+        "meaning": "Ir"
+    },
+    {
+        "character": "热",
+        "pinyin": "rè",
+        "meaning": "Caliente"
+    },
+    {
+        "character": "人",
+        "pinyin": "rén",
+        "meaning": "Persona"
+    },
+    {
+        "character": "认识",
+        "pinyin": "rènshi",
+        "meaning": "Conocer"
+    },
+    {
+        "character": "三",
+        "pinyin": "sān",
+        "meaning": "Tres"
+    },
+    {
+        "character": "商店",
+        "pinyin": "shāngdiàn",
+        "meaning": "Tienda"
+    },
+    {
+        "character": "上",
+        "pinyin": "shàng",
+        "meaning": "Arriba, ir a"
+    },
+    {
+        "character": "上午",
+        "pinyin": "shàngwǔ",
+        "meaning": "Mañana (parte del día)"
+    },
+    {
+        "character": "少",
+        "pinyin": "shǎo",
+        "meaning": "Poco"
+    },
+    {
+        "character": "谁",
+        "pinyin": "shuí",
+        "meaning": "Quién"
+    },
+    {
+        "character": "什么",
+        "pinyin": "shénme",
+        "meaning": "Qué"
+    },
+    {
+        "character": "十",
+        "pinyin": "shí",
+        "meaning": "Diez"
+    },
+    {
+        "character": "时候",
+        "pinyin": "shíhou",
+        "meaning": "Momento"
+    },
+    {
+        "character": "是",
+        "pinyin": "shì",
+        "meaning": "Ser"
+    },
+    {
+        "character": "书",
+        "pinyin": "shū",
+        "meaning": "Libro"
+    },
+    {
+        "character": "水",
+        "pinyin": "shuǐ",
+        "meaning": "Agua"
+    },
+    {
+        "character": "水果",
+        "pinyin": "shuǐguǒ",
+        "meaning": "Fruta"
+    },
+    {
+        "character": "睡觉",
+        "pinyin": "shuìjiào",
+        "meaning": "Dormir"
+    },
+    {
+        "character": "说",
+        "pinyin": "shuō",
+        "meaning": "Hablar"
+    },
+    {
+        "character": "四",
+        "pinyin": "sì",
+        "meaning": "Cuatro"
+    },
+    {
+        "character": "岁",
+        "pinyin": "suì",
+        "meaning": "Año de edad"
+    },
+    {
+        "character": "他",
+        "pinyin": "tā",
+        "meaning": "Él"
+    },
+    {
+        "character": "她",
+        "pinyin": "tā",
+        "meaning": "Ella"
+    },
+    {
+        "character": "太",
+        "pinyin": "tài",
+        "meaning": "Demasiado"
+    },
+    {
+        "character": "天气",
+        "pinyin": "tiānqì",
+        "meaning": "Tiempo (atmosférico)"
+    },
+    {
+        "character": "听",
+        "pinyin": "tīng",
+        "meaning": "Escuchar"
+    },
+    {
+        "character": "同学",
+        "pinyin": "tóngxué",
+        "meaning": "Compañero de clase"
+    },
+    {
+        "character": "喂",
+        "pinyin": "wèi",
+        "meaning": "Hola (al teléfono)"
+    },
+    {
+        "character": "我",
+        "pinyin": "wǒ",
+        "meaning": "Yo"
+    },
+    {
+        "character": "我们",
+        "pinyin": "wǒmen",
+        "meaning": "Nosotros"
+    },
+    {
+        "character": "五",
+        "pinyin": "wǔ",
+        "meaning": "Cinco"
+    },
+    {
+        "character": "喜欢",
+        "pinyin": "xǐhuan",
+        "meaning": "Gustar"
+    },
+    {
+        "character": "下",
+        "pinyin": "xià",
+        "meaning": "Abajo, siguiente"
+    },
+    {
+        "character": "下午",
+        "pinyin": "xiàwǔ",
+        "meaning": "Tarde"
+    },
+    {
+        "character": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "Llover"
+    },
+    {
+        "character": "先生",
+        "pinyin": "xiānsheng",
+        "meaning": "Señor"
+    },
+    {
+        "character": "现在",
+        "pinyin": "xiànzài",
+        "meaning": "Ahora"
+    },
+    {
+        "character": "想",
+        "pinyin": "xiǎng",
+        "meaning": "Querer, pensar"
+    },
+    {
+        "character": "小",
+        "pinyin": "xiǎo",
+        "meaning": "Pequeño"
+    },
+    {
+        "character": "小姐",
+        "pinyin": "xiǎojiě",
+        "meaning": "Señorita"
+    },
+    {
+        "character": "些",
+        "pinyin": "xiē",
+        "meaning": "Algunos"
+    },
+    {
+        "character": "写",
+        "pinyin": "xiě",
+        "meaning": "Escribir"
+    },
+    {
+        "character": "谢谢",
+        "pinyin": "xièxie",
+        "meaning": "Gracias"
+    },
+    {
+        "character": "星期",
+        "pinyin": "xīngqī",
+        "meaning": "Semana"
+    },
+    {
+        "character": "学生",
+        "pinyin": "xuésheng",
+        "meaning": "Estudiante"
+    },
+    {
+        "character": "学习",
+        "pinyin": "xuéxí",
+        "meaning": "Estudiar"
+    },
+    {
+        "character": "学校",
+        "pinyin": "xuéxiào",
+        "meaning": "Escuela"
+    },
+    {
+        "character": "一",
+        "pinyin": "yī",
+        "meaning": "Uno"
+    },
+    {
+        "character": "衣服",
+        "pinyin": "yīfu",
+        "meaning": "Ropa"
+    },
+    {
+        "character": "医生",
+        "pinyin": "yīshēng",
+        "meaning": "Doctor"
+    },
+    {
+        "character": "医院",
+        "pinyin": "yīyuàn",
+        "meaning": "Hospital"
+    },
+    {
+        "character": "椅子",
+        "pinyin": "yǐzi",
+        "meaning": "Silla"
+    },
+    {
+        "character": "有",
+        "pinyin": "yǒu",
+        "meaning": "Tener"
+    },
+    {
+        "character": "月",
+        "pinyin": "yuè",
+        "meaning": "Mes"
+    },
+    {
+        "character": "再见",
+        "pinyin": "zàijiàn",
+        "meaning": "Adiós"
+    },
+    {
+        "character": "在",
+        "pinyin": "zài",
+        "meaning": "Estar en"
+    },
+    {
+        "character": "怎么",
+        "pinyin": "zěnme",
+        "meaning": "Cómo"
+    },
+    {
+        "character": "怎么样",
+        "pinyin": "zěnmeyàng",
+        "meaning": "Qué tal"
+    },
+    {
+        "character": "这",
+        "pinyin": "zhè",
+        "meaning": "Este"
+    },
+    {
+        "character": "中国",
+        "pinyin": "Zhōngguó",
+        "meaning": "China"
+    },
+    {
+        "character": "中午",
+        "pinyin": "zhōngwǔ",
+        "meaning": "Mediodía"
+    },
+    {
+        "character": "住",
+        "pinyin": "zhù",
+        "meaning": "Vivir"
+    },
+    {
+        "character": "桌子",
+        "pinyin": "zhuōzi",
+        "meaning": "Mesa"
+    },
+    {
+        "character": "字",
+        "pinyin": "zì",
+        "meaning": "Carácter"
+    },
+    {
+        "character": "昨天",
+        "pinyin": "zuótiān",
+        "meaning": "Ayer"
+    },
+    {
+        "character": "坐",
+        "pinyin": "zuò",
+        "meaning": "Sentarse"
+    },
+    {
+        "character": "做",
+        "pinyin": "zuò",
+        "meaning": "Hacer"
+    },
+    {
+        "character": "做饭",
+        "pinyin": "zuòfàn",
+        "meaning": "Cocinar"
+    }
+]
