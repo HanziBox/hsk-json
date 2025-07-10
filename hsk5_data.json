@@ -1,0 +1,6502 @@
+[
+    {
+        "character": "哎",
+        "pinyin": "āi",
+        "meaning": "Interjección (sorpresa)"
+    },
+    {
+        "character": "唉",
+        "pinyin": "ài",
+        "meaning": "Interjección (suspiro)"
+    },
+    {
+        "character": "爱护",
+        "pinyin": "àihù",
+        "meaning": "Cuidar"
+    },
+    {
+        "character": "爱惜",
+        "pinyin": "àixī",
+        "meaning": "Apreciar"
+    },
+    {
+        "character": "爱心",
+        "pinyin": "àixīn",
+        "meaning": "Amor (sentimiento)"
+    },
+    {
+        "character": "安慰",
+        "pinyin": "ānwèi",
+        "meaning": "Consolar"
+    },
+    {
+        "character": "安装",
+        "pinyin": "ānzhuāng",
+        "meaning": "Instalar"
+    },
+    {
+        "character": "岸",
+        "pinyin": "àn",
+        "meaning": "Orilla"
+    },
+    {
+        "character": "暗",
+        "pinyin": "àn",
+        "meaning": "Oscuro"
+    },
+    {
+        "character": "熬夜",
+        "pinyin": "áoyè",
+        "meaning": "Trasnochar"
+    },
+    {
+        "character": "把握",
+        "pinyin": "bǎwò",
+        "meaning": "Agarrar"
+    },
+    {
+        "character": "摆",
+        "pinyin": "bǎi",
+        "meaning": "Colocar"
+    },
+    {
+        "character": "办理",
+        "pinyin": "bànlǐ",
+        "meaning": "Tramitar"
+    },
+    {
+        "character": "傍晚",
+        "pinyin": "bàngwǎn",
+        "meaning": "Atardecer"
+    },
+    {
+        "character": "包裹",
+        "pinyin": "bāoguǒ",
+        "meaning": "Paquete"
+    },
+    {
+        "character": "包含",
+        "pinyin": "bāohán",
+        "meaning": "Contener"
+    },
+    {
+        "character": "包括",
+        "pinyin": "bāokuò",
+        "meaning": "Incluir"
+    },
+    {
+        "character": "薄",
+        "pinyin": "báo",
+        "meaning": "Delgado"
+    },
+    {
+        "character": "宝贝",
+        "pinyin": "bǎobèi",
+        "meaning": "Tesoro"
+    },
+    {
+        "character": "宝贵",
+        "pinyin": "bǎoguì",
+        "meaning": "Valioso"
+    },
+    {
+        "character": "保持",
+        "pinyin": "bǎochí",
+        "meaning": "Mantener"
+    },
+    {
+        "character": "保存",
+        "pinyin": "bǎocún",
+        "meaning": "Guardar"
+    },
+    {
+        "character": "保留",
+        "pinyin": "bǎoliú",
+        "meaning": "Reservar"
+    },
+    {
+        "character": "保险",
+        "pinyin": "bǎoxiǎn",
+        "meaning": "Seguro"
+    },
+    {
+        "character": "报到",
+        "pinyin": "bàodào",
+        "meaning": "Registrarse"
+    },
+    {
+        "character": "报道",
+        "pinyin": "bàodào",
+        "meaning": "Reportaje"
+    },
+    {
+        "character": "报告",
+        "pinyin": "bàogào",
+        "meaning": "Informe"
+    },
+    {
+        "character": "报社",
+        "pinyin": "bàoshè",
+        "meaning": "Agencia de noticias"
+    },
+    {
+        "character": "抱怨",
+        "pinyin": "bàoyuàn",
+        "meaning": "Quejarse"
+    },
+    {
+        "character": "背",
+        "pinyin": "bèi",
+        "meaning": "Espalda"
+    },
+    {
+        "character": "悲观",
+        "pinyin": "bēiguān",
+        "meaning": "Pesimista"
+    },
+    {
+        "character": "背景",
+        "pinyin": "bèijǐng",
+        "meaning": "Antecedentes"
+    },
+    {
+        "character": "被子",
+        "pinyin": "bèizi",
+        "meaning": "Edredón"
+    },
+    {
+        "character": "本科",
+        "pinyin": "běnkē",
+        "meaning": "Grado universitario"
+    },
+    {
+        "character": "本领",
+        "pinyin": "běnlǐng",
+        "meaning": "Habilidad"
+    },
+    {
+        "character": "本质",
+        "pinyin": "běnzhì",
+        "meaning": "Esencia"
+    },
+    {
+        "character": "比例",
+        "pinyin": "bǐlì",
+        "meaning": "Proporción"
+    },
+    {
+        "character": "彼此",
+        "pinyin": "bǐcǐ",
+        "meaning": "Mutuo"
+    },
+    {
+        "character": "必然",
+        "pinyin": "bìrán",
+        "meaning": "Inevitable"
+    },
+    {
+        "character": "必要",
+        "pinyin": "bìyào",
+        "meaning": "Necesario"
+    },
+    {
+        "character": "毕竟",
+        "pinyin": "bìjìng",
+        "meaning": "Después de todo"
+    },
+    {
+        "character": "避免",
+        "pinyin": "bìmiǎn",
+        "meaning": "Evitar"
+    },
+    {
+        "character": "编辑",
+        "pinyin": "biānjí",
+        "meaning": "Editar"
+    },
+    {
+        "character": "鞭炮",
+        "pinyin": "biānpào",
+        "meaning": "Petardo"
+    },
+    {
+        "character": "便",
+        "pinyin": "biàn",
+        "meaning": "Entonces"
+    },
+    {
+        "character": "辩论",
+        "pinyin": "biànlùn",
+        "meaning": "Debatir"
+    },
+    {
+        "character": "标点",
+        "pinyin": "biāodiǎn",
+        "meaning": "Puntuación"
+    },
+    {
+        "character": "标志",
+        "pinyin": "biāozhì",
+        "meaning": "Símbolo"
+    },
+    {
+        "character": "表达",
+        "pinyin": "biǎodá",
+        "meaning": "Expresar"
+    },
+    {
+        "character": "表面",
+        "pinyin": "biǎomiàn",
+        "meaning": "Superficie"
+    },
+    {
+        "character": "表明",
+        "pinyin": "biǎomíng",
+        "meaning": "Indicar"
+    },
+    {
+        "character": "表情",
+        "pinyin": "biǎoqíng",
+        "meaning": "Expresión facial"
+    },
+    {
+        "character": "表现",
+        "pinyin": "biǎoxiàn",
+        "meaning": "Mostrar"
+    },
+    {
+        "character": "冰激凌",
+        "pinyin": "bīngjīlíng",
+        "meaning": "Helado"
+    },
+    {
+        "character": "病毒",
+        "pinyin": "bìngdú",
+        "meaning": "Virus"
+    },
+    {
+        "character": "玻璃",
+        "pinyin": "bōli",
+        "meaning": "Vidrio"
+    },
+    {
+        "character": "播放",
+        "pinyin": "bōfàng",
+        "meaning": "Reproducir"
+    },
+    {
+        "character": "脖子",
+        "pinyin": "bózi",
+        "meaning": "Cuello"
+    },
+    {
+        "character": "博物馆",
+        "pinyin": "bówùguǎn",
+        "meaning": "Museo"
+    },
+    {
+        "character": "补充",
+        "pinyin": "bǔchōng",
+        "meaning": "Complementar"
+    },
+    {
+        "character": "不安",
+        "pinyin": "bù'ān",
+        "meaning": "Inquieto"
+    },
+    {
+        "character": "不得了",
+        "pinyin": "bùdéliǎo",
+        "meaning": "Tremendo"
+    },
+    {
+        "character": "不断",
+        "pinyin": "bùduàn",
+        "meaning": "Continuamente"
+    },
+    {
+        "character": "不见得",
+        "pinyin": "bújiàndé",
+        "meaning": "No necesariamente"
+    },
+    {
+        "character": "不耐烦",
+        "pinyin": "bùnàifán",
+        "meaning": "Impaciente"
+    },
+    {
+        "character": "不然",
+        "pinyin": "bùrán",
+        "meaning": "De lo contrario"
+    },
+    {
+        "character": "不如",
+        "pinyin": "bùrú",
+        "meaning": "No tan bueno como"
+    },
+    {
+        "character": "不要紧",
+        "pinyin": "búyàojǐn",
+        "meaning": "No importa"
+    },
+    {
+        "character": "不足",
+        "pinyin": "bùzú",
+        "meaning": "Insuficiente"
+    },
+    {
+        "character": "布",
+        "pinyin": "bù",
+        "meaning": "Tela"
+    },
+    {
+        "character": "步骤",
+        "pinyin": "bùzhòu",
+        "meaning": "Paso"
+    },
+    {
+        "character": "部门",
+        "pinyin": "bùmén",
+        "meaning": "Departamento"
+    },
+    {
+        "character": "财产",
+        "pinyin": "cáichǎn",
+        "meaning": "Propiedad"
+    },
+    {
+        "character": "采访",
+        "pinyin": "cǎifǎng",
+        "meaning": "Entrevistar"
+    },
+    {
+        "character": "采取",
+        "pinyin": "cǎiqǔ",
+        "meaning": "Adoptar"
+    },
+    {
+        "character": "彩虹",
+        "pinyin": "cǎihóng",
+        "meaning": "Arcoíris"
+    },
+    {
+        "character": "踩",
+        "pinyin": "cǎi",
+        "meaning": "Pisar"
+    },
+    {
+        "character": "参考",
+        "pinyin": "cānkǎo",
+        "meaning": "Consultar"
+    },
+    {
+        "character": "参与",
+        "pinyin": "cānyù",
+        "meaning": "Participar"
+    },
+    {
+        "character": "惭愧",
+        "pinyin": "cánkuì",
+        "meaning": "Avergonzado"
+    },
+    {
+        "character": "操场",
+        "pinyin": "cāochǎng",
+        "meaning": "Patio de juegos"
+    },
+    {
+        "character": "操心",
+        "pinyin": "cāoxīn",
+        "meaning": "Preocuparse"
+    },
+    {
+        "character": "册",
+        "pinyin": "cè",
+        "meaning": "Clasif. (libros)"
+    },
+    {
+        "character": "测验",
+        "pinyin": "cèyàn",
+        "meaning": "Prueba"
+    },
+    {
+        "character": "曾经",
+        "pinyin": "céngjīng",
+        "meaning": "Una vez"
+    },
+    {
+        "character": "叉子",
+        "pinyin": "chāzi",
+        "meaning": "Tenedor"
+    },
+    {
+        "character": "差距",
+        "pinyin": "chājù",
+        "meaning": "Brecha"
+    },
+    {
+        "character": "插",
+        "pinyin": "chā",
+        "meaning": "Insertar"
+    },
+    {
+        "character": "拆",
+        "pinyin": "chāi",
+        "meaning": "Desmontar"
+    },
+    {
+        "character": "产品",
+        "pinyin": "chǎnpǐn",
+        "meaning": "Producto"
+    },
+    {
+        "character": "产生",
+        "pinyin": "chǎnshēng",
+        "meaning": "Producir"
+    },
+    {
+        "character": "长途",
+        "pinyin": "chángtú",
+        "meaning": "Larga distancia"
+    },
+    {
+        "character": "常识",
+        "pinyin": "chángshí",
+        "meaning": "Sentido común"
+    },
+    {
+        "character": "抄",
+        "pinyin": "chāo",
+        "meaning": "Copiar"
+    },
+    {
+        "character": "超级",
+        "pinyin": "chāojí",
+        "meaning": "Súper"
+    },
+    {
+        "character": "朝",
+        "pinyin": "cháo",
+        "meaning": "Hacia"
+    },
+    {
+        "character": "潮湿",
+        "pinyin": "cháoshī",
+        "meaning": "Húmedo"
+    },
+    {
+        "character": "吵",
+        "pinyin": "chǎo",
+        "meaning": "Ruidoso"
+    },
+    {
+        "character": "吵架",
+        "pinyin": "chǎojià",
+        "meaning": "Discutir"
+    },
+    {
+        "character": "炒",
+        "pinyin": "chǎo",
+        "meaning": "Freír"
+    },
+    {
+        "character": "车库",
+        "pinyin": "chēkù",
+        "meaning": "Garaje"
+    },
+    {
+        "character": "车厢",
+        "pinyin": "chēxiāng",
+        "meaning": "Vagón"
+    },
+    {
+        "character": "彻底",
+        "pinyin": "chèdǐ",
+        "meaning": "Completamente"
+    },
+    {
+        "character": "沉默",
+        "pinyin": "chénmò",
+        "meaning": "Silencioso"
+    },
+    {
+        "character": "趁",
+        "pinyin": "chèn",
+        "meaning": "Aprovechar"
+    },
+    {
+        "character": "称",
+        "pinyin": "chēng",
+        "meaning": "Pesar"
+    },
+    {
+        "character": "称呼",
+        "pinyin": "chēnghu",
+        "meaning": "Llamar"
+    },
+    {
+        "character": "称赞",
+        "pinyin": "chēngzàn",
+        "meaning": "Alabar"
+    },
+    {
+        "character": "成分",
+        "pinyin": "chéngfèn",
+        "meaning": "Componente"
+    },
+    {
+        "character": "成果",
+        "pinyin": "chéngguǒ",
+        "meaning": "Resultado"
+    },
+    {
+        "character": "成就",
+        "pinyin": "chéngjiù",
+        "meaning": "Logro"
+    },
+    {
+        "character": "成立",
+        "pinyin": "chénglì",
+        "meaning": "Establecer"
+    },
+    {
+        "character": "成人",
+        "pinyin": "chéngrén",
+        "meaning": "Adulto"
+    },
+    {
+        "character": "成熟",
+        "pinyin": "chéngshú",
+        "meaning": "Maduro"
+    },
+    {
+        "character": "成语",
+        "pinyin": "chéngyǔ",
+        "meaning": "Modismo"
+    },
+    {
+        "character": "成长",
+        "pinyin": "chéngzhǎng",
+        "meaning": "Crecer"
+    },
+    {
+        "character": "诚恳",
+        "pinyin": "chéngkěn",
+        "meaning": "Sincero"
+    },
+    {
+        "character": "承担",
+        "pinyin": "chéngdān",
+        "meaning": "Asumir"
+    },
+    {
+        "character": "承认",
+        "pinyin": "chéngrèn",
+        "meaning": "Reconocer"
+    },
+    {
+        "character": "承受",
+        "pinyin": "chéngshòu",
+        "meaning": "Soportar"
+    },
+    {
+        "character": "程度",
+        "pinyin": "chéngdù",
+        "meaning": "Grado"
+    },
+    {
+        "character": "程序",
+        "pinyin": "chéngxù",
+        "meaning": "Programa"
+    },
+    {
+        "character": "吃亏",
+        "pinyin": "chīkuī",
+        "meaning": "Sufrir pérdida"
+    },
+    {
+        "character": "池塘",
+        "pinyin": "chítáng",
+        "meaning": "Estanque"
+    },
+    {
+        "character": "迟早",
+        "pinyin": "chízǎo",
+        "meaning": "Tarde o temprano"
+    },
+    {
+        "character": "持续",
+        "pinyin": "chíxù",
+        "meaning": "Continuar"
+    },
+    {
+        "character": "尺子",
+        "pinyin": "chǐzi",
+        "meaning": "Regla"
+    },
+    {
+        "character": "翅膀",
+        "pinyin": "chìbǎng",
+        "meaning": "Ala"
+    },
+    {
+        "character": "冲",
+        "pinyin": "chōng",
+        "meaning": "Correr"
+    },
+    {
+        "character": "充电器",
+        "pinyin": "chōngdiànqì",
+        "meaning": "Cargador"
+    },
+    {
+        "character": "充分",
+        "pinyin": "chōngfèn",
+        "meaning": "Suficiente"
+    },
+    {
+        "character": "充满",
+        "pinyin": "chōngmǎn",
+        "meaning": "Lleno de"
+    },
+    {
+        "character": "重复",
+        "pinyin": "chóngfù",
+        "meaning": "Repetir"
+    },
+    {
+        "character": "宠物",
+        "pinyin": "chǒngwù",
+        "meaning": "Mascota"
+    },
+    {
+        "character": "抽屉",
+        "pinyin": "chōuti",
+        "meaning": "Cajón"
+    },
+    {
+        "character": "抽象",
+        "pinyin": "chōuxiàng",
+        "meaning": "Abstracto"
+    },
+    {
+        "character": "丑",
+        "pinyin": "chǒu",
+        "meaning": "Feo"
+    },
+    {
+        "character": "臭",
+        "pinyin": "chòu",
+        "meaning": "Apestar"
+    },
+    {
+        "character": "出版",
+        "pinyin": "chūbǎn",
+        "meaning": "Publicar"
+    },
+    {
+        "character": "出口",
+        "pinyin": "chūkǒu",
+        "meaning": "Salida"
+    },
+    {
+        "character": "出色",
+        "pinyin": "chūsè",
+        "meaning": "Sobresaliente"
+    },
+    {
+        "character": "出示",
+        "pinyin": "chūshì",
+        "meaning": "Mostrar"
+    },
+    {
+        "character": "出席",
+        "pinyin": "chūxí",
+        "meaning": "Asistir"
+    },
+    {
+        "character": "初级",
+        "pinyin": "chūjí",
+        "meaning": "Elemental"
+    },
+    {
+        "character": "除非",
+        "pinyin": "chúfēi",
+        "meaning": "A menos que"
+    },
+    {
+        "character": "除夕",
+        "pinyin": "chúxī",
+        "meaning": "Nochevieja"
+    },
+    {
+        "character": "处理",
+        "pinyin": "chǔlǐ",
+        "meaning": "Manejar"
+    },
+    {
+        "character": "传播",
+        "pinyin": "chuánbō",
+        "meaning": "Propagar"
+    },
+    {
+        "character": "传染",
+        "pinyin": "chuánrǎn",
+        "meaning": "Contagiar"
+    },
+    {
+        "character": "传说",
+        "pinyin": "chuánshuō",
+        "meaning": "Leyenda"
+    },
+    {
+        "character": "传统",
+        "pinyin": "chuántǒng",
+        "meaning": "Tradición"
+    },
+    {
+        "character": "窗帘",
+        "pinyin": "chuānglián",
+        "meaning": "Cortina"
+    },
+    {
+        "character": "闯",
+        "pinyin": "chuǎng",
+        "meaning": "Acometer"
+    },
+    {
+        "character": "创造",
+        "pinyin": "chuàngzào",
+        "meaning": "Crear"
+    },
+    {
+        "character": "吹",
+        "pinyin": "chuī",
+        "meaning": "Soplar"
+    },
+    {
+        "character": "词汇",
+        "pinyin": "cíhuì",
+        "meaning": "Vocabulario"
+    },
+    {
+        "character": "辞职",
+        "pinyin": "cízhí",
+        "meaning": "Renunciar"
+    },
+    {
+        "character": "此外",
+        "pinyin": "cǐwài",
+        "meaning": "Además"
+    },
+    {
+        "character": "次要",
+        "pinyin": "cìyào",
+        "meaning": "Secundario"
+    },
+    {
+        "character": "刺激",
+        "pinyin": "cìjī",
+        "meaning": "Estimular"
+    },
+    {
+        "character": "匆忙",
+        "pinyin": "cōngmáng",
+        "meaning": "A toda prisa"
+    },
+    {
+        "character": "从此",
+        "pinyin": "cóngcǐ",
+        "meaning": "Desde entonces"
+    },
+    {
+        "character": "从而",
+        "pinyin": "cóng'ér",
+        "meaning": "Por lo tanto"
+    },
+    {
+        "character": "从前",
+        "pinyin": "cóngqián",
+        "meaning": "Érase una vez"
+    },
+    {
+        "character": "从事",
+        "pinyin": "cóngshì",
+        "meaning": "Dedicarse a"
+    },
+    {
+        "character": "粗糙",
+        "pinyin": "cūcāo",
+        "meaning": "Áspero"
+    },
+    {
+        "character": "促进",
+        "pinyin": "cùjìn",
+        "meaning": "Promover"
+    },
+    {
+        "character": "促使",
+        "pinyin": "cùshǐ",
+        "meaning": "Impulsar"
+    },
+    {
+        "character": "醋",
+        "pinyin": "cù",
+        "meaning": "Vinagre"
+    },
+    {
+        "character": "催",
+        "pinyin": "cuī",
+        "meaning": "Apurar"
+    },
+    {
+        "character": "存在",
+        "pinyin": "cúnzài",
+        "meaning": "Existir"
+    },
+    {
+        "character": "措施",
+        "pinyin": "cuòshī",
+        "meaning": "Medida"
+    },
+    {
+        "character": "答应",
+        "pinyin": "dāying",
+        "meaning": "Responder"
+    },
+    {
+        "character": "达到",
+        "pinyin": "dádào",
+        "meaning": "Alcanzar"
+    },
+    {
+        "character": "打工",
+        "pinyin": "dǎgōng",
+        "meaning": "Trabajar"
+    },
+    {
+        "character": "打交道",
+        "pinyin": "dǎ jiāodao",
+        "meaning": "Tratar con"
+    },
+    {
+        "character": "打喷嚏",
+        "pinyin": "dǎ pēntì",
+        "meaning": "Estornudar"
+    },
+    {
+        "character": "打听",
+        "pinyin": "dǎting",
+        "meaning": "Preguntar"
+    },
+    {
+        "character": "大方",
+        "pinyin": "dàfang",
+        "meaning": "Generoso"
+    },
+    {
+        "character": "大厦",
+        "pinyin": "dàshà",
+        "meaning": "Edificio"
+    },
+    {
+        "character": "大象",
+        "pinyin": "dàxiàng",
+        "meaning": "Elefante"
+    },
+    {
+        "character": "大型",
+        "pinyin": "dàxíng",
+        "meaning": "Gran escala"
+    },
+    {
+        "character": "呆",
+        "pinyin": "dāi",
+        "meaning": "Quedarse"
+    },
+    {
+        "character": "代表",
+        "pinyin": "dàibiǎo",
+        "meaning": "Representar"
+    },
+    {
+        "character": "代替",
+        "pinyin": "dàitì",
+        "meaning": "Reemplazar"
+    },
+    {
+        "character": "贷款",
+        "pinyin": "dàikuǎn",
+        "meaning": "Préstamo"
+    },
+    {
+        "character": "待遇",
+        "pinyin": "dàiyù",
+        "meaning": "Tratamiento"
+    },
+    {
+        "character": "担任",
+        "pinyin": "dānrèn",
+        "meaning": "Asumir (un puesto)"
+    },
+    {
+        "character": "单纯",
+        "pinyin": "dānchún",
+        "meaning": "Simple"
+    },
+    {
+        "character": "单调",
+        "pinyin": "dāndiào",
+        "meaning": "Monótono"
+    },
+    {
+        "character": "单独",
+        "pinyin": "dāndú",
+        "meaning": "Solo"
+    },
+    {
+        "character": "单位",
+        "pinyin": "dānwèi",
+        "meaning": "Unidad"
+    },
+    {
+        "character": "单元",
+        "pinyin": "dānyuán",
+        "meaning": "Unidad"
+    },
+    {
+        "character": "耽误",
+        "pinyin": "dānwu",
+        "meaning": "Demorar"
+    },
+    {
+        "character": "胆小鬼",
+        "pinyin": "dǎnxiǎoguǐ",
+        "meaning": "Cobarde"
+    },
+    {
+        "character": "淡",
+        "pinyin": "dàn",
+        "meaning": "Claro"
+    },
+    {
+        "character": "当地",
+        "pinyin": "dāngdì",
+        "meaning": "Local"
+    },
+    {
+        "character": "当心",
+        "pinyin": "dāngxīn",
+        "meaning": "Tener cuidado"
+    },
+    {
+        "character": "挡",
+        "pinyin": "dǎng",
+        "meaning": "Bloquear"
+    },
+    {
+        "character": "导演",
+        "pinyin": "dǎoyǎn",
+        "meaning": "Director"
+    },
+    {
+        "character": "导致",
+        "pinyin": "dǎozhì",
+        "meaning": "Causar"
+    },
+    {
+        "character": "岛屿",
+        "pinyin": "dǎoyǔ",
+        "meaning": "Isla"
+    },
+    {
+        "character": "倒霉",
+        "pinyin": "dǎoméi",
+        "meaning": "Tener mala suerte"
+    },
+    {
+        "character": "到达",
+        "pinyin": "dàodá",
+        "meaning": "Llegar"
+    },
+    {
+        "character": "道德",
+        "pinyin": "dàodé",
+        "meaning": "Moral"
+    },
+    {
+        "character": "道理",
+        "pinyin": "dàolǐ",
+        "meaning": "Razón"
+    },
+    {
+        "character": "登记",
+        "pinyin": "dēngjì",
+        "meaning": "Registrar"
+    },
+    {
+        "character": "等待",
+        "pinyin": "děngdài",
+        "meaning": "Esperar"
+    },
+    {
+        "character": "等于",
+        "pinyin": "děngyú",
+        "meaning": "Ser igual a"
+    },
+    {
+        "character": "滴",
+        "pinyin": "dī",
+        "meaning": "Gota"
+    },
+    {
+        "character": "的确",
+        "pinyin": "díquè",
+        "meaning": "En efecto"
+    },
+    {
+        "character": "敌人",
+        "pinyin": "dírén",
+        "meaning": "Enemigo"
+    },
+    {
+        "character": "地道",
+        "pinyin": "dìdào",
+        "meaning": "Auténtico"
+    },
+    {
+        "character": "地理",
+        "pinyin": "dìlǐ",
+        "meaning": "Geografía"
+    },
+    {
+        "character": "地区",
+        "pinyin": "dìqū",
+        "meaning": "Área"
+    },
+    {
+        "character": "地毯",
+        "pinyin": "dìtǎn",
+        "meaning": "Alfombra"
+    },
+    {
+        "character": "地位",
+        "pinyin": "dìwèi",
+        "meaning": "Estatus"
+    },
+    {
+        "character": "地震",
+        "pinyin": "dìzhèn",
+        "meaning": "Terremoto"
+    },
+    {
+        "character": "递",
+        "pinyin": "dì",
+        "meaning": "Entregar"
+    },
+    {
+        "character": "点心",
+        "pinyin": "diǎnxin",
+        "meaning": "Merienda"
+    },
+    {
+        "character": "电池",
+        "pinyin": "diànchí",
+        "meaning": "Batería"
+    },
+    {
+        "character": "电台",
+        "pinyin": "diàntái",
+        "meaning": "Emisora de radio"
+    },
+    {
+        "character": "钓",
+        "pinyin": "diào",
+        "meaning": "Pescar"
+    },
+    {
+        "character": "顶",
+        "pinyin": "dǐng",
+        "meaning": "Cima"
+    },
+    {
+        "character": "动画片",
+        "pinyin": "dònghuàpiàn",
+        "meaning": "Dibujos animados"
+    },
+    {
+        "character": "冻",
+        "pinyin": "dòng",
+        "meaning": "Congelar"
+    },
+    {
+        "character": "洞",
+        "pinyin": "dòng",
+        "meaning": "Agujero"
+    },
+    {
+        "character": "豆腐",
+        "pinyin": "dòufu",
+        "meaning": "Tofu"
+    },
+    {
+        "character": "逗",
+        "pinyin": "dòu",
+        "meaning": "Bromear"
+    },
+    {
+        "character": "独立",
+        "pinyin": "dúlì",
+        "meaning": "Independiente"
+    },
+    {
+        "character": "独特",
+        "pinyin": "dútè",
+        "meaning": "Único"
+    },
+    {
+        "character": "度过",
+        "pinyin": "dùguò",
+        "meaning": "Pasar (tiempo)"
+    },
+    {
+        "character": "断",
+        "pinyin": "duàn",
+        "meaning": "Romper"
+    },
+    {
+        "character": "堆",
+        "pinyin": "duī",
+        "meaning": "Pila"
+    },
+    {
+        "character": "对比",
+        "pinyin": "duìbǐ",
+        "meaning": "Comparar"
+    },
+    {
+        "character": "对待",
+        "pinyin": "duìdài",
+        "meaning": "Tratar"
+    },
+    {
+        "character": "对方",
+        "pinyin": "duìfāng",
+        "meaning": "La otra parte"
+    },
+    {
+        "character": "对手",
+        "pinyin": "duìshǒu",
+        "meaning": "Adversario"
+    },
+    {
+        "character": "对象",
+        "pinyin": "duìxiàng",
+        "meaning": "Objeto"
+    },
+    {
+        "character": "兑换",
+        "pinyin": "duìhuàn",
+        "meaning": "Cambiar (divisa)"
+    },
+    {
+        "character": "吨",
+        "pinyin": "dūn",
+        "meaning": "Ton"
+    },
+    {
+        "character": "蹲",
+        "pinyin": "dūn",
+        "meaning": "Ponerse en cuclillas"
+    },
+    {
+        "character": "顿",
+        "pinyin": "dùn",
+        "meaning": "Clasif. (comida)"
+    },
+    {
+        "character": "多亏",
+        "pinyin": "duōkuī",
+        "meaning": "Gracias a"
+    },
+    {
+        "character": "多余",
+        "pinyin": "duōyú",
+        "meaning": "Superfluo"
+    },
+    {
+        "character": "朵",
+        "pinyin": "duǒ",
+        "meaning": "Clasif. (flores, nubes)"
+    },
+    {
+        "character": "躲藏",
+        "pinyin": "duǒcáng",
+        "meaning": "Esconderse"
+    },
+    {
+        "character": "恶劣",
+        "pinyin": "èliè",
+        "meaning": "Malo"
+    },
+    {
+        "character": "耳环",
+        "pinyin": "ěrhuán",
+        "meaning": "Pendiente"
+    },
+    {
+        "character": "发表",
+        "pinyin": "fābiǎo",
+        "meaning": "Publicar"
+    },
+    {
+        "character": "发愁",
+        "pinyin": "fāchóu",
+        "meaning": "Preocuparse"
+    },
+    {
+        "character": "发达",
+        "pinyin": "fādá",
+        "meaning": "Desarrollado"
+    },
+    {
+        "character": "发抖",
+        "pinyin": "fādǒu",
+        "meaning": "Temblar"
+    },
+    {
+        "character": "发挥",
+        "pinyin": "fāhuī",
+        "meaning": "Ejercer"
+    },
+    {
+        "character": "发明",
+        "pinyin": "fāmíng",
+        "meaning": "Inventar"
+    },
+    {
+        "character": "发票",
+        "pinyin": "fāpiào",
+        "meaning": "Factura"
+    },
+    {
+        "character": "发言",
+        "pinyin": "fāyán",
+        "meaning": "Hablar"
+    },
+    {
+        "character": "罚款",
+        "pinyin": "fákuǎn",
+        "meaning": "Multa"
+    },
+    {
+        "character": "法院",
+        "pinyin": "fǎyuàn",
+        "meaning": "Tribunal"
+    },
+    {
+        "character": "翻",
+        "pinyin": "fān",
+        "meaning": "Voltear"
+    },
+    {
+        "character": "繁荣",
+        "pinyin": "fánróng",
+        "meaning": "Próspero"
+    },
+    {
+        "character": "反而",
+        "pinyin": "fǎn'ér",
+        "meaning": "Por el contrario"
+    },
+    {
+        "character": "反复",
+        "pinyin": "fǎnfù",
+        "meaning": "Repetidamente"
+    },
+    {
+        "character": "反应",
+        "pinyin": "fǎnyìng",
+        "meaning": "Reacción"
+    },
+    {
+        "character": "反映",
+        "pinyin": "fǎnyìng",
+        "meaning": "Reflejar"
+    },
+    {
+        "character": "反正",
+        "pinyin": "fǎnzhèng",
+        "meaning": "De todos modos"
+    },
+    {
+        "character": "范围",
+        "pinyin": "fànwéi",
+        "meaning": "Alcance"
+    },
+    {
+        "character": "方",
+        "pinyin": "fāng",
+        "meaning": "Cuadrado"
+    },
+    {
+        "character": "方案",
+        "pinyin": "fāng'àn",
+        "meaning": "Plan"
+    },
+    {
+        "character": "方式",
+        "pinyin": "fāngshì",
+        "meaning": "Manera"
+    },
+    {
+        "character": "妨碍",
+        "pinyin": "fáng'ài",
+        "meaning": "Estorbar"
+    },
+    {
+        "character": "仿佛",
+        "pinyin": "fǎngfú",
+        "meaning": "Como si"
+    },
+    {
+        "character": "非",
+        "pinyin": "fēi",
+        "meaning": "No"
+    },
+    {
+        "character": "肥皂",
+        "pinyin": "féizào",
+        "meaning": "Jabón"
+    },
+    {
+        "character": "废话",
+        "pinyin": "fèihuà",
+        "meaning": "Tonterías"
+    },
+    {
+        "character": "分别",
+        "pinyin": "fēnbié",
+        "meaning": "Diferencia"
+    },
+    {
+        "character": "分布",
+        "pinyin": "fēnbù",
+        "meaning": "Distribuir"
+    },
+    {
+        "character": "分配",
+        "pinyin": "fēnpèi",
+        "meaning": "Distribuir"
+    },
+    {
+        "character": "分手",
+        "pinyin": "fēnshǒu",
+        "meaning": "Separarse"
+    },
+    {
+        "character": "分析",
+        "pinyin": "fēnxī",
+        "meaning": "Analizar"
+    },
+    {
+        "character": "纷纷",
+        "pinyin": "fēnfēn",
+        "meaning": "Uno tras otro"
+    },
+    {
+        "character": "奋斗",
+        "pinyin": "fèndòu",
+        "meaning": "Luchar"
+    },
+    {
+        "character": "风格",
+        "pinyin": "fēnggé",
+        "meaning": "Estilo"
+    },
+    {
+        "character": "风景",
+        "pinyin": "fēngjǐng",
+        "meaning": "Paisaje"
+    },
+    {
+        "character": "风俗",
+        "pinyin": "fēngsú",
+        "meaning": "Costumbre"
+    },
+    {
+        "character": "风险",
+        "pinyin": "fēngxiǎn",
+        "meaning": "Riesgo"
+    },
+    {
+        "character": "疯狂",
+        "pinyin": "fēngkuáng",
+        "meaning": "Loco"
+    },
+    {
+        "character": "讽刺",
+        "pinyin": "fěngcì",
+        "meaning": "Sátira"
+    },
+    {
+        "character": "否定",
+        "pinyin": "fǒudìng",
+        "meaning": "Negar"
+    },
+    {
+        "character": "否认",
+        "pinyin": "fǒurèn",
+        "meaning": "Negar"
+    },
+    {
+        "character": "扶",
+        "pinyin": "fú",
+        "meaning": "Apoyar"
+    },
+    {
+        "character": "服装",
+        "pinyin": "fúzhuāng",
+        "meaning": "Ropa"
+    },
+    {
+        "character": "幅",
+        "pinyin": "fú",
+        "meaning": "Clasif. (pinturas)"
+    },
+    {
+        "character": "辅导",
+        "pinyin": "fǔdǎo",
+        "meaning": "Asesorar"
+    },
+    {
+        "character": "妇女",
+        "pinyin": "fùnǚ",
+        "meaning": "Mujer"
+    },
+    {
+        "character": "复制",
+        "pinyin": "fùzhì",
+        "meaning": "Copiar"
+    },
+    {
+        "character": "改革",
+        "pinyin": "gǎigé",
+        "meaning": "Reformar"
+    },
+    {
+        "character": "改进",
+        "pinyin": "gǎijìn",
+        "meaning": "Mejorar"
+    },
+    {
+        "character": "改善",
+        "pinyin": "gǎishàn",
+        "meaning": "Mejorar"
+    },
+    {
+        "character": "改正",
+        "pinyin": "gǎizhèng",
+        "meaning": "Corregir"
+    },
+    {
+        "character": "盖",
+        "pinyin": "gài",
+        "meaning": "Cubrir"
+    },
+    {
+        "character": "概括",
+        "pinyin": "gàikuò",
+        "meaning": "Resumir"
+    },
+    {
+        "character": "概念",
+        "pinyin": "gàiniàn",
+        "meaning": "Concepto"
+    },
+    {
+        "character": "干脆",
+        "pinyin": "gāncuì",
+        "meaning": "Sencillo"
+    },
+    {
+        "character": "干燥",
+        "pinyin": "gānzào",
+        "meaning": "Seco"
+    },
+    {
+        "character": "赶紧",
+        "pinyin": "gǎnjǐn",
+        "meaning": "Rápidamente"
+    },
+    {
+        "character": "赶快",
+        "pinyin": "gǎnkuài",
+        "meaning": "Rápidamente"
+    },
+    {
+        "character": "感激",
+        "pinyin": "gǎnjī",
+        "meaning": "Agradecer"
+    },
+    {
+        "character": "感受",
+        "pinyin": "gǎnshòu",
+        "meaning": "Sentir"
+    },
+    {
+        "character": "感想",
+        "pinyin": "gǎnxiǎng",
+        "meaning": "Impresión"
+    },
+    {
+        "character": "干活儿",
+        "pinyin": "gànhuór",
+        "meaning": "Trabajar"
+    },
+    {
+        "character": "钢铁",
+        "pinyin": "gāngtiě",
+        "meaning": "Acero"
+    },
+    {
+        "character": "高档",
+        "pinyin": "gāodàng",
+        "meaning": "De alta calidad"
+    },
+    {
+        "character": "高级",
+        "pinyin": "gāojí",
+        "meaning": "Avanzado"
+    },
+    {
+        "character": "搞",
+        "pinyin": "gǎo",
+        "meaning": "Hacer"
+    },
+    {
+        "character": "告别",
+        "pinyin": "gàobié",
+        "meaning": "Despedirse"
+    },
+    {
+        "character": "格外",
+        "pinyin": "géwài",
+        "meaning": "Especialmente"
+    },
+    {
+        "character": "隔壁",
+        "pinyin": "gébì",
+        "meaning": "Vecino"
+    },
+    {
+        "character": "个别",
+        "pinyin": "gèbié",
+        "meaning": "Individual"
+    },
+    {
+        "character": "个人",
+        "pinyin": "gèrén",
+        "meaning": "Individual"
+    },
+    {
+        "character": "个性",
+        "pinyin": "gèxìng",
+        "meaning": "Personalidad"
+    },
+    {
+        "character": "各自",
+        "pinyin": "gèzì",
+        "meaning": "Respectivamente"
+    },
+    {
+        "character": "根",
+        "pinyin": "gēn",
+        "meaning": "Raíz"
+    },
+    {
+        "character": "根本",
+        "pinyin": "gēnběn",
+        "meaning": "En absoluto"
+    },
+    {
+        "character": "工厂",
+        "pinyin": "gōngchǎng",
+        "meaning": "Fábrica"
+    },
+    {
+        "character": "工程师",
+        "pinyin": "gōngchéngshī",
+        "meaning": "Ingeniero"
+    },
+    {
+        "character": "工具",
+        "pinyin": "gōngjù",
+        "meaning": "Herramienta"
+    },
+    {
+        "character": "工人",
+        "pinyin": "gōngrén",
+        "meaning": "Obrero"
+    },
+    {
+        "character": "工业",
+        "pinyin": "gōngyè",
+        "meaning": "Industria"
+    },
+    {
+        "character": "公布",
+        "pinyin": "gōngbù",
+        "meaning": "Anunciar"
+    },
+    {
+        "character": "公开",
+        "pinyin": "gōngkāi",
+        "meaning": "Público"
+    },
+    {
+        "character": "公平",
+        "pinyin": "gōngpíng",
+        "meaning": "Justo"
+    },
+    {
+        "character": "公寓",
+        "pinyin": "gōngyù",
+        "meaning": "Apartamento"
+    },
+    {
+        "character": "公元",
+        "pinyin": "gōngyuán",
+        "meaning": "Era común"
+    },
+    {
+        "character": "公主",
+        "pinyin": "gōngzhǔ",
+        "meaning": "Princesa"
+    },
+    {
+        "character": "功能",
+        "pinyin": "gōngnéng",
+        "meaning": "Función"
+    },
+    {
+        "character": "恭喜",
+        "pinyin": "gōngxǐ",
+        "meaning": "Felicitar"
+    },
+    {
+        "character": "贡献",
+        "pinyin": "gòngxiàn",
+        "meaning": "Contribuir"
+    },
+    {
+        "character": "沟通",
+        "pinyin": "gōutōng",
+        "meaning": "Comunicarse"
+    },
+    {
+        "character": "构成",
+        "pinyin": "gòuchéng",
+        "meaning": "Componer"
+    },
+    {
+        "character": "姑姑",
+        "pinyin": "gūgu",
+        "meaning": "Tía paterna"
+    },
+    {
+        "character": "姑娘",
+        "pinyin": "gūniang",
+        "meaning": "Chica"
+    },
+    {
+        "character": "古代",
+        "pinyin": "gǔdài",
+        "meaning": "Antigüedad"
+    },
+    {
+        "character": "古典",
+        "pinyin": "gǔdiǎn",
+        "meaning": "Clásico"
+    },
+    {
+        "character": "股票",
+        "pinyin": "gǔpiào",
+        "meaning": "Acción (bolsa)"
+    },
+    {
+        "character": "骨头",
+        "pinyin": "gǔtou",
+        "meaning": "Hueso"
+    },
+    {
+        "character": "鼓舞",
+        "pinyin": "gǔwǔ",
+        "meaning": "Inspirar"
+    },
+    {
+        "character": "鼓掌",
+        "pinyin": "gǔzhǎng",
+        "meaning": "Aplaudir"
+    },
+    {
+        "character": "固定",
+        "pinyin": "gùdìng",
+        "meaning": "Fijo"
+    },
+    {
+        "character": "挂号",
+        "pinyin": "guàhào",
+        "meaning": "Registrar"
+    },
+    {
+        "character": "乖",
+        "pinyin": "guāi",
+        "meaning": "Obediente"
+    },
+    {
+        "character": "拐弯",
+        "pinyin": "guǎiwān",
+        "meaning": "Doblar una esquina"
+    },
+    {
+        "character": "怪不得",
+        "pinyin": "guàibùdé",
+        "meaning": "Con razón"
+    },
+    {
+        "character": "关闭",
+        "pinyin": "guānbì",
+        "meaning": "Cerrar"
+    },
+    {
+        "character": "观察",
+        "pinyin": "guānchá",
+        "meaning": "Observar"
+    },
+    {
+        "character": "观点",
+        "pinyin": "guāndiǎn",
+        "meaning": "Punto de vista"
+    },
+    {
+        "character": "观念",
+        "pinyin": "guānniàn",
+        "meaning": "Concepto"
+    },
+    {
+        "character": "官",
+        "pinyin": "guān",
+        "meaning": "Oficial"
+    },
+    {
+        "character": "管子",
+        "pinyin": "guǎnzǐ",
+        "meaning": "Tubo"
+    },
+    {
+        "character": "冠军",
+        "pinyin": "guànjūn",
+        "meaning": "Campeón"
+    },
+    {
+        "character": "光滑",
+        "pinyin": "guānghuá",
+        "meaning": "Liso"
+    },
+    {
+        "character": "光临",
+        "pinyin": "guānglín",
+        "meaning": "Visitar"
+    },
+    {
+        "character": "光明",
+        "pinyin": "guāngmíng",
+        "meaning": "Brillante"
+    },
+    {
+        "character": "光盘",
+        "pinyin": "guāngpán",
+        "meaning": "CD"
+    },
+    {
+        "character": "广场",
+        "pinyin": "guǎngchǎng",
+        "meaning": "Plaza"
+    },
+    {
+        "character": "广大",
+        "pinyin": "guǎngdà",
+        "meaning": "Vasto"
+    },
+    {
+        "character": "广泛",
+        "pinyin": "guǎngfàn",
+        "meaning": "Extenso"
+    },
+    {
+        "character": "归纳",
+        "pinyin": "guīnà",
+        "meaning": "Inducir"
+    },
+    {
+        "character": "规矩",
+        "pinyin": "guījǔ",
+        "meaning": "Regla"
+    },
+    {
+        "character": "规律",
+        "pinyin": "guīlǜ",
+        "meaning": "Ley"
+    },
+    {
+        "character": "规模",
+        "pinyin": "guīmó",
+        "meaning": "Escala"
+    },
+    {
+        "character": "规则",
+        "pinyin": "guīzé",
+        "meaning": "Regla"
+    },
+    {
+        "character": "柜台",
+        "pinyin": "guìtái",
+        "meaning": "Mostrador"
+    },
+    {
+        "character": "滚",
+        "pinyin": "gǔn",
+        "meaning": "Rodar"
+    },
+    {
+        "character": "锅",
+        "pinyin": "guō",
+        "meaning": "Olla"
+    },
+    {
+        "character": "国庆节",
+        "pinyin": "Guóqìngjié",
+        "meaning": "Día Nacional"
+    },
+    {
+        "character": "国王",
+        "pinyin": "guówáng",
+        "meaning": "Rey"
+    },
+    {
+        "character": "果然",
+        "pinyin": "guǒrán",
+        "meaning": "Como se esperaba"
+    },
+    {
+        "character": "果实",
+        "pinyin": "guǒshí",
+        "meaning": "Fruto"
+    },
+    {
+        "character": "过分",
+        "pinyin": "guòfèn",
+        "meaning": "Excesivo"
+    },
+    {
+        "character": "过敏",
+        "pinyin": "guòmǐn",
+        "meaning": "Alergia"
+    },
+    {
+        "character": "过期",
+        "pinyin": "guòqī",
+        "meaning": "Expirar"
+    },
+    {
+        "character": "哈",
+        "pinyin": "hā",
+        "meaning": "Sonido de risa"
+    },
+    {
+        "character": "海关",
+        "pinyin": "hǎiguān",
+        "meaning": "Aduana"
+    },
+    {
+        "character": "海鲜",
+        "pinyin": "hǎixiān",
+        "meaning": "Marisco"
+    },
+    {
+        "character": "喊",
+        "pinyin": "hǎn",
+        "meaning": "Gritar"
+    },
+    {
+        "character": "行业",
+        "pinyin": "hángyè",
+        "meaning": "Industria"
+    },
+    {
+        "character": "豪华",
+        "pinyin": "háohuá",
+        "meaning": "Lujoso"
+    },
+    {
+        "character": "好客",
+        "pinyin": "hàokè",
+        "meaning": "Hospitalario"
+    },
+    {
+        "character": "好奇",
+        "pinyin": "hàoqí",
+        "meaning": "Curioso"
+    },
+    {
+        "character": "合法",
+        "pinyin": "héfǎ",
+        "meaning": "Legal"
+    },
+    {
+        "character": "合理",
+        "pinyin": "hélǐ",
+        "meaning": "Razonable"
+    },
+    {
+        "character": "合同",
+        "pinyin": "hétong",
+        "meaning": "Contrato"
+    },
+    {
+        "character": "合影",
+        "pinyin": "héyǐng",
+        "meaning": "Foto de grupo"
+    },
+    {
+        "character": "合作",
+        "pinyin": "hézuò",
+        "meaning": "Cooperar"
+    },
+    {
+        "character": "何必",
+        "pinyin": "hébì",
+        "meaning": "Por qué"
+    },
+    {
+        "character": "何况",
+        "pinyin": "hékuàng",
+        "meaning": "Por no hablar de"
+    },
+    {
+        "character": "和平",
+        "pinyin": "hépíng",
+        "meaning": "Paz"
+    },
+    {
+        "character": "核心",
+        "pinyin": "héxīn",
+        "meaning": "Núcleo"
+    },
+    {
+        "character": "恨",
+        "pinyin": "hèn",
+        "meaning": "Odiar"
+    },
+    {
+        "character": "猴子",
+        "pinyin": "hóuzi",
+        "meaning": "Mono"
+    },
+    {
+        "character": "后背",
+        "pinyin": "hòubèi",
+        "meaning": "Espalda"
+    },
+    {
+        "character": "后果",
+        "pinyin": "hòuguǒ",
+        "meaning": "Consecuencia"
+    },
+    {
+        "character": "呼吸",
+        "pinyin": "hūxī",
+        "meaning": "Respirar"
+    },
+    {
+        "character": "忽然",
+        "pinyin": "hūrán",
+        "meaning": "De repente"
+    },
+    {
+        "character": "忽视",
+        "pinyin": "hūshì",
+        "meaning": "Ignorar"
+    },
+    {
+        "character": "胡说",
+        "pinyin": "húshuō",
+        "meaning": "Decir tonterías"
+    },
+    {
+        "character": "胡同",
+        "pinyin": "hútòng",
+        "meaning": "Callejón"
+    },
+    {
+        "character": "壶",
+        "pinyin": "hú",
+        "meaning": "Tetera"
+    },
+    {
+        "character": "蝴蝶",
+        "pinyin": " húdié",
+        "meaning": "Mariposa"
+    },
+    {
+        "character": "糊涂",
+        "pinyin": "hútu",
+        "meaning": "Confuso"
+    },
+    {
+        "character": "花生",
+        "pinyin": "huāshēng",
+        "meaning": "Cacahuete"
+    },
+    {
+        "character": "划",
+        "pinyin": "huá",
+        "meaning": "Remar"
+    },
+    {
+        "character": "华裔",
+        "pinyin": "huáyì",
+        "meaning": "Descendiente chino"
+    },
+    {
+        "character": "滑",
+        "pinyin": "huá",
+        "meaning": "Resbaladizo"
+    },
+    {
+        "character": "化学",
+        "pinyin": "huàxué",
+        "meaning": "Química"
+    },
+    {
+        "character": "话题",
+        "pinyin": "huàtí",
+        "meaning": "Tema"
+    },
+    {
+        "character": "怀念",
+        "pinyin": "huáiniàn",
+        "meaning": "Extrañar"
+    },
+    {
+        "character": "怀孕",
+        "pinyin": "huáiyùn",
+        "meaning": "Embarazada"
+    },
+    {
+        "character": "缓解",
+        "pinyin": "huǎnjiě",
+        "meaning": "Aliviar"
+    },
+    {
+        "character": "幻想",
+        "pinyin": "huànxiǎng",
+        "meaning": "Fantasear"
+    },
+    {
+        "character": "慌张",
+        "pinyin": "huāngzhāng",
+        "meaning": "Nervioso"
+    },
+    {
+        "character": "黄金",
+        "pinyin": "huángjīn",
+        "meaning": "Oro"
+    },
+    {
+        "character": "灰",
+        "pinyin": "huī",
+        "meaning": "Ceniza"
+    },
+    {
+        "character": "灰尘",
+        "pinyin": "huīchén",
+        "meaning": "Polvo"
+    },
+    {
+        "character": "灰心",
+        "pinyin": "huīxīn",
+        "meaning": "Desanimarse"
+    },
+    {
+        "character": "挥",
+        "pinyin": "huī",
+        "meaning": "Agitar"
+    },
+    {
+        "character": "恢复",
+        "pinyin": "huīfù",
+        "meaning": "Recuperar"
+    },
+    {
+        "character": "汇率",
+        "pinyin": "huìlǜ",
+        "meaning": "Tasa de cambio"
+    },
+    {
+        "character": "婚礼",
+        "pinyin": "hūnlǐ",
+        "meaning": "Boda"
+    },
+    {
+        "character": "婚姻",
+        "pinyin": "hūnyīn",
+        "meaning": "Matrimonio"
+    },
+    {
+        "character": "活跃",
+        "pinyin": "huóyuè",
+        "meaning": "Activo"
+    },
+    {
+        "character": "火柴",
+        "pinyin": "huǒchái",
+        "meaning": "Fósforo"
+    },
+    {
+        "character": "伙伴",
+        "pinyin": "huǒbàn",
+        "meaning": "Compañero"
+    },
+    {
+        "character": "或许",
+        "pinyin": "huòxǔ",
+        "meaning": "Quizás"
+    },
+    {
+        "character": "机器",
+        "pinyin": "jīqì",
+        "meaning": "Máquina"
+    },
+    {
+        "character": "肌肉",
+        "pinyin": "jīròu",
+        "meaning": "Músculo"
+    },
+    {
+        "character": "基本",
+        "pinyin": "jīběn",
+        "meaning": "Básico"
+    },
+    {
+        "character": "激烈",
+        "pinyin": "jīliè",
+        "meaning": "Feroz"
+    },
+    {
+        "character": "及格",
+        "pinyin": "jígé",
+        "meaning": "Aprobar"
+    },
+    {
+        "character": "极其",
+        "pinyin": "jíqí",
+        "meaning": "Extremadamente"
+    },
+    {
+        "character": "急忙",
+        "pinyin": "jímáng",
+        "meaning": "Con prisa"
+    },
+    {
+        "character": "急诊",
+        "pinyin": "jízhěn",
+        "meaning": "Urgencias"
+    },
+    {
+        "character": "集合",
+        "pinyin": "jíhé",
+        "meaning": "Reunirse"
+    },
+    {
+        "character": "集体",
+        "pinyin": "jítǐ",
+        "meaning": "Colectivo"
+    },
+    {
+        "character": "集中",
+        "pinyin": "jízhōng",
+        "meaning": "Concentrar"
+    },
+    {
+        "character": "计算",
+        "pinyin": "jìsuàn",
+        "meaning": "Calcular"
+    },
+    {
+        "character": "记录",
+        "pinyin": "jìlù",
+        "meaning": "Grabar"
+    },
+    {
+        "character": "记忆",
+        "pinyin": "jìyì",
+        "meaning": "Memoria"
+    },
+    {
+        "character": "纪录",
+        "pinyin": "jìlù",
+        "meaning": "Récord"
+    },
+    {
+        "character": "纪律",
+        "pinyin": "jìlǜ",
+        "meaning": "Disciplina"
+    },
+    {
+        "character": "纪念",
+        "pinyin": "jìniàn",
+        "meaning": "Conmemorar"
+    },
+    {
+        "character": "系领带",
+        "pinyin": "jì lǐngdài",
+        "meaning": "Atarse la corbata"
+    },
+    {
+        "character": "寂寞",
+        "pinyin": "jìmò",
+        "meaning": "Solo"
+    },
+    {
+        "character": "夹子",
+        "pinyin": "jiāzi",
+        "meaning": "Clip"
+    },
+    {
+        "character": "家庭",
+        "pinyin": "jiātíng",
+        "meaning": "Familia"
+    },
+    {
+        "character": "家务",
+        "pinyin": "jiāwù",
+        "meaning": "Tareas domésticas"
+    },
+    {
+        "character": "家乡",
+        "pinyin": "jiāxiāng",
+        "meaning": "Pueblo natal"
+    },
+    {
+        "character": "嘉宾",
+        "pinyin": "jiābīn",
+        "meaning": "Invitado de honor"
+    },
+    {
+        "character": "甲",
+        "pinyin": "jiǎ",
+        "meaning": "Primero"
+    },
+    {
+        "character": "假如",
+        "pinyin": "jiǎrú",
+        "meaning": "Si"
+    },
+    {
+        "character": "假设",
+        "pinyin": "jiǎshè",
+        "meaning": "Asumir"
+    },
+    {
+        "character": "假装",
+        "pinyin": "jiǎzhuāng",
+        "meaning": "Pretender"
+    },
+    {
+        "character": "价值",
+        "pinyin": "jiàzhí",
+        "meaning": "Valor"
+    },
+    {
+        "character": "驾驶",
+        "pinyin": "jiàshǐ",
+        "meaning": "Conducir"
+    },
+    {
+        "character": "嫁",
+        "pinyin": "jià",
+        "meaning": "Casarse (mujer)"
+    },
+    {
+        "character": "坚决",
+        "pinyin": "jiānjué",
+        "meaning": "Resuelto"
+    },
+    {
+        "character": "坚强",
+        "pinyin": "jiānqiáng",
+        "meaning": "Fuerte"
+    },
+    {
+        "character": "肩膀",
+        "pinyin": "jiānbǎng",
+        "meaning": "Hombro"
+    },
+    {
+        "character": "艰巨",
+        "pinyin": "jiānjù",
+        "meaning": "Arduo"
+    },
+    {
+        "character": "艰苦",
+        "pinyin": "jiānkǔ",
+        "meaning": "Duro"
+    },
+    {
+        "character": "兼职",
+        "pinyin": "jiānzhí",
+        "meaning": "Trabajo a tiempo parcial"
+    },
+    {
+        "character": "捡",
+        "pinyin": "jiǎn",
+        "meaning": "Recoger"
+    },
+    {
+        "character": "剪刀",
+        "pinyin": "jiǎndāo",
+        "meaning": "Tijeras"
+    },
+    {
+        "character": "简历",
+        "pinyin": "jiǎnlì",
+        "meaning": "Currículum"
+    },
+    {
+        "character": "简直",
+        "pinyin": "jiǎnzhí",
+        "meaning": "Simplemente"
+    },
+    {
+        "character": "建立",
+        "pinyin": "jiànlì",
+        "meaning": "Establecer"
+    },
+    {
+        "character": "建设",
+        "pinyin": "jiànshè",
+        "meaning": "Construir"
+    },
+    {
+        "character": "建筑",
+        "pinyin": "jiànzhù",
+        "meaning": "Arquitectura"
+    },
+    {
+        "character": "健身",
+        "pinyin": "jiànshēn",
+        "meaning": "Hacer ejercicio"
+    },
+    {
+        "character": "键盘",
+        "pinyin": "jiànpán",
+        "meaning": "Teclado"
+    },
+    {
+        "character": "讲究",
+        "pinyin": "jiǎngjiu",
+        "meaning": "Prestar atención a"
+    },
+    {
+        "character": "讲座",
+        "pinyin": "jiǎngzuò",
+        "meaning": "Conferencia"
+    },
+    {
+        "character": "酱油",
+        "pinyin": "jiàngyóu",
+        "meaning": "Salsa de soja"
+    },
+    {
+        "character": "交换",
+        "pinyin": "jiāohuàn",
+        "meaning": "Intercambiar"
+    },
+    {
+        "character": "交际",
+        "pinyin": "jiāojì",
+        "meaning": "Comunicación social"
+    },
+    {
+        "character": "交往",
+        "pinyin": "jiāowǎng",
+        "meaning": "Relacionarse"
+    },
+    {
+        "character": "浇",
+        "pinyin": "jiāo",
+        "meaning": "Regar"
+    },
+    {
+        "character": "胶水",
+        "pinyin": "jiāoshuǐ",
+        "meaning": "Pegamento"
+    },
+    {
+        "character": "角度",
+        "pinyin": "jiǎodù",
+        "meaning": "Ángulo"
+    },
+    {
+        "character": "狡猾",
+        "pinyin": "jiǎohuá",
+        "meaning": "Astuto"
+    },
+    {
+        "character": "教材",
+        "pinyin": "jiàocái",
+        "meaning": "Material didáctico"
+    },
+    {
+        "character": "教练",
+        "pinyin": "jiàoliàn",
+        "meaning": "Entrenador"
+    },
+    {
+        "character": "教训",
+        "pinyin": "jiàoxun",
+        "meaning": "Lección"
+    },
+    {
+        "character": "阶段",
+        "pinyin": "jiēduàn",
+        "meaning": "Etapa"
+    },
+    {
+        "character": "结实",
+        "pinyin": "jiēshi",
+        "meaning": "Fuerte"
+    },
+    {
+        "character": "接触",
+        "pinyin": "jiēchù",
+        "meaning": "Contacto"
+    },
+    {
+        "character": "接待",
+        "pinyin": "jiēdài",
+        "meaning": "Recibir"
+    },
+    {
+        "character": "接近",
+        "pinyin": "jiējìn",
+        "meaning": "Acercarse"
+    },
+    {
+        "character": "节省",
+        "pinyin": "jiéshěng",
+        "meaning": "Ahorrar"
+    },
+    {
+        "character": "结构",
+        "pinyin": "jiégòu",
+        "meaning": "Estructura"
+    },
+    {
+        "character": "结合",
+        "pinyin": "jiéhé",
+        "meaning": "Combinar"
+    },
+    {
+        "character": "结论",
+        "pinyin": "jiélùn",
+        "meaning": "Conclusión"
+    },
+    {
+        "character": "结账",
+        "pinyin": "jiézhàng",
+        "meaning": "Pagar la cuenta"
+    },
+    {
+        "character": "戒",
+        "pinyin": "jiè",
+        "meaning": "Dejar (un hábito)"
+    },
+    {
+        "character": "戒指",
+        "pinyin": "jièzhi",
+        "meaning": "Anillo"
+    },
+    {
+        "character": "届",
+        "pinyin": "jiè",
+        "meaning": "Clasif. (sesiones)"
+    },
+    {
+        "character": "借口",
+        "pinyin": "jièkǒu",
+        "meaning": "Excusa"
+    },
+    {
+        "character": "金属",
+        "pinyin": "jīnshǔ",
+        "meaning": "Metal"
+    },
+    {
+        "character": "尽快",
+        "pinyin": "jǐnkuài",
+        "meaning": "Lo antes posible"
+    },
+    {
+        "character": "尽量",
+        "pinyin": "jǐnliàng",
+        "meaning": "Hacer lo mejor"
+    },
+    {
+        "character": "紧急",
+        "pinyin": "jǐnjí",
+        "meaning": "Urgente"
+    },
+    {
+        "character": "谨慎",
+        "pinyin": "jǐnshèn",
+        "meaning": "Prudente"
+    },
+    {
+        "character": "尽力",
+        "pinyin": "jìnlì",
+        "meaning": "Hacer todo lo posible"
+    },
+    {
+        "character": "进步",
+        "pinyin": "jìnbù",
+        "meaning": "Progreso"
+    },
+    {
+        "character": "进口",
+        "pinyin": "jìnkǒu",
+        "meaning": "Importar"
+    },
+    {
+        "character": "近代",
+        "pinyin": "jìndài",
+        "meaning": "Tiempos modernos"
+    },
+    {
+        "character": "经典",
+        "pinyin": "jīngdiǎn",
+        "meaning": "Clásico"
+    },
+    {
+        "character": "经商",
+        "pinyin": "jīngshāng",
+        "meaning": "Hacer negocios"
+    },
+    {
+        "character": "经营",
+        "pinyin": "jīngyíng",
+        "meaning": "Operar"
+    },
+    {
+        "character": "精力",
+        "pinyin": "jīnglì",
+        "meaning": "Energía"
+    },
+    {
+        "character": "精神",
+        "pinyin": "jīngshén",
+        "meaning": "Espíritu"
+    },
+    {
+        "character": "酒吧",
+        "pinyin": "jiǔbā",
+        "meaning": "Bar"
+    },
+    {
+        "character": "救",
+        "pinyin": "jiù",
+        "meaning": "Salvar"
+    },
+    {
+        "character": "救护车",
+        "pinyin": "jiùhùchē",
+        "meaning": "Ambulancia"
+    },
+    {
+        "character": "舅舅",
+        "pinyin": "jiùjiu",
+        "meaning": "Tío materno"
+    },
+    {
+        "character": "居然",
+        "pinyin": "jūrán",
+        "meaning": "Inesperadamente"
+    },
+    {
+        "character": "桔子",
+        "pinyin": "júzi",
+        "meaning": "Mandarina"
+    },
+    {
+        "character": "巨大",
+        "pinyin": "jùdà",
+        "meaning": "Enorme"
+    },
+    {
+        "character": "具备",
+        "pinyin": "jùbèi",
+        "meaning": "Poseer"
+    },
+    {
+        "character": "具体",
+        "pinyin": "jùtǐ",
+        "meaning": "Concreto"
+    },
+    {
+        "character": "俱乐部",
+        "pinyin": "jùlèbù",
+        "meaning": "Club"
+    },
+    {
+        "character": "据说",
+        "pinyin": "jùshuō",
+        "meaning": "Se dice que"
+    },
+    {
+        "character": "捐",
+        "pinyin": "juān",
+        "meaning": "Donar"
+    },
+    {
+        "character": "决赛",
+        "pinyin": "juésài",
+        "meaning": "Final (deportiva)"
+    },
+    {
+        "character": "决心",
+        "pinyin": "juéxīn",
+        "meaning": "Determinación"
+    },
+    {
+        "character": "角色",
+        "pinyin": "juésè",
+        "meaning": "Papel (teatro)"
+    },
+    {
+        "character": "绝对",
+        "pinyin": "juéduì",
+        "meaning": "Absoluto"
+    },
+    {
+        "character": "军事",
+        "pinyin": "jūnshì",
+        "meaning": "Militar"
+    },
+    {
+        "character": "均匀",
+        "pinyin": "jūnyún",
+        "meaning": "Uniforme"
+    },
+    {
+        "character": "卡车",
+        "pinyin": "kǎchē",
+        "meaning": "Camión"
+    },
+    {
+        "character": "开发",
+        "pinyin": "kāifā",
+        "meaning": "Desarrollar"
+    },
+    {
+        "character": "开放",
+        "pinyin": "kāifàng",
+        "meaning": "Abrir"
+    },
+    {
+        "character": "开幕式",
+        "pinyin": "kāimùshì",
+        "meaning": "Ceremonia de apertura"
+    },
+    {
+        "character": "开水",
+        "pinyin": "kāishuǐ",
+        "meaning": "Agua hervida"
+    },
+    {
+        "character": "砍",
+        "pinyin": "kǎn",
+        "meaning": "Cortar"
+    },
+    {
+        "character": "看不起",
+        "pinyin": "kànbùqǐ",
+        "meaning": "Menospreciar"
+    },
+    {
+        "character": "看望",
+        "pinyin": "kànwàng",
+        "meaning": "Visitar"
+    },
+    {
+        "character": "靠",
+        "pinyin": "kào",
+        "meaning": "Apoyarse en"
+    },
+    {
+        "character": "颗",
+        "pinyin": "kē",
+        "meaning": "Clasif. (pequeñas cosas)"
+    },
+    {
+        "character": "可见",
+        "pinyin": "kějiàn",
+        "meaning": "Se puede ver que"
+    },
+    {
+        "character": "可靠",
+        "pinyin": "kěkào",
+        "meaning": "Confiable"
+    },
+    {
+        "character": "可怕",
+        "pinyin": "kěpà",
+        "meaning": "Terrible"
+    },
+    {
+        "character": "克",
+        "pinyin": "kè",
+        "meaning": "Gramo"
+    },
+    {
+        "character": "克服",
+        "pinyin": "kèfú",
+        "meaning": "Superar"
+    },
+    {
+        "character": "刻苦",
+        "pinyin": "kèkǔ",
+        "meaning": "Diligente"
+    },
+    {
+        "character": "客观",
+        "pinyin": "kèguān",
+        "meaning": "Objetivo"
+    },
+    {
+        "character": "课程",
+        "pinyin": "kèchéng",
+        "meaning": "Curso"
+    },
+    {
+        "character": "空间",
+        "pinyin": "kōngjiān",
+        "meaning": "Espacio"
+    },
+    {
+        "character": "空闲",
+        "pinyin": "kòngxián",
+        "meaning": "Tiempo libre"
+    },
+    {
+        "character": "控制",
+        "pinyin": "kòngzhì",
+        "meaning": "Controlar"
+    },
+    {
+        "character": "口味",
+        "pinyin": "kǒuwèi",
+        "meaning": "Sabor"
+    },
+    {
+        "character": "夸",
+        "pinyin": "kuā",
+        "meaning": "Alabar"
+    },
+    {
+        "character": "夸张",
+        "pinyin": "kuāzhāng",
+        "meaning": "Exagerar"
+    },
+    {
+        "character": "会计",
+        "pinyin": "kuàijì",
+        "meaning": "Contable"
+    },
+    {
+        "character": "宽",
+        "pinyin": "kuān",
+        "meaning": "Ancho"
+    },
+    {
+        "character": "昆虫",
+        "pinyin": "kūnchóng",
+        "meaning": "Insecto"
+    },
+    {
+        "character": "扩大",
+        "pinyin": "kuòdà",
+        "meaning": "Ampliar"
+    },
+    {
+        "character": "辣椒",
+        "pinyin": "làjiāo",
+        "meaning": "Pimiento picante"
+    },
+    {
+        "character": "拦",
+        "pinyin": "lán",
+        "meaning": "Detener"
+    },
+    {
+        "character": "烂",
+        "pinyin": "làn",
+        "meaning": "Podrido"
+    },
+    {
+        "character": "朗读",
+        "pinyin": "lǎngdú",
+        "meaning": "Leer en voz alta"
+    },
+    {
+        "character": "劳动",
+        "pinyin": "láodòng",
+        "meaning": "Trabajo"
+    },
+    {
+        "character": "劳驾",
+        "pinyin": "láojià",
+        "meaning": "Disculpe"
+    },
+    {
+        "character": "老百姓",
+        "pinyin": "lǎobǎixìng",
+        "meaning": "Pueblo llano"
+    },
+    {
+        "character": "老板",
+        "pinyin": "lǎobǎn",
+        "meaning": "Jefe"
+    },
+    {
+        "character": "老婆",
+        "pinyin": "lǎopo",
+        "meaning": "Esposa"
+    },
+    {
+        "character": "老实",
+        "pinyin": "lǎoshi",
+        "meaning": "Honesto"
+    },
+    {
+        "character": "老鼠",
+        "pinyin": "lǎoshǔ",
+        "meaning": "Ratón"
+    },
+    {
+        "character": "姥姥",
+        "pinyin": "lǎolao",
+        "meaning": "Abuela materna"
+    },
+    {
+        "character": "乐观",
+        "pinyin": "lèguān",
+        "meaning": "Optimista"
+    },
+    {
+        "character": "雷",
+        "pinyin": "léi",
+        "meaning": "Trueno"
+    },
+    {
+        "character": "类型",
+        "pinyin": "lèixíng",
+        "meaning": "Tipo"
+    },
+    {
+        "character": "冷淡",
+        "pinyin": "lěngdàn",
+        "meaning": "Indiferente"
+    },
+    {
+        "character": "厘米",
+        "pinyin": "límǐ",
+        "meaning": "Centímetro"
+    },
+    {
+        "character": "离婚",
+        "pinyin": "líhūn",
+        "meaning": "Divorciarse"
+    },
+    {
+        "character": "梨",
+        "pinyin": "lí",
+        "meaning": "Pera"
+    },
+    {
+        "character": "理论",
+        "pinyin": "lǐlùn",
+        "meaning": "Teoría"
+    },
+    {
+        "character": "理由",
+        "pinyin": "lǐyóu",
+        "meaning": "Razón"
+    },
+    {
+        "character": "力量",
+        "pinyin": "lìliàng",
+        "meaning": "Fuerza"
+    },
+    {
+        "character": "立即",
+        "pinyin": "lìjí",
+        "meaning": "Inmediatamente"
+    },
+    {
+        "character": "立刻",
+        "pinyin": "lìkè",
+        "meaning": "Inmediatamente"
+    },
+    {
+        "character": "利润",
+        "pinyin": "lìrùn",
+        "meaning": "Beneficio"
+    },
+    {
+        "character": "利息",
+        "pinyin": "lìxī",
+        "meaning": "Interés (dinero)"
+    },
+    {
+        "character": "利益",
+        "pinyin": "lìyì",
+        "meaning": "Interés (beneficio)"
+    },
+    {
+        "character": "利用",
+        "pinyin": "lìyòng",
+        "meaning": "Utilizar"
+    },
+    {
+        "character": "连忙",
+        "pinyin": "liánmáng",
+        "meaning": "A toda prisa"
+    },
+    {
+        "character": "连续",
+        "pinyin": "liánxù",
+        "meaning": "Continuo"
+    },
+    {
+        "character": "联合",
+        "pinyin": "liánhé",
+        "meaning": "Unirse"
+    },
+    {
+        "character": "恋爱",
+        "pinyin": "lián'ài",
+        "meaning": "Estar enamorado"
+    },
+    {
+        "character": "良好",
+        "pinyin": "liánghǎo",
+        "meaning": "Bueno"
+    },
+    {
+        "character": "粮食",
+        "pinyin": "liángshi",
+        "meaning": "Alimentos"
+    },
+    {
+        "character": "亮",
+        "pinyin": "liàng",
+        "meaning": "Brillante"
+    },
+    {
+        "character": "了不起",
+        "pinyin": "liǎobuqǐ",
+        "meaning": "Extraordinario"
+    },
+    {
+        "character": "列车",
+        "pinyin": "lièchē",
+        "meaning": "Tren"
+    },
+    {
+        "character": "临时",
+        "pinyin": "línshí",
+        "meaning": "Temporal"
+    },
+    {
+        "character": "灵活",
+        "pinyin": "línghuó",
+        "meaning": "Flexible"
+    },
+    {
+        "character": "铃",
+        "pinyin": "líng",
+        "meaning": "Campana"
+    },
+    {
+        "character": "零件",
+        "pinyin": "língjiàn",
+        "meaning": "Pieza"
+    },
+    {
+        "character": "零食",
+        "pinyin": "língshí",
+        "meaning": "Bocadillo"
+    },
+    {
+        "character": "领导",
+        "pinyin": "lǐngdǎo",
+        "meaning": "Líder"
+    },
+    {
+        "character": "领域",
+        "pinyin": "lǐngyù",
+        "meaning": "Campo"
+    },
+    {
+        "character": "浏览",
+        "pinyin": "liúlǎn",
+        "meaning": "Navegar"
+    },
+    {
+        "character": "流传",
+        "pinyin": "liúchuán",
+        "meaning": "Circular"
+    },
+    {
+        "character": "流泪",
+        "pinyin": "liúlèi",
+        "meaning": "Llorar"
+    },
+    {
+        "character": "龙",
+        "pinyin": "lóng",
+        "meaning": "Dragón"
+    },
+    {
+        "character": "漏",
+        "pinyin": "lòu",
+        "meaning": "Gotear"
+    },
+    {
+        "character": "陆地",
+        "pinyin": "lùdì",
+        "meaning": "Tierra firme"
+    },
+    {
+        "character": "陆续",
+        "pinyin": "lùxù",
+        "meaning": "Sucesivamente"
+    },
+    {
+        "character": "录取",
+        "pinyin": "lùqǔ",
+        "meaning": "Admitir"
+    },
+    {
+        "character": "录音",
+        "pinyin": "lùyīn",
+        "meaning": "Grabar sonido"
+    },
+    {
+        "character": "轮流",
+        "pinyin": "lúnliú",
+        "meaning": "Turnarse"
+    },
+    {
+        "character": "论文",
+        "pinyin": "lùnwén",
+        "meaning": "Tesis"
+    },
+    {
+        "character": "逻辑",
+        "pinyin": "luójí",
+        "meaning": "Lógica"
+    },
+    {
+        "character": "落后",
+        "pinyin": "luòhòu",
+        "meaning": "Quedarse atrás"
+    },
+    {
+        "character": "骂",
+        "pinyin": "mà",
+        "meaning": "Regañar"
+    },
+    {
+        "character": "麦克风",
+        "pinyin": "màikèfēng",
+        "meaning": "Micrófono"
+    },
+    {
+        "character": "馒头",
+        "pinyin": "mántou",
+        "meaning": "Panecillo al vapor"
+    },
+    {
+        "character": "满足",
+        "pinyin": "mǎnzú",
+        "meaning": "Satisfacer"
+    },
+    {
+        "character": "毛病",
+        "pinyin": "máobìng",
+        "meaning": "Defecto"
+    },
+    {
+        "character": "矛盾",
+        "pinyin": "máodùn",
+        "meaning": "Contradicción"
+    },
+    {
+        "character": "冒险",
+        "pinyin": "màoxiǎn",
+        "meaning": "Aventura"
+    },
+    {
+        "character": "贸易",
+        "pinyin": "màoyì",
+        "meaning": "Comercio"
+    },
+    {
+        "character": "眉毛",
+        "pinyin": "méimáo",
+        "meaning": "Ceja"
+    },
+    {
+        "character": "媒体",
+        "pinyin": "méitǐ",
+        "meaning": "Medios de comunicación"
+    },
+    {
+        "character": "煤炭",
+        "pinyin": "méitàn",
+        "meaning": "Carbón"
+    },
+    {
+        "character": "美术",
+        "pinyin": "měishù",
+        "meaning": "Bellas artes"
+    },
+    {
+        "character": "魅力",
+        "pinyin": "mèilì",
+        "meaning": "Encanto"
+    },
+    {
+        "character": "梦想",
+        "pinyin": "mèngxiǎng",
+        "meaning": "Sueño"
+    },
+    {
+        "character": "秘密",
+        "pinyin": "mìmì",
+        "meaning": "Secreto"
+    },
+    {
+        "character": "秘书",
+        "pinyin": "mìshū",
+        "meaning": "Secretario"
+    },
+    {
+        "character": "密切",
+        "pinyin": "mìqiè",
+        "meaning": "Estrecho"
+    },
+    {
+        "character": "蜜蜂",
+        "pinyin": "mìfēng",
+        "meaning": "Abeja"
+    },
+    {
+        "character": "面对",
+        "pinyin": "miànduì",
+        "meaning": "Enfrentar"
+    },
+    {
+        "character": "面积",
+        "pinyin": "miànjī",
+        "meaning": "Área"
+    },
+    {
+        "character": "面临",
+        "pinyin": "miànlín",
+        "meaning": "Enfrentarse a"
+    },
+    {
+        "character": "苗条",
+        "pinyin": "miáotiáo",
+        "meaning": "Esbelto"
+    },
+    {
+        "character": "描写",
+        "pinyin": "miáoxiě",
+        "meaning": "Describir"
+    },
+    {
+        "character": "敏感",
+        "pinyin": "mǐngǎn",
+        "meaning": "Sensible"
+    },
+    {
+        "character": "名牌",
+        "pinyin": "míngpái",
+        "meaning": "Marca famosa"
+    },
+    {
+        "character": "名片",
+        "pinyin": "míngpiàn",
+        "meaning": "Tarjeta de visita"
+    },
+    {
+        "character": "名胜古迹",
+        "pinyin": "míngshèng gǔjì",
+        "meaning": "Lugares de interés"
+    },
+    {
+        "character": "明确",
+        "pinyin": "míngquè",
+        "meaning": "Claro"
+    },
+    {
+        "character": "明显",
+        "pinyin": "míngxiǎn",
+        "meaning": "Obvio"
+    },
+    {
+        "character": "明星",
+        "pinyin": "míngxīng",
+        "meaning": "Estrella (famoso)"
+    },
+    {
+        "character": "命令",
+        "pinyin": "mìnglìng",
+        "meaning": "Ordenar"
+    },
+    {
+        "character": "命运",
+        "pinyin": "mìngyùn",
+        "meaning": "Destino"
+    },
+    {
+        "character": "摸",
+        "pinyin": "mō",
+        "meaning": "Tocar"
+    },
+    {
+        "character": "模仿",
+        "pinyin": "mófǎng",
+        "meaning": "Imitar"
+    },
+    {
+        "character": "模糊",
+        "pinyin": "móhu",
+        "meaning": "Borrosas"
+    },
+    {
+        "character": "模特",
+        "pinyin": "mótè",
+        "meaning": "Modelo"
+    },
+    {
+        "character": "摩托车",
+        "pinyin": "mótuōchē",
+        "meaning": "Motocicleta"
+    },
+    {
+        "character": "陌生",
+        "pinyin": "mòshēng",
+        "meaning": "Desconocido"
+    },
+    {
+        "character": "某",
+        "pinyin": "mǒu",
+        "meaning": "Cierto"
+    },
+    {
+        "character": "木头",
+        "pinyin": "mùtou",
+        "meaning": "Madera"
+    },
+    {
+        "character": "目标",
+        "pinyin": "mùbiāo",
+        "meaning": "Objetivo"
+    },
+    {
+        "character": "目录",
+        "pinyin": "mùlù",
+        "meaning": "Catálogo"
+    },
+    {
+        "character": "目前",
+        "pinyin": "mùqián",
+        "meaning": "Actualmente"
+    },
+    {
+        "character": "哪怕",
+        "pinyin": "nǎpà",
+        "meaning": "Incluso si"
+    },
+    {
+        "character": "难怪",
+        "pinyin": "nánguài",
+        "meaning": "Con razón"
+    },
+    {
+        "character": "难免",
+        "pinyin": "nánmiǎn",
+        "meaning": "Inevitablemente"
+    },
+    {
+        "character": "脑袋",
+        "pinyin": "nǎodài",
+        "meaning": "Cabeza"
+    },
+    {
+        "character": "内部",
+        "pinyin": "nèibù",
+        "meaning": "Interno"
+    },
+    {
+        "character": "内科",
+        "pinyin": "nèikē",
+        "meaning": "Medicina interna"
+    },
+    {
+        "character": "嫩",
+        "pinyin": "nèn",
+        "meaning": "Tierno"
+    },
+    {
+        "character": "能干",
+        "pinyin": "nénggàn",
+        "meaning": "Capaz"
+    },
+    {
+        "character": "能源",
+        "pinyin": "néngyuán",
+        "meaning": "Energía"
+    },
+    {
+        "character": "嗯",
+        "pinyin": "ń",
+        "meaning": "Mm-hm (afirmación)"
+    },
+    {
+        "character": "年代",
+        "pinyin": "niándài",
+        "meaning": "Década"
+    },
+    {
+        "character": "年纪",
+        "pinyin": "niánjì",
+        "meaning": "Edad"
+    },
+    {
+        "character": "念",
+        "pinyin": "niàn",
+        "meaning": "Leer"
+    },
+    {
+        "character": "宁可",
+        "pinyin": "nìngkě",
+        "meaning": "Preferiría"
+    },
+    {
+        "character": "牛仔裤",
+        "pinyin": "niúzǎikù",
+        "meaning": "Pantalones vaqueros"
+    },
+    {
+        "character": "农村",
+        "pinyin": "nóngcūn",
+        "meaning": "Zona rural"
+    },
+    {
+        "character": "农民",
+        "pinyin": "nóngmín",
+        "meaning": "Campesino"
+    },
+    {
+        "character": "农业",
+        "pinyin": "nóngyè",
+        "meaning": "Agricultura"
+    },
+    {
+        "character": "浓",
+        "pinyin": "nóng",
+        "meaning": "Espeso"
+    },
+    {
+        "character": "女士",
+        "pinyin": "nǚshì",
+        "meaning": "Señora"
+    },
+    {
+        "character": "欧洲",
+        "pinyin": "Ōuzhōu",
+        "meaning": "Europa"
+    },
+    {
+        "character": "偶然",
+        "pinyin": "ǒurán",
+        "meaning": "Casual"
+    },
+    {
+        "character": "拍",
+        "pinyin": "pāi",
+        "meaning": "Palmadear"
+    },
+    {
+        "character": "派",
+        "pinyin": "pài",
+        "meaning": "Enviar"
+    },
+    {
+        "character": "盼望",
+        "pinyin": "pànwàng",
+        "meaning": "Esperar con ansias"
+    },
+    {
+        "character": "培训",
+        "pinyin": "péixùn",
+        "meaning": "Entrenamiento"
+    },
+    {
+        "character": "培养",
+        "pinyin": "péiyǎng",
+        "meaning": "Cultivar"
+    },
+    {
+        "character": "赔偿",
+        "pinyin": "péicháng",
+        "meaning": "Compensación"
+    },
+    {
+        "character": "佩服",
+        "pinyin": "pèifú",
+        "meaning": "Admirar"
+    },
+    {
+        "character": "配合",
+        "pinyin": "pèihé",
+        "meaning": "Cooperar"
+    },
+    {
+        "character": "盆",
+        "pinyin": "pén",
+        "meaning": "Cuenco"
+    },
+    {
+        "character": "碰",
+        "pinyin": "pèng",
+        "meaning": "Tocar"
+    },
+    {
+        "character": "批",
+        "pinyin": "pī",
+        "meaning": "Clasif. (lote)"
+    },
+    {
+        "character": "批准",
+        "pinyin": "pīzhǔn",
+        "meaning": "Aprobar"
+    },
+    {
+        "character": "披",
+        "pinyin": "pī",
+        "meaning": "Colocarse sobre"
+    },
+    {
+        "character": "疲劳",
+        "pinyin": "píláo",
+        "meaning": "Cansado"
+    },
+    {
+        "character": "匹",
+        "pinyin": "pǐ",
+        "meaning": "Clasif. (caballos)"
+    },
+    {
+        "character": "片",
+        "pinyin": "piàn",
+        "meaning": "Trozo"
+    },
+    {
+        "character": "片面",
+        "pinyin": "piànmiàn",
+        "meaning": "Unilateral"
+    },
+    {
+        "character": "飘",
+        "pinyin": "piāo",
+        "meaning": "Flotar"
+    },
+    {
+        "character": "拼音",
+        "pinyin": "pīnyīn",
+        "meaning": "Pinyin"
+    },
+    {
+        "character": "频道",
+        "pinyin": "píndào",
+        "meaning": "Canal"
+    },
+    {
+        "character": "平",
+        "pinyin": "píng",
+        "meaning": "Plano"
+    },
+    {
+        "character": "平安",
+        "pinyin": "píng'ān",
+        "meaning": "Seguro"
+    },
+    {
+        "character": "平常",
+        "pinyin": "píngcháng",
+        "meaning": "Común"
+    },
+    {
+        "character": "平等",
+        "pinyin": "píngděng",
+        "meaning": "Igualdad"
+    },
+    {
+        "character": "平方",
+        "pinyin": "píngfāng",
+        "meaning": "Cuadrado (geom.)"
+    },
+    {
+        "character": "平衡",
+        "pinyin": "pínghéng",
+        "meaning": "Equilibrio"
+    },
+    {
+        "character": "平静",
+        "pinyin": "píngjìng",
+        "meaning": "Tranquilo"
+    },
+    {
+        "character": "平均",
+        "pinyin": "píngjūn",
+        "meaning": "Promedio"
+    },
+    {
+        "character": "评价",
+        "pinyin": "píngjià",
+        "meaning": "Evaluar"
+    },
+    {
+        "character": "凭",
+        "pinyin": "píng",
+        "meaning": "Basarse en"
+    },
+    {
+        "character": "迫切",
+        "pinyin": "pòqiè",
+        "meaning": "Urgente"
+    },
+    {
+        "character": "破产",
+        "pinyin": "pòchǎn",
+        "meaning": "Bancarrota"
+    },
+    {
+        "character": "破坏",
+        "pinyin": "pòhuài",
+        "meaning": "Destruir"
+    },
+    {
+        "character": "期待",
+        "pinyin": "qīdài",
+        "meaning": "Esperar"
+    },
+    {
+        "character": "期间",
+        "pinyin": "qījiān",
+        "meaning": "Período"
+    },
+    {
+        "character": "其余",
+        "pinyin": "qíyú",
+        "meaning": "El resto"
+    },
+    {
+        "character": "奇迹",
+        "pinyin": "qíjì",
+        "meaning": "Milagro"
+    },
+    {
+        "character": "企业",
+        "pinyin": "qǐyè",
+        "meaning": "Empresa"
+    },
+    {
+        "character": "启发",
+        "pinyin": "qǐfā",
+        "meaning": "Inspirar"
+    },
+    {
+        "character": "气氛",
+        "pinyin": "qìfēn",
+        "meaning": "Atmósfera"
+    },
+    {
+        "character": "汽油",
+        "pinyin": "qìyóu",
+        "meaning": "Gasolina"
+    },
+    {
+        "character": "谦虚",
+        "pinyin": "qiānxū",
+        "meaning": "Modesto"
+    },
+    {
+        "character": "签",
+        "pinyin": "qiān",
+        "meaning": "Firmar"
+    },
+    {
+        "character": "前途",
+        "pinyin": "qiántú",
+        "meaning": "Futuro"
+    },
+    {
+        "character": "浅",
+        "pinyin": "qiǎn",
+        "meaning": "Poco profundo"
+    },
+    {
+        "character": "欠",
+        "pinyin": "qiàn",
+        "meaning": "Deber"
+    },
+    {
+        "character": "枪",
+        "pinyin": "qiāng",
+        "meaning": "Arma de fuego"
+    },
+    {
+        "character": "强调",
+        "pinyin": "qiángdiào",
+        "meaning": "Enfatizar"
+    },
+    {
+        "character": "强烈",
+        "pinyin": "qiángliè",
+        "meaning": "Fuerte"
+    },
+    {
+        "character": "墙",
+        "pinyin": "qiáng",
+        "meaning": "Pared"
+    },
+    {
+        "character": "抢",
+        "pinyin": "qiǎng",
+        "meaning": "Robar"
+    },
+    {
+        "character": "悄悄",
+        "pinyin": "qiāoqiāo",
+        "meaning": "En secreto"
+    },
+    {
+        "character": "瞧",
+        "pinyin": "qiáo",
+        "meaning": "Mirar"
+    },
+    {
+        "character": "巧妙",
+        "pinyin": "qiǎomiào",
+        "meaning": "Ingenioso"
+    },
+    {
+        "character": "切",
+        "pinyin": "qiē",
+        "meaning": "Cortar"
+    },
+    {
+        "character": "亲爱",
+        "pinyin": "qīn'ài",
+        "meaning": "Querido"
+    },
+    {
+        "character": "亲切",
+        "pinyin": "qīnqiè",
+        "meaning": "Amable"
+    },
+    {
+        "character": "亲自",
+        "pinyin": "qīnzì",
+        "meaning": "Personalmente"
+    },
+    {
+        "character": "勤奋",
+        "pinyin": "qínfèn",
+        "meaning": "Diligente"
+    },
+    {
+        "character": "青",
+        "pinyin": "qīng",
+        "meaning": "Verde azulado"
+    },
+    {
+        "character": "青春",
+        "pinyin": "qīngchūn",
+        "meaning": "Juventud"
+    },
+    {
+        "character": "青少年",
+        "pinyin": "qīngshàonián",
+        "meaning": "Adolescente"
+    },
+    {
+        "character": "轻视",
+        "pinyin": "qīngshì",
+        "meaning": "Menospreciar"
+    },
+    {
+        "character": "轻易",
+        "pinyin": "qīngyì",
+        "meaning": "Fácilmente"
+    },
+    {
+        "character": "清淡",
+        "pinyin": "qīngdàn",
+        "meaning": "Suave (sabor)"
+    },
+    {
+        "character": "情景",
+        "pinyin": "qíngjǐng",
+        "meaning": "Escena"
+    },
+    {
+        "character": "情绪",
+        "pinyin": "qíngxù",
+        "meaning": "Emoción"
+    },
+    {
+        "character": "请求",
+        "pinyin": "qǐngqiú",
+        "meaning": "Solicitar"
+    },
+    {
+        "character": "庆祝",
+        "pinyin": "qìngzhù",
+        "meaning": "Celebrar"
+    },
+    {
+        "character": "球迷",
+        "pinyin": "qiúmí",
+        "meaning": "Aficionado a la pelota"
+    },
+    {
+        "character": "趋势",
+        "pinyin": "qūshì",
+        "meaning": "Tendencia"
+    },
+    {
+        "character": "取消",
+        "pinyin": "qǔxiāo",
+        "meaning": "Cancelar"
+    },
+    {
+        "character": "娶",
+        "pinyin": "qǔ",
+        "meaning": "Casarse (hombre)"
+    },
+    {
+        "character": "去世",
+        "pinyin": "qùshì",
+        "meaning": "Fallecer"
+    },
+    {
+        "character": "圈",
+        "pinyin": "quān",
+        "meaning": "Círculo"
+    },
+    {
+        "character": "权力",
+        "pinyin": "quánlì",
+        "meaning": "Poder"
+    },
+    {
+        "character": "权利",
+        "pinyin": "quánlì",
+        "meaning": "Derecho"
+    },
+    {
+        "character": "全面",
+        "pinyin": "quánmiàn",
+        "meaning": "Integral"
+    },
+    {
+        "character": "劝",
+        "pinyin": "quàn",
+        "meaning": "Aconsejar"
+    },
+    {
+        "character": "缺乏",
+        "pinyin": "quēfá",
+        "meaning": "Carecer de"
+    },
+    {
+        "character": "确定",
+        "pinyin": "quèdìng",
+        "meaning": "Confirmar"
+    },
+    {
+        "character": "确认",
+        "pinyin": "quèrèn",
+        "meaning": "Confirmar"
+    },
+    {
+        "character": "群",
+        "pinyin": "qún",
+        "meaning": "Clasif. (grupo)"
+    },
+    {
+        "character": "燃烧",
+        "pinyin": "ránshāo",
+        "meaning": "Quemar"
+    },
+    {
+        "character": "绕",
+        "pinyin": "rào",
+        "meaning": "Enrollar"
+    },
+    {
+        "character": "热爱",
+        "pinyin": "rè'ài",
+        "meaning": "Amar apasionadamente"
+    },
+    {
+        "character": "热烈",
+        "pinyin": "rèliè",
+        "meaning": "Entusiasta"
+    },
+    {
+        "character": "热心",
+        "pinyin": "rèxīn",
+        "meaning": "Entusiasta"
+    },
+    {
+        "character": "人才",
+        "pinyin": "réncái",
+        "meaning": "Talento"
+    },
+    {
+        "character": "人口",
+        "pinyin": "rénkǒu",
+        "meaning": "Población"
+    },
+    {
+        "character": "人类",
+        "pinyin": "rénlèi",
+        "meaning": "Humanidad"
+    },
+    {
+        "character": "人民币",
+        "pinyin": "Rénmínbì",
+        "meaning": "Renminbi"
+    },
+    {
+        "character": "人生",
+        "pinyin": "rénshēng",
+        "meaning": "Vida"
+    },
+    {
+        "character": "人事",
+        "pinyin": "rénshì",
+        "meaning": "Asuntos de personal"
+    },
+    {
+        "character": "人物",
+        "pinyin": "rénwù",
+        "meaning": "Personaje"
+    },
+    {
+        "character": "人员",
+        "pinyin": "rényuán",
+        "meaning": "Personal"
+    },
+    {
+        "character": "忍不住",
+        "pinyin": "rěnbuzhù",
+        "meaning": "No poder evitar"
+    },
+    {
+        "character": "日常",
+        "pinyin": "rìcháng",
+        "meaning": "Diario"
+    },
+    {
+        "character": "日程",
+        "pinyin": "rìchéng",
+        "meaning": "Agenda"
+    },
+    {
+        "character": "日历",
+        "pinyin": "rìlì",
+        "meaning": "Calendario"
+    },
+    {
+        "character": "日期",
+        "pinyin": "rìqī",
+        "meaning": "Fecha"
+    },
+    {
+        "character": "日用品",
+        "pinyin": "rìyòngpǐn",
+        "meaning": "Artículos de uso diario"
+    },
+    {
+        "character": "日子",
+        "pinyin": "rìzi",
+        "meaning": "Día"
+    },
+    {
+        "character": "如何",
+        "pinyin": "rúhé",
+        "meaning": "Cómo"
+    },
+    {
+        "character": "如今",
+        "pinyin": "rújīn",
+        "meaning": "Hoy en día"
+    },
+    {
+        "character": "软",
+        "pinyin": "ruǎn",
+        "meaning": "Blando"
+    },
+    {
+        "character": "软件",
+        "pinyin": "ruǎnjiàn",
+        "meaning": "Software"
+    },
+    {
+        "character": "弱",
+        "pinyin": "ruò",
+        "meaning": "Débil"
+    },
+    {
+        "character": "洒",
+        "pinyin": "sǎ",
+        "meaning": "Rociar"
+    },
+    {
+        "character": "嗓子",
+        "pinyin": "sǎngzi",
+        "meaning": "Garganta"
+    },
+    {
+        "character": "色彩",
+        "pinyin": "sècǎi",
+        "meaning": "Color"
+    },
+    {
+        "character": "杀",
+        "pinyin": "shā",
+        "meaning": "Matar"
+    },
+    {
+        "character": "沙漠",
+        "pinyin": "shāmò",
+        "meaning": "Desierto"
+    },
+    {
+        "character": "沙滩",
+        "pinyin": "shātān",
+        "meaning": "Playa"
+    },
+    {
+        "character": "傻",
+        "pinyin": "shǎ",
+        "meaning": "Tonto"
+    },
+    {
+        "character": "晒",
+        "pinyin": "shài",
+        "meaning": "Tomar el sol"
+    },
+    {
+        "character": "删除",
+        "pinyin": "shānchú",
+        "meaning": "Eliminar"
+    },
+    {
+        "character": "闪电",
+        "pinyin": "shǎndiàn",
+        "meaning": "Relámpago"
+    },
+    {
+        "character": "扇子",
+        "pinyin": "shànzi",
+        "meaning": "Abanico"
+    },
+    {
+        "character": "善良",
+        "pinyin": "shànliáng",
+        "meaning": "Bondadoso"
+    },
+    {
+        "character": "善于",
+        "pinyin": "shànyú",
+        "meaning": "Ser bueno en"
+    },
+    {
+        "character": "伤害",
+        "pinyin": "shānghài",
+        "meaning": "Dañar"
+    },
+    {
+        "character": "商品",
+        "pinyin": "shāngpǐn",
+        "meaning": "Mercancía"
+    },
+    {
+        "character": "商务",
+        "pinyin": "shāngwù",
+        "meaning": "Comercio"
+    },
+    {
+        "character": "商业",
+        "pinyin": "shāngyè",
+        "meaning": "Comercio"
+    },
+    {
+        "character": "上当",
+        "pinyin": "shàngdàng",
+        "meaning": "Ser engañado"
+    },
+    {
+        "character": "蛇",
+        "pinyin": "shé",
+        "meaning": "Serpiente"
+    },
+    {
+        "character": "舍不得",
+        "pinyin": "shěbude",
+        "meaning": "Retorcerse (de dolor)"
+    },
+    {
+        "character": "设备",
+        "pinyin": "shèbèi",
+        "meaning": "Equipo"
+    },
+    {
+        "character": "设计",
+        "pinyin": "shèjì",
+        "meaning": "Diseñar"
+    },
+    {
+        "character": "设施",
+        "pinyin": "shèshī",
+        "meaning": "Instalación"
+    },
+    {
+        "character": "射击",
+        "pinyin": "shèjī",
+        "meaning": "Disparar"
+    },
+    {
+        "character": "摄影",
+        "pinyin": "shèyǐng",
+        "meaning": "Fotografiar"
+    },
+    {
+        "character": "伸",
+        "pinyin": "shēn",
+        "meaning": "Extender"
+    },
+    {
+        "character": "身材",
+        "pinyin": "shēncái",
+        "meaning": "Figura"
+    },
+    {
+        "character": "身份",
+        "pinyin": "shēnfèn",
+        "meaning": "Identidad"
+    },
+    {
+        "character": "深刻",
+        "pinyin": "shēnkè",
+        "meaning": "Profundo"
+    },
+    {
+        "character": "神话",
+        "pinyin": "shénhuà",
+        "meaning": "Mito"
+    },
+    {
+        "character": "神秘",
+        "pinyin": "shénmì",
+        "meaning": "Misterioso"
+    },
+    {
+        "character": "升",
+        "pinyin": "shēng",
+        "meaning": "Subir"
+    },
+    {
+        "character": "生产",
+        "pinyin": "shēngchǎn",
+        "meaning": "Producir"
+    },
+    {
+        "character": "生动",
+        "pinyin": "shēngdòng",
+        "meaning": "Vívido"
+    },
+    {
+        "character": "生长",
+        "pinyin": "shēngzhǎng",
+        "meaning": "Crecer"
+    },
+    {
+        "character": "声调",
+        "pinyin": "shēngdiào",
+        "meaning": "Tono"
+    },
+    {
+        "character": "绳子",
+        "pinyin": "shéngzi",
+        "meaning": "Cuerda"
+    },
+    {
+        "character": "省略",
+        "pinyin": "shěnglüè",
+        "meaning": "Omitir"
+    },
+    {
+        "character": "胜利",
+        "pinyin": "shènglì",
+        "meaning": "Victoria"
+    },
+    {
+        "character": "失眠",
+        "pinyin": "shīmián",
+        "meaning": "Insomnio"
+    },
+    {
+        "character": "失去",
+        "pinyin": "shīqù",
+        "meaning": "Perder"
+    },
+    {
+        "character": "失业",
+        "pinyin": "shīyè",
+        "meaning": "Desempleo"
+    },
+    {
+        "character": "诗",
+        "pinyin": "shī",
+        "meaning": "Poesía"
+    },
+    {
+        "character": "狮子",
+        "pinyin": "shīzi",
+        "meaning": "León"
+    },
+    {
+        "character": "湿润",
+        "pinyin": "shīrùn",
+        "meaning": "Húmedo"
+    },
+    {
+        "character": "石头",
+        "pinyin": "shítou",
+        "meaning": "Piedra"
+    },
+    {
+        "character": "时差",
+        "pinyin": "shíchā",
+        "meaning": "Diferencia horaria"
+    },
+    {
+        "character": "时代",
+        "pinyin": "shídài",
+        "meaning": "Era"
+    },
+    {
+        "character": "时刻",
+        "pinyin": "shíkè",
+        "meaning": "Momento"
+    },
+    {
+        "character": "时髦",
+        "pinyin": "shímáo",
+        "meaning": "De moda"
+    },
+    {
+        "character": "时期",
+        "pinyin": "shíqī",
+        "meaning": "Período"
+    },
+    {
+        "character": "时尚",
+        "pinyin": "shíshàng",
+        "meaning": "Moda"
+    },
+    {
+        "character": "实话",
+        "pinyin": "shíhuà",
+        "meaning": "Verdad"
+    },
+    {
+        "character": "实践",
+        "pinyin": "shíjiàn",
+        "meaning": "Práctica"
+    },
+    {
+        "character": "实习",
+        "pinyin": "shíxí",
+        "meaning": "Prácticas"
+    },
+    {
+        "character": "实现",
+        "pinyin": "shíxiàn",
+        "meaning": "Realizar"
+    },
+    {
+        "character": "实验",
+        "pinyin": "shíyàn",
+        "meaning": "Experimento"
+    },
+    {
+        "character": "实用",
+        "pinyin": "shíyòng",
+        "meaning": "Práctico"
+    },
+    {
+        "character": "食物",
+        "pinyin": "shíwù",
+        "meaning": "Comida"
+    },
+    {
+        "character": "使劲儿",
+        "pinyin": "shǐjìnr",
+        "meaning": "Esforzarse"
+    },
+    {
+        "character": "始终",
+        "pinyin": "shǐzhōng",
+        "meaning": "Siempre"
+    },
+    {
+        "character": "士兵",
+        "pinyin": "shìbīng",
+        "meaning": "Soldado"
+    },
+    {
+        "character": "市场",
+        "pinyin": "shìchǎng",
+        "meaning": "Mercado"
+    },
+    {
+        "character": "似的",
+        "pinyin": "sìde",
+        "meaning": "Parecido a"
+    },
+    {
+        "character": "事实",
+        "pinyin": "shìshí",
+        "meaning": "Hecho"
+    },
+    {
+        "character": "事物",
+        "pinyin": "shìwù",
+        "meaning": "Cosa"
+    },
+    {
+        "character": "事先",
+        "pinyin": "shìxiān",
+        "meaning": "De antemano"
+    },
+    {
+        "character": "试卷",
+        "pinyin": "shìjuàn",
+        "meaning": "Examen"
+    },
+    {
+        "character": "收获",
+        "pinyin": "shōuhuò",
+        "meaning": "Cosecha"
+    },
+    {
+        "character": "收据",
+        "pinyin": "shōujù",
+        "meaning": "Recibo"
+    },
+    {
+        "character": "手工",
+        "pinyin": "shǒugōng",
+        "meaning": "Artesanal"
+    },
+    {
+        "character": "手术",
+        "pinyin": "shǒushù",
+        "meaning": "Cirugía"
+    },
+    {
+        "character": "手套",
+        "pinyin": "shǒutào",
+        "meaning": "Guantes"
+    },
+    {
+        "character": "手续",
+        "pinyin": "shǒuxù",
+        "meaning": "Trámite"
+    },
+    {
+        "character": "手指",
+        "pinyin": "shǒuzhǐ",
+        "meaning": "Dedo"
+    },
+    {
+        "character": "首",
+        "pinyin": "shǒu",
+        "meaning": "Clasif. (poesía, canción)"
+    },
+    {
+        "character": "寿命",
+        "pinyin": "shòumìng",
+        "meaning": "Vida útil"
+    },
+    {
+        "character": "受伤",
+        "pinyin": "shòushāng",
+        "meaning": "Herido"
+    },
+    {
+        "character": "书架",
+        "pinyin": "shūjià",
+        "meaning": "Estantería"
+    },
+    {
+        "character": "梳子",
+        "pinyin": "shūzi",
+        "meaning": "Peine"
+    },
+    {
+        "character": "舒适",
+        "pinyin": "shūshì",
+        "meaning": "Cómodo"
+    },
+    {
+        "character": "输入",
+        "pinyin": "shūrù",
+        "meaning": "Entrada (datos)"
+    },
+    {
+        "character": "蔬菜",
+        "pinyin": "shūcài",
+        "meaning": "Verdura"
+    },
+    {
+        "character": "熟练",
+        "pinyin": "shúliàn",
+        "meaning": "Hábil"
+    },
+    {
+        "character": "属于",
+        "pinyin": "shǔyú",
+        "meaning": "Pertenecer a"
+    },
+    {
+        "character": "鼠标",
+        "pinyin": "shǔbiāo",
+        "meaning": "Ratón (computadora)"
+    },
+    {
+        "character": "数",
+        "pinyin": "shǔ",
+        "meaning": "Contar"
+    },
+    {
+        "character": "数据",
+        "pinyin": "shùjù",
+        "meaning": "Datos"
+    },
+    {
+        "character": "数码",
+        "pinyin": "shùmǎ",
+        "meaning": "Digital"
+    },
+    {
+        "character": "摔倒",
+        "pinyin": "shuāidǎo",
+        "meaning": "Caerse"
+    },
+    {
+        "character": "甩",
+        "pinyin": "shuǎi",
+        "meaning": "Sacudir"
+    },
+    {
+        "character": "双方",
+        "pinyin": "shuāngfāng",
+        "meaning": "Ambas partes"
+    },
+    {
+        "character": "税",
+        "pinyin": "shuì",
+        "meaning": "Impuesto"
+    },
+    {
+        "character": "说不定",
+        "pinyin": "shuōbudìng",
+        "meaning": "Quizás"
+    },
+    {
+        "character": "说服",
+        "pinyin": "shuōfú",
+        "meaning": "Convencer"
+    },
+    {
+        "character": "丝绸",
+        "pinyin": "sīchóu",
+        "meaning": "Seda"
+    },
+    {
+        "character": "丝毫",
+        "pinyin": "sīháo",
+        "meaning": "Lo más mínimo"
+    },
+    {
+        "character": "私人",
+        "pinyin": "sīrén",
+        "meaning": "Privado"
+    },
+    {
+        "character": "思考",
+        "pinyin": "sīkǎo",
+        "meaning": "Pensar"
+    },
+    {
+        "character": "思想",
+        "pinyin": "sīxiǎng",
+        "meaning": "Pensamiento"
+    },
+    {
+        "character": "撕",
+        "pinyin": "sī",
+        "meaning": "Rasgar"
+    },
+    {
+        "character": "似乎",
+        "pinyin": "sìhū",
+        "meaning": "Parecer"
+    },
+    {
+        "character": "搜索",
+        "pinyin": "sōusuǒ",
+        "meaning": "Buscar"
+    },
+    {
+        "character": "宿舍",
+        "pinyin": "sùshè",
+        "meaning": "Dormitorio"
+    },
+    {
+        "character": "随身",
+        "pinyin": "suíshēn",
+        "meaning": "Llevar consigo"
+    },
+    {
+        "character": "随时",
+        "pinyin": "suíshí",
+        "meaning": "En cualquier momento"
+    },
+    {
+        "character": "随手",
+        "pinyin": "suíshǒu",
+        "meaning": "Sin esfuerzo"
+    },
+    {
+        "character": "碎",
+        "pinyin": "suì",
+        "meaning": "Roto"
+    },
+    {
+        "character": "损失",
+        "pinyin": "sǔnshī",
+        "meaning": "Pérdida"
+    },
+    {
+        "character": "缩短",
+        "pinyin": "suōduǎn",
+        "meaning": "Acortar"
+    },
+    {
+        "character": "所",
+        "pinyin": "suǒ",
+        "meaning": "Clasif. (lugares)"
+    },
+    {
+        "character": "锁",
+        "pinyin": "suǒ",
+        "meaning": "Cerradura"
+    },
+    {
+        "character": "台阶",
+        "pinyin": "táijiē",
+        "meaning": "Escalón"
+    },
+    {
+        "character": "太极拳",
+        "pinyin": "tàijíquán",
+        "meaning": "Tai Chi"
+    },
+    {
+        "character": "太太",
+        "pinyin": "tàitai",
+        "meaning": "Señora"
+    },
+    {
+        "character": "谈判",
+        "pinyin": "tánpàn",
+        "meaning": "Negociar"
+    },
+    {
+        "character": "坦率",
+        "pinyin": "tǎnshuài",
+        "meaning": "Franco"
+    },
+    {
+        "character": "烫",
+        "pinyin": "tàng",
+        "meaning": "Caliente"
+    },
+    {
+        "character": "逃",
+        "pinyin": "táo",
+        "meaning": "Escapar"
+    },
+    {
+        "character": "逃避",
+        "pinyin": "táobì",
+        "meaning": "Evadir"
+    },
+    {
+        "character": "桃",
+        "pinyin": "táo",
+        "meaning": "Melocotón"
+    },
+    {
+        "character": "淘气",
+        "pinyin": "táoqì",
+        "meaning": "Travieso"
+    },
+    {
+        "character": "讨价还价",
+        "pinyin": "tǎo jià huán jià",
+        "meaning": "Regatear"
+    },
+    {
+        "character": "套",
+        "pinyin": "tào",
+        "meaning": "Clasif. (conjuntos)"
+    },
+    {
+        "character": "特色",
+        "pinyin": "tèsè",
+        "meaning": "Característica especial"
+    },
+    {
+        "character": "特殊",
+        "pinyin": "tèshū",
+        "meaning": "Especial"
+    },
+    {
+        "character": "特征",
+        "pinyin": "tèzhēng",
+        "meaning": "Característica"
+    },
+    {
+        "character": "疼爱",
+        "pinyin": "téng'ài",
+        "meaning": "Amar tiernamente"
+    },
+    {
+        "character": "提倡",
+        "pinyin": "tíchàng",
+        "meaning": "Promover"
+    },
+    {
+        "character": "提纲",
+        "pinyin": "tígāng",
+        "meaning": "Esquema"
+    },
+    {
+        "character": "提问",
+        "pinyin": "tíwèn",
+        "meaning": "Preguntar"
+    },
+    {
+        "character": "题目",
+        "pinyin": "tímù",
+        "meaning": "Título"
+    },
+    {
+        "character": "体会",
+        "pinyin": "tǐhuì",
+        "meaning": "Experimentar"
+    },
+    {
+        "character": "体贴",
+        "pinyin": "tǐtiē",
+        "meaning": "Considerado"
+    },
+    {
+        "character": "体现",
+        "pinyin": "tǐxiàn",
+        "meaning": "Encarnar"
+    },
+    {
+        "character": "体验",
+        "pinyin": "tǐyàn",
+        "meaning": "Experimentar"
+    },
+    {
+        "character": "天空",
+        "pinyin": "tiānkōng",
+        "meaning": "Cielo"
+    },
+    {
+        "character": "天真",
+        "pinyin": "tiānzhēn",
+        "meaning": "Ingenuo"
+    },
+    {
+        "character": "调皮",
+        "pinyin": "tiáopí",
+        "meaning": "Travieso"
+    },
+    {
+        "character": "调整",
+        "pinyin": "tiáozhěng",
+        "meaning": "Ajustar"
+    },
+    {
+        "character": "挑战",
+        "pinyin": "tiǎozhàn",
+        "meaning": "Desafío"
+    },
+    {
+        "character": "通常",
+        "pinyin": "tōngcháng",
+        "meaning": "Generalmente"
+    },
+    {
+        "character": "统一",
+        "pinyin": "tǒngyī",
+        "meaning": "Unificar"
+    },
+    {
+        "character": "痛苦",
+        "pinyin": "tòngkǔ",
+        "meaning": "Doloroso"
+    },
+    {
+        "character": "痛快",
+        "pinyin": "tòngkuai",
+        "meaning": "Agradable"
+    },
+    {
+        "character": "偷",
+        "pinyin": "tōu",
+        "meaning": "Robar"
+    },
+    {
+        "character": "投入",
+        "pinyin": "tóurù",
+        "meaning": "Invertir"
+    },
+    {
+        "character": "投资",
+        "pinyin": "tóuzī",
+        "meaning": "Invertir"
+    },
+    {
+        "character": "透明",
+        "pinyin": "tòumíng",
+        "meaning": "Transparente"
+    },
+    {
+        "character": "突出",
+        "pinyin": "tūchū",
+        "meaning": "Sobresalir"
+    },
+    {
+        "character": "土地",
+        "pinyin": "tǔdì",
+        "meaning": "Tierra"
+    },
+    {
+        "character": "土豆",
+        "pinyin": "tǔdòu",
+        "meaning": "Patata"
+    },
+    {
+        "character": "吐",
+        "pinyin": "tǔ",
+        "meaning": "Vomitar"
+    },
+    {
+        "character": "兔子",
+        "pinyin": "tùzi",
+        "meaning": "Conejo"
+    },
+    {
+        "character": "团",
+        "pinyin": "tuán",
+        "meaning": "Grupo"
+    },
+    {
+        "character": "推辞",
+        "pinyin": "tuīcí",
+        "meaning": "Rechazar"
+    },
+    {
+        "character": "推广",
+        "pinyin": "tuīguǎng",
+        "meaning": "Promocionar"
+    },
+    {
+        "character": "推荐",
+        "pinyin": "tuījiàn",
+        "meaning": "Recomendar"
+    },
+    {
+        "character": "退",
+        "pinyin": "tuì",
+        "meaning": "Retroceder"
+    },
+    {
+        "character": "退步",
+        "pinyin": "tuìbù",
+        "meaning": "Retroceder"
+    },
+    {
+        "character": "退休",
+        "pinyin": "tuìxiū",
+        "meaning": "Jubilarse"
+    },
+    {
+        "character": "歪",
+        "pinyin": "wāi",
+        "meaning": "Torcido"
+    },
+    {
+        "character": "外公",
+        "pinyin": "wàigōng",
+        "meaning": "Abuelo materno"
+    },
+    {
+        "character": "外交",
+        "pinyin": "wàijiāo",
+        "meaning": "Diplomacia"
+    },
+    {
+        "character": "完美",
+        "pinyin": "wánměi",
+        "meaning": "Perfecto"
+    },
+    {
+        "character": "完善",
+        "pinyin": "wánshàn",
+        "meaning": "Perfeccionar"
+    },
+    {
+        "character": "完整",
+        "pinyin": "wánzhěng",
+        "meaning": "Completo"
+    },
+    {
+        "character": "玩具",
+        "pinyin": "wánjù",
+        "meaning": "Juguete"
+    },
+    {
+        "character": "万一",
+        "pinyin": "wànyī",
+        "meaning": "En caso de"
+    },
+    {
+        "character": "王子",
+        "pinyin": "wángzǐ",
+        "meaning": "Príncipe"
+    },
+    {
+        "character": "网络",
+        "pinyin": "wǎngluò",
+        "meaning": "Red"
+    },
+    {
+        "character": "往返",
+        "pinyin": "wǎngfǎn",
+        "meaning": "Ida y vuelta"
+    },
+    {
+        "character": "危害",
+        "pinyin": "wēihài",
+        "meaning": "Dañar"
+    },
+    {
+        "character": "威胁",
+        "pinyin": "wēixié",
+        "meaning": "Amenaza"
+    },
+    {
+        "character": "微笑",
+        "pinyin": "wēixiào",
+        "meaning": "Sonreír"
+    },
+    {
+        "character": "违反",
+        "pinyin": "wéifǎn",
+        "meaning": "Violar"
+    },
+    {
+        "character": "围巾",
+        "pinyin": "wéijīn",
+        "meaning": "Bufanda"
+    },
+    {
+        "character": "围绕",
+        "pinyin": "wéirào",
+        "meaning": "Alrededor de"
+    },
+    {
+        "character": "唯一",
+        "pinyin": "wéiyī",
+        "meaning": "Único"
+    },
+    {
+        "character": "维修",
+        "pinyin": "wéixiū",
+        "meaning": "Reparar"
+    },
+    {
+        "character": "伟大",
+        "pinyin": "wěidà",
+        "meaning": "Grande"
+    },
+    {
+        "character": "尾巴",
+        "pinyin": "wěibā",
+        "meaning": "Cola"
+    },
+    {
+        "character": "委屈",
+        "pinyin": "wěiqu",
+        "meaning": "Agravio"
+    },
+    {
+        "character": "未必",
+        "pinyin": "wèibì",
+        "meaning": "No necesariamente"
+    },
+    {
+        "character": "未来",
+        "pinyin": "wèilái",
+        "meaning": "Futuro"
+    },
+    {
+        "character": "位于",
+        "pinyin": "wèiyú",
+        "meaning": "Situado en"
+    },
+    {
+        "character": "位置",
+        "pinyin": "wèizhì",
+        "meaning": "Ubicación"
+    },
+    {
+        "character": "胃",
+        "pinyin": "wèi",
+        "meaning": "Estómago"
+    },
+    {
+        "character": "胃口",
+        "pinyin": "wèikǒu",
+        "meaning": "Apetito"
+    },
+    {
+        "character": "温暖",
+        "pinyin": "wēnnuǎn",
+        "meaning": "Cálido"
+    },
+    {
+        "character": "温柔",
+        "pinyin": "wēnróu",
+        "meaning": "Amable"
+    },
+    {
+        "character": "文件",
+        "pinyin": "wénjiàn",
+        "meaning": "Documento"
+    },
+    {
+        "character": "文具",
+        "pinyin": "wénjù",
+        "meaning": "Material de oficina"
+    },
+    {
+        "character": "文明",
+        "pinyin": "wénmíng",
+        "meaning": "Civilización"
+    },
+    {
+        "character": "文学",
+        "pinyin": "wénxué",
+        "meaning": "Literatura"
+    },
+    {
+        "character": "文字",
+        "pinyin": "wénzì",
+        "meaning": "Carácter"
+    },
+    {
+        "character": "闻",
+        "pinyin": "wén",
+        "meaning": "Oler"
+    },
+    {
+        "character": "吻",
+        "pinyin": "wěn",
+        "meaning": "Besar"
+    },
+    {
+        "character": "稳定",
+        "pinyin": "wěndìng",
+        "meaning": "Estable"
+    },
+    {
+        "character": "问候",
+        "pinyin": "wènhòu",
+        "meaning": "Saludar"
+    },
+    {
+        "character": "卧室",
+        "pinyin": "wòshì",
+        "meaning": "Dormitorio"
+    },
+    {
+        "character": "握手",
+        "pinyin": "wòshǒu",
+        "meaning": "Dar la mano"
+    },
+    {
+        "character": "屋子",
+        "pinyin": "wūzi",
+        "meaning": "Habitación"
+    },
+    {
+        "character": "无奈",
+        "pinyin": "wúnài",
+        "meaning": "Impotente"
+    },
+    {
+        "character": "无数",
+        "pinyin": "wúshù",
+        "meaning": "Innumerables"
+    },
+    {
+        "character": "无所谓",
+        "pinyin": "wúsuǒwèi",
+        "meaning": "No importa"
+    },
+    {
+        "character": "武术",
+        "pinyin": "wǔshù",
+        "meaning": "Artes marciales"
+    },
+    {
+        "character": "勿",
+        "pinyin": "wù",
+        "meaning": "No (formal)"
+    },
+    {
+        "character": "物理",
+        "pinyin": "wùlǐ",
+        "meaning": "Física"
+    },
+    {
+        "character": "物质",
+        "pinyin": "wùzhì",
+        "meaning": "Materia"
+    },
+    {
+        "character": "雾",
+        "pinyin": "wù",
+        "meaning": "Niebla"
+    },
+    {
+        "character": "吸取",
+        "pinyin": "xīqǔ",
+        "meaning": "Absorber"
+    },
+    {
+        "character": "吸收",
+        "pinyin": "xīshōu",
+        "meaning": "Absorber"
+    },
+    {
+        "character": "戏剧",
+        "pinyin": "xìjù",
+        "meaning": "Drama"
+    },
+    {
+        "character": "系",
+        "pinyin": "xì",
+        "meaning": "Departamento"
+    },
+    {
+        "character": "系统",
+        "pinyin": "xìtǒng",
+        "meaning": "Sistema"
+    },
+    {
+        "character": "细节",
+        "pinyin": "xìjié",
+        "meaning": "Detalle"
+    },
+    {
+        "character": "瞎",
+        "pinyin": "xiā",
+        "meaning": "Ciego"
+    },
+    {
+        "character": "下载",
+        "pinyin": "xiàzǎi",
+        "meaning": "Descargar"
+    },
+    {
+        "character": "吓",
+        "pinyin": "xià",
+        "meaning": "Asustar"
+    },
+    {
+        "character": "夏令营",
+        "pinyin": "xiàlìngyíng",
+        "meaning": "Campamento de verano"
+    },
+    {
+        "character": "鲜艳",
+        "pinyin": "xiānyàn",
+        "meaning": "Colorido"
+    },
+    {
+        "character": "显得",
+        "pinyin": "xiǎnde",
+        "meaning": "Parecer"
+    },
+    {
+        "character": "显然",
+        "pinyin": "xiǎnrán",
+        "meaning": "Obviamente"
+    },
+    {
+        "character": "显示",
+        "pinyin": "xiǎnshì",
+        "meaning": "Mostrar"
+    },
+    {
+        "character": "县",
+        "pinyin": "xiàn",
+        "meaning": "Condado"
+    },
+    {
+        "character": "现代",
+        "pinyin": "xiàndài",
+        "meaning": "Moderno"
+    },
+    {
+        "character": "现实",
+        "pinyin": "xiànshí",
+        "meaning": "Realidad"
+    },
+    {
+        "character": "现象",
+        "pinyin": "xiànxiàng",
+        "meaning": "Fenómeno"
+    },
+    {
+        "character": "限制",
+        "pinyin": "xiànzhì",
+        "meaning": "Restringir"
+    },
+    {
+        "character": "相处",
+        "pinyin": "xiāngchǔ",
+        "meaning": "Llevarse bien"
+    },
+    {
+        "character": "相当",
+        "pinyin": "xiāngdāng",
+        "meaning": "Bastante"
+    },
+    {
+        "character": "相对",
+        "pinyin": "xiāngduì",
+        "meaning": "Relativo"
+    },
+    {
+        "character": "相关",
+        "pinyin": "xiāngguān",
+        "meaning": "Relacionado"
+    },
+    {
+        "character": "相似",
+        "pinyin": "xiāngsì",
+        "meaning": "Similar"
+    },
+    {
+        "character": "香肠",
+        "pinyin": "xiāngcháng",
+        "meaning": "Salchicha"
+    },
+    {
+        "character": "享受",
+        "pinyin": "xiǎngshòu",
+        "meaning": "Disfrutar"
+    },
+    {
+        "character": "想念",
+        "pinyin": "xiǎngniàn",
+        "meaning": "Extrañar"
+    },
+    {
+        "character": "想象",
+        "pinyin": "xiǎngxiàng",
+        "meaning": "Imaginar"
+    },
+    {
+        "character": "项",
+        "pinyin": "xiàng",
+        "meaning": "Clasif. (ítem)"
+    },
+    {
+        "character": "项链",
+        "pinyin": "xiàngliàn",
+        "meaning": "Collar"
+    },
+    {
+        "character": "项目",
+        "pinyin": "xiàngmù",
+        "meaning": "Proyecto"
+    },
+    {
+        "character": "象棋",
+        "pinyin": "xiàngqí",
+        "meaning": "Ajedrez chino"
+    },
+    {
+        "character": "象征",
+        "pinyin": "xiàngzhēng",
+        "meaning": "Símbolo"
+    },
+    {
+        "character": "消费",
+        "pinyin": "xiāofèi",
+        "meaning": "Consumir"
+    },
+    {
+        "character": "消化",
+        "pinyin": "xiāohuà",
+        "meaning": "Digerir"
+    },
+    {
+        "character": "消极",
+        "pinyin": "xiāojí",
+        "meaning": "Negativo"
+    },
+    {
+        "character": "消失",
+        "pinyin": "xiāoshī",
+        "meaning": "Desaparecer"
+    },
+    {
+        "character": "销售",
+        "pinyin": "xiāoshòu",
+        "meaning": "Vender"
+    },
+    {
+        "character": "小麦",
+        "pinyin": "xiǎomài",
+        "meaning": "Trigo"
+    },
+    {
+        "character": "小气",
+        "pinyin": "xiǎoqì",
+        "meaning": "Tacaño"
+    },
+    {
+        "character": "孝顺",
+        "pinyin": "xiàoshùn",
+        "meaning": "Piadoso"
+    },
+    {
+        "character": "效率",
+        "pinyin": "xiàolǜ",
+        "meaning": "Eficiencia"
+    },
+    {
+        "character": "歇",
+        "pinyin": "xiē",
+        "meaning": "Descansar"
+    },
+    {
+        "character": "斜",
+        "pinyin": "xié",
+        "meaning": "Inclinado"
+    },
+    {
+        "character": "写作",
+        "pinyin": "xiězuò",
+        "meaning": "Escribir"
+    },
+    {
+        "character": "血",
+        "pinyin": "xiě",
+        "meaning": "Sangre"
+    },
+    {
+        "character": "心理",
+        "pinyin": "xīnlǐ",
+        "meaning": "Psicología"
+    },
+    {
+        "character": "心脏",
+        "pinyin": "xīnzàng",
+        "meaning": "Corazón"
+    },
+    {
+        "character": "欣赏",
+        "pinyin": "xīnshǎng",
+        "meaning": "Apreciar"
+    },
+    {
+        "character": "信号",
+        "pinyin": "xìnhào",
+        "meaning": "Señal"
+    },
+    {
+        "character": "信任",
+        "pinyin": "xìnrèn",
+        "meaning": "Confiar"
+    },
+    {
+        "character": "行动",
+        "pinyin": "xíngdòng",
+        "meaning": "Acción"
+    },
+    {
+        "character": "行人",
+        "pinyin": "xíngrén",
+        "meaning": "Peatón"
+    },
+    {
+        "character": "行为",
+        "pinyin": "xíngwéi",
+        "meaning": "Comportamiento"
+    },
+    {
+        "character": "形成",
+        "pinyin": "xíngchéng",
+        "meaning": "Formar"
+    },
+    {
+        "character": "形容",
+        "pinyin": "xíngróng",
+        "meaning": "Describir"
+    },
+    {
+        "character": "形式",
+        "pinyin": "xíngshì",
+        "meaning": "Forma"
+    },
+    {
+        "character": "形势",
+        "pinyin": "xíngshì",
+        "meaning": "Situación"
+    },
+    {
+        "character": "形象",
+        "pinyin": "xíngxiàng",
+        "meaning": "Imagen"
+    },
+    {
+        "character": "形状",
+        "pinyin": "xíngzhuàng",
+        "meaning": "Forma"
+    },
+    {
+        "character": "幸亏",
+        "pinyin": "xìngkuī",
+        "meaning": "Afortunadamente"
+    },
+    {
+        "character": "幸运",
+        "pinyin": "xìngyùn",
+        "meaning": "Suerte"
+    },
+    {
+        "character": "性质",
+        "pinyin": "xìngzhì",
+        "meaning": "Naturaleza"
+    },
+    {
+        "character": "兄弟",
+        "pinyin": "xiōngdì",
+        "meaning": "Hermanos"
+    },
+    {
+        "character": "胸",
+        "pinyin": "xiōng",
+        "meaning": "Pecho"
+    },
+    {
+        "character": "休闲",
+        "pinyin": "xiūxián",
+        "meaning": "Ocio"
+    },
+    {
+        "character": "修改",
+        "pinyin": "xiūgǎi",
+        "meaning": "Modificar"
+    },
+    {
+        "character": "虚心",
+        "pinyin": "xūxīn",
+        "meaning": "Modesto"
+    },
+    {
+        "character": "叙述",
+        "pinyin": "xùshù",
+        "meaning": "Narrar"
+    },
+    {
+        "character": "宣布",
+        "pinyin": "xuānbù",
+        "meaning": "Anunciar"
+    },
+    {
+        "character": "宣传",
+        "pinyin": "xuānchuán",
+        "meaning": "Propaganda"
+    },
+    {
+        "character": "学历",
+        "pinyin": "xuélì",
+        "meaning": "Educación"
+    },
+    {
+        "character": "学术",
+        "pinyin": "xuéshù",
+        "meaning": "Académico"
+    },
+    {
+        "character": "学问",
+        "pinyin": "xuéwèn",
+        "meaning": "Conocimiento"
+    },
+    {
+        "character": "寻找",
+        "pinyin": "xúnzhǎo",
+        "meaning": "Buscar"
+    },
+    {
+        "character": "询问",
+        "pinyin": "xúnwèn",
+        "meaning": "Preguntar"
+    },
+    {
+        "character": "训练",
+        "pinyin": "xùnliàn",
+        "meaning": "Entrenar"
+    },
+    {
+        "character": "迅速",
+        "pinyin": "xùnsù",
+        "meaning": "Rápido"
+    },
+    {
+        "character": "押金",
+        "pinyin": "yājīn",
+        "meaning": "Depósito"
+    },
+    {
+        "character": "牙齿",
+        "pinyin": "yáchǐ",
+        "meaning": "Diente"
+    },
+    {
+        "character": "延长",
+        "pinyin": "yáncháng",
+        "meaning": "Extender"
+    },
+    {
+        "character": "严肃",
+        "pinyin": "yánsù",
+        "meaning": "Serio"
+    },
+    {
+        "character": "演讲",
+        "pinyin": "yǎnjiǎng",
+        "meaning": "Discurso"
+    },
+    {
+        "character": "宴会",
+        "pinyin": "yànhuì",
+        "meaning": "Banquete"
+    },
+    {
+        "character": "阳台",
+        "pinyin": "yángtái",
+        "meaning": "Balcón"
+    },
+    {
+        "character": "痒",
+        "pinyin": "yǎng",
+        "meaning": "Picar"
+    },
+    {
+        "character": "样式",
+        "pinyin": "yàngshì",
+        "meaning": "Estilo"
+    },
+    {
+        "character": "腰",
+        "pinyin": "yāo",
+        "meaning": "Cintura"
+    },
+    {
+        "character": "摇",
+        "pinyin": "yáo",
+        "meaning": "Mover"
+    },
+    {
+        "character": "咬",
+        "pinyin": "yǎo",
+        "meaning": "Morder"
+    },
+    {
+        "character": "要不",
+        "pinyin": "yàobù",
+        "meaning": "De lo contrario"
+    },
+    {
+        "character": "业务",
+        "pinyin": "yèwù",
+        "meaning": "Negocio"
+    },
+    {
+        "character": "业余",
+        "pinyin": "yèyú",
+        "meaning": "Aficionado"
+    },
+    {
+        "character": "夜",
+        "pinyin": "yè",
+        "meaning": "Noche"
+    },
+    {
+        "character": "一辈子",
+        "pinyin": "yíbèizi",
+        "meaning": "Toda la vida"
+    },
+    {
+        "character": "一旦",
+        "pinyin": "yídàn",
+        "meaning": "Una vez"
+    },
+    {
+        "character": "一律",
+        "pinyin": "yílǜ",
+        "meaning": "Uniformemente"
+    },
+    {
+        "character": "一再",
+        "pinyin": "yízài",
+        "meaning": "Repetidamente"
+    },
+    {
+        "character": "一致",
+        "pinyin": "yīzhì",
+        "meaning": "Consistente"
+    },
+    {
+        "character": "依然",
+        "pinyin": "yīrán",
+        "meaning": "Todavía"
+    },
+    {
+        "character": "移动",
+        "pinyin": "yídòng",
+        "meaning": "Mover"
+    },
+    {
+        "character": "移民",
+        "pinyin": "yímín",
+        "meaning": "Inmigrante"
+    },
+    {
+        "character": "遗憾",
+        "pinyin": "yíhàn",
+        "meaning": "Lástima"
+    },
+    {
+        "character": "疑问",
+        "pinyin": "yíwèn",
+        "meaning": "Duda"
+    },
+    {
+        "character": "乙",
+        "pinyin": "yǐ",
+        "meaning": "Segundo"
+    },
+    {
+        "character": "以及",
+        "pinyin": "yǐjí",
+        "meaning": "Así como"
+    },
+    {
+        "character": "以来",
+        "pinyin": "yǐlái",
+        "meaning": "Desde"
+    },
+    {
+        "character": "亿",
+        "pinyin": "yì",
+        "meaning": "Cien millones"
+    },
+    {
+        "character": "义务",
+        "pinyin": "yìwù",
+        "meaning": "Obligación"
+    },
+    {
+        "character": "议论",
+        "pinyin": "yìlùn",
+        "meaning": "Comentar"
+    },
+    {
+        "character": "意外",
+        "pinyin": "yìwài",
+        "meaning": "Accidente"
+    },
+    {
+        "character": "意义",
+        "pinyin": "yìyì",
+        "meaning": "Significado"
+    },
+    {
+        "character": "因而",
+        "pinyin": "yīn'ér",
+        "meaning": "Así"
+    },
+    {
+        "character": "因素",
+        "pinyin": "yīnsù",
+        "meaning": "Factor"
+    },
+    {
+        "character": "银",
+        "pinyin": "yín",
+        "meaning": "Plata"
+    },
+    {
+        "character": "印刷",
+        "pinyin": "yìnshuā",
+        "meaning": "Imprimir"
+    },
+    {
+        "character": "英俊",
+        "pinyin": "yīngjùn",
+        "meaning": "Guapo"
+    },
+    {
+        "character": "英雄",
+        "pinyin": "yīngxióng",
+        "meaning": "Héroe"
+    },
+    {
+        "character": "迎接",
+        "pinyin": "yíngjiē",
+        "meaning": "Dar la bienvenida"
+    },
+    {
+        "character": "营养",
+        "pinyin": "yíngyǎng",
+        "meaning": "Nutrición"
+    },
+    {
+        "character": "营业",
+        "pinyin": "yíngyè",
+        "meaning": "Negocio"
+    },
+    {
+        "character": "影子",
+        "pinyin": "yǐngzi",
+        "meaning": "Sombra"
+    },
+    {
+        "character": "应付",
+        "pinyin": "yìngfu",
+        "meaning": "Lidiar con"
+    },
+    {
+        "character": "应用",
+        "pinyin": "yìngyòng",
+        "meaning": "Aplicar"
+    },
+    {
+        "character": "硬",
+        "pinyin": "yìng",
+        "meaning": "Duro"
+    },
+    {
+        "character": "硬件",
+        "pinyin": "yìngjiàn",
+        "meaning": "Hardware"
+    },
+    {
+        "character": "拥抱",
+        "pinyin": "yōngbào",
+        "meaning": "Abrazar"
+    },
+    {
+        "character": "拥挤",
+        "pinyin": "yǒngjǐ",
+        "meaning": "Abarrotado"
+    },
+    {
+        "character": "勇气",
+        "pinyin": "yǒngqì",
+        "meaning": "Coraje"
+    },
+    {
+        "character": "用功",
+        "pinyin": "yònggōng",
+        "meaning": "Dedicarse al estudio"
+    },
+    {
+        "character": "用途",
+        "pinyin": "yòngtú",
+        "meaning": "Uso"
+    },
+    {
+        "character": "优惠",
+        "pinyin": "yōuhuì",
+        "meaning": "Descuento"
+    },
+    {
+        "character": "优美",
+        "pinyin": "yōuměi",
+        "meaning": "Elegante"
+    },
+    {
+        "character": "优势",
+        "pinyin": "yōushì",
+        "meaning": "Ventaja"
+    },
+    {
+        "character": "悠久",
+        "pinyin": "yōujiǔ",
+        "meaning": "Largo (historia)"
+    },
+    {
+        "character": "犹豫",
+        "pinyin": "yóuyù",
+        "meaning": "Dudar"
+    },
+    {
+        "character": "油炸",
+        "pinyin": "yóuzhá",
+        "meaning": "Frito"
+    },
+    {
+        "character": "游览",
+        "pinyin": "yóulǎn",
+        "meaning": "Visitar"
+    },
+    {
+        "character": "有利",
+        "pinyin": "yǒulì",
+        "meaning": "Ventajoso"
+    },
+    {
+        "character": "幼儿园",
+        "pinyin": "yòu'éryuán",
+        "meaning": "Jardín de infancia"
+    },
+    {
+        "character": "娱乐",
+        "pinyin": "yúlè",
+        "meaning": "Entretenimiento"
+    },
+    {
+        "character": "与其",
+        "pinyin": "yǔqí",
+        "meaning": "En lugar de"
+    },
+    {
+        "character": "语气",
+        "pinyin": "yǔqì",
+        "meaning": "Tono de voz"
+    },
+    {
+        "character": "玉米",
+        "pinyin": "yùmǐ",
+        "meaning": "Maíz"
+    },
+    {
+        "character": "预报",
+        "pinyin": "yùbào",
+        "meaning": "Pronóstico"
+    },
+    {
+        "character": "预订",
+        "pinyin": "yùdìng",
+        "meaning": "Reservar"
+    },
+    {
+        "character": "预防",
+        "pinyin": "yùfáng",
+        "meaning": "Prevenir"
+    },
+    {
+        "character": "元旦",
+        "pinyin": "Yuándàn",
+        "meaning": "Día de Año Nuevo"
+    },
+    {
+        "character": "员工",
+        "pinyin": "yuángōng",
+        "meaning": "Empleado"
+    },
+    {
+        "character": "原料",
+        "pinyin": "yuánliào",
+        "meaning": "Materia prima"
+    },
+    {
+        "character": "原则",
+        "pinyin": "yuánzé",
+        "meaning": "Principio"
+    },
+    {
+        "character": "圆",
+        "pinyin": "yuán",
+        "meaning": "Redondo"
+    },
+    {
+        "character": "愿望",
+        "pinyin": "yuànwàng",
+        "meaning": "Deseo"
+    },
+    {
+        "character": "乐器",
+        "pinyin": "yuèqì",
+        "meaning": "Instrumento musical"
+    },
+    {
+        "character": "晕",
+        "pinyin": "yūn",
+        "meaning": "Mareado"
+    },
+    {
+        "character": "运气",
+        "pinyin": "yùnqì",
+        "meaning": "Suerte"
+    },
+    {
+        "character": "运输",
+        "pinyin": "yùnshū",
+        "meaning": "Transportar"
+    },
+    {
+        "character": "运用",
+        "pinyin": "yùnyòng",
+        "meaning": "Aplicar"
+    },
+    {
+        "character": "灾害",
+        "pinyin": "zāihài",
+        "meaning": "Desastre"
+    },
+    {
+        "character": "再三",
+        "pinyin": "zàisān",
+        "meaning": "Una y otra vez"
+    },
+    {
+        "character": "在乎",
+        "pinyin": "zàihu",
+        "meaning": "Importar"
+    },
+    {
+        "character": "在于",
+        "pinyin": "zàiyú",
+        "meaning": "Residir en"
+    },
+    {
+        "character": "赞成",
+        "pinyin": "zànchéng",
+        "meaning": "Aprobar"
+    },
+    {
+        "character": "赞美",
+        "pinyin": "zànměi",
+        "meaning": "Alabar"
+    },
+    {
+        "character": "糟糕",
+        "pinyin": "zāogāo",
+        "meaning": "Mal"
+    },
+    {
+        "character": "造成",
+        "pinyin": "zàochéng",
+        "meaning": "Causar"
+    },
+    {
+        "character": "则",
+        "pinyin": "zé",
+        "meaning": "Entonces"
+    },
+    {
+        "character": "责备",
+        "pinyin": "zébèi",
+        "meaning": "Culpar"
+    },
+    {
+        "character": "摘",
+        "pinyin": "zhāi",
+        "meaning": "Recoger"
+    },
+    {
+        "character": "窄",
+        "pinyin": "zhǎi",
+        "meaning": "Estrecho"
+    },
+    {
+        "character": "粘贴",
+        "pinyin": "zhāntiē",
+        "meaning": "Pegar"
+    },
+    {
+        "character": "展开",
+        "pinyin": "zhǎnkāi",
+        "meaning": "Desarrollar"
+    },
+    {
+        "character": "展览",
+        "pinyin": "zhǎnlǎn",
+        "meaning": "Exposición"
+    },
+    {
+        "character": "占",
+        "pinyin": "zhàn",
+        "meaning": "Ocupar"
+    },
+    {
+        "character": "战争",
+        "pinyin": "zhànzhēng",
+        "meaning": "Guerra"
+    },
+    {
+        "character": "长辈",
+        "pinyin": "zhǎngbèi",
+        "meaning": "Anciano"
+    },
+    {
+        "character": "涨",
+        "pinyin": "zhǎng",
+        "meaning": "Subir"
+    },
+    {
+        "character": "掌握",
+        "pinyin": "zhǎngwò",
+        "meaning": "Dominar"
+    },
+    {
+        "character": "账户",
+        "pinyin": "zhànghù",
+        "meaning": "Cuenta (bancaria)"
+    },
+    {
+        "character": "招待",
+        "pinyin": "zhāodài",
+        "meaning": "Recibir"
+    },
+    {
+        "character": "着火",
+        "pinyin": "zháohuǒ",
+        "meaning": "Incendiarse"
+    },
+    {
+        "character": "着凉",
+        "pinyin": "zháoliáng",
+        "meaning": "Resfriarse"
+    },
+    {
+        "character": "召开",
+        "pinyin": "zhàokāi",
+        "meaning": "Convocar"
+    },
+    {
+        "character": "照常",
+        "pinyin": "zhàocháng",
+        "meaning": "Como de costumbre"
+    },
+    {
+        "character": "哲学",
+        "pinyin": "zhéxué",
+        "meaning": "Filosofía"
+    },
+    {
+        "character": "针对",
+        "pinyin": "zhēnduì",
+        "meaning": "Dirigirse a"
+    },
+    {
+        "character": "珍惜",
+        "pinyin": "zhēnxī",
+        "meaning": "Apreciar"
+    },
+    {
+        "character": "真实",
+        "pinyin": "zhēnshí",
+        "meaning": "Verdadero"
+    },
+    {
+        "character": "诊断",
+        "pinyin": "zhěnduàn",
+        "meaning": "Diagnosticar"
+    },
+    {
+        "character": "阵",
+        "pinyin": "zhèn",
+        "meaning": "Clasif. (periodo)"
+    },
+    {
+        "character": "振动",
+        "pinyin": "zhèndòng",
+        "meaning": "Vibrar"
+    },
+    {
+        "character": "争论",
+        "pinyin": "zhēnglùn",
+        "meaning": "Discutir"
+    },
+    {
+        "character": "争取",
+        "pinyin": "zhēngqǔ",
+        "meaning": "Esforzarse por"
+    },
+    {
+        "character": "征求",
+        "pinyin": "zhēngqiú",
+        "meaning": "Solicitar"
+    },
+    {
+        "character": "睁",
+        "pinyin": "zhēng",
+        "meaning": "Abrir los ojos"
+    },
+    {
+        "character": "整个",
+        "pinyin": "zhěnggè",
+        "meaning": "Todo"
+    },
+    {
+        "character": "整齐",
+        "pinyin": "zhěngqí",
+        "meaning": "Ordenado"
+    },
+    {
+        "character": "整体",
+        "pinyin": "zhěngtǐ",
+        "meaning": "Todo"
+    },
+    {
+        "character": "正",
+        "pinyin": "zhèng",
+        "meaning": "Recto"
+    },
+    {
+        "character": "证件",
+        "pinyin": "zhèngjiàn",
+        "meaning": "Documento"
+    },
+    {
+        "character": "证据",
+        "pinyin": "zhèngjù",
+        "meaning": "Evidencia"
+    },
+    {
+        "character": "政府",
+        "pinyin": "zhèngfǔ",
+        "meaning": "Gobierno"
+    },
+    {
+        "character": "政治",
+        "pinyin": "zhèngzhì",
+        "meaning": "Política"
+    },
+    {
+        "character": "挣",
+        "pinyin": "zhèng",
+        "meaning": "Ganar (dinero)"
+    },
+    {
+        "character": "支",
+        "pinyin": "zhī",
+        "meaning": "Clasif. (bolígrafos)"
+    },
+    {
+        "character": "支票",
+        "pinyin": "zhīpiào",
+        "meaning": "Cheque"
+    },
+    {
+        "character": "执照",
+        "pinyin": "zhízhào",
+        "meaning": "Licencia"
+    },
+    {
+        "character": "直",
+        "pinyin": "zhí",
+        "meaning": "Recto"
+    },
+    {
+        "character": "指导",
+        "pinyin": "zhǐdǎo",
+        "meaning": "Guiar"
+    },
+    {
+        "character": "指挥",
+        "pinyin": "zhǐhuī",
+        "meaning": "Dirigir"
+    },
+    {
+        "character": "至今",
+        "pinyin": "zhìjīn",
+        "meaning": "Hasta ahora"
+    },
+    {
+        "character": "至于",
+        "pinyin": "zhìyú",
+        "meaning": "En cuanto a"
+    },
+    {
+        "character": "志愿者",
+        "pinyin": "zhìyuànzhě",
+        "meaning": "Voluntario"
+    },
+    {
+        "character": "制定",
+        "pinyin": "zhìdìng",
+        "meaning": "Formular"
+    },
+    {
+        "character": "制度",
+        "pinyin": "zhìdù",
+        "meaning": "Sistema"
+    },
+    {
+        "character": "制造",
+        "pinyin": "zhìzào",
+        "meaning": "Fabricar"
+    },
+    {
+        "character": "制作",
+        "pinyin": "zhìzuò",
+        "meaning": "Hacer"
+    },
+    {
+        "character": "治疗",
+        "pinyin": "zhìliáo",
+        "meaning": "Tratar (enfermedad)"
+    },
+    {
+        "character": "秩序",
+        "pinyin": "zhìxù",
+        "meaning": "Orden"
+    },
+    {
+        "character": "智慧",
+        "pinyin": "zhìhuì",
+        "meaning": "Sabiduría"
+    },
+    {
+        "character": "中介",
+        "pinyin": "zhōngjiè",
+        "meaning": "Intermediario"
+    },
+    {
+        "character": "中心",
+        "pinyin": "zhōngxīn",
+        "meaning": "Centro"
+    },
+    {
+        "character": "中旬",
+        "pinyin": "zhōngxún",
+        "meaning": "Mediados de mes"
+    },
+    {
+        "character": "种类",
+        "pinyin": "zhǒnglèi",
+        "meaning": "Tipo"
+    },
+    {
+        "character": "重大",
+        "pinyin": "zhòngdà",
+        "meaning": "Importante"
+    },
+    {
+        "character": "重量",
+        "pinyin": "zhòngliàng",
+        "meaning": "Peso"
+    },
+    {
+        "character": "周到",
+        "pinyin": "zhōudào",
+        "meaning": "Considerado"
+    },
+    {
+        "character": "猪",
+        "pinyin": "zhū",
+        "meaning": "Cerdo"
+    },
+    {
+        "character": "竹子",
+        "pinyin": "zhúzi",
+        "meaning": "Bambú"
+    },
+    {
+        "character": "逐步",
+        "pinyin": "zhúbù",
+        "meaning": "Paso a paso"
+    },
+    {
+        "character": "逐渐",
+        "pinyin": "zhújiàn",
+        "meaning": "Gradualmente"
+    },
+    {
+        "character": "主持",
+        "pinyin": "zhǔchí",
+        "meaning": "Presidir"
+    },
+    {
+        "character": "主动",
+        "pinyin": "zhǔdòng",
+        "meaning": "Activo"
+    },
+    {
+        "character": "主观",
+        "pinyin": "zhǔguān",
+        "meaning": "Subjetivo"
+    },
+    {
+        "character": "主人",
+        "pinyin": "zhǔrén",
+        "meaning": "Anfitrión"
+    },
+    {
+        "character": "主任",
+        "pinyin": "zhǔrèn",
+        "meaning": "Director"
+    },
+    {
+        "character": "主题",
+        "pinyin": "zhǔtí",
+        "meaning": "Tema"
+    },
+    {
+        "character": "主席",
+        "pinyin": "zhǔxí",
+        "meaning": "Presidente"
+    },
+    {
+        "character": "主张",
+        "pinyin": "zhǔzhāng",
+        "meaning": "Abogar"
+    },
+    {
+        "character": "煮",
+        "pinyin": "zhǔ",
+        "meaning": "Hervir"
+    },
+    {
+        "character": "注册",
+        "pinyin": "zhùcè",
+        "meaning": "Registrar"
+    },
+    {
+        "character": "祝福",
+        "pinyin": "zhùfú",
+        "meaning": "Bendición"
+    },
+    {
+        "character": "抓",
+        "pinyin": "zhuā",
+        "meaning": "Agarrar"
+    },
+    {
+        "character": "抓紧",
+        "pinyin": "zhuājǐn",
+        "meaning": "Agarrar firmemente"
+    },
+    {
+        "character": "专家",
+        "pinyin": "zhuānjiā",
+        "meaning": "Experto"
+    },
+    {
+        "character": "专心",
+        "pinyin": "zhuānxīn",
+        "meaning": "Concentrarse"
+    },
+    {
+        "character": "转变",
+        "pinyin": "zhuǎnbiàn",
+        "meaning": "Cambiar"
+    },
+    {
+        "character": "转告",
+        "pinyin": "zhuǎngào",
+        "meaning": "Decir a otro"
+    },
+    {
+        "character": "装",
+        "pinyin": "zhuāng",
+        "meaning": "Vestir"
+    },
+    {
+        "character": "装饰",
+        "pinyin": "zhuāngshì",
+        "meaning": "Decorar"
+    },
+    {
+        "character": "装修",
+        "pinyin": "zhuāngxiū",
+        "meaning": "Decorar"
+    },
+    {
+        "character": "状况",
+        "pinyin": "zhuàngkuàng",
+        "meaning": "Condición"
+    },
+    {
+        "character": "状态",
+        "pinyin": "zhuàngtài",
+        "meaning": "Estado"
+    },
+    {
+        "character": "撞",
+        "pinyin": "zhuàng",
+        "meaning": "Chocar"
+    },
+    {
+        "character": "追",
+        "pinyin": "zhuī",
+        "meaning": "Perseguir"
+    },
+    {
+        "character": "追求",
+        "pinyin": "zhuīqiú",
+        "meaning": "Perseguir"
+    },
+    {
+        "character": "咨询",
+        "pinyin": "zīxún",
+        "meaning": "Consultar"
+    },
+    {
+        "character": "姿势",
+        "pinyin": "zīshì",
+        "meaning": "Postura"
+    },
+    {
+        "character": "资格",
+        "pinyin": "zīgé",
+        "meaning": "Calificación"
+    },
+    {
+        "character": "资金",
+        "pinyin": "zījīn",
+        "meaning": "Fondos"
+    },
+    {
+        "character": "资料",
+        "pinyin": "zīliào",
+        "meaning": "Material"
+    },
+    {
+        "character": "资源",
+        "pinyin": "zīyuán",
+        "meaning": "Recurso"
+    },
+    {
+        "character": "紫",
+        "pinyin": "zǐ",
+        "meaning": "Morado"
+    },
+    {
+        "character": "自从",
+        "pinyin": "zìcóng",
+        "meaning": "Desde"
+    },
+    {
+        "character": "自动",
+        "pinyin": "zìdòng",
+        "meaning": "Automático"
+    },
+    {
+        "character": "自豪",
+        "pinyin": "zìháo",
+        "meaning": "Orgulloso"
+    },
+    {
+        "character": "自觉",
+        "pinyin": "zìjué",
+        "meaning": "Consciente"
+    },
+    {
+        "character": "自私",
+        "pinyin": "zìsī",
+        "meaning": "Egoísta"
+    },
+    {
+        "character": "自由",
+        "pinyin": "zìyóu",
+        "meaning": "Libertad"
+    },
+    {
+        "character": "自愿",
+        "pinyin": "zìyuàn",
+        "meaning": "Voluntario"
+    },
+    {
+        "character": "字母",
+        "pinyin": "zìmǔ",
+        "meaning": "Letra"
+    },
+    {
+        "character": "字幕",
+        "pinyin": "zìmù",
+        "meaning": "Subtítulos"
+    },
+    {
+        "character": "综合",
+        "pinyin": "zōnghé",
+        "meaning": "Sintetizar"
+    },
+    {
+        "character": "总裁",
+        "pinyin": "zǒngcái",
+        "meaning": "Presidente (empresa)"
+    },
+    {
+        "character": "总共",
+        "pinyin": "zǒnggòng",
+        "meaning": "En total"
+    },
+    {
+        "character": "总理",
+        "pinyin": "zǒnglǐ",
+        "meaning": "Primer ministro"
+    },
+    {
+        "character": "总算",
+        "pinyin": "zǒngsuàn",
+        "meaning": "Por fin"
+    },
+    {
+        "character": "总统",
+        "pinyin": "zǒngtǒng",
+        "meaning": "Presidente"
+    },
+    {
+        "character": "总之",
+        "pinyin": "zǒngzhī",
+        "meaning": "En resumen"
+    },
+    {
+        "character": "阻止",
+        "pinyin": "zǔzhǐ",
+        "meaning": "Impedir"
+    },
+    {
+        "character": "组",
+        "pinyin": "zǔ",
+        "meaning": "Grupo"
+    },
+    {
+        "character": "组成",
+        "pinyin": "zǔchéng",
+        "meaning": "Formar"
+    },
+    {
+        "character": "组合",
+        "pinyin": "zǔhé",
+        "meaning": "Combinar"
+    },
+    {
+        "character": "组织",
+        "pinyin": "zǔzhī",
+        "meaning": "Organizar"
+    },
+    {
+        "character": "最初",
+        "pinyin": "zuìchū",
+        "meaning": "Al principio"
+    },
+    {
+        "character": "醉",
+        "pinyin": "zuì",
+        "meaning": "Borracho"
+    },
+    {
+        "character": "尊敬",
+        "pinyin": "zūnjìng",
+        "meaning": "Respetar"
+    },
+    {
+        "character": "遵守",
+        "pinyin": "zūnshǒu",
+        "meaning": "Cumplir"
+    },
+    {
+        "character": "作品",
+        "pinyin": "zuòpǐn",
+        "meaning": "Obra"
+    },
+    {
+        "character": "作为",
+        "pinyin": "zuòwéi",
+        "meaning": "Como"
+    },
+    {
+        "character": "作文",
+        "pinyin": "zuòwén",
+        "meaning": "Redacción"
+    }
+]
