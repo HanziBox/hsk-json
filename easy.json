@@ -28,8 +28,8 @@
     "pinyin": "tā bú zài jiā."
   },
   {
-    "text": "我有一个猫。",
-    "pinyin": "wǒ yǒu yī gè māo."
+    "text": "我有一只猫。",
+    "pinyin": "wǒ yǒu yī zhī māo."
   },
   {
     "text": "我的猫是黑色的。",
@@ -399,4 +399,5 @@
     "text": "好的。",
     "pinyin": "hǎo de."
   }
+
 ]
