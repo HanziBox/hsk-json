@@ -1,0 +1,402 @@
+[
+  {
+    "text": "我是学生。",
+    "pinyin": "wǒ shì xuésheng."
+  },
+  {
+    "text": "你喜欢我吗？",
+    "pinyin": "nǐ xǐhuān wǒ ma?"
+  },
+  {
+    "text": "我喜欢你。",
+    "pinyin": "wǒ xǐhuān nǐ."
+  },
+  {
+    "text": "我想喝水。",
+    "pinyin": "wǒ xiǎng hē shuǐ."
+  },
+  {
+    "text": "我想吃饭。",
+    "pinyin": "wǒ xiǎng chī fàn."
+  },
+  {
+    "text": "我爱你。",
+    "pinyin": "wǒ ài nǐ."
+  },
+  {
+    "text": "她不在家。",
+    "pinyin": "tā bú zài jiā."
+  },
+  {
+    "text": "我有一个猫。",
+    "pinyin": "wǒ yǒu yī gè māo."
+  },
+  {
+    "text": "我的猫是黑色的。",
+    "pinyin": "wǒ de māo shì hēisè de."
+  },
+  {
+    "text": "天很冷。",
+    "pinyin": "tiān hěn lěng."
+  },
+  {
+    "text": "天很热。",
+    "pinyin": "tiān hěn rè."
+  },
+  {
+    "text": "我饿了。",
+    "pinyin": "wǒ è le."
+  },
+  {
+    "text": "我渴了。",
+    "pinyin": "wǒ kě le."
+  },
+  {
+    "text": "我想睡觉。",
+    "pinyin": "wǒ xiǎng shuìjiào."
+  },
+  {
+    "text": "你吃了吗？",
+    "pinyin": "nǐ chī le ma?"
+  },
+  {
+    "text": "我吃过了。",
+    "pinyin": "wǒ chīguò le."
+  },
+  {
+    "text": "你叫什么？",
+    "pinyin": "nǐ jiào shénme?"
+  },
+  {
+    "text": "我叫李华。",
+    "pinyin": "wǒ jiào Lǐ Huá."
+  },
+  {
+    "text": "这本书很好看。",
+    "pinyin": "zhè běn shū hěn hǎokàn."
+  },
+  {
+    "text": "这个苹果是红色的。",
+    "pinyin": "zhège píngguǒ shì hóngsè de."
+  },
+  {
+    "text": "我是一个人。",
+    "pinyin": "wǒ shì yī gè rén."
+  },
+  {
+    "text": "我不是中国人。",
+    "pinyin": "wǒ búshì Zhōngguó rén."
+  },
+  {
+    "text": "这是我的狗。",
+    "pinyin": "zhè shì wǒ de gǒu."
+  },
+  {
+    "text": "我很开心。",
+    "pinyin": "wǒ hěn kāixīn."
+  },
+  {
+    "text": "你喜欢喝茶吗？",
+    "pinyin": "nǐ xǐhuān hē chá ma?"
+  },
+  {
+    "text": "我不喜欢喝茶。",
+    "pinyin": "wǒ bù xǐhuān hē chá."
+  },
+  {
+    "text": "请喝水。",
+    "pinyin": "qǐng hē shuǐ."
+  },
+  {
+    "text": "请坐下。",
+    "pinyin": "qǐng zuòxià."
+  },
+  {
+    "text": "谢谢你。",
+    "pinyin": "xièxie nǐ."
+  },
+  {
+    "text": "我明天有空。",
+    "pinyin": "wǒ míngtiān yǒu kōng."
+  },
+  {
+    "text": "我今天没空。",
+    "pinyin": "wǒ jīntiān méi kōng."
+  },
+  {
+    "text": "我去学校。",
+    "pinyin": "wǒ qù xuéxiào."
+  },
+  {
+    "text": "你来自哪里？",
+    "pinyin": "nǐ láizì nǎlǐ?"
+  },
+  {
+    "text": "我来自西班牙。",
+    "pinyin": "wǒ láizì Xībānyá."
+  },
+  {
+    "text": "我的书在这里。",
+    "pinyin": "wǒ de shū zài zhèlǐ."
+  },
+  {
+    "text": "你的手机在哪里？",
+    "pinyin": "nǐ de shǒujī zài nǎlǐ?"
+  },
+  {
+    "text": "我听不懂。",
+    "pinyin": "wǒ tīng bù dǒng."
+  },
+  {
+    "text": "你说什么？",
+    "pinyin": "nǐ shuō shénme?"
+  },
+  {
+    "text": "请再说一遍。",
+    "pinyin": "qǐng zài shuō yībiàn."
+  },
+  {
+    "text": "我需要帮助。",
+    "pinyin": "wǒ xūyào bāngzhù."
+  },
+  {
+    "text": "这是我的妈妈。",
+    "pinyin": "zhè shì wǒ de māma."
+  },
+  {
+    "text": "他是我爸爸。",
+    "pinyin": "tā shì wǒ bàba."
+  },
+  {
+    "text": "我们是朋友。",
+    "pinyin": "wǒmen shì péngyǒu."
+  },
+  {
+    "text": "我喜欢看电视。",
+    "pinyin": "wǒ xǐhuān kàn diànshì."
+  },
+  {
+    "text": "我喜欢听音乐。",
+    "pinyin": "wǒ xǐhuān tīng yīnyuè."
+  },
+  {
+    "text": "你几岁了？",
+    "pinyin": "nǐ jǐ suì le?"
+  },
+  {
+    "text": "我二十岁。",
+    "pinyin": "wǒ èrshí suì."
+  },
+  {
+    "text": "我有一个姐姐。",
+    "pinyin": "wǒ yǒu yī gè jiějie."
+  },
+  {
+    "text": "我没有哥哥。",
+    "pinyin": "wǒ méiyǒu gēge."
+  },
+  {
+    "text": "今天天气很好。",
+    "pinyin": "jīntiān tiānqì hěn hǎo."
+  },
+  {
+    "text": "明天会下雨。",
+    "pinyin": "míngtiān huì xiàyǔ."
+  },
+  {
+    "text": "我生病了。",
+    "pinyin": "wǒ shēngbìng le."
+  },
+  {
+    "text": "请帮我。",
+    "pinyin": "qǐng bāng wǒ."
+  },
+  {
+    "text": "我不知道。",
+    "pinyin": "wǒ bù zhīdào."
+  },
+  {
+    "text": "这是什么？",
+    "pinyin": "zhè shì shénme?"
+  },
+  {
+    "text": "那是什么？",
+    "pinyin": "nà shì shénme?"
+  },
+  {
+    "text": "我们走吧。",
+    "pinyin": "wǒmen zǒu ba."
+  },
+  {
+    "text": "再见。",
+    "pinyin": "zàijiàn."
+  },
+  {
+    "text": "你很棒。",
+    "pinyin": "nǐ hěn bàng."
+  },
+  {
+    "text": "我累了。",
+    "pinyin": "wǒ lèi le."
+  },
+  {
+    "text": "我饿了。",
+    "pinyin": "wǒ è le."
+  },
+  {
+    "text": "我困了。",
+    "pinyin": "wǒ kùn le."
+  },
+  {
+    "text": "今天星期几？",
+    "pinyin": "jīntiān xīngqī jǐ?"
+  },
+  {
+    "text": "今天星期四。",
+    "pinyin": "jīntiān xīngqīsì."
+  },
+  {
+    "text": "现在几点了？",
+    "pinyin": "xiànzài jǐ diǎn le?"
+  },
+  {
+    "text": "现在两点了。",
+    "pinyin": "xiànzài liǎng diǎn le."
+  },
+  {
+    "text": "你忙吗？",
+    "pinyin": "nǐ máng ma?"
+  },
+  {
+    "text": "我不忙。",
+    "pinyin": "wǒ bù máng."
+  },
+  {
+    "text": "我们去哪里？",
+    "pinyin": "wǒmen qù nǎlǐ?"
+  },
+  {
+    "text": "我们去购物。",
+    "pinyin": "wǒmen qù gòuwù."
+  },
+  {
+    "text": "这个多少钱？",
+    "pinyin": "zhège duōshao qián?"
+  },
+  {
+    "text": "太贵了。",
+    "pinyin": "tài guì le."
+  },
+  {
+    "text": "便宜一点。",
+    "pinyin": "piányi yī diǎn."
+  },
+  {
+    "text": "我买这个。",
+    "pinyin": "wǒ mǎi zhège."
+  },
+  {
+    "text": "我喜欢红色。",
+    "pinyin": "wǒ xǐhuān hóngsè."
+  },
+  {
+    "text": "我不喜欢蓝色。",
+    "pinyin": "wǒ bù xǐhuān lánsè."
+  },
+  {
+    "text": "我喜欢吃面条。",
+    "pinyin": "wǒ xǐhuān chī miàntiáo."
+  },
+  {
+    "text": "我喜欢喝咖啡。",
+    "pinyin": "wǒ xǐhuān hē kāfēi."
+  },
+  {
+    "text": "你喜欢中国菜吗？",
+    "pinyin": "nǐ xǐhuān Zhōngguó cài ma?"
+  },
+  {
+    "text": "我很喜欢。",
+    "pinyin": "wǒ hěn xǐhuān."
+  },
+  {
+    "text": "我有一个问题。",
+    "pinyin": "wǒ yǒu yī gè wèntí."
+  },
+  {
+    "text": "请问...",
+    "pinyin": "qǐngwèn..."
+  },
+  {
+    "text": "对不起。",
+    "pinyin": "duìbuqǐ."
+  },
+  {
+    "text": "没关系。",
+    "pinyin": "méi guānxi."
+  },
+  {
+    "text": "我明白了。",
+    "pinyin": "wǒ míngbai le."
+  },
+  {
+    "text": "我不明白。",
+    "pinyin": "wǒ bù míngbai."
+  },
+  {
+    "text": "我忘记了。",
+    "pinyin": "wǒ wàngjì le."
+  },
+  {
+    "text": "你有什么爱好？",
+    "pinyin": "nǐ yǒu shénme àihào?"
+  },
+  {
+    "text": "我喜欢看书。",
+    "pinyin": "wǒ xǐhuān kàn shū."
+  },
+  {
+    "text": "我喜欢运动。",
+    "pinyin": "wǒ xǐhuān yùndòng."
+  },
+  {
+    "text": "我很想你。",
+    "pinyin": "wǒ hěn xiǎng nǐ."
+  },
+  {
+    "text": "生日快乐！",
+    "pinyin": "shēngrì kuàilè!"
+  },
+  {
+    "text": "新年快乐！",
+    "pinyin": "xīnnián kuàilè!"
+  },
+  {
+    "text": "周末愉快！",
+    "pinyin": "zhōumò yúkuài!"
+  },
+  {
+    "text": "祝你成功。",
+    "pinyin": "zhù nǐ chénggōng."
+  },
+  {
+    "text": "祝你好运。",
+    "pinyin": "zhù nǐ hǎo yùn."
+  },
+  {
+    "text": "请给我一个。",
+    "pinyin": "qǐng gěi wǒ yī gè."
+  },
+  {
+    "text": "请给我水。",
+    "pinyin": "qǐng gěi wǒ shuǐ."
+  },
+  {
+    "text": "请等一下。",
+    "pinyin": "qǐng děng yīxià."
+  },
+  {
+    "text": "好的。",
+    "pinyin": "hǎo de."
+  }
+]
