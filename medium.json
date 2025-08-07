@@ -1,0 +1,407 @@
+Claro, aquí tienes 50 frases de nivel medio, enfocadas en el vocabulario y las estructuras de HSK 3.
+
+-----
+
+```json
+[
+  {
+    "text": "我喜欢和妈妈聊天。",
+    "pinyin": "wǒ xǐhuān hé māma liáotiān."
+  },
+  {
+    "text": "周末你有什么打算？",
+    "pinyin": "zhōumò nǐ yǒu shénme dǎsuàn?"
+  },
+  {
+    "text": "她复习汉语水平考试。",
+    "pinyin": "tā fùxí Hànyǔ Shuǐpíng Kǎoshì."
+  },
+  {
+    "text": "我每天都锻炼身体。",
+    "pinyin": "wǒ měitiān dōu duànliàn shēntǐ."
+  },
+  {
+    "text": "他开车去公司上班。",
+    "pinyin": "tā kāichē qù gōngsī shàngbān."
+  },
+  {
+    "text": "请把空调打开。",
+    "pinyin": "qǐng bǎ kōngtiáo dǎkāi."
+  },
+  {
+    "text": "这个房间很干净。",
+    "pinyin": "zhège fángjiān hěn gānjìng."
+  },
+  {
+    "text": "我打算去旅游。",
+    "pinyin": "wǒ dǎsuàn qù lǚyóu."
+  },
+  {
+    "text": "你的银行卡在哪里？",
+    "pinyin": "nǐ de yínhángkǎ zài nǎlǐ?"
+  },
+  {
+    "text": "他喜欢一边听音乐一边写作业。",
+    "pinyin": "tā xǐhuān yībiān tīng yīnyuè yībiān xiě zuòyè."
+  },
+  {
+    "text": "请问，去火车站怎么走？",
+    "pinyin": "qǐngwèn, qù huǒchēzhàn zěnme zǒu?"
+  },
+  {
+    "text": "我们应该多喝水。",
+    "pinyin": "wǒmen yīnggāi duō hē shuǐ."
+  },
+  {
+    "text": "你对什么感兴趣？",
+    "pinyin": "nǐ duì shénme gǎnxìngqù?"
+  },
+  {
+    "text": "我对历史很感兴趣。",
+    "pinyin": "wǒ duì lìshǐ hěn gǎnxìngqù."
+  },
+  {
+    "text": "你为什么来中国？",
+    "pinyin": "nǐ wèishénme lái Zhōngguó?"
+  },
+  {
+    "text": "因为我喜欢中国文化。",
+    "pinyin": "yīnwèi wǒ xǐhuān Zhōngguó wénhuà."
+  },
+  {
+    "text": "这个手机多少钱？",
+    "pinyin": "zhège shǒujī duōshǎo qián?"
+  },
+  {
+    "text": "他经常迟到。",
+    "pinyin": "tā jīngcháng chídào."
+  },
+  {
+    "text": "我希望你能来参加我的生日派对。",
+    "pinyin": "wǒ xīwàng nǐ néng lái cānjiā wǒ de shēngrì pàiduì."
+  },
+  {
+    "text": "请给我发电子邮件。",
+    "pinyin": "qǐng gěi wǒ fā diànzǐ yóujiàn."
+  },
+  {
+    "text": "我在网上买了很多东西。",
+    "pinyin": "wǒ zài wǎngshàng mǎi le hěn duō dōngxi."
+  },
+  {
+    "text": "他是一位非常优秀的老师。",
+    "pinyin": "tā shì yī wèi fēicháng yōuxiù de lǎoshī."
+  },
+  {
+    "text": "我打算换工作。",
+    "pinyin": "wǒ dǎsuàn huàn gōngzuò."
+  },
+  {
+    "text": "请把你的行李拿过来。",
+    "pinyin": "qǐng bǎ nǐ de xínglǐ ná guòlái."
+  },
+  {
+    "text": "这个饭馆的味道很好。",
+    "pinyin": "zhège fànguǎn de wèidào hěn hǎo."
+  },
+  {
+    "text": "请你帮我翻译一下。",
+    "pinyin": "qǐng nǐ bāng wǒ fānyì yīxià."
+  },
+  {
+    "text": "这个城市很漂亮。",
+    "pinyin": "zhège chéngshì hěn piàoliang."
+  },
+  {
+    "text": "我每天早上都喝牛奶。",
+    "pinyin": "wǒ měitiān zǎoshang dōu hē niúnǎi."
+  },
+  {
+    "text": "他总是很耐心。",
+    "pinyin": "tā zǒngshì hěn nàixīn."
+  },
+  {
+    "text": "你觉得怎么样？",
+    "pinyin": "nǐ juéde zěnmeyàng?"
+  },
+  {
+    "text": "我觉得还不错。",
+    "pinyin": "wǒ juéde hái búcuò."
+  },
+  {
+    "text": "我明天要参加一个会议。",
+    "pinyin": "wǒ míngtiān yào cānjiā yī gè huìyì."
+  },
+  {
+    "text": "请你相信我。",
+    "pinyin": "qǐng nǐ xiāngxìn wǒ."
+  },
+  {
+    "text": "我喜欢吃甜的东西。",
+    "pinyin": "wǒ xǐhuān chī tián de dōngxi."
+  },
+  {
+    "text": "他正在打电话。",
+    "pinyin": "tā zhèngzài dǎ diànhuà."
+  },
+  {
+    "text": "请把门关上。",
+    "pinyin": "qǐng bǎ mén guānshàng."
+  },
+  {
+    "text": "我希望你一切顺利。",
+    "pinyin": "wǒ xīwàng nǐ yīqiè shùnlì."
+  },
+  {
+    "text": "你有没有空陪我逛街？",
+    "pinyin": "nǐ yǒu méiyǒu kòng péi wǒ guàngjiē?"
+  },
+  {
+    "text": "我最近很忙。",
+    "pinyin": "wǒ zuìjìn hěn máng."
+  },
+  {
+    "text": "他是一名工程师。",
+    "pinyin": "tā shì yī míng gōngchéngshī."
+  },
+  {
+    "text": "我喜欢去海边散步。",
+    "pinyin": "wǒ xǐhuān qù hǎibiān sànbù."
+  },
+  {
+    "text": "你的爱好是什么？",
+    "pinyin": "nǐ de àihào shì shénme?"
+  },
+  {
+    "text": "我的爱好是看电影和听音乐。",
+    "pinyin": "wǒ de àihào shì kàn diànyǐng hé tīng yīnyuè."
+  },
+  {
+    "text": "请不要在这里抽烟。",
+    "pinyin": "qǐng búyào zài zhèlǐ chōuyān."
+  },
+  {
+    "text": "我每天都坐地铁上班。",
+    "pinyin": "wǒ měitiān dōu zuò dìtiě shàngbān."
+  },
+  {
+    "text": "他非常努力学习。",
+    "pinyin": "tā fēicháng nǔlì xuéxí."
+  },
+  {
+    "text": "你认识那个人吗？",
+    "pinyin": "nǐ rènshi nà gè rén ma?"
+  },
+  {
+    "text": "我不认识。",
+    "pinyin": "wǒ bú rènshi."
+  },
+  {
+    "text": "请问，这里可以拍照吗？",
+    "pinyin": "qǐngwèn, zhèlǐ kěyǐ pāizhào ma?"
+  },
+  {
+    "text": "我的手机没电了。",
+    "pinyin": "wǒ de shǒujī méi diàn le."
+  },
+  {
+    "text": "他很喜欢跟朋友们一起玩儿。",
+    "pinyin": "tā hěn xǐhuān gēn péngyoumen yīqǐ wánr."
+  },
+  {
+    "text": "我们正在讨论这个问题。",
+    "pinyin": "wǒmen zhèngzài tǎolùn zhège wèntí."
+  },
+  {
+    "text": "你对未来有什么计划？",
+    "pinyin": "nǐ duì wèilái yǒu shénme jìhuà?"
+  },
+  {
+    "text": "他比我大三岁。",
+    "pinyin": "tā bǐ wǒ dà sān suì."
+  },
+  {
+    "text": "我同意你的看法。",
+    "pinyin": "wǒ tóngyì nǐ de kànfǎ."
+  },
+  {
+    "text": "我不同意你的看法。",
+    "pinyin": "wǒ bù tóngyì nǐ de kànfǎ."
+  },
+  {
+    "text": "我需要买一些日用品。",
+    "pinyin": "wǒ xūyào mǎi yīxiē rìyòngpǐn."
+  },
+  {
+    "text": "请把这个文件打印出来。",
+    "pinyin": "qǐng bǎ zhège wénjiàn dǎyìn chūlái."
+  },
+  {
+    "text": "我昨天晚上睡得不好。",
+    "pinyin": "wǒ zuótiān wǎnshang shuì de bù hǎo."
+  },
+  {
+    "text": "我有一个好消息告诉你。",
+    "pinyin": "wǒ yǒu yī gè hǎo xiāoxi gàosù nǐ."
+  },
+  {
+    "text": "他正在准备明天的报告。",
+    "pinyin": "tā zhèngzài zhǔnbèi míngtiān de bàogào."
+  },
+  {
+    "text": "我很着急，请快点儿。",
+    "pinyin": "wǒ hěn zháojí, qǐng kuài diǎnr."
+  },
+  {
+    "text": "我每天早上都听广播。",
+    "pinyin": "wǒ měitiān zǎoshang dōu tīng guǎngbō."
+  },
+  {
+    "text": "他的汉语说得非常流利。",
+    "pinyin": "tā de Hànyǔ shuō de fēicháng liúlì."
+  },
+  {
+    "text": "我有一个习惯。",
+    "pinyin": "wǒ yǒu yī gè xíguàn."
+  },
+  {
+    "text": "请把你的手机放下。",
+    "pinyin": "qǐng bǎ nǐ de shǒujī fàngxià."
+  },
+  {
+    "text": "我希望你能找到一份好工作。",
+    "pinyin": "wǒ xīwàng nǐ néng zhǎodào yī fèn hǎo gōngzuò."
+  },
+  {
+    "text": "我昨天没去上课。",
+    "pinyin": "wǒ zuótiān méi qù shàngkè."
+  },
+  {
+    "text": "这个房间有点儿乱。",
+    "pinyin": "zhège fángjiān yǒudiǎnr luàn."
+  },
+  {
+    "text": "请你帮我把门打开。",
+    "pinyin": "qǐng nǐ bāng wǒ bǎ mén dǎkāi."
+  },
+  {
+    "text": "我最喜欢吃饺子。",
+    "pinyin": "wǒ zuì xǐhuān chī jiǎozi."
+  },
+  {
+    "text": "你有没有什么好的建议？",
+    "pinyin": "nǐ yǒu méiyǒu shénme hǎo de jiànyì?"
+  },
+  {
+    "text": "这件衣服太小了。",
+    "pinyin": "zhè jiàn yīfu tài xiǎo le."
+  },
+  {
+    "text": "我打算去爬山。",
+    "pinyin": "wǒ dǎsuàn qù páshān."
+  },
+  {
+    "text": "我们一起去运动吧。",
+    "pinyin": "wǒmen yīqǐ qù yùndòng ba."
+  },
+  {
+    "text": "你的书包太重了。",
+    "pinyin": "nǐ de shūbāo tài zhòng le."
+  },
+  {
+    "text": "他是一个很幽默的人。",
+    "pinyin": "tā shì yī gè hěn yōumò de rén."
+  },
+  {
+    "text": "我希望我们能成为好朋友。",
+    "pinyin": "wǒ xīwàng wǒmen néng chéngwéi hǎo péngyǒu."
+  },
+  {
+    "text": "我喜欢去图书馆看书。",
+    "pinyin": "wǒ xǐhuān qù túshūguǎn kànshū."
+  },
+  {
+    "text": "请你认真听。",
+    "pinyin": "qǐng nǐ rènzhēn tīng."
+  },
+  {
+    "text": "我不知道怎么去。",
+    "pinyin": "wǒ bù zhīdào zěnme qù."
+  },
+  {
+    "text": "我感觉好多了。",
+    "pinyin": "wǒ gǎnjué hǎo duō le."
+  },
+  {
+    "text": "我有点儿紧张。",
+    "pinyin": "wǒ yǒudiǎnr jǐnzhāng."
+  },
+  {
+    "text": "你觉得这个主意怎么样？",
+    "pinyin": "nǐ juéde zhège zhǔyì zěnmeyàng?"
+  },
+  {
+    "text": "这个主意很好。",
+    "pinyin": "zhège zhǔyì hěn hǎo."
+  },
+  {
+    "text": "我正在学习中文。",
+    "pinyin": "wǒ zhèngzài xuéxí Zhōngwén."
+  },
+  {
+    "text": "我们下次再见吧。",
+    "pinyin": "wǒmen xià cì zàijiàn ba."
+  },
+  {
+    "text": "请你帮我把这个盒子搬到楼下。",
+    "pinyin": "qǐng nǐ bāng wǒ bǎ zhège hézi bān dào lóuxià."
+  },
+  {
+    "text": "他是一个很善良的人。",
+    "pinyin": "tā shì yī gè hěn shànliáng de rén."
+  },
+  {
+    "text": "我最喜欢夏天。",
+    "pinyin": "wǒ zuì xǐhuān xiàtiān."
+  },
+  {
+    "text": "我最喜欢冬天。",
+    "pinyin": "wǒ zuì xǐhuān dōngtiān."
+  },
+  {
+    "text": "我的电脑坏了。",
+    "pinyin": "wǒ de diànnǎo huài le."
+  },
+  {
+    "text": "请你来我家做客。",
+    "pinyin": "qǐng nǐ lái wǒ jiā zuòkè."
+  },
+  {
+    "text": "我很想去旅行。",
+    "pinyin": "wǒ hěn xiǎng qù lǚxíng."
+  },
+  {
+    "text": "他是一位有名的演员。",
+    "pinyin": "tā shì yī wèi yǒumíng de yǎnyuán."
+  },
+  {
+    "text": "我们已经很久没见了。",
+    "pinyin": "wǒmen yǐjīng hěn jiǔ méi jiàn le."
+  },
+  {
+    "text": "我很喜欢这个地方。",
+    "pinyin": "wǒ hěn xǐhuān zhège dìfāng."
+  },
+  {
+    "text": "请你小心。",
+    "pinyin": "qǐng nǐ xiǎoxīn."
+  },
+  {
+    "text": "祝你旅途愉快。",
+    "pinyin": "zhù nǐ lǚtú yúkuài."
+  },
+  {
+    "text": "我有一个问题想问你。",
+    "pinyin": "wǒ yǒu yī gè wèntí xiǎng wèn nǐ."
+  }
+]
