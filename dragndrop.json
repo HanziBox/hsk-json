@@ -732,7 +732,8 @@
       { "hanzi": "喜欢", "pinyin": "xǐhuan" },
       { "hanzi": "什么", "pinyin": "shénme" },
       { "hanzi": "颜色", "pinyin": "yánsè" }
-    ],
+    ]
+  ],
   "hard": [
     [
       { "hanzi": "我", "pinyin": "wǒ" },
@@ -1136,5 +1137,6 @@
   ]
 }
     
+
 
 
