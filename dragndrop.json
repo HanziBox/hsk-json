@@ -314,6 +314,7 @@
       { "hanzi": "我们", "pinyin": "wǒmen" },
       { "hanzi": "明天", "pinyin": "míngtiān" },
       { "hanzi": "见", "pinyin": "jiàn" }
+    ]
     ],
   "medium": [
     [
@@ -1135,3 +1136,4 @@
   ]
 }
     
+
