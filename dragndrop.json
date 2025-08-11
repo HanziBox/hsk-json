@@ -1412,6 +1412,10 @@
                 {
                     "hanzi": "太旧",
                     "pinyin": "tài jiù"
+                },
+                {
+                    "hanzi": "了",
+                    "pinyin": "le"
                 }
             ],
             "translation": "Quiero cambiar a un nuevo teléfono, este es muy viejo."
@@ -4824,5 +4828,6 @@
         }
     ]
 }
+
 
 
