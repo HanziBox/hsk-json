@@ -3,8 +3,184 @@
         {
             "words": [
                 {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "好",
+                    "pinyin": "hǎo"
+                }
+            ],
+            "translation": "Hola."
+        },
+        {
+            "words": [
+                {
                     "hanzi": "我",
                     "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "喜欢",
+                    "pinyin": "xǐhuān"
+                },
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                }
+            ],
+            "translation": "Me gustas."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "谢谢",
+                    "pinyin": "xièxiè"
+                },
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                }
+            ],
+            "translation": "Gracias."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "再见",
+                    "pinyin": "zàijiàn"
+                }
+            ],
+            "translation": "Adiós."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "对不起",
+                    "pinyin": "duìbùqǐ"
+                }
+            ],
+            "translation": "Lo siento."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "没关系",
+                    "pinyin": "méi guānxi"
+                }
+            ],
+            "translation": "No importa."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "爱",
+                    "pinyin": "ài"
+                },
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                }
+            ],
+            "translation": "Te amo."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "是",
+                    "pinyin": "shì"
+                },
+                {
+                    "hanzi": "谁",
+                    "pinyin": "shéi"
+                }
+            ],
+            "translation": "¿Quién eres?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "她",
+                    "pinyin": "tā"
+                },
+                {
+                    "hanzi": "很",
+                    "pinyin": "hěn"
+                },
+                {
+                    "hanzi": "漂亮",
+                    "pinyin": "piàoliang"
+                }
+            ],
+            "translation": "Ella es muy bonita."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "很",
+                    "pinyin": "hěn"
+                },
+                {
+                    "hanzi": "忙",
+                    "pinyin": "máng"
+                }
+            ],
+            "translation": "Estoy muy ocupado."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "叫",
+                    "pinyin": "jiào"
+                },
+                {
+                    "hanzi": "什么",
+                    "pinyin": "shénme"
+                },
+                {
+                    "hanzi": "名字",
+                    "pinyin": "míngzi"
+                }
+            ],
+            "translation": "¿Cómo te llamas?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "想",
+                    "pinyin": "xiǎng"
+                },
+                {
+                    "hanzi": "睡觉",
+                    "pinyin": "shuìjiào"
+                }
+            ],
+            "translation": "Quiero dormir."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
                 },
                 {
                     "hanzi": "是",
@@ -13,9 +189,85 @@
                 {
                     "hanzi": "学生",
                     "pinyin": "xuésheng"
+                },
+                {
+                    "hanzi": "吗",
+                    "pinyin": "ma"
                 }
             ],
-            "translation": "Soy estudiante."
+            "translation": "¿Eres estudiante?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "是",
+                    "pinyin": "shì"
+                },
+                {
+                    "hanzi": "老师",
+                    "pinyin": "lǎoshī"
+                }
+            ],
+            "translation": "Soy profesor."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "她",
+                    "pinyin": "tā"
+                },
+                {
+                    "hanzi": "很",
+                    "pinyin": "hěn"
+                },
+                {
+                    "hanzi": "高兴",
+                    "pinyin": "gāoxìng"
+                }
+            ],
+            "translation": "Ella está muy contenta."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "吃",
+                    "pinyin": "chī"
+                },
+                {
+                    "hanzi": "了",
+                    "pinyin": "le"
+                },
+                {
+                    "hanzi": "吗",
+                    "pinyin": "ma"
+                }
+            ],
+            "translation": "¿Ya comiste?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "喝",
+                    "pinyin": "hē"
+                },
+                {
+                    "hanzi": "水",
+                    "pinyin": "shuǐ"
+                }
+            ],
+            "translation": "Bebo agua."
         },
         {
             "words": [
@@ -24,8 +276,460 @@
                     "pinyin": "tā"
                 },
                 {
-                    "hanzi": "爱",
-                    "pinyin": "ài"
+                    "hanzi": "是",
+                    "pinyin": "shì"
+                },
+                {
+                    "hanzi": "医生",
+                    "pinyin": "yīshēng"
+                }
+            ],
+            "translation": "Él es médico."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "去",
+                    "pinyin": "qù"
+                },
+                {
+                    "hanzi": "哪里",
+                    "pinyin": "nǎlǐ"
+                }
+            ],
+            "translation": "¿A dónde vas?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "回家",
+                    "pinyin": "huí jiā"
+                }
+            ],
+            "translation": "Voy a casa."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "今天",
+                    "pinyin": "jīntiān"
+                },
+                {
+                    "hanzi": "天气",
+                    "pinyin": "tiānqì"
+                },
+                {
+                    "hanzi": "很",
+                    "pinyin": "hěn"
+                },
+                {
+                    "hanzi": "好",
+                    "pinyin": "hǎo"
+                }
+            ],
+            "translation": "Hoy hace buen tiempo."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "昨天",
+                    "pinyin": "zuótiān"
+                },
+                {
+                    "hanzi": "很",
+                    "pinyin": "hěn"
+                },
+                {
+                    "hanzi": "冷",
+                    "pinyin": "lěng"
+                }
+            ],
+            "translation": "Ayer hizo mucho frío."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "明天",
+                    "pinyin": "míngtiān"
+                },
+                {
+                    "hanzi": "会",
+                    "pinyin": "huì"
+                },
+                {
+                    "hanzi": "下雨",
+                    "pinyin": "xià yǔ"
+                }
+            ],
+            "translation": "Mañana lloverá."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "这",
+                    "pinyin": "zhè"
+                },
+                {
+                    "hanzi": "本",
+                    "pinyin": "běn"
+                },
+                {
+                    "hanzi": "书",
+                    "pinyin": "shū"
+                },
+                {
+                    "hanzi": "很",
+                    "pinyin": "hěn"
+                },
+                {
+                    "hanzi": "好",
+                    "pinyin": "hǎo"
+                }
+            ],
+            "translation": "Este libro es muy bueno."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "那个",
+                    "pinyin": "nàgè"
+                },
+                {
+                    "hanzi": "包",
+                    "pinyin": "bāo"
+                },
+                {
+                    "hanzi": "很",
+                    "pinyin": "hěn"
+                },
+                {
+                    "hanzi": "重",
+                    "pinyin": "zhòng"
+                }
+            ],
+            "translation": "Esa bolsa es muy pesada."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "多少",
+                    "pinyin": "duōshao"
+                },
+                {
+                    "hanzi": "钱",
+                    "pinyin": "qián"
+                }
+            ],
+            "translation": "¿Cuánto cuesta?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "太",
+                    "pinyin": "tài"
+                },
+                {
+                    "hanzi": "贵",
+                    "pinyin": "guì"
+                },
+                {
+                    "hanzi": "了",
+                    "pinyin": "le"
+                }
+            ],
+            "translation": "Demasiado caro."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "多",
+                    "pinyin": "duō"
+                },
+                {
+                    "hanzi": "大",
+                    "pinyin": "dà"
+                },
+                {
+                    "hanzi": "了",
+                    "pinyin": "le"
+                }
+            ],
+            "translation": "¿Cuántos años tienes?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "二十",
+                    "pinyin": "èrshí"
+                },
+                {
+                    "hanzi": "岁",
+                    "pinyin": "suì"
+                }
+            ],
+            "translation": "Tengo veinte años."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "会",
+                    "pinyin": "huì"
+                },
+                {
+                    "hanzi": "说",
+                    "pinyin": "shuō"
+                },
+                {
+                    "hanzi": "中文",
+                    "pinyin": "Zhōngwén"
+                }
+            ],
+            "translation": "Puedo hablar chino."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "不",
+                    "pinyin": "bù"
+                },
+                {
+                    "hanzi": "会",
+                    "pinyin": "huì"
+                },
+                {
+                    "hanzi": "说",
+                    "pinyin": "shuō"
+                },
+                {
+                    "hanzi": "日语",
+                    "pinyin": "Rìyǔ"
+                }
+            ],
+            "translation": "No puedo hablar japonés."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "想",
+                    "pinyin": "xiǎng"
+                },
+                {
+                    "hanzi": "喝",
+                    "pinyin": "hē"
+                },
+                {
+                    "hanzi": "什么",
+                    "pinyin": "shénme"
+                }
+            ],
+            "translation": "¿Qué quieres beber?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "要",
+                    "pinyin": "yào"
+                },
+                {
+                    "hanzi": "一",
+                    "pinyin": "yì"
+                },
+                {
+                    "hanzi": "杯",
+                    "pinyin": "bēi"
+                },
+                {
+                    "hanzi": "咖啡",
+                    "pinyin": "kāfēi"
+                }
+            ],
+            "translation": "Quiero una taza de café."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "早上",
+                    "pinyin": "zǎoshang"
+                },
+                {
+                    "hanzi": "好",
+                    "pinyin": "hǎo"
+                }
+            ],
+            "translation": "Buenos días."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "晚上",
+                    "pinyin": "wǎnshang"
+                },
+                {
+                    "hanzi": "好",
+                    "pinyin": "hǎo"
+                }
+            ],
+            "translation": "Buenas noches."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "来自",
+                    "pinyin": "láizì"
+                },
+                {
+                    "hanzi": "哪里",
+                    "pinyin": "nǎlǐ"
+                }
+            ],
+            "translation": "¿De dónde eres?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "来自",
+                    "pinyin": "láizì"
+                },
+                {
+                    "hanzi": "西班牙",
+                    "pinyin": "Xībānyá"
+                }
+            ],
+            "translation": "Soy de España."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "请",
+                    "pinyin": "qǐng"
+                },
+                {
+                    "hanzi": "再",
+                    "pinyin": "zài"
+                },
+                {
+                    "hanzi": "说",
+                    "pinyin": "shuō"
+                },
+                {
+                    "hanzi": "一",
+                    "pinyin": "yí"
+                },
+                {
+                    "hanzi": "遍",
+                    "pinyin": "biàn"
+                }
+            ],
+            "translation": "Por favor, dilo de nuevo."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "听",
+                    "pinyin": "tīng"
+                },
+                {
+                    "hanzi": "不懂",
+                    "pinyin": "bù dǒng"
+                }
+            ],
+            "translation": "No entiendo."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "请问",
+                    "pinyin": "qǐngwèn"
+                },
+                {
+                    "hanzi": "洗手间",
+                    "pinyin": "xǐshǒujiān"
+                },
+                {
+                    "hanzi": "在",
+                    "pinyin": "zài"
+                },
+                {
+                    "hanzi": "哪儿",
+                    "pinyin": "nǎr"
+                }
+            ],
+            "translation": "Disculpe, ¿dónde está el baño?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "祝",
+                    "pinyin": "zhù"
+                },
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "生日",
+                    "pinyin": "shēngrì"
+                },
+                {
+                    "hanzi": "快乐",
+                    "pinyin": "kuàilè"
+                }
+            ],
+            "translation": "Feliz cumpleaños."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "喜欢",
+                    "pinyin": "xǐhuān"
                 },
                 {
                     "hanzi": "吃",
@@ -36,7 +740,133 @@
                     "pinyin": "mǐfàn"
                 }
             ],
-            "translation": "A él le encanta comer arroz."
+            "translation": "Me gusta comer arroz."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "你",
+                    "pinyin": "nǐ"
+                },
+                {
+                    "hanzi": "有",
+                    "pinyin": "yǒu"
+                },
+                {
+                    "hanzi": "兄弟",
+                    "pinyin": "xiōngdì"
+                },
+                {
+                    "hanzi": "姐妹",
+                    "pinyin": "jiěmèi"
+                },
+                {
+                    "hanzi": "吗",
+                    "pinyin": "ma"
+                }
+            ],
+            "translation": "¿Tienes hermanos?"
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "有",
+                    "pinyin": "yǒu"
+                },
+                {
+                    "hanzi": "一",
+                    "pinyin": "yí"
+                },
+                {
+                    "hanzi": "个",
+                    "pinyin": "ge"
+                },
+                {
+                    "hanzi": "妹妹",
+                    "pinyin": "mèimei"
+                }
+            ],
+            "translation": "Tengo una hermana menor."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "没有",
+                    "pinyin": "méiyǒu"
+                },
+                {
+                    "hanzi": "兄弟",
+                    "pinyin": "xiōngdì"
+                }
+            ],
+            "translation": "No tengo hermanos (varones)."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "去",
+                    "pinyin": "qù"
+                },
+                {
+                    "hanzi": "商店",
+                    "pinyin": "shāngdiàn"
+                }
+            ],
+            "translation": "Voy a la tienda."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "他",
+                    "pinyin": "tā"
+                },
+                {
+                    "hanzi": "在",
+                    "pinyin": "zài"
+                },
+                {
+                    "hanzi": "看",
+                    "pinyin": "kàn"
+                },
+                {
+                    "hanzi": "电视",
+                    "pinyin": "diànshì"
+                }
+            ],
+            "translation": "Él está viendo la televisión."
+        },
+        {
+            "words": [
+                {
+                    "hanzi": "我",
+                    "pinyin": "wǒ"
+                },
+                {
+                    "hanzi": "想",
+                    "pinyin": "xiǎng"
+                },
+                {
+                    "hanzi": "学",
+                    "pinyin": "xué"
+                },
+                {
+                    "hanzi": "中文",
+                    "pinyin": "Zhōngwén"
+                }
+            ],
+            "translation": "Quiero aprender chino."
         },
         {
             "words": [
@@ -49,53 +879,32 @@
                     "pinyin": "shì"
                 },
                 {
-                    "hanzi": "我",
-                    "pinyin": "wǒ"
-                },
-                {
-                    "hanzi": "的",
-                    "pinyin": "de"
-                },
-                {
-                    "hanzi": "书",
-                    "pinyin": "shū"
+                    "hanzi": "什么",
+                    "pinyin": "shénme"
                 }
             ],
-            "translation": "Este es mi libro."
+            "translation": "¿Qué es esto?"
         },
         {
             "words": [
+                {
+                    "hanzi": "很",
+                    "pinyin": "hěn"
+                },
+                {
+                    "hanzi": "高兴",
+                    "pinyin": "gāoxìng"
+                },
+                {
+                    "hanzi": "认识",
+                    "pinyin": "rènshì"
+                },
                 {
                     "hanzi": "你",
                     "pinyin": "nǐ"
-                },
-                {
-                    "hanzi": "好",
-                    "pinyin": "hǎo"
-                },
-                {
-                    "hanzi": "吗",
-                    "pinyin": "ma"
                 }
             ],
-            "translation": "¿Estás bien?"
-        },
-        {
-            "words": [
-                {
-                    "hanzi": "我们",
-                    "pinyin": "wǒmen"
-                },
-                {
-                    "hanzi": "去",
-                    "pinyin": "qù"
-                },
-                {
-                    "hanzi": "商店",
-                    "pinyin": "shāngdiàn"
-                }
-            ],
-            "translation": "Vamos a la tienda."
+            "translation": "Encantado de conocerte."
         }
     ],
     "medium": [
@@ -393,3 +1202,4 @@
         }
     ]
 }
+
