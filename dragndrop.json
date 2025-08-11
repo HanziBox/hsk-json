@@ -374,7 +374,7 @@
                 {
                     "hanzi": "水",
                     "pinyin": "shuǐ"
-                },
+                }
             ],
             "translation": "Quiero beber agua."
         },
@@ -4832,6 +4832,7 @@
         }
     ]
 }
+
 
 
 
