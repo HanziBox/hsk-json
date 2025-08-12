@@ -36,7 +36,8 @@
                 { "hanzi": "打电话,", "pinyin": "dǎ diànhuà," },
                 { "hanzi": "但", "pinyin": "dàn" },
                 { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "不知道", "pinyin": "bù zhīdào" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "知道", "pinyin": "zhīdào" },
                 { "hanzi": "是", "pinyin": "shì" },
                 { "hanzi": "谁", "pinyin": "shuí" }
             ],
@@ -823,5 +824,6 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
