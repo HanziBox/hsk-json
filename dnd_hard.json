@@ -84,19 +84,6 @@
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "想", "pinyin": "xiǎng" },
-                { "hanzi": "在", "pinyin": "zài" },
-                { "hanzi": "睡觉", "pinyin": "shuìjiào" },
-                { "hanzi": "前", "pinyin": "qián" },
-                { "hanzi": "吃", "pinyin": "chī" },
-                { "hanzi": "点", "pinyin": "diǎn" },
-                { "hanzi": "东西", "pinyin": "dōngxi" }
-            ],
-            "translation": "Quiero comer algo antes de dormir."
-        },
-        {
-            "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "已经", "pinyin": "yǐjīng" },
                 { "hanzi": "把", "pinyin": "bǎ" },
                 { "hanzi": "一切", "pinyin": "yīqiè" },
@@ -824,6 +811,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
