@@ -563,15 +563,6 @@
         },
         {
             "words": [
-                { "hanzi": "房间", "pinyin": "fángjiān" },
-                { "hanzi": "里", "pinyin": "lǐ" },
-                { "hanzi": "没有", "pinyin": "méiyǒu" },
-                { "hanzi": "人", "pinyin": "rén" }
-            ],
-            "translation": "No hay nadie en la habitación."
-        },
-        {
-            "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "一定", "pinyin": "yīdìng" },
                 { "hanzi": "要", "pinyin": "yào" },
@@ -1389,6 +1380,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
