@@ -3,6 +3,203 @@
   {
    "words": [
     {
+   "words": [
+    {
+     "hanzi": "我",
+     "pinyin": "wǒ"
+    },
+    {
+     "hanzi": "不",
+     "pinyin": "bù"
+    },
+    {
+     "hanzi": "想",
+     "pinyin": "xiǎng"
+    },
+    {
+     "hanzi": "做",
+     "pinyin": "zuò"
+    },
+    {
+     "hanzi": "这个",
+     "pinyin": "zhège"
+    }
+   ],
+   "translation": "No quiero hacer esto."
+  },
+  {
+   "words": [
+    {
+     "hanzi": "把",
+     "pinyin": "bǎ"
+    },
+    {
+     "hanzi": "书",
+     "pinyin": "shū"
+    },
+    {
+     "hanzi": "给",
+     "pinyin": "gěi"
+    },
+    {
+     "hanzi": "我",
+     "pinyin": "wǒ"
+    }
+   ],
+   "translation": "Dame el libro."
+  },
+  {
+   "words": [
+    {
+     "hanzi": "他",
+     "pinyin": "tā"
+    },
+    {
+     "hanzi": "告诉",
+     "pinyin": "gàosù"
+    },
+    {
+     "hanzi": "了",
+     "pinyin": "le"
+    },
+    {
+     "hanzi": "我",
+     "pinyin": "wǒ"
+    }
+   ],
+   "translation": "Me lo dijo."
+  },
+  {
+   "words": [
+    {
+     "hanzi": "家里",
+     "pinyin": "jiālǐ"
+    },
+    {
+     "hanzi": "很",
+     "pinyin": "hěn"
+    },
+    {
+     "hanzi": "冷",
+     "pinyin": "lěng"
+    }
+   ],
+   "translation": "Hace mucho frío en casa."
+  },
+  {
+   "words": [
+    {
+     "hanzi": "我",
+     "pinyin": "wǒ"
+    },
+    {
+     "hanzi": "有",
+     "pinyin": "yǒu"
+    },
+    {
+     "hanzi": "一",
+     "pinyin": "yì"
+    },
+    {
+     "hanzi": "点",
+     "pinyin": "diǎn"
+    },
+    {
+     "hanzi": "钱",
+     "pinyin": "qián"
+    }
+   ],
+   "translation": "Tengo un poco de dinero."
+  },
+  {
+   "words": [
+    {
+     "hanzi": "她",
+     "pinyin": "tā"
+    },
+    {
+     "hanzi": "还",
+     "pinyin": "hái"
+    },
+    {
+     "hanzi": "没",
+     "pinyin": "méi"
+    },
+    {
+     "hanzi": "到",
+     "pinyin": "dào"
+    }
+   ],
+   "translation": "Todavía no ha llegado."
+  },
+  {
+   "words": [
+    {
+     "hanzi": "我",
+     "pinyin": "wǒ"
+    },
+    {
+     "hanzi": "要",
+     "pinyin": "yào"
+    },
+    {
+     "hanzi": "红色",
+     "pinyin": "hóngsè"
+    },
+    {
+     "hanzi": "的",
+     "pinyin": "de"
+    }
+   ],
+   "translation": "Quiero el de color rojo."
+  },
+  {
+   "words": [
+    {
+     "hanzi": "我",
+     "pinyin": "wǒ"
+    },
+    {
+     "hanzi": "有",
+     "pinyin": "yǒu"
+    },
+    {
+     "hanzi": "三",
+     "pinyin": "sān"
+    },
+    {
+     "hanzi": "个",
+     "pinyin": "gè"
+    },
+    {
+     "hanzi": "孩子",
+     "pinyin": "háizi"
+    }
+   ],
+   "translation": "Tengo tres hijos."
+  },
+  {
+   "words": [
+    {
+     "hanzi": "我的",
+     "pinyin": "wǒde"
+    },
+    {
+     "hanzi": "父母",
+     "pinyin": "fùmǔ"
+    },
+    {
+     "hanzi": "很",
+     "pinyin": "hěn"
+    },
+    {
+     "hanzi": "幸福",
+     "pinyin": "xìngfú"
+    }
+   ],
+   "translation": "Mis padres son muy felices."
+    },
+    {
      "hanzi": "我",
      "pinyin": "wǒ"
     },
