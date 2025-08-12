@@ -178,7 +178,7 @@
                 { "hanzi": "画儿", "pinyin": "huàr" },
                 { "hanzi": "来", "pinyin": "lái" }
             ],
-            "translation": "Tu hermana te trajo un cuadro."
+            "translation": "Tu hermana (mayor) te trajo un cuadro."
         },
         {
             "words": [
@@ -359,7 +359,7 @@
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "妹妹?", "pinyin": "mèimei?" }
             ],
-            "translation": "¿Cómo sabes que ella es mi hermana menor?"
+            "translation": "¿Cómo sabes que ella es mi hermana (menor)?"
         },
         {
             "words": [
@@ -401,7 +401,7 @@
                 { "hanzi": "我的", "pinyin": "wǒ de" },
                 { "hanzi": "妹妹", "pinyin": "mèimei" }
             ],
-            "translation": "Tienen que encontrar a mi hermana menor."
+            "translation": "Tienen que encontrar a mi hermana (menor)."
         },
         {
             "words": [
@@ -1380,6 +1380,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
