@@ -8,6 +8,44 @@
         }
       ],
       "translation": "Prueba"
+    },
+    {
+      "words": [
+        {
+          "hanzi": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "hanzi": "喜欢",
+          "pinyin": "xǐhuān"
+        },
+        {
+          "hanzi": "学",
+          "pinyin": "xué"
+        },
+        {
+          "hanzi": "中文",
+          "pinyin": "zhōngwén"
+        }
+      ],
+      "translation": "Me gusta estudiar chino."
+    },
+    {
+      "words": [
+        {
+          "hanzi": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "hanzi": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "hanzi": "吗",
+          "pinyin": "ma"
+        }
+      ],
+      "translation": "¿Estás bien?"
     }
   ]
 }
