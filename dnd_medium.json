@@ -523,15 +523,6 @@
         },
         {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "什么", "pinyin": "shénme" },
-                { "hanzi": "都", "pinyin": "dōu" },
-                { "hanzi": "没有", "pinyin": "méiyǒu" }
-            ],
-            "translation": "No tengo nada."
-        },
-        {
-            "words": [
                 { "hanzi": "房间", "pinyin": "fángjiān" },
                 { "hanzi": "里", "pinyin": "lǐ" },
                 { "hanzi": "没有", "pinyin": "méiyǒu" },
@@ -1358,6 +1349,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
