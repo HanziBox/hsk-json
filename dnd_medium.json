@@ -258,15 +258,6 @@
         },
         {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "怎么", "pinyin": "zěnme" },
-                { "hanzi": "能", "pinyin": "néng" },
-                { "hanzi": "确定?", "pinyin": "quèdìng?" }
-            ],
-            "translation": "¿Cómo puedo estar seguro?"
-        },
-        {
-            "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "不", "pinyin": "bù" },
                 { "hanzi": "知道", "pinyin": "zhīdào" },
@@ -1381,6 +1372,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
