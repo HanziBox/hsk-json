@@ -59,12 +59,12 @@
                             "pinyin": "gàosù"
                         },
                         {
-                            "hanzi": "我",
-                            "pinyin": "wǒ"
-                        }
-                                                {
                             "hanzi": "了",
                             "pinyin": "le"
+                        },
+                        {
+                            "hanzi": "我",
+                            "pinyin": "wǒ"
                         }
                     ],
                     "translation": "Me lo dijo."
@@ -7508,5 +7508,4 @@
             "translation": "Planeamos ir a Shanghái el próximo mes para asistir a una exposición."
         }
     ]
-
 }
