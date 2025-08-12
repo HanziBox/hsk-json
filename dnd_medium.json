@@ -205,21 +205,6 @@
         },
         {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "不", "pinyin": "bù" },
-                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
-                { "hanzi": "别人", "pinyin": "biérén" },
-                { "hanzi": "对", "pinyin": "duì" },
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "说", "pinyin": "shuō" },
-                { "hanzi": "好听", "pinyin": "hǎotīng" },
-                { "hanzi": "的", "pinyin": "de" },
-                { "hanzi": "话", "pinyin": "huà" }
-            ],
-            "translation": "No me gusta que la gente me diga cosas bonitas."
-        },
-        {
-            "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "觉得", "pinyin": "juéde" },
                 { "hanzi": "他", "pinyin": "tā" },
@@ -1381,4 +1366,5 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
