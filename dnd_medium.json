@@ -109,7 +109,8 @@
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "要买", "pinyin": "yāomǎi" },
+                { "hanzi": "要", "pinyin": "yāo" },
+                { "hanzi": "买", "pinyin": "mǎi" },
                 { "hanzi": "一个", "pinyin": "yīgè" },
                 { "hanzi": "最", "pinyin": "zuì" },
                 { "hanzi": "漂亮", "pinyin": "piàoliang" },
@@ -1357,6 +1358,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
