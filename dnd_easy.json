@@ -7,7 +7,16 @@
             ],
             "translation": "Me gustan ellas."
         },
-          {
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "什么", "pinyin": "shénme" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "没有", "pinyin": "méiyǒu" }
+            ],
+            "translation": "No tengo nada."
+        },
+        {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
       { "hanzi": "不", "pinyin": "bù" },
@@ -596,6 +605,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
