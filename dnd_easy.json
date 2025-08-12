@@ -1,5 +1,4 @@
-{
-    "easy": [
+[
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -493,6 +492,4 @@
                 { "hanzi": "朋友", "pinyin": "péngyǒu" }
             ],
             "translation": "Tengo muchos amigos."
-        }
-    ]
-}
+]
