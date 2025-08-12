@@ -9,6 +9,15 @@
         },
         {
             "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "怎么", "pinyin": "zěnme" },
+                { "hanzi": "能", "pinyin": "néng" },
+                { "hanzi": "确定?", "pinyin": "quèdìng?" }
+            ],
+            "translation": "¿Cómo puedo estar seguro?"
+        },
+        {
+            "words": [
                 { "hanzi": "房间", "pinyin": "fángjiān" },
                 { "hanzi": "里", "pinyin": "lǐ" },
                 { "hanzi": "没有", "pinyin": "méiyǒu" },
@@ -623,6 +632,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
