@@ -1,0 +1,1394 @@
+{
+    "medium": [
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "做", "pinyin": "zuò" },
+                { "hanzi": "过", "pinyin": "guò" },
+                { "hanzi": "很多", "pinyin": "hěnduō" },
+                { "hanzi": "工作", "pinyin": "gōngzuò" }
+            ],
+            "translation": "He tenido muchos trabajos."
+        },
+        {
+            "words": [
+                { "hanzi": "她", "pinyin": "tā" },
+                { "hanzi": "下个月", "pinyin": "xià gè yuè" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "墨西哥", "pinyin": "Mòxīgē" }
+            ],
+            "translation": "Ella va a México el mes que viene."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "明天", "pinyin": "míngtiān" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "办公室", "pinyin": "bàngōngshì" },
+                { "hanzi": "睡觉", "pinyin": "shuìjiào" }
+            ],
+            "translation": "Mañana dormimos en la oficina."
+        },
+        {
+            "words": [
+                { "hanzi": "办公室", "pinyin": "bàngōngshì" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "人", "pinyin": "rén" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "知道", "pinyin": "zhīdào" }
+            ],
+            "translation": "Todos en la oficina lo saben."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "明天", "pinyin": "míngtiān" },
+                { "hanzi": "下午", "pinyin": "xiàwǔ" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "公园", "pinyin": "gōngyuán" },
+                { "hanzi": "运动", "pinyin": "yùndòng" }
+            ],
+            "translation": "Mañana por la tarde haremos ejercicio en el parque."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "问", "pinyin": "wèn" },
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "为什么", "pinyin": "wèishéme" },
+                { "hanzi": "回来", "pinyin": "huílái" },
+                { "hanzi": "这么", "pinyin": "zhème" },
+                { "hanzi": "晚", "pinyin": "wǎn" }
+            ],
+            "translation": "Le pregunté por qué había vuelto tan tarde."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "今天", "pinyin": "jīntiān" },
+                { "hanzi": "过", "pinyin": "guò" },
+                { "hanzi": "得", "pinyin": "de" },
+                { "hanzi": "怎么样?", "pinyin": "zěnmeyàng?" }
+            ],
+            "translation": "¿Qué tal te fue hoy?"
+        },
+        {
+            "words": [
+                { "hanzi": "和", "pinyin": "hé" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "聊天,", "pinyin": "liáotiān," },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "快乐", "pinyin": "kuàilè" }
+            ],
+            "translation": "Me hace feliz hablar contigo."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "一定", "pinyin": "yīdìng" },
+                { "hanzi": "要", "pinyin": "yào" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "看看!", "pinyin": "kànkàn!" }
+            ],
+            "translation": "¡Tienes que ir a verlo!"
+        },
+        {
+            "words": [
+                { "hanzi": "怎么", "pinyin": "zěnme" },
+                { "hanzi": "能", "pinyin": "néng" },
+                { "hanzi": "这样", "pinyin": "zhèyàng" },
+                { "hanzi": "和", "pinyin": "hé" },
+                { "hanzi": "妈妈", "pinyin": "māma" },
+                { "hanzi": "说话?", "pinyin": "shuōhuà?" }
+            ],
+            "translation": "¿Cómo puedes hablarle así a mamá?"
+        },
+        {
+            "words": [
+                { "hanzi": "请给", "pinyin": "qǐng gěi" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "一个", "pinyin": "yīgè" },
+                { "hanzi": "最", "pinyin": "zuì" },
+                { "hanzi": "贵", "pinyin": "guì" },
+                { "hanzi": "的", "pinyin": "de" }
+            ],
+            "translation": "Dame el más caro por favor."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "要买", "pinyin": "yāomǎi" },
+                { "hanzi": "一个", "pinyin": "yīgè" },
+                { "hanzi": "最", "pinyin": "zuì" },
+                { "hanzi": "漂亮", "pinyin": "piàoliang" },
+                { "hanzi": "的", "pinyin": "de" }
+            ],
+            "translation": "Quiero comprar el más bonito."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "姐姐", "pinyin": "jiějie" },
+                { "hanzi": "给", "pinyin": "gěi" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "带", "pinyin": "dài" },
+                { "hanzi": "一张", "pinyin": "yī zhāng" },
+                { "hanzi": "画儿", "pinyin": "huàr" },
+                { "hanzi": "来", "pinyin": "lái" }
+            ],
+            "translation": "Tu hermana te trajo un cuadro."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "问问", "pinyin": "wènwèn" },
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "几", "pinyin": "jǐ" },
+                { "hanzi": "点", "pinyin": "diǎn" },
+                { "hanzi": "来", "pinyin": "lái" }
+            ],
+            "translation": "Pregúntale a qué hora viene."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "不确定", "pinyin": "bú quèdìng" },
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "来", "pinyin": "lái" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "来", "pinyin": "lái" }
+            ],
+            "translation": "No estoy seguro de si va a venir o no."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "能", "pinyin": "néng" },
+                { "hanzi": "做", "pinyin": "zuò" },
+                { "hanzi": "些", "pinyin": "xiē" },
+                { "hanzi": "什么", "pinyin": "shénme" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Podemos hacer algo?"
+        },
+        {
+            "words": [
+                { "hanzi": "你们", "pinyin": "nǐmen" },
+                { "hanzi": "以为", "pinyin": "yǐwéi" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "傻", "pinyin": "shǎ" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Creen que soy tonto?"
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "什么", "pinyin": "shénme" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "没", "pinyin": "méi" },
+                { "hanzi": "做", "pinyin": "zuò" }
+            ],
+            "translation": "No hicimos nada."
+        },
+        {
+            "words": [
+                { "hanzi": "那", "pinyin": "nà" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "唯一", "pinyin": "wéiyī" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "选择", "pinyin": "xuǎnzé" }
+            ],
+            "translation": "Esa era nuestra única opción."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
+                { "hanzi": "别人", "pinyin": "biérén" },
+                { "hanzi": "对", "pinyin": "duì" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "说", "pinyin": "shuō" },
+                { "hanzi": "好听", "pinyin": "hǎotīng" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "话", "pinyin": "huà" }
+            ],
+            "translation": "No me gusta que la gente me diga cosas bonitas."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Crees que le gusto?"
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "怎么", "pinyin": "zěnme" },
+                { "hanzi": "能", "pinyin": "néng" },
+                { "hanzi": "确定?", "pinyin": "quèdìng?" }
+            ],
+            "translation": "¿Cómo puedo estar seguro?"
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "知道", "pinyin": "zhīdào" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "做", "pinyin": "zuò" },
+                { "hanzi": "过", "pinyin": "guò" },
+                { "hanzi": "什么", "pinyin": "shénme" }
+            ],
+            "translation": "No sabes lo que he hecho."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "有", "pinyin": "yǒu" },
+                { "hanzi": "权利", "pinyin": "quánlì" },
+                { "hanzi": "知道", "pinyin": "zhīdào" },
+                { "hanzi": "真相", "pinyin": "zhēnxiàng" }
+            ],
+            "translation": "Tengo derecho a saber la verdad."
+        },
+        {
+            "words": [
+                { "hanzi": "他们", "pinyin": "tāmen" },
+                { "hanzi": "离", "pinyin": "lí" },
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "越来越", "pinyin": "yuè lái yuè" },
+                { "hanzi": "近", "pinyin": "jìn" }
+            ],
+            "translation": "Se están acercando cada vez más a nosotros."
+        },
+        {
+            "words": [
+                { "hanzi": "有人", "pinyin": "yǒurén" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "等", "pinyin": "děng" },
+                { "hanzi": "着", "pinyin": "zhe" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "和", "pinyin": "hé" },
+                { "hanzi": "妈妈", "pinyin": "māma" }
+            ],
+            "translation": "Alguien te está esperando a ti y a mamá."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "为什么", "pinyin": "wèishéme" },
+                { "hanzi": "不来", "pinyin": "bù lái" },
+                { "hanzi": "找", "pinyin": "zhǎo" },
+                { "hanzi": "我们?", "pinyin": "wǒmen?" }
+            ],
+            "translation": "¿Por qué no vienes a buscarnos?"
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "必须", "pinyin": "bìxū" },
+                { "hanzi": "听", "pinyin": "tīng" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "说", "pinyin": "shuō" }
+            ],
+            "translation": "Tienes que escucharme."
+        },
+        {
+            "words": [
+                { "hanzi": "你们", "pinyin": "nǐmen" },
+                { "hanzi": "要", "pinyin": "yào" },
+                { "hanzi": "和", "pinyin": "hé" },
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "一起", "pinyin": "yīqǐ" },
+                { "hanzi": "走", "pinyin": "zǒu" }
+            ],
+            "translation": "Tienen que venir con nosotros."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "听到", "pinyin": "tīngdào" },
+                { "hanzi": "有人", "pinyin": "yǒurén" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "叫", "pinyin": "jiào" }
+            ],
+            "translation": "Escuchamos a alguien gritar."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "怎么", "pinyin": "zěnme" },
+                { "hanzi": "知道", "pinyin": "zhīdào" },
+                { "hanzi": "她", "pinyin": "tā" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "妹妹?", "pinyin": "mèimei?" }
+            ],
+            "translation": "¿Cómo sabes que ella es mi hermana menor?"
+        },
+        {
+            "words": [
+                { "hanzi": "我每", "pinyin": "wǒ měi" },
+                { "hanzi": "天都", "pinyin": "tiāndōu" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "想", "pinyin": "xiǎng" },
+                { "hanzi": "你", "pinyin": "nǐ" }
+            ],
+            "translation": "Pienso en ti todos los días."
+        },
+        {
+            "words": [
+                { "hanzi": "你们", "pinyin": "nǐmen" },
+                { "hanzi": "想", "pinyin": "xiǎng" },
+                { "hanzi": "玩", "pinyin": "wán" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Quieren jugar?"
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "和", "pinyin": "hé" },
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "谈", "pinyin": "tán" },
+                { "hanzi": "过", "pinyin": "guò" },
+                { "hanzi": "这", "pinyin": "zhè" },
+                { "hanzi": "件", "pinyin": "jiàn" },
+                { "hanzi": "事", "pinyin": "shì" }
+            ],
+            "translation": "Hablé con él sobre este asunto."
+        },
+        {
+            "words": [
+                { "hanzi": "你们", "pinyin": "nǐmen" },
+                { "hanzi": "必须", "pinyin": "bìxū" },
+                { "hanzi": "找到", "pinyin": "zhǎodào" },
+                { "hanzi": "我的", "pinyin": "wǒ de" },
+                { "hanzi": "妹妹", "pinyin": "mèimei" }
+            ],
+            "translation": "Tienen que encontrar a mi hermana menor."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "可以", "pinyin": "kěyǐ" },
+                { "hanzi": "帮助", "pinyin": "bāngzhù" },
+                { "hanzi": "你", "pinyin": "nǐ" }
+            ],
+            "translation": "Puedo ayudarte."
+        },
+        {
+            "words": [
+                { "hanzi": "南", "pinyin": "Nán" },
+                { "hanzi": "特", "pinyin": "tè" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "法国", "pinyin": "Fàguó" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "一个", "pinyin": "yīgè" },
+                { "hanzi": "大城市", "pinyin": "dà chéngshì" }
+            ],
+            "translation": "Nantes es una gran ciudad en Francia."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "个", "pinyin": "gè" },
+                { "hanzi": "害羞", "pinyin": "hàixiū" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "男孩", "pinyin": "nánhái" }
+            ],
+            "translation": "Es un chico tímido."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "两", "pinyin": "liǎng" },
+                { "hanzi": "岁", "pinyin": "suì" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "时候", "pinyin": "shíhòu" },
+                { "hanzi": "父母", "pinyin": "fùmǔ" },
+                { "hanzi": "就", "pinyin": "jiù" },
+                { "hanzi": "离婚", "pinyin": "líhūn" },
+                { "hanzi": "了", "pinyin": "le" }
+            ],
+            "translation": "Mis padres se divorciaron cuando yo tenía dos años."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "大部分", "pinyin": "dà bùfèn" },
+                { "hanzi": "时间", "pinyin": "shíjiān" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "不", "pinyin": "bú" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "家", "pinyin": "jiā" }
+            ],
+            "translation": "La mayor parte del tiempo no está en casa."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "有", "pinyin": "yǒu" },
+                { "hanzi": "更", "pinyin": "gèng" },
+                { "hanzi": "好", "pinyin": "hǎo" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "办法", "pinyin": "bànfǎ" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Tienes una mejor idea?"
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "怎么", "pinyin": "zěnme" },
+                { "hanzi": "没", "pinyin": "méi" },
+                { "hanzi": "告诉", "pinyin": "gàosù" },
+                { "hanzi": "我?", "pinyin": "wǒ?" }
+            ],
+            "translation": "¿Por qué no me lo dijiste?"
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "男友", "pinyin": "nányǒu" },
+                { "hanzi": "恨", "pinyin": "hèn" },
+                { "hanzi": "你", "pinyin": "nǐ" }
+            ],
+            "translation": "Mi novio te odia."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "开玩笑", "pinyin": "kāi wánxiào" }
+            ],
+            "translation": "No creo que esté bromeando."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "要", "pinyin": "yào" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "那里", "pinyin": "nàlǐ" },
+                { "hanzi": "住", "pinyin": "zhù" },
+                { "hanzi": "两", "pinyin": "liǎng" },
+                { "hanzi": "年", "pinyin": "nián" }
+            ],
+            "translation": "Vamos a vivir allí dos años."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "来", "pinyin": "lái" },
+                { "hanzi": "帮", "pinyin": "bāng" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "的", "pinyin": "de" }
+            ],
+            "translation": "He venido a ayudarte."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "能", "pinyin": "néng" },
+                { "hanzi": "个", "pinyin": "gè" },
+                { "hanzi": "来", "pinyin": "lái" },
+                { "hanzi": "接", "pinyin": "jiē" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Puedes venir a recogerme?"
+        },
+        {
+            "words": [
+                { "hanzi": "下次", "pinyin": "xià cì" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "自己", "pinyin": "zìjǐ" },
+                { "hanzi": "回来", "pinyin": "huílái" }
+            ],
+            "translation": "La próxima vez, regresa tú mismo."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "知道", "pinyin": "zhīdào" },
+                { "hanzi": "发生", "pinyin": "fāshēng" },
+                { "hanzi": "了", "pinyin": "le" },
+                { "hanzi": "什么", "pinyin": "shénme" }
+            ],
+            "translation": "No sé qué pasó."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "就是", "pinyin": "jiùshì" },
+                { "hanzi": "个", "pinyin": "gè" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "简单", "pinyin": "jiǎndān" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "人", "pinyin": "rén" }
+            ],
+            "translation": "Él es una persona muy simple."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "什么", "pinyin": "shénme" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "没有", "pinyin": "méiyǒu" }
+            ],
+            "translation": "No tengo nada."
+        },
+        {
+            "words": [
+                { "hanzi": "房间", "pinyin": "fángjiān" },
+                { "hanzi": "里", "pinyin": "lǐ" },
+                { "hanzi": "没有", "pinyin": "méiyǒu" },
+                { "hanzi": "人", "pinyin": "rén" }
+            ],
+            "translation": "No hay nadie en la habitación."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "一定", "pinyin": "yīdìng" },
+                { "hanzi": "要", "pinyin": "yào" },
+                { "hanzi": "看", "pinyin": "kàn" },
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "花园", "pinyin": "huāyuán" }
+            ],
+            "translation": "Tienes que ver nuestro jardín."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "想", "pinyin": "xiǎng" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
+                { "hanzi": "他", "pinyin": "tā" }
+            ],
+            "translation": "Supongo que no te cae bien."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "还", "pinyin": "hái" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "这里", "pinyin": "zhèlǐ" }
+            ],
+            "translation": "Todavía está aquí."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "应该", "pinyin": "yīnggāi" },
+                { "hanzi": "为", "pinyin": "wèi" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "高兴", "pinyin": "gāoxìng" }
+            ],
+            "translation": "Él debería estar feliz por ti."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "只有", "pinyin": "zhǐyǒu" },
+                { "hanzi": "两", "pinyin": "liǎng" },
+                { "hanzi": "个", "pinyin": "gè" }
+            ],
+            "translation": "Él solo tiene dos."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "这", "pinyin": "zhè" },
+                { "hanzi": "不", "pinyin": "bú" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "好", "pinyin": "hǎo" },
+                { "hanzi": "主意", "pinyin": "zhǔyì" }
+            ],
+            "translation": "No creo que sea una buena idea."
+        },
+        {
+            "words": [
+                { "hanzi": "把", "pinyin": "bǎ" },
+                { "hanzi": "钥匙", "pinyin": "yàoshi" },
+                { "hanzi": "给", "pinyin": "gěi" },
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "吧", "pinyin": "ba" }
+            ],
+            "translation": "Dale las llaves a él."
+        },
+        {
+            "words": [
+                { "hanzi": "让", "pinyin": "ràng" },
+                { "hanzi": "每", "pinyin": "měi" },
+                { "hanzi": "个", "pinyin": "gè" },
+                { "hanzi": "人", "pinyin": "rén" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "看见", "pinyin": "kànjiàn" }
+            ],
+            "translation": "Que todo el mundo lo vea."
+        },
+        {
+            "words": [
+                { "hanzi": "让", "pinyin": "ràng" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "进去", "pinyin": "jìnqù" },
+                { "hanzi": "吧", "pinyin": "ba" }
+            ],
+            "translation": "Déjame entrar."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "还", "pinyin": "hái" },
+                { "hanzi": "没", "pinyin": "méi" },
+                { "hanzi": "吃饭", "pinyin": "chīfàn" }
+            ],
+            "translation": "Todavía no he comido."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "只", "pinyin": "zhǐ" },
+                { "hanzi": "想", "pinyin": "xiǎng" },
+                { "hanzi": "跟", "pinyin": "gēn" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "谈谈", "pinyin": "tántan" }
+            ],
+            "translation": "Solo queremos hablar contigo."
+        },
+        {
+            "words": [
+                { "hanzi": "有人", "pinyin": "yǒurén" },
+                { "hanzi": "把", "pinyin": "bǎ" },
+                { "hanzi": "它", "pinyin": "tā" },
+                { "hanzi": "杀", "pinyin": "shā" },
+                { "hanzi": "了", "pinyin": "le" }
+            ],
+            "translation": "Alguien lo mató."
+        },
+        {
+            "words": [
+                { "hanzi": "别", "pinyin": "bié" },
+                { "hanzi": "忘", "pinyin": "wàng" },
+                { "hanzi": "了", "pinyin": "le" },
+                { "hanzi": "带", "pinyin": "dài" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "钥匙", "pinyin": "yàoshi" }
+            ],
+            "translation": "No olvides traer mis llaves."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "可以", "pinyin": "kěyǐ" },
+                { "hanzi": "过来", "pinyin": "guòlái" },
+                { "hanzi": "一下", "pinyin": "yīxià" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Puedes venir un momento?"
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "做", "pinyin": "zuò" },
+                { "hanzi": "得", "pinyin": "de" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "好", "pinyin": "hǎo" }
+            ],
+            "translation": "Lo hiciste muy bien."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "跟", "pinyin": "gēn" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "说话", "pinyin": "shuōhuà" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Estás hablando conmigo?"
+        },
+        {
+            "words": [
+                { "hanzi": "把钱", "pinyin": "bǎ qián" },
+                { "hanzi": "放进", "pinyin": "fàng jìn" },
+                { "hanzi": "抽屉", "pinyin": "chōuti" },
+                { "hanzi": "里", "pinyin": "lǐ" }
+            ],
+            "translation": "Pon el dinero en el cajón."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "睡觉", "pinyin": "shuìjiào" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Estás durmiendo?"
+        },
+        {
+            "words": [
+                { "hanzi": "她", "pinyin": "tā" },
+                { "hanzi": "已经", "pinyin": "yǐjīng" },
+                { "hanzi": "认识", "pinyin": "rènshì" },
+                { "hanzi": "了", "pinyin": "le" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "全家", "pinyin": "quán jiā" }
+            ],
+            "translation": "Ella ya conoce a toda mi familia."
+        },
+        {
+            "words": [
+                { "hanzi": "明天", "pinyin": "míngtiān" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "公园", "pinyin": "gōngyuán" },
+                { "hanzi": "对面", "pinyin": "duìmiàn" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "商店", "pinyin": "shāngdiàn" },
+                { "hanzi": "见", "pinyin": "jiàn" }
+            ],
+            "translation": "Nos vemos mañana en la tienda frente al parque."
+        },
+        {
+            "words": [
+                { "hanzi": "商店", "pinyin": "shāngdiàn" },
+                { "hanzi": "里", "pinyin": "lǐ" },
+                { "hanzi": "有", "pinyin": "yǒu" },
+                { "hanzi": "很多", "pinyin": "hěnduō" },
+                { "hanzi": "人", "pinyin": "rén" }
+            ],
+            "translation": "Hay mucha gente en la tienda."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "在学", "pinyin": "zàixué" },
+                { "hanzi": "中文,", "pinyin": "zhōngwén," },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "有趣", "pinyin": "yǒuqù" }
+            ],
+            "translation": "Estoy aprendiendo chino, me parece muy interesante."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "一起", "pinyin": "yīqǐ" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "吃", "pinyin": "chī" },
+                { "hanzi": "晚饭", "pinyin": "wǎnfàn" },
+                { "hanzi": "好不好", "pinyin": "hǎobù hǎo" }
+            ],
+            "translation": "¿Vamos a cenar juntos?"
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
+                { "hanzi": "看书,", "pinyin": "kànshū," },
+                { "hanzi": "尤其是", "pinyin": "yóuqí shì" },
+                { "hanzi": "历史书", "pinyin": "lìshǐ shū" }
+            ],
+            "translation": "Le gusta mucho leer, especialmente libros de historia."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "有", "pinyin": "yǒu" },
+                { "hanzi": "什么", "pinyin": "shénme" },
+                { "hanzi": "爱好?", "pinyin": "àihào?" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
+                { "hanzi": "打", "pinyin": "dǎ" },
+                { "hanzi": "篮球", "pinyin": "lánqiú" }
+            ],
+            "translation": "¿Cuáles son tus pasatiempos? A mí me gusta jugar baloncesto."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "今天", "pinyin": "jīntiān" },
+                { "hanzi": "早上", "pinyin": "zǎoshang" },
+                { "hanzi": "喝", "pinyin": "hē" },
+                { "hanzi": "了", "pinyin": "le" },
+                { "hanzi": "一", "pinyin": "yī" },
+                { "hanzi": "杯", "pinyin": "bēi" },
+                { "hanzi": "热", "pinyin": "rè" },
+                { "hanzi": "牛奶", "pinyin": "niúnǎi" }
+            ],
+            "translation": "Esta mañana bebí un vaso de leche caliente."
+        },
+        {
+            "words": [
+                { "hanzi": "下个月", "pinyin": "xià gè yuè" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "打算", "pinyin": "dǎsuàn" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "北京", "pinyin": "Běijīng" },
+                { "hanzi": "旅游", "pinyin": "lǚyóu" }
+            ],
+            "translation": "El mes que viene planeo viajar a Pekín."
+        },
+        {
+            "words": [
+                { "hanzi": "我的", "pinyin": "wǒ de" },
+                { "hanzi": "生日", "pinyin": "shēngrì" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "三", "pinyin": "sān" },
+                { "hanzi": "月份,", "pinyin": "yuèfèn," },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "呢", "pinyin": "ne" }
+            ],
+            "translation": "Mi cumpleaños es en marzo, ¿y el tuyo?"
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "什么", "pinyin": "shénme" },
+                { "hanzi": "时候", "pinyin": "shíhòu" },
+                { "hanzi": "有空?", "pinyin": "yǒu kòng?" },
+                { "hanzi": "一起", "pinyin": "yīqǐ" },
+                { "hanzi": "出去", "pinyin": "chūqù" },
+                { "hanzi": "玩", "pinyin": "wán" },
+                { "hanzi": "吧", "pinyin": "ba" }
+            ],
+            "translation": "¿Cuándo estás libre? Salgamos a divertirnos."
+        },
+        {
+            "words": [
+                { "hanzi": "她", "pinyin": "tā" },
+                { "hanzi": "每天", "pinyin": "měitiān" },
+                { "hanzi": "早上", "pinyin": "zǎoshang" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "公园", "pinyin": "gōngyuán" },
+                { "hanzi": "跑步", "pinyin": "pǎobù" }
+            ],
+            "translation": "Ella sale a correr al parque todas las mañanas."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "这个", "pinyin": "zhège" },
+                { "hanzi": "电影", "pinyin": "diànyǐng" },
+                { "hanzi": "非常", "pinyin": "fēicháng" },
+                { "hanzi": "好看", "pinyin": "hǎokàn" }
+            ],
+            "translation": "Creo que esta película es muy buena."
+        },
+        {
+            "words": [
+                { "hanzi": "孩子们", "pinyin": "háizimen" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "院子", "pinyin": "yuànzi" },
+                { "hanzi": "里", "pinyin": "lǐ" },
+                { "hanzi": "玩", "pinyin": "wán" },
+                { "hanzi": "得", "pinyin": "de" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "开心", "pinyin": "kāixīn" }
+            ],
+            "translation": "Los niños se están divirtiendo mucho en el patio."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "想", "pinyin": "xiǎng" },
+                { "hanzi": "换", "pinyin": "huàn" },
+                { "hanzi": "个", "pinyin": "gè" },
+                { "hanzi": "新", "pinyin": "xīn" },
+                { "hanzi": "手机,", "pinyin": "shǒujī," },
+                { "hanzi": "这个", "pinyin": "zhège" },
+                { "hanzi": "太", "pinyin": "tài" },
+                { "hanzi": "旧", "pinyin": "jiù" }
+            ],
+            "translation": "Quiero cambiar de móvil, este es demasiado viejo."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "可以", "pinyin": "kěyǐ" },
+                { "hanzi": "帮", "pinyin": "bāng" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "搬", "pinyin": "bān" },
+                { "hanzi": "这个", "pinyin": "zhège" },
+                { "hanzi": "箱子", "pinyin": "xiāngzi" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Puedes ayudarme a mover esta caja?"
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "会", "pinyin": "huì" },
+                { "hanzi": "做饭,", "pinyin": "zuòfàn," },
+                { "hanzi": "做", "pinyin": "zuò" },
+                { "hanzi": "得", "pinyin": "de" },
+                { "hanzi": "非常", "pinyin": "fēicháng" },
+                { "hanzi": "好吃", "pinyin": "hǎochī" }
+            ],
+            "translation": "Él sabe cocinar, y cocina muy rico."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "去年", "pinyin": "qùnián" },
+                { "hanzi": "夏天", "pinyin": "xiàtiān" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "了", "pinyin": "le" },
+                { "hanzi": "海边", "pinyin": "hǎibiān" },
+                { "hanzi": "度假", "pinyin": "dùjià" }
+            ],
+            "translation": "El verano pasado fuimos de vacaciones a la playa."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
+                { "hanzi": "喝茶", "pinyin": "hēchá" },
+                { "hanzi": "还是", "pinyin": "háishì" },
+                { "hanzi": "喝", "pinyin": "hē" },
+                { "hanzi": "咖啡?", "pinyin": "kāfēi?" }
+            ],
+            "translation": "¿Te gusta más el té o el café?"
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "正在", "pinyin": "zhèngzài" },
+                { "hanzi": "学习", "pinyin": "xuéxí" },
+                { "hanzi": "弹钢琴,", "pinyin": "tán gāngqín," },
+                { "hanzi": "感觉", "pinyin": "gǎnjué" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "棒", "pinyin": "bàng" }
+            ],
+            "translation": "Estoy aprendiendo a tocar el piano y me siento genial."
+        },
+        {
+            "words": [
+                { "hanzi": "今天", "pinyin": "jīntiān" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "晚餐", "pinyin": "wǎncān" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "意大利", "pinyin": "Yìdàlì" },
+                { "hanzi": "面", "pinyin": "miàn" }
+            ],
+            "translation": "La cena de hoy es pasta."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "认识", "pinyin": "rènshì" },
+                { "hanzi": "那个", "pinyin": "nàgè" },
+                { "hanzi": "穿", "pinyin": "chuān" },
+                { "hanzi": "蓝色", "pinyin": "lánsè" },
+                { "hanzi": "衣服", "pinyin": "yīfu" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "女孩", "pinyin": "nǚhái" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Conoces a esa chica con ropa azul?"
+        },
+        {
+            "words": [
+                { "hanzi": "别", "pinyin": "bié" },
+                { "hanzi": "担心,", "pinyin": "dānxīn," },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "一定", "pinyin": "yīdìng" },
+                { "hanzi": "会", "pinyin": "huì" },
+                { "hanzi": "准时", "pinyin": "zhǔnshí" },
+                { "hanzi": "到", "pinyin": "dào" }
+            ],
+            "translation": "No te preocupes, llegaré a tiempo."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "想", "pinyin": "xiǎng" },
+                { "hanzi": "买票", "pinyin": "mǎi piào" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "看", "pinyin": "kàn" },
+                { "hanzi": "音乐会", "pinyin": "yīnyuèhuì" }
+            ],
+            "translation": "Quiero comprar entradas para ir a un concierto."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "每天", "pinyin": "měitiān" },
+                { "hanzi": "早上", "pinyin": "zǎoshang" },
+                { "hanzi": "六", "pinyin": "liù" },
+                { "hanzi": "点钟", "pinyin": "diǎn zhōng" },
+                { "hanzi": "起床", "pinyin": "qǐchuáng" }
+            ],
+            "translation": "Él se levanta a las 6 de la mañana todos los días."
+        },
+        {
+            "words": [
+                { "hanzi": "这", "pinyin": "zhè" },
+                { "hanzi": "家", "pinyin": "jiā" },
+                { "hanzi": "餐厅", "pinyin": "cāntīng" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "菜", "pinyin": "cài" },
+                { "hanzi": "味道", "pinyin": "wèidào" },
+                { "hanzi": "非常", "pinyin": "fēicháng" },
+                { "hanzi": "好", "pinyin": "hǎo" }
+            ],
+            "translation": "La comida de este restaurante sabe muy bien."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "对", "pinyin": "duì" },
+                { "hanzi": "中国", "pinyin": "Zhōngguó" },
+                { "hanzi": "历史", "pinyin": "lìshǐ" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "感兴趣", "pinyin": "gǎnxìngqù" }
+            ],
+            "translation": "Me interesa mucho la historia de China."
+        },
+        {
+            "words": [
+                { "hanzi": "你的", "pinyin": "nǐ de" },
+                { "hanzi": "新", "pinyin": "xīn" },
+                { "hanzi": "发型", "pinyin": "fàxíng" },
+                { "hanzi": "看起来", "pinyin": "kàn qǐlái" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "不错", "pinyin": "bùcuò" }
+            ],
+            "translation": "Tu nuevo peinado se ve muy bien."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "可以", "pinyin": "kěyǐ" },
+                { "hanzi": "坐", "pinyin": "zuò" },
+                { "hanzi": "公交车", "pinyin": "gōngjiāochē" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "那个", "pinyin": "nàgè" },
+                { "hanzi": "地方", "pinyin": "dìfang" }
+            ],
+            "translation": "Podemos ir a ese lugar en autobús."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "正在", "pinyin": "zhèngzài" },
+                { "hanzi": "考虑", "pinyin": "kǎolǜ" },
+                { "hanzi": "下个月", "pinyin": "xià gè yuè" },
+                { "hanzi": "换", "pinyin": "huàn" },
+                { "hanzi": "工作", "pinyin": "gōngzuò" }
+            ],
+            "translation": "Estoy considerando cambiar de trabajo el mes que viene."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "能", "pinyin": "néng" },
+                { "hanzi": "给", "pinyin": "gěi" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "推荐", "pinyin": "tuījiàn" },
+                { "hanzi": "一本", "pinyin": "yī běn" },
+                { "hanzi": "好书", "pinyin": "hǎoshū" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Podrías recomendarme un buen libro?"
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "冬天", "pinyin": "dōngtiān" },
+                { "hanzi": "比", "pinyin": "bǐ" },
+                { "hanzi": "夏天", "pinyin": "xiàtiān" },
+                { "hanzi": "更", "pinyin": "gèng" },
+                { "hanzi": "舒服", "pinyin": "shūfu" }
+            ],
+            "translation": "Creo que el invierno es más cómodo que el verano."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "需要", "pinyin": "xūyào" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "超市", "pinyin": "chāoshì" },
+                { "hanzi": "买", "pinyin": "mǎi" },
+                { "hanzi": "牛奶", "pinyin": "niúnǎi" },
+                { "hanzi": "和", "pinyin": "hé" },
+                { "hanzi": "鸡蛋", "pinyin": "jīdàn" }
+            ],
+            "translation": "Necesito ir al supermercado a comprar leche y huevos."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "希望", "pinyin": "xīwàng" },
+                { "hanzi": "明年", "pinyin": "míngnián" },
+                { "hanzi": "可以", "pinyin": "kěyǐ" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "欧洲", "pinyin": "Ōuzhōu" },
+                { "hanzi": "旅行", "pinyin": "lǚxíng" }
+            ],
+            "translation": "Espero poder viajar a Europa el año que viene."
+        },
+        {
+            "words": [
+                { "hanzi": "这", "pinyin": "zhè" },
+                { "hanzi": "座", "pinyin": "zuò" },
+                { "hanzi": "城市", "pinyin": "chéngshì" },
+                { "hanzi": "有", "pinyin": "yǒu" },
+                { "hanzi": "很多", "pinyin": "hěnduō" },
+                { "hanzi": "高楼", "pinyin": "gāolóu" },
+                { "hanzi": "和", "pinyin": "hé" },
+                { "hanzi": "公园", "pinyin": "gōngyuán" }
+            ],
+            "translation": "Esta ciudad tiene muchos edificios altos y parques."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "给", "pinyin": "gěi" },
+                { "hanzi": "了", "pinyin": "le" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "很多", "pinyin": "hěnduō" },
+                { "hanzi": "有用", "pinyin": "yǒuyòng" },
+                { "hanzi": "建议", "pinyin": "jiànyì" }
+            ],
+            "translation": "Él me dio muchos consejos útiles."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "认为", "pinyin": "rènwéi" },
+                { "hanzi": "健康", "pinyin": "jiànkāng" },
+                { "hanzi": "比", "pinyin": "bǐ" },
+                { "hanzi": "金钱", "pinyin": "jīnqián" },
+                { "hanzi": "更", "pinyin": "gèng" },
+                { "hanzi": "重要", "pinyin": "zhòngyào" }
+            ],
+            "translation": "Creo que la salud es más importante que el dinero."
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "为了", "pinyin": "wèile" },
+                { "hanzi": "学习", "pinyin": "xuéxí" },
+                { "hanzi": "中文,", "pinyin": "zhōngwén," },
+                { "hanzi": "每天", "pinyin": "měitiān" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "练习", "pinyin": "liànxí" }
+            ],
+            "translation": "Para estudiar chino, él practica todos los días."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "看", "pinyin": "kàn" },
+                { "hanzi": "过", "pinyin": "guò" },
+                { "hanzi": "那", "pinyin": "nà" },
+                { "hanzi": "部", "pinyin": "bù" },
+                { "hanzi": "新", "pinyin": "xīn" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "电影", "pinyin": "diànyǐng" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Has visto esa nueva película?"
+        },
+        {
+            "words": [
+                { "hanzi": "这", "pinyin": "zhè" },
+                { "hanzi": "件", "pinyin": "jiàn" },
+                { "hanzi": "衣服", "pinyin": "yīfu" },
+                { "hanzi": "颜色", "pinyin": "yánsè" },
+                { "hanzi": "和", "pinyin": "hé" },
+                { "hanzi": "款式", "pinyin": "kuǎnshì" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "流行", "pinyin": "liúxíng" }
+            ],
+            "translation": "El color y el estilo de esta ropa están de moda."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "打算", "pinyin": "dǎsuàn" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "周末", "pinyin": "zhōumò" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "海边", "pinyin": "hǎibiān" },
+                { "hanzi": "游泳", "pinyin": "yóuyǒng" }
+            ],
+            "translation": "Tengo pensado ir a nadar a la playa el fin de semana."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "想", "pinyin": "xiǎng" },
+                { "hanzi": "学", "pinyin": "xué" },
+                { "hanzi": "中文,", "pinyin": "zhōngwén," },
+                { "hanzi": "所以", "pinyin": "suǒyǐ" },
+                { "hanzi": "每天", "pinyin": "měitiān" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "练习", "pinyin": "liànxí" }
+            ],
+            "translation": "Quiero aprender chino, por eso practico todos los días."
+        },
+        {
+            "words": [
+                { "hanzi": "请", "pinyin": "qǐng" },
+                { "hanzi": "告诉", "pinyin": "gàosù" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "明天", "pinyin": "míngtiān" },
+                { "hanzi": "什么", "pinyin": "shénme" },
+                { "hanzi": "时候", "pinyin": "shíhòu" },
+                { "hanzi": "到", "pinyin": "dào" }
+            ],
+            "translation": "Por favor, dime a qué hora llegarás mañana."
+        },
+        {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "已经", "pinyin": "yǐjīng" },
+                { "hanzi": "等", "pinyin": "děng" },
+                { "hanzi": "了", "pinyin": "le" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "半个", "pinyin": "bàn gè" },
+                { "hanzi": "小时", "pinyin": "xiǎoshí" }
+            ],
+            "translation": "Ya te hemos esperado media hora."
+        },
+        {
+            "words": [
+                { "hanzi": "孩子们", "pinyin": "háizimen" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "盼望", "pinyin": "pànwàng" },
+                { "hanzi": "暑假", "pinyin": "shǔjià" },
+                { "hanzi": "快点", "pinyin": "kuài diǎn" },
+                { "hanzi": "到来", "pinyin": "dàolái" }
+            ],
+            "translation": "Todos los niños esperan que lleguen pronto las vacaciones de verano."
+        },
+        {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "学习", "pinyin": "xuéxí" },
+                { "hanzi": "新", "pinyin": "xīn" },
+                { "hanzi": "语言", "pinyin": "yǔyán" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "一个", "pinyin": "yīgè" },
+                { "hanzi": "挑战", "pinyin": "tiǎozhàn" }
+            ],
+            "translation": "Creo que aprender un nuevo idioma es un desafío."
+        },
+        {
+            "words": [
+                { "hanzi": "这", "pinyin": "zhè" },
+                { "hanzi": "家", "pinyin": "jiā" },
+                { "hanzi": "咖啡店", "pinyin": "kāfēi diàn" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "甜点", "pinyin": "tiándiǎn" },
+                { "hanzi": "味道", "pinyin": "wèidào" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "棒", "pinyin": "bàng" }
+            ],
+            "translation": "El postre de esta cafetería es muy delicioso."
+        },
+        {
+            "words": [
+                { "hanzi": "祝", "pinyin": "zhù" },
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "生日", "pinyin": "shēngrì" },
+                { "hanzi": "快乐,", "pinyin": "kuàilè," },
+                { "hanzi": "希望", "pinyin": "xīwàng" },
+                { "hanzi": "每天", "pinyin": "měitiān" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "开心", "pinyin": "kāixīn" }
+            ],
+            "translation": "Feliz cumpleaños, espero que seas feliz todos los días."
+        },
+        {
+            "words": [
+                { "hanzi": "我的", "pinyin": "wǒ de" },
+                { "hanzi": "妈妈", "pinyin": "māma" },
+                { "hanzi": "是", "pinyin": "shì" },
+                { "hanzi": "一", "pinyin": "yī" },
+                { "hanzi": "位", "pinyin": "wèi" },
+                { "hanzi": "非常", "pinyin": "fēicháng" },
+                { "hanzi": "好的", "pinyin": "hǎo de" },
+                { "hanzi": "老师", "pinyin": "lǎoshī" }
+            ],
+            "translation": "Mi madre es una muy buena profesora."
+        },
+        {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "知道", "pinyin": "zhīdào" },
+                { "hanzi": "怎么", "pinyin": "zěnme" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "火车站", "pinyin": "huǒchēzhàn" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Sabes cómo ir a la estación de tren?"
+        },
+        {
+            "words": [
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "为了", "pinyin": "wèile" },
+                { "hanzi": "学", "pinyin": "xué" },
+                { "hanzi": "中文,", "pinyin": "zhōngwén," },
+                { "hanzi": "每天", "pinyin": "měitiān" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "听", "pinyin": "tīng" },
+                { "hanzi": "新闻", "pinyin": "xīnwén" }
+            ],
+            "translation": "Para estudiar chino, él escucha noticias todos los días."
+        },
+        {
+            "words": [
+                { "hanzi": "请问,", "pinyin": "qǐngwèn," },
+                { "hanzi": "洗手间", "pinyin": "xǐshǒujiān" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "几", "pinyin": "jǐ" },
+                { "hanzi": "楼?", "pinyin": "lóu?" }
+            ],
+            "translation": "Disculpe, ¿en qué piso está el baño?"
+        },
+        {
+            "words": [
+                { "hanzi": "别", "pinyin": "bié" },
+                { "hanzi": "担心,", "pinyin": "dānxīn," },
+                { "hanzi": "一切", "pinyin": "yīqiè" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "会", "pinyin": "huì" },
+                { "hanzi": "好起来", "pinyin": "hǎo qǐlái" },
+                { "hanzi": "的", "pinyin": "de" }
+            ],
+            "translation": "No te preocupes, todo irá bien."
+        }
+    ]
+}
