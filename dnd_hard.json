@@ -60,19 +60,6 @@
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "觉得", "pinyin": "juéde" },
-                { "hanzi": "连", "pinyin": "lián" },
-                { "hanzi": "他", "pinyin": "tā" },
-                { "hanzi": "自己", "pinyin": "zìjǐ" },
-                { "hanzi": "都", "pinyin": "dōu" },
-                { "hanzi": "不", "pinyin": "bù" },
-                { "hanzi": "知道", "pinyin": "zhīdào" }
-            ],
-            "translation": "Creo que ni él mismo lo sabe."
-        },
-        {
-            "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "已经", "pinyin": "yǐjīng" },
                 { "hanzi": "把", "pinyin": "bǎ" },
                 { "hanzi": "一切", "pinyin": "yīqiè" },
@@ -800,6 +787,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
