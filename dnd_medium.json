@@ -11,6 +11,19 @@
         },
         {
             "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "觉得", "pinyin": "juéde" },
+                { "hanzi": "连", "pinyin": "lián" },
+                { "hanzi": "他", "pinyin": "tā" },
+                { "hanzi": "自己", "pinyin": "zìjǐ" },
+                { "hanzi": "都", "pinyin": "dōu" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "知道", "pinyin": "zhīdào" }
+            ],
+            "translation": "Creo que ni él mismo lo sabe."
+        },
+        {
+            "words": [
                 { "hanzi": "他们", "pinyin": "tāmen" },
                 { "hanzi": "在", "pinyin": "zài" },
                 { "hanzi": "对", "pinyin": "duì" },
@@ -1373,6 +1386,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
