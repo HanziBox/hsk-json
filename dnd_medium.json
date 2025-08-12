@@ -9,7 +9,18 @@
             ],
             "translation": "He tenido muchos trabajos."
         },
-                {
+        {
+            "words": [
+                { "hanzi": "他们", "pinyin": "tāmen" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "对", "pinyin": "duì" },
+                { "hanzi": "她", "pinyin": "tā" },
+                { "hanzi": "做", "pinyin": "zuò" },
+                { "hanzi": "什么?", "pinyin": "shénme?" }
+            ],
+            "translation": "¿Qué le están haciendo a ella?"
+        },
+        {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "想", "pinyin": "xiǎng" },
@@ -1362,6 +1373,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
