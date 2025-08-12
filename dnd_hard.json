@@ -1,5 +1,4 @@
-{
-    "hard": [
+[
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -824,6 +823,5 @@
                 { "hanzi": "展览", "pinyin": "zhǎnlǎn" }
             ],
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
-        }
-    ]
-}
+  }
+]
