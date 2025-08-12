@@ -9,6 +9,15 @@
         },
         {
             "words": [
+                { "hanzi": "房间", "pinyin": "fángjiān" },
+                { "hanzi": "里", "pinyin": "lǐ" },
+                { "hanzi": "没有", "pinyin": "méiyǒu" },
+                { "hanzi": "人", "pinyin": "rén" }
+            ],
+            "translation": "No hay nadie en la habitación."
+        },
+        {
+            "words": [
                 { "hanzi": "下次", "pinyin": "xià cì" },
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "自己", "pinyin": "zìjǐ" },
@@ -614,6 +623,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
