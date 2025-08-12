@@ -1,5 +1,4 @@
-{
-    "medium": [
+[
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1389,6 +1388,5 @@
                 { "hanzi": "的", "pinyin": "de" }
             ],
             "translation": "No te preocupes, todo irá bien."
-        }
-    ]
-}
+  }
+]
