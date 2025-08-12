@@ -657,15 +657,6 @@
         },
         {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "还", "pinyin": "hái" },
-                { "hanzi": "没", "pinyin": "méi" },
-                { "hanzi": "吃饭", "pinyin": "chīfàn" }
-            ],
-            "translation": "Todavía no he comido."
-        },
-        {
-            "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
                 { "hanzi": "只", "pinyin": "zhǐ" },
                 { "hanzi": "想", "pinyin": "xiǎng" },
@@ -1390,3 +1381,4 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
