@@ -9,6 +9,15 @@
         },
         {
             "words": [
+                { "hanzi": "她", "pinyin": "tā" },
+                { "hanzi": "下个月", "pinyin": "xià gè yuè" },
+                { "hanzi": "去", "pinyin": "qù" },
+                { "hanzi": "墨西哥", "pinyin": "Mòxīgē" }
+            ],
+            "translation": "Ella va a México el mes que viene."
+        },
+        {
+            "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "还", "pinyin": "hái" },
                 { "hanzi": "没", "pinyin": "méi" },
@@ -503,5 +512,6 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
