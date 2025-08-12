@@ -11,6 +11,18 @@
         },
         {
             "words": [
+                { "hanzi": "请问", "pinyin": "qǐngwèn" },
+                { "hanzi": "厕所", "pinyin": "cèsuǒ" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "哪儿?", "pinyin": "nǎr?" },
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "有点", "pinyin": "yǒudiǎn" },
+                { "hanzi": "急", "pinyin": "jí" }
+            ],
+            "translation": "Disculpe, ¿dónde está el baño? Tengo un poco de prisa."
+        },
+        {
+            "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "觉得", "pinyin": "juéde" },
                 { "hanzi": "连", "pinyin": "lián" },
@@ -1386,6 +1398,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
