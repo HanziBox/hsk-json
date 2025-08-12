@@ -369,23 +369,6 @@
         },
         {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "想", "pinyin": "xiǎng" },
-                { "hanzi": "买", "pinyin": "mǎi" },
-                { "hanzi": "一", "pinyin": "yī" },
-                { "hanzi": "部", "pinyin": "bù" },
-                { "hanzi": "新", "pinyin": "xīn" },
-                { "hanzi": "的", "pinyin": "de" },
-                { "hanzi": "手机,", "pinyin": "shǒujī," },
-                { "hanzi": "功能", "pinyin": "gōngnéng" },
-                { "hanzi": "要", "pinyin": "yào" },
-                { "hanzi": "很", "pinyin": "hěn" },
-                { "hanzi": "好", "pinyin": "hǎo" }
-            ],
-            "translation": "Quiero comprar un móvil nuevo, las funciones deben ser muy buenas."
-        },
-        {
-            "words": [
                 { "hanzi": "他们", "pinyin": "tāmen" },
                 { "hanzi": "正在", "pinyin": "zhèngzài" },
                 { "hanzi": "准备", "pinyin": "zhǔnbèi" },
@@ -840,4 +823,5 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
