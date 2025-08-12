@@ -540,15 +540,6 @@
         },
         {
             "words": [
-                { "hanzi": "下次", "pinyin": "xià cì" },
-                { "hanzi": "你", "pinyin": "nǐ" },
-                { "hanzi": "自己", "pinyin": "zìjǐ" },
-                { "hanzi": "回来", "pinyin": "huílái" }
-            ],
-            "translation": "La próxima vez, regresa tú mismo."
-        },
-        {
-            "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "不", "pinyin": "bù" },
                 { "hanzi": "知道", "pinyin": "zhīdào" },
@@ -1398,6 +1389,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
