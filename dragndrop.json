@@ -1021,7 +1021,163 @@
                 }
             ],
             "translation": "Tengo muchos amigos."
+        },
+        {
+    "words": [
+        {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+        },
+        {
+            "hanzi": "喜欢",
+            "pinyin": "xǐhuān"
+        },
+        {
+            "hanzi": "她们",
+            "pinyin": "tāmen"
         }
+    ],
+    "translation": "Me gustan ellas."
+},
+{
+    "words": [
+        {
+            "hanzi": "收拾",
+            "pinyin": "shōushi"
+        },
+        {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+        },
+        {
+            "hanzi": "的",
+            "pinyin": "de"
+        },
+        {
+            "hanzi": "东西",
+            "pinyin": "dōngxi"
+        }
+    ],
+    "translation": "Recoge tus cosas."
+},
+{
+    "words": [
+        {
+            "hanzi": "把",
+            "pinyin": "bǎ"
+        },
+        {
+            "hanzi": "这个",
+            "pinyin": "zhège"
+        },
+        {
+            "hanzi": "穿上",
+            "pinyin": "chuānshàng"
+        }
+    ],
+    "translation": "Ponte esto."
+},
+{
+    "words": [
+        {
+            "hanzi": "现在",
+            "pinyin": "xiànzài"
+        },
+        {
+            "hanzi": "都",
+            "pinyin": "dōu"
+        },
+        {
+            "hanzi": "结束",
+            "pinyin": "jiéshù"
+        },
+        {
+            "hanzi": "了",
+            "pinyin": "le"
+        }
+    ],
+    "translation": "Ahora todo ha terminado."
+},
+{
+    "words": [
+        {
+            "hanzi": "这",
+            "pinyin": "zhè"
+        },
+        {
+            "hanzi": "不",
+            "pinyin": "bù"
+        },
+        {
+            "hanzi": "是",
+            "pinyin": "shì"
+        },
+        {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+        },
+        {
+            "hanzi": "的",
+            "pinyin": "de"
+        },
+        {
+            "hanzi": "错",
+            "pinyin": "cuò"
+        }
+    ],
+    "translation": "Esto no es tu culpa."
+},
+{
+    "words": [
+        {
+            "hanzi": "相信",
+            "pinyin": "xiāngxìn"
+        },
+        {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+        }
+    ],
+    "translation": "Confía en mí."
+},
+{
+    "words": [
+        {
+            "hanzi": "厕所",
+            "pinyin": "cèsuǒ"
+        },
+        {
+            "hanzi": "在",
+            "pinyin": "zài"
+        },
+        {
+            "hanzi": "哪儿",
+            "pinyin": "nǎr"
+        },
+        {
+            "hanzi": "？",
+            "pinyin": ""
+        }
+    ],
+    "translation": "¿Dónde está el baño?"
+},
+{
+    "words": [
+        {
+            "hanzi": "第一",
+            "pinyin": "dìyī"
+        },
+        {
+            "hanzi": "杯",
+            "pinyin": "bēi"
+        },
+        {
+            "hanzi": "免费",
+            "pinyin": "miǎnfèi"
+        }
+    ],
+    "translation": "La primera bebida es gratis."
+}
     ],
     "medium": [
         {
@@ -4832,6 +4988,7 @@
         }
     ]
 }
+
 
 
 
