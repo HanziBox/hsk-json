@@ -11,15 +11,6 @@
         },
         {
             "words": [
-                { "hanzi": "她", "pinyin": "tā" },
-                { "hanzi": "下个月", "pinyin": "xià gè yuè" },
-                { "hanzi": "去", "pinyin": "qù" },
-                { "hanzi": "墨西哥", "pinyin": "Mòxīgē" }
-            ],
-            "translation": "Ella va a México el mes que viene."
-        },
-        {
-            "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
                 { "hanzi": "明天", "pinyin": "míngtiān" },
                 { "hanzi": "在", "pinyin": "zài" },
@@ -1366,5 +1357,6 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
