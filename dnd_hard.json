@@ -72,17 +72,6 @@
         },
         {
             "words": [
-                { "hanzi": "他们", "pinyin": "tāmen" },
-                { "hanzi": "在", "pinyin": "zài" },
-                { "hanzi": "对", "pinyin": "duì" },
-                { "hanzi": "她", "pinyin": "tā" },
-                { "hanzi": "做", "pinyin": "zuò" },
-                { "hanzi": "什么?", "pinyin": "shénme?" }
-            ],
-            "translation": "¿Qué le están haciendo a ella?"
-        },
-        {
-            "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "已经", "pinyin": "yǐjīng" },
                 { "hanzi": "把", "pinyin": "bǎ" },
@@ -811,6 +800,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
