@@ -318,8 +318,12 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "坐火车",
-        "pinyin": "zuò huǒchē"
+        "hanzi": "坐",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "火车",
+        "pinyin": "huǒchē"
       },
       {
         "hanzi": "来",
@@ -335,8 +339,12 @@
   {
     "words": [
       {
-        "hanzi": "这本",
-        "pinyin": "zhè běn"
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "本",
+        "pinyin": "běn"
       },
       {
         "hanzi": "书",
@@ -368,39 +376,6 @@
       }
     ],
     "translation": "Este libro me lo regaló él."
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "学",
-        "pinyin": "xué"
-      },
-      {
-        "hanzi": "中文",
-        "pinyin": "zhōngwén"
-      },
-      {
-        "hanzi": "多长时间",
-        "pinyin": "duō cháng shíjiān"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": "?"
-      }
-    ],
-    "translation": "¿Cuánto tiempo llevas estudiando chino?"
   },
   {
     "words": [
@@ -768,3 +743,4 @@
   }
 
 ]
+
