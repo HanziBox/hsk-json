@@ -44,7 +44,7 @@
         "pinyin": "dǎ kāi"
       }
     ],
-    "translation": "Tú abres la luz"
+    "translation": "Enciende la luz"
   },
   {
     "words": [
@@ -71,7 +71,7 @@
     "words": [
       {
         "hanzi": "妈妈",
-        "pinyin": "mā ma"
+        "pinyin": "māma"
       },
       {
         "hanzi": "把",
@@ -83,7 +83,7 @@
       },
       {
         "hanzi": "袜子",
-        "pinyin": "wà zi"
+        "pinyin": "wàzi"
       },
       {
         "hanzi": "洗",
@@ -129,7 +129,7 @@
       },
       {
         "hanzi": "吃完",
-        "pinyin": "chī wán"
+        "pinyin": "chīwán"
       },
       {
         "hanzi": "了",
@@ -154,7 +154,7 @@
       },
       {
         "hanzi": "做完",
-        "pinyin": "zuò wán"
+        "pinyin": "zuòwán"
       },
       {
         "hanzi": "了",
@@ -175,7 +175,7 @@
       },
       {
         "hanzi": "钥匙",
-        "pinyin": "yào shi"
+        "pinyin": "yàoshi"
       },
       {
         "hanzi": "忘",
@@ -198,7 +198,8 @@
         "pinyin": "le"
       }
     ],
-    "translation": "Olvidé las llaves en casa"
+    "translation": "Olvidé las llaves en casa",
+    "note": "NOTA: wàng 忘 es olvidar"
   },
   {
     "words": [
@@ -220,7 +221,7 @@
       },
       {
         "hanzi": "那里",
-        "pinyin": "nà lǐ"
+        "pinyin": "nàlǐ"
       }
     ],
     "translation": "Pon el libro ahí"
@@ -237,11 +238,11 @@
       },
       {
         "hanzi": "我的",
-        "pinyin": "wǒ de"
+        "pinyin": "wǒde"
       },
       {
         "hanzi": "房子",
-        "pinyin": "fáng zi"
+        "pinyin": "fángzi"
       },
       {
         "hanzi": "买",
@@ -299,10 +300,11 @@
       },
       {
         "hanzi": "过来",
-        "pinyin": "guò lái"
+        "pinyin": "guòlái"
       }
     ],
-    "translation": "Por favor, trae las verduras"
+    "translation": "Por favor, trae las verduras",
+    "note": "NOTA: Ya vimos que guòlái 过来 expresa un movimiento de acercamiento"
   },
   {
     "words": [
@@ -320,14 +322,15 @@
       },
       {
         "hanzi": "杯子",
-        "pinyin": "bēi zi"
+        "pinyin": "bēizi"
       },
       {
         "hanzi": "拿走",
-        "pinyin": "ná zǒu"
+        "pinyin": "názǒu"
       }
     ],
-    "translation": "Por favor, llévate esta taza"
+    "translation": "Por favor, llévate esta taza",
+    "note": "NOTA: názǒu 拿走 es llevarse (lit: coger y marchar)"
   },
   {
     "words": [
@@ -337,7 +340,7 @@
       },
       {
         "hanzi": "眼镜",
-        "pinyin": "yǎn jìng"
+        "pinyin": "yǎnjìng"
       },
       {
         "hanzi": "戴上",
@@ -350,7 +353,7 @@
     "words": [
       {
         "hanzi": "不要",
-        "pinyin": "bú yào"
+        "pinyin": "búyào"
       },
       {
         "hanzi": "把",
@@ -366,7 +369,7 @@
       },
       {
         "hanzi": "他们",
-        "pinyin": "tā men"
+        "pinyin": "tāmen"
       }
     ],
     "translation": "No les des el dinero"
@@ -410,11 +413,11 @@
       },
       {
         "hanzi": "电脑",
-        "pinyin": "diàn nǎo"
+        "pinyin": "diànnǎo"
       },
       {
         "hanzi": "修好",
-        "pinyin": "xiū hǎo"
+        "pinyin": "xiūhǎo"
       },
       {
         "hanzi": "了",
@@ -436,7 +439,7 @@
       },
       {
         "hanzi": "东西",
-        "pinyin": "dōng xi"
+        "pinyin": "dōngxi"
       },
       {
         "hanzi": "都",
@@ -444,7 +447,7 @@
       },
       {
         "hanzi": "整理",
-        "pinyin": "zhěng lǐ"
+        "pinyin": "zhěnglǐ"
       },
       {
         "hanzi": "好",
@@ -503,18 +506,19 @@
       },
       {
         "hanzi": "手机",
-        "pinyin": "shǒu jī"
+        "pinyin": "shǒujī"
       },
       {
         "hanzi": "充电",
-        "pinyin": "chōng diàn"
+        "pinyin": "chōngdiàn"
       },
       {
         "hanzi": "了",
         "pinyin": "le"
       }
     ],
-    "translation": "Cargué el móvil"
+    "translation": "Cargué el móvil",
+    "note": "NOTA: chōngdiàn 充电 es cargar (Lit: llenar de electricidad)"
   },
   {
     "words": [
@@ -557,7 +561,7 @@
       },
       {
         "hanzi": "张开",
-        "pinyin": "zhāng kāi"
+        "pinyin": "zhāngkāi"
       }
     ],
     "translation": "Abre la boca"
@@ -578,10 +582,11 @@
       },
       {
         "hanzi": "下来",
-        "pinyin": "xià lái"
+        "pinyin": "xiàlái"
       }
     ],
-    "translation": "Llámale para que baje"
+    "translation": "Llámale para que baje",
+    "note": "NOTA: jiào 叫 es llamarse o llamar a alguien"
   },
   {
     "words": [
@@ -591,7 +596,7 @@
       },
       {
         "hanzi": "钱包",
-        "pinyin": "qián bāo"
+        "pinyin": "qiánbāo"
       },
       {
         "hanzi": "还",
@@ -620,7 +625,7 @@
       },
       {
         "hanzi": "过来",
-        "pinyin": "guò lái"
+        "pinyin": "guòlái"
       }
     ],
     "translation": "Tráelo aquí"
@@ -641,12 +646,13 @@
       },
       {
         "hanzi": "上去!",
-        "pinyin": "shàng qù!"
+        "pinyin": "shàngqù!"
       }
     ],
     "translation": "¡Lanza la pelota hacia arriba!"
   }
 ]
+
 
 
 
