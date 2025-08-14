@@ -54,6 +54,35 @@
     "translation": "Él fue en avión."
   },
   {
+  "words": [
+    {
+      "hanzi": "这",
+      "pinyin": "zhè"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì"
+    },
+    {
+      "hanzi": "他",
+      "pinyin": "tā"
+    },
+    {
+      "hanzi": "自己",
+      "pinyin": "zìjǐ"
+    },
+    {
+      "hanzi": "做",
+      "pinyin": "zuò"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de"
+    }
+  ],
+  "translation": "Esto lo hizo él mismo."
+  },
+  {
     "words": [
       {
         "hanzi": "你",
@@ -723,6 +752,7 @@
   }
 
 ]
+
 
 
 
