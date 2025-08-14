@@ -148,41 +148,32 @@
   {
   "words": [
     {
-      "hanzi": "这",
-      "pinyin": "zhè"
-    },
-    {
-      "hanzi": "封",
-      "pinyin": "fēng"
-    },
-    {
-      "hanzi": "信",
-      "pinyin": "xìn"
+      "hanzi": "我",
+      "pinyin": "wǒ"
     },
     {
       "hanzi": "是",
       "pinyin": "shì"
     },
     {
-      "hanzi": "谁",
-      "pinyin": "shéi"
+      "hanzi": "跟",
+      "pinyin": "gēn"
     },
     {
-      "hanzi": "写",
-      "pinyin": "xiě"
+      "hanzi": "朋友",
+      "pinyin": "péngyǒu"
+    },
+    {
+      "hanzi": "去",
+      "pinyin": "qù"
     },
     {
       "hanzi": "的",
       "pinyin": "de"
-    },
-    {
-      "hanzi": "?",
-      "pinyin": "?"
     }
   ],
-  "translation": "¿Quién escribió esta carta?",
-  "note": "NOTA: fēng 封 es el clasificador para cartas."
-},
+  "translation": "Fui con un amigo."
+  },
   {
     "words": [
       {
@@ -703,6 +694,7 @@
   }
 
 ]
+
 
 
 
