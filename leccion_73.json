@@ -87,6 +87,35 @@
     "translation": "¿Dónde lo compraste?"
   },
   {
+  "words": [
+    {
+      "hanzi": "我",
+      "pinyin": "wǒ"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì"
+    },
+    {
+      "hanzi": "在",
+      "pinyin": "zài"
+    },
+    {
+      "hanzi": "报纸",
+      "pinyin": "bàozhǐ"
+    },
+    {
+      "hanzi": "看到",
+      "pinyin": "kàndào"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de"
+    }
+  ],
+  "translation": "Lo vi en el periódico."
+},
+  {
     "words": [
       {
         "hanzi": "这件",
@@ -694,6 +723,7 @@
   }
 
 ]
+
 
 
 
