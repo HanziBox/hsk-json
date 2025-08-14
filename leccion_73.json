@@ -147,6 +147,43 @@
   {
   "words": [
     {
+      "hanzi": "这",
+      "pinyin": "zhè"
+    },
+    {
+      "hanzi": "个",
+      "pinyin": "gè"
+    },
+    {
+      "hanzi": "菜",
+      "pinyin": "cài"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì"
+    },
+    {
+      "hanzi": "怎么",
+      "pinyin": "zěnme"
+    },
+    {
+      "hanzi": "做",
+      "pinyin": "zuò"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de"
+    },
+    {
+      "hanzi": "?",
+      "pinyin": "?"
+    }
+  ],
+  "translation": "¿Cómo se hace este plato?"
+},
+  {
+  "words": [
+    {
       "hanzi": "我",
       "pinyin": "wǒ"
     },
@@ -810,6 +847,7 @@
   }
 
 ]
+
 
 
 
