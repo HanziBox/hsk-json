@@ -207,6 +207,35 @@
     "translation": "Esta ropa la hizo mi mamá."
   },
   {
+  "words": [
+    {
+      "hanzi": "不",
+      "pinyin": "bù"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì"
+    },
+    {
+      "hanzi": "他",
+      "pinyin": "tā"
+    },
+    {
+      "hanzi": "告诉",
+      "pinyin": "gàosu"
+    },
+    {
+      "hanzi": "我",
+      "pinyin": "wǒ"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de"
+    }
+  ],
+  "translation": "No fue él quien me lo dijo."
+},
+  {
     "words": [
       {
         "hanzi": "他",
@@ -781,6 +810,7 @@
   }
 
 ]
+
 
 
 
