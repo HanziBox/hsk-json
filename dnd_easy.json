@@ -104,6 +104,7 @@
       { "hanzi": "我", "pinyin": "wǒ" },
       { "hanzi": "要", "pinyin": "yào" },
       { "hanzi": "红色", "pinyin": "hóngsè" }
+      { "hanzi": "的", "pinyin": "de" }      
     ],
     "translation": "Quiero el rojo."
   },
@@ -632,6 +633,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
