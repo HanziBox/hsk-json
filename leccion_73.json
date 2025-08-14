@@ -553,12 +553,12 @@
         "pinyin": "qù"
       },
       {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
         "hanzi": "公司",
         "pinyin": "gōngsī"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
       }
     ],
     "translation": "Fui a la empresa caminando."
@@ -714,5 +714,6 @@
   }
 
 ]
+
 
 
