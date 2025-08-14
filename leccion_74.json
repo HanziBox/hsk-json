@@ -394,7 +394,9 @@
         "pinyin": "zhe?"
       }
     ],
-    "translation": "¿Quién dejó la puerta abierta?"
+    "translation": "¿Quién dejó la puerta abierta?",
+    "note": "NOTA: ¿Recuerdas zhe 着? kāi 开 es abrir, kāizhe 开着, abierto"
+    
   },
   {
     "words": [
@@ -419,7 +421,8 @@
         "pinyin": "le"
       }
     ],
-    "translation": "Arreglé el ordenador"
+    "translation": "Arreglé el ordenador",
+    "note": "NOTA: hǎo 好 es aquí un verbo resultativo que indica algo bien hecho."
   },
   {
     "words": [
@@ -452,7 +455,8 @@
         "pinyin": "le"
       }
     ],
-    "translation": "He ordenado todas mis cosas"
+    "translation": "He ordenado todas mis cosas",
+    "note": "NOTA: zhěnglǐ 整理 significa ordenar, poner en orden."
   },
   {
     "words": [
@@ -643,6 +647,7 @@
     "translation": "¡Lanza la pelota hacia arriba!"
   }
 ]
+
 
 
 
