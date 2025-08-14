@@ -1,0 +1,759 @@
+[
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "昨天",
+        "pinyin": "zuótiān"
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Yo vine ayer."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "坐飞机",
+        "pinyin": "zuò fēijī"
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Él se fue en avión."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "哪儿",
+        "pinyin": "nǎr"
+      },
+      {
+        "hanzi": "买",
+        "pinyin": "mǎi"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": "?"
+      }
+    ],
+    "translation": "¿Dónde lo compraste?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这件",
+        "pinyin": "zhè jiàn"
+      },
+      {
+        "hanzi": "衣服",
+        "pinyin": "yīfu"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我妈妈",
+        "pinyin": "wǒ māma"
+      },
+      {
+        "hanzi": "做",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Esta ropa la hizo mi mamá."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "跟",
+        "pinyin": "gēn"
+      },
+      {
+        "hanzi": "朋友",
+        "pinyin": "péngyǒu"
+      },
+      {
+        "hanzi": "看",
+        "pinyin": "kàn"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "电影",
+        "pinyin": "diànyǐng"
+      }
+    ],
+    "translation": "Yo vi la película con un amigo."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "去年",
+        "pinyin": "qùnián"
+      },
+      {
+        "hanzi": "毕业",
+        "pinyin": "bìyè"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Él se graduó el año pasado."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "谁",
+        "pinyin": "shéi"
+      },
+      {
+        "hanzi": "写",
+        "pinyin": "xiě"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "信",
+        "pinyin": "xìn"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": "?"
+      }
+    ],
+    "translation": "¿Quién escribió esta carta?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我们",
+        "pinyin": "wǒmen"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "怎么",
+        "pinyin": "zěnme"
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "学校",
+        "pinyin": "xuéxiào"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": "?"
+      }
+    ],
+    "translation": "¿Cómo fuimos a la escuela?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "什么时候",
+        "pinyin": "shénme shíhou"
+      },
+      {
+        "hanzi": "知道",
+        "pinyin": "zhīdào"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": "?"
+      }
+    ],
+    "translation": "¿Cuándo lo supiste?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这个",
+        "pinyin": "zhège"
+      },
+      {
+        "hanzi": "包",
+        "pinyin": "bāo"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "中国",
+        "pinyin": "zhōngguó"
+      },
+      {
+        "hanzi": "买",
+        "pinyin": "mǎi"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Este bolso se compró en China."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "坐火车",
+        "pinyin": "zuò huǒchē"
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Ellos vinieron en tren."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这本",
+        "pinyin": "zhè běn"
+      },
+      {
+        "hanzi": "书",
+        "pinyin": "shū"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "送",
+        "pinyin": "sòng"
+      },
+      {
+        "hanzi": "给",
+        "pinyin": "gěi"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Este libro me lo regaló él."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "学",
+        "pinyin": "xué"
+      },
+      {
+        "hanzi": "中文",
+        "pinyin": "zhōngwén"
+      },
+      {
+        "hanzi": "多长时间",
+        "pinyin": "duō cháng shíjiān"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": "?"
+      }
+    ],
+    "translation": "¿Cuánto tiempo llevas estudiando chino?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这幅",
+        "pinyin": "zhè fú"
+      },
+      {
+        "hanzi": "画",
+        "pinyin": "huà"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我哥哥",
+        "pinyin": "wǒ gēge"
+      },
+      {
+        "hanzi": "画",
+        "pinyin": "huà"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Esta pintura la pintó mi hermano mayor."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我们",
+        "pinyin": "wǒmen"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "上个",
+        "pinyin": "shàng ge"
+      },
+      {
+        "hanzi": "星期",
+        "pinyin": "xīngqī"
+      },
+      {
+        "hanzi": "搬家",
+        "pinyin": "bānjiā"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Nos mudamos la semana pasada."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "为什么",
+        "pinyin": "wèishéme"
+      },
+      {
+        "hanzi": "学",
+        "pinyin": "xué"
+      },
+      {
+        "hanzi": "汉语",
+        "pinyin": "hànyǔ"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": "?"
+      }
+    ],
+    "translation": "¿Por qué estudias chino?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "一个人",
+        "pinyin": "yī gè rén"
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Él fue solo."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这首",
+        "pinyin": "zhè shǒu"
+      },
+      {
+        "hanzi": "歌",
+        "pinyin": "gē"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng"
+      },
+      {
+        "hanzi": "老师",
+        "pinyin": "lǎoshī"
+      },
+      {
+        "hanzi": "教",
+        "pinyin": "jiāo"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "唱",
+        "pinyin": "chàng"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Esta canción me la enseñó a cantar el profesor Wang."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "哪儿",
+        "pinyin": "nǎr"
+      },
+      {
+        "hanzi": "出生",
+        "pinyin": "chūshēng"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": "?"
+      }
+    ],
+    "translation": "¿Dónde naciste?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "走着",
+        "pinyin": "zǒuzhe"
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "公司",
+        "pinyin": "gōngsī"
+      }
+    ],
+    "translation": "Fui a la empresa caminando."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "去年",
+        "pinyin": "qùnián"
+      },
+      {
+        "hanzi": "冬天",
+        "pinyin": "dōngtiān"
+      },
+      {
+        "hanzi": "结婚",
+        "pinyin": "jiéhūn"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Ellos se casaron el invierno pasado."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这台",
+        "pinyin": "zhè tái"
+      },
+      {
+        "hanzi": "电脑",
+        "pinyin": "diànnǎo"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎngshàng"
+      },
+      {
+        "hanzi": "买",
+        "pinyin": "mǎi"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Esta computadora la compré en línea."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "打车",
+        "pinyin": "dǎchē"
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Él vino en taxi."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "怎么",
+        "pinyin": "zěnme"
+      },
+      {
+        "hanzi": "学会",
+        "pinyin": "xuéhuì"
+      },
+      {
+        "hanzi": "做饭",
+        "pinyin": "zuòfàn"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": "?"
+      }
+    ],
+    "translation": "¿Cómo aprendiste a cocinar?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "星期一",
+        "pinyin": "xīngqīyī"
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      }
+    ],
+    "translation": "Lo vi el lunes."
+  }
+]
