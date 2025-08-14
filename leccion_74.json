@@ -25,6 +25,31 @@
     "translation": "Apagué la luz",
     "note": "NOTA: dēng 灯 es lámpara en chino, aunque se traduzca al español como luz."
   },
+    {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "把",
+        "pinyin": "bǎ"
+      },
+      {
+        "hanzi": "饭",
+        "pinyin": "fàn"
+      },
+      {
+        "hanzi": "吃完",
+        "pinyin": "chīwán"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      }
+    ],
+    "translation": "Me terminé la comida"
+  },
   {
     "words": [
       {
@@ -112,31 +137,6 @@
       }
     ],
     "translation": "¡Abre la puerta!"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "我",
-        "pinyin": "wǒ"
-      },
-      {
-        "hanzi": "把",
-        "pinyin": "bǎ"
-      },
-      {
-        "hanzi": "饭",
-        "pinyin": "fàn"
-      },
-      {
-        "hanzi": "吃完",
-        "pinyin": "chīwán"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
-      }
-    ],
-    "translation": "Me terminé la comida"
   },
   {
     "words": [
@@ -652,6 +652,7 @@
     "translation": "¡Lanza la pelota hacia arriba!"
   }
 ]
+
 
 
 
