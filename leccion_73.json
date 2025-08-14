@@ -122,39 +122,6 @@
   {
     "words": [
       {
-        "hanzi": "我",
-        "pinyin": "wǒ"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "跟",
-        "pinyin": "gēn"
-      },
-      {
-        "hanzi": "朋友",
-        "pinyin": "péngyǒu"
-      },
-      {
-        "hanzi": "看",
-        "pinyin": "kàn"
-      },
-      {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
-        "hanzi": "电影",
-        "pinyin": "diànyǐng"
-      }
-    ],
-    "translation": "Yo vi la película con un amigo."
-  },
-  {
-    "words": [
-      {
         "hanzi": "他",
         "pinyin": "tā"
       },
@@ -736,6 +703,7 @@
   }
 
 ]
+
 
 
 
