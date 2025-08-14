@@ -219,8 +219,8 @@
   {
     "words": [
       {
-        "hanzi": "我们",
-        "pinyin": "wǒmen"
+        "hanzi": "她们",
+        "pinyin": "tāmen"
       },
       {
         "hanzi": "是",
@@ -247,7 +247,7 @@
         "pinyin": "?"
       }
     ],
-    "translation": "¿Cómo fuimos a la escuela?"
+    "translation": "¿Cómo fueron a la escuela?"
   },
   {
     "words": [
@@ -736,6 +736,7 @@
   }
 
 ]
+
 
 
 
