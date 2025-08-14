@@ -23,7 +23,7 @@
       }
     ],
     "translation": "Apagué la luz",
-    "note": "Aqui va la nota"
+    "note": "NOTA: Aqui va la nota"
   },
   {
     "words": [
@@ -643,5 +643,6 @@
     "translation": "¡Lanza la pelota hacia arriba!"
   }
 ]
+
 
 
