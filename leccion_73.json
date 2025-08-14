@@ -25,6 +25,35 @@
     "translation": "Yo vine ayer."
   },
   {
+  "words": [
+    {
+      "hanzi": "我们",
+      "pinyin": "wǒmen"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì"
+    },
+    {
+      "hanzi": "在",
+      "pinyin": "zài"
+    },
+    {
+      "hanzi": "大学",
+      "pinyin": "dàxué"
+    },
+    {
+      "hanzi": "认识",
+      "pinyin": "rènshi"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de"
+    }
+  ],
+  "translation": "Nos conocimos en la universidad."
+},
+  {
     "words": [
       {
         "hanzi": "他",
@@ -752,6 +781,7 @@
   }
 
 ]
+
 
 
 
