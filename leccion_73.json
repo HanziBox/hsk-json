@@ -184,6 +184,35 @@
   {
   "words": [
     {
+      "hanzi": "你",
+      "pinyin": "nǐ"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì"
+    },
+    {
+      "hanzi": "怎么",
+      "pinyin": "zěnme"
+    },
+    {
+      "hanzi": "回家",
+      "pinyin": "huíjiā"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de"
+    },
+    {
+      "hanzi": "?",
+      "pinyin": "?"
+    }
+  ],
+  "translation": "¿Cómo volviste a casa?"
+},
+  {
+  "words": [
+    {
       "hanzi": "我",
       "pinyin": "wǒ"
     },
@@ -847,6 +876,7 @@
   }
 
 ]
+
 
 
 
