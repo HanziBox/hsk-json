@@ -438,35 +438,6 @@
   {
     "words": [
       {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "为什么",
-        "pinyin": "wèishéme"
-      },
-      {
-        "hanzi": "学",
-        "pinyin": "xué"
-      },
-      {
-        "hanzi": "汉语",
-        "pinyin": "hànyǔ"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": "?"
-      }
-    ],
-    "translation": "¿Por qué estudias chino?"
-  },
-  {
-    "words": [
-      {
         "hanzi": "他",
         "pinyin": "tā"
       },
@@ -743,4 +714,5 @@
   }
 
 ]
+
 
