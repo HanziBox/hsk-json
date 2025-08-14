@@ -35,8 +35,12 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "坐飞机",
-        "pinyin": "zuò fēijī"
+        "hanzi": "坐",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "飞机",
+        "pinyin": "fēijī"
       },
       {
         "hanzi": "去",
@@ -47,7 +51,7 @@
         "pinyin": "de"
       }
     ],
-    "translation": "Él se fue en avión."
+    "translation": "Él fue en avión."
   },
   {
     "words": [
@@ -167,41 +171,47 @@
         "pinyin": "de"
       }
     ],
-    "translation": "Él se graduó el año pasado."
+    "translation": "Él se graduó el año pasado.",
+    "note": "NOTA: bìyè 毕业 significa graduarse."
   },
   {
-    "words": [
-      {
-        "hanzi": "这",
-        "pinyin": "zhè"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "写",
-        "pinyin": "xiě"
-      },
-      {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
-        "hanzi": "信",
-        "pinyin": "xìn"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": "?"
-      }
-    ],
-    "translation": "¿Quién escribió esta carta?"
-  },
+  "words": [
+    {
+      "hanzi": "这",
+      "pinyin": "zhè"
+    },
+    {
+      "hanzi": "封",
+      "pinyin": "fēng"
+    },
+    {
+      "hanzi": "信",
+      "pinyin": "xìn"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì"
+    },
+    {
+      "hanzi": "谁",
+      "pinyin": "shéi"
+    },
+    {
+      "hanzi": "写",
+      "pinyin": "xiě"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de"
+    },
+    {
+      "hanzi": "?",
+      "pinyin": "?"
+    }
+  ],
+  "translation": "¿Quién escribió esta carta?",
+  "note": "NOTA: fēng 封 es el clasificador para cartas."
+},
   {
     "words": [
       {
@@ -221,12 +231,12 @@
         "pinyin": "qù"
       },
       {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
         "hanzi": "学校",
         "pinyin": "xuéxiào"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
       },
       {
         "hanzi": "?",
@@ -756,4 +766,5 @@
     ],
     "translation": "Lo vi el lunes."
   }
+
 ]
