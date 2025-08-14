@@ -101,8 +101,12 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "我妈妈",
-        "pinyin": "wǒ māma"
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+            {
+        "hanzi": "妈妈",
+        "pinyin": "māma"
       },
       {
         "hanzi": "做",
@@ -380,8 +384,12 @@
   {
     "words": [
       {
-        "hanzi": "这幅",
-        "pinyin": "zhè fú"
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "幅",
+        "pinyin": "fú"
       },
       {
         "hanzi": "画",
@@ -392,8 +400,12 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "我哥哥",
-        "pinyin": "wǒ gēge"
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "哥哥",
+        "pinyin": "gēge"
       },
       {
         "hanzi": "画",
@@ -463,8 +475,12 @@
   {
     "words": [
       {
-        "hanzi": "这首",
-        "pinyin": "zhè shǒu"
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "首",
+        "pinyin": "shǒu"
       },
       {
         "hanzi": "歌",
@@ -499,7 +515,8 @@
         "pinyin": "de"
       }
     ],
-    "translation": "Esta canción me la enseñó a cantar el profesor Wang."
+    "translation": "Esta canción me la enseñó a cantar el profesor Wang.",
+    "note": "NOTA: shǒu 首 es el clasificador para canciones y poemas."
   },
   {
     "words": [
@@ -685,7 +702,8 @@
         "pinyin": "?"
       }
     ],
-    "translation": "¿Cómo aprendiste a cocinar?"
+    "translation": "¿Cómo aprendiste a cocinar?",
+    "note": "NOTA: huì 会 en este caso es un verbo resultativo que indica dominar (una técnica)"
   },
   {
     "words": [
@@ -718,6 +736,7 @@
   }
 
 ]
+
 
 
 
