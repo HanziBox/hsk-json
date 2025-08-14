@@ -595,8 +595,12 @@
   {
     "words": [
       {
-        "hanzi": "这台",
-        "pinyin": "zhè tái"
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "台",
+        "pinyin": "tái"
       },
       {
         "hanzi": "电脑",
@@ -702,18 +706,19 @@
         "pinyin": "jiàn"
       },
       {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
         "hanzi": "他",
         "pinyin": "tā"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
       }
     ],
     "translation": "Lo vi el lunes."
   }
 
 ]
+
 
 
 
