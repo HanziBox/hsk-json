@@ -28,8 +28,8 @@
     {
     "words": [
       {
-        "hanzi": "我",
-        "pinyin": "wǒ"
+        "hanzi": "她",
+        "pinyin": "tā"
       },
       {
         "hanzi": "把",
@@ -48,7 +48,7 @@
         "pinyin": "le"
       }
     ],
-    "translation": "Me terminé la comida"
+    "translation": "Ella se terminó la comida"
   },
   {
     "words": [
@@ -652,6 +652,7 @@
     "translation": "¡Lanza la pelota hacia arriba!"
   }
 ]
+
 
 
 
