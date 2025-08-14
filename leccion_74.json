@@ -14,12 +14,8 @@
         "pinyin": "dēng"
       },
       {
-        "hanzi": "关",
-        "pinyin": "guān"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "关了",
+        "pinyin": "guān le"
       }
     ],
     "translation": "Apagué la luz"
@@ -39,12 +35,8 @@
         "pinyin": "dēng"
       },
       {
-        "hanzi": "打",
-        "pinyin": "dǎ"
-      },
-      {
-        "hanzi": "开",
-        "pinyin": "kāi"
+        "hanzi": "打开",
+        "pinyin": "dǎ kāi"
       }
     ],
     "translation": "Tú abres la luz"
@@ -52,24 +44,16 @@
   {
     "words": [
       {
-        "hanzi": "把",
-        "pinyin": "bǎ"
-      },
-      {
-        "hanzi": "钱",
-        "pinyin": "qián"
+        "hanzi": "把钱",
+        "pinyin": "bǎ qián"
       },
       {
         "hanzi": "给",
         "pinyin": "gěi"
       },
       {
-        "hanzi": "我",
-        "pinyin": "wǒ"
-      },
-      {
-        "hanzi": "!",
-        "pinyin": ""
+        "hanzi": "我!",
+        "pinyin": "wǒ!"
       }
     ],
     "translation": "¡Dame el dinero!"
@@ -77,12 +61,8 @@
   {
     "words": [
       {
-        "hanzi": "妈",
-        "pinyin": "mā"
-      },
-      {
-        "hanzi": "妈",
-        "pinyin": "mā"
+        "hanzi": "妈妈",
+        "pinyin": "mā ma"
       },
       {
         "hanzi": "把",
@@ -93,20 +73,12 @@
         "pinyin": "wǒ"
       },
       {
-        "hanzi": "袜",
-        "pinyin": "wà"
+        "hanzi": "袜子",
+        "pinyin": "wà zi"
       },
       {
-        "hanzi": "子",
-        "pinyin": "zi"
-      },
-      {
-        "hanzi": "洗",
-        "pinyin": "xǐ"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "洗了",
+        "pinyin": "xǐ le"
       }
     ],
     "translation": "Mamá lavó mis calcetines"
@@ -114,24 +86,12 @@
   {
     "words": [
       {
-        "hanzi": "把",
-        "pinyin": "bǎ"
+        "hanzi": "把门",
+        "pinyin": "bǎ mén"
       },
       {
-        "hanzi": "门",
-        "pinyin": "mén"
-      },
-      {
-        "hanzi": "开",
-        "pinyin": "kāi"
-      },
-      {
-        "hanzi": "开",
-        "pinyin": "kāi"
-      },
-      {
-        "hanzi": "!",
-        "pinyin": ""
+        "hanzi": "开开!",
+        "pinyin": "kāi kāi!"
       }
     ],
     "translation": "¡Abre la puerta!"
@@ -151,16 +111,8 @@
         "pinyin": "fàn"
       },
       {
-        "hanzi": "吃",
-        "pinyin": "chī"
-      },
-      {
-        "hanzi": "完",
-        "pinyin": "wán"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "吃完了",
+        "pinyin": "chī wán le"
       }
     ],
     "translation": "Me terminé la comida"
@@ -168,36 +120,20 @@
   {
     "words": [
       {
-        "hanzi": "我",
-        "pinyin": "wǒ"
-      },
-      {
-        "hanzi": "们",
-        "pinyin": "men"
+        "hanzi": "我们",
+        "pinyin": "wǒ men"
       },
       {
         "hanzi": "把",
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "作",
-        "pinyin": "zuò"
+        "hanzi": "作业",
+        "pinyin": "zuò yè"
       },
       {
-        "hanzi": "业",
-        "pinyin": "yè"
-      },
-      {
-        "hanzi": "做",
-        "pinyin": "zuò"
-      },
-      {
-        "hanzi": "完",
-        "pinyin": "wán"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "做完了",
+        "pinyin": "zuò wán le"
       }
     ],
     "translation": "Terminamos la tarea"
@@ -213,12 +149,8 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "钥",
-        "pinyin": "yào"
-      },
-      {
-        "hanzi": "匙",
-        "pinyin": "shi"
+        "hanzi": "钥匙",
+        "pinyin": "yào shi"
       },
       {
         "hanzi": "忘",
@@ -233,12 +165,8 @@
         "pinyin": "jiā"
       },
       {
-        "hanzi": "里",
-        "pinyin": "lǐ"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "里了",
+        "pinyin": "lǐ le"
       }
     ],
     "translation": "Olvidé las llaves en casa"
@@ -254,20 +182,12 @@
         "pinyin": "shū"
       },
       {
-        "hanzi": "放",
-        "pinyin": "fàng"
+        "hanzi": "放在",
+        "pinyin": "fàng zài"
       },
       {
-        "hanzi": "在",
-        "pinyin": "zài"
-      },
-      {
-        "hanzi": "那",
-        "pinyin": "nà"
-      },
-      {
-        "hanzi": "里",
-        "pinyin": "lǐ"
+        "hanzi": "那里",
+        "pinyin": "nà lǐ"
       }
     ],
     "translation": "Pon el libro ahí"
@@ -283,28 +203,16 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "我",
-        "pinyin": "wǒ"
+        "hanzi": "我的",
+        "pinyin": "wǒ de"
       },
       {
-        "hanzi": "的",
-        "pinyin": "de"
+        "hanzi": "房子",
+        "pinyin": "fáng zi"
       },
       {
-        "hanzi": "房",
-        "pinyin": "fáng"
-      },
-      {
-        "hanzi": "子",
-        "pinyin": "zi"
-      },
-      {
-        "hanzi": "买",
-        "pinyin": "mǎi"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "买了",
+        "pinyin": "mǎi le"
       }
     ],
     "translation": "Ella compró mi casa"
@@ -324,12 +232,8 @@
         "pinyin": "chē"
       },
       {
-        "hanzi": "卖",
-        "pinyin": "mài"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "卖了",
+        "pinyin": "mài le"
       }
     ],
     "translation": "Vendí el coche"
@@ -349,16 +253,8 @@
         "pinyin": "cài"
       },
       {
-        "hanzi": "拿",
-        "pinyin": "ná"
-      },
-      {
-        "hanzi": "过",
-        "pinyin": "guò"
-      },
-      {
-        "hanzi": "来",
-        "pinyin": "lái"
+        "hanzi": "拿过来",
+        "pinyin": "ná guò lái"
       }
     ],
     "translation": "Por favor, trae las verduras"
@@ -374,28 +270,16 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "这",
-        "pinyin": "zhè"
+        "hanzi": "这个",
+        "pinyin": "zhè ge"
       },
       {
-        "hanzi": "个",
-        "pinyin": "ge"
+        "hanzi": "杯子",
+        "pinyin": "bēi zi"
       },
       {
-        "hanzi": "杯",
-        "pinyin": "bēi"
-      },
-      {
-        "hanzi": "子",
-        "pinyin": "zi"
-      },
-      {
-        "hanzi": "拿",
-        "pinyin": "ná"
-      },
-      {
-        "hanzi": "走",
-        "pinyin": "zǒu"
+        "hanzi": "拿走",
+        "pinyin": "ná zǒu"
       }
     ],
     "translation": "Por favor, llévate esta taza"
@@ -407,20 +291,12 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "眼",
-        "pinyin": "yǎn"
+        "hanzi": "眼镜",
+        "pinyin": "yǎn jìng"
       },
       {
-        "hanzi": "镜",
-        "pinyin": "jìng"
-      },
-      {
-        "hanzi": "戴",
-        "pinyin": "dài"
-      },
-      {
-        "hanzi": "上",
-        "pinyin": "shàng"
+        "hanzi": "戴上",
+        "pinyin": "dài shàng"
       }
     ],
     "translation": "Ponte las gafas"
@@ -428,32 +304,20 @@
   {
     "words": [
       {
-        "hanzi": "不",
-        "pinyin": "bú"
+        "hanzi": "不要",
+        "pinyin": "bú yào"
       },
       {
-        "hanzi": "要",
-        "pinyin": "yào"
-      },
-      {
-        "hanzi": "把",
-        "pinyin": "bǎ"
-      },
-      {
-        "hanzi": "钱",
-        "pinyin": "qián"
+        "hanzi": "把钱",
+        "pinyin": "bǎ qián"
       },
       {
         "hanzi": "给",
         "pinyin": "gěi"
       },
       {
-        "hanzi": "他",
-        "pinyin": "tā"
-      },
-      {
-        "hanzi": "们",
-        "pinyin": "men"
+        "hanzi": "他们",
+        "pinyin": "tā men"
       }
     ],
     "translation": "No les des el dinero"
@@ -465,24 +329,12 @@
         "pinyin": "shéi"
       },
       {
-        "hanzi": "把",
-        "pinyin": "bǎ"
+        "hanzi": "把门",
+        "pinyin": "bǎ mén"
       },
       {
-        "hanzi": "门",
-        "pinyin": "mén"
-      },
-      {
-        "hanzi": "开",
-        "pinyin": "kāi"
-      },
-      {
-        "hanzi": "着",
-        "pinyin": "zhe"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
+        "hanzi": "开着?",
+        "pinyin": "kāi zhe?"
       }
     ],
     "translation": "¿Quién dejó la puerta abierta?"
@@ -498,24 +350,12 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "电",
-        "pinyin": "diàn"
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo"
       },
       {
-        "hanzi": "脑",
-        "pinyin": "nǎo"
-      },
-      {
-        "hanzi": "修",
-        "pinyin": "xiū"
-      },
-      {
-        "hanzi": "好",
-        "pinyin": "hǎo"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "修好了",
+        "pinyin": "xiū hǎo le"
       }
     ],
     "translation": "Arreglé el ordenador"
@@ -531,32 +371,20 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "东",
-        "pinyin": "dōng"
-      },
-      {
-        "hanzi": "西",
-        "pinyin": "xī"
+        "hanzi": "东西",
+        "pinyin": "dōng xi"
       },
       {
         "hanzi": "都",
         "pinyin": "dōu"
       },
       {
-        "hanzi": "整",
-        "pinyin": "zhěng"
+        "hanzi": "整理",
+        "pinyin": "zhěng lǐ"
       },
       {
-        "hanzi": "理",
-        "pinyin": "lǐ"
-      },
-      {
-        "hanzi": "好",
-        "pinyin": "hǎo"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "好了",
+        "pinyin": "hǎo le"
       }
     ],
     "translation": "He ordenado todas mis cosas"
@@ -572,12 +400,8 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "那",
-        "pinyin": "nà"
-      },
-      {
-        "hanzi": "本",
-        "pinyin": "běn"
+        "hanzi": "那本",
+        "pinyin": "nà běn"
       },
       {
         "hanzi": "书",
@@ -605,24 +429,12 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "手",
-        "pinyin": "shǒu"
+        "hanzi": "手机",
+        "pinyin": "shǒu jī"
       },
       {
-        "hanzi": "机",
-        "pinyin": "jī"
-      },
-      {
-        "hanzi": "充",
-        "pinyin": "chōng"
-      },
-      {
-        "hanzi": "电",
-        "pinyin": "diàn"
-      },
-      {
-        "hanzi": "了",
-        "pinyin": "le"
+        "hanzi": "充电了",
+        "pinyin": "chōng diàn le"
       }
     ],
     "translation": "Cargué el móvil"
@@ -642,16 +454,8 @@
         "pinyin": "māo"
       },
       {
-        "hanzi": "带",
-        "pinyin": "dài"
-      },
-      {
-        "hanzi": "回",
-        "pinyin": "huí"
-      },
-      {
-        "hanzi": "家",
-        "pinyin": "jiā"
+        "hanzi": "带回家",
+        "pinyin": "dài huí jiā"
       },
       {
         "hanzi": "了",
@@ -671,12 +475,8 @@
         "pinyin": "zuǐ"
       },
       {
-        "hanzi": "张",
-        "pinyin": "zhāng"
-      },
-      {
-        "hanzi": "开",
-        "pinyin": "kāi"
+        "hanzi": "张开",
+        "pinyin": "zhāng kāi"
       }
     ],
     "translation": "Abre la boca"
@@ -692,16 +492,8 @@
         "pinyin": "tā"
       },
       {
-        "hanzi": "叫",
-        "pinyin": "jiào"
-      },
-      {
-        "hanzi": "下",
-        "pinyin": "xià"
-      },
-      {
-        "hanzi": "来",
-        "pinyin": "lái"
+        "hanzi": "叫下来",
+        "pinyin": "jiào xià lái"
       }
     ],
     "translation": "Llámale para que baje"
@@ -713,12 +505,8 @@
         "pinyin": "bǎ"
       },
       {
-        "hanzi": "钱",
-        "pinyin": "qián"
-      },
-      {
-        "hanzi": "包",
-        "pinyin": "bāo"
+        "hanzi": "钱包",
+        "pinyin": "qián bāo"
       },
       {
         "hanzi": "还",
@@ -742,16 +530,8 @@
         "pinyin": "tā"
       },
       {
-        "hanzi": "带",
-        "pinyin": "dài"
-      },
-      {
-        "hanzi": "过",
-        "pinyin": "guò"
-      },
-      {
-        "hanzi": "来",
-        "pinyin": "lái"
+        "hanzi": "带过来",
+        "pinyin": "dài guò lái"
       }
     ],
     "translation": "Tráelo aquí"
@@ -767,20 +547,8 @@
         "pinyin": "qiú"
       },
       {
-        "hanzi": "扔",
-        "pinyin": "rēng"
-      },
-      {
-        "hanzi": "上",
-        "pinyin": "shàng"
-      },
-      {
-        "hanzi": "去",
-        "pinyin": "qù"
-      },
-      {
-        "hanzi": "!",
-        "pinyin": ""
+        "hanzi": "扔上去!",
+        "pinyin": "rēng shàng qù!"
       }
     ],
     "translation": "¡Lanza la pelota hacia arriba!"
