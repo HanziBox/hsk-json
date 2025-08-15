@@ -52,43 +52,6 @@
   {
     "words": [
       {
-        "hanzi": "那",
-        "pinyin": "nà"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "(一)",
-        "pinyin": "yī"
-      },
-      {
-        "hanzi": "把",
-        "pinyin": "bǎ"
-      },
-      {
-        "hanzi": "很",
-        "pinyin": "hěn"
-      },
-      {
-        "hanzi": "贵",
-        "pinyin": "guì"
-      },
-      {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
-        "hanzi": "椅子",
-        "pinyin": "yǐzi"
-      }
-    ],
-    "translation": "Esa es una silla muy cara"
-  },
-  {
-    "words": [
-      {
         "hanzi": "中国",
         "pinyin": "zhōngguó"
       },
@@ -135,6 +98,43 @@
       }
     ],
     "translation": "Esta silla es muy alta"
+  },
+    {
+    "words": [
+      {
+        "hanzi": "那",
+        "pinyin": "nà"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "(一)",
+        "pinyin": "yī"
+      },
+      {
+        "hanzi": "把",
+        "pinyin": "bǎ"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "贵",
+        "pinyin": "guì"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "椅子",
+        "pinyin": "yǐzi"
+      }
+    ],
+    "translation": "Esa es una silla muy cara"
   },
   {
     "words": [
@@ -1011,6 +1011,7 @@
     "translation": "Tu madre es una buena persona"
   }
 ]
+
 
 
 
