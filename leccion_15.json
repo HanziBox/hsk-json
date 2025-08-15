@@ -908,43 +908,6 @@
   {
     "words": [
       {
-        "hanzi": "这",
-        "pinyin": "zhè"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "(一)",
-        "pinyin": "yī"
-      },
-      {
-        "hanzi": "件",
-        "pinyin": "jiàn"
-      },
-      {
-        "hanzi": "很",
-        "pinyin": "hěn"
-      },
-      {
-        "hanzi": "贵",
-        "pinyin": "guì"
-      },
-      {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
-        "hanzi": "衣服",
-        "pinyin": "yīfu"
-      }
-    ],
-    "translation": "Esta es una prenda de ropa muy cara"
-  },
-  {
-    "words": [
-      {
         "hanzi": "你的",
         "pinyin": "nǐde"
       },
@@ -1043,6 +1006,7 @@
     "translation": "Tu madre es una buena persona"
   }
 ]
+
 
 
 
