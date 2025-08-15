@@ -11,6 +11,31 @@
     "translation": "Este es mi libro",
     "note": ""
   },
+    {
+    "words": [
+      { "hanzi": "你", "pinyin": "nǐ" },
+      { "hanzi": "说", "pinyin": "shuō" },
+      { "hanzi": "中文", "pinyin": "zhōngwén" },
+      { "hanzi": "说", "pinyin": "shuō" },
+      { "hanzi": "得", "pinyin": "de" },
+      { "hanzi": "怎么样", "pinyin": "zěnmeyàng" }
+    ],
+    "correctIndex": 4,
+    "translation": "¿Qué tal hablas chino?",
+    "note": ""
+  },
+    {
+    "words": [
+      { "hanzi": "我们", "pinyin": "wǒmen" },
+      { "hanzi": "需要", "pinyin": "xūyào" },
+      { "hanzi": "耐心", "pinyin": "nàixīn" },
+      { "hanzi": "地", "pinyin": "de" },
+      { "hanzi": "等待", "pinyin": "děngdài" }
+    ],
+    "correctIndex": 3,
+    "translation": "Necesitamos esperar pacientemente",
+    "note": ""
+  },
   {
     "words": [
       { "hanzi": "他", "pinyin": "tā" },
@@ -148,18 +173,6 @@
   },
   {
     "words": [
-      { "hanzi": "我们", "pinyin": "wǒmen" },
-      { "hanzi": "需要", "pinyin": "xūyào" },
-      { "hanzi": "耐心", "pinyin": "nàixīn" },
-      { "hanzi": "地", "pinyin": "de" },
-      { "hanzi": "等待", "pinyin": "děngdài" }
-    ],
-    "correctIndex": 3,
-    "translation": "Necesitamos esperar pacientemente",
-    "note": ""
-  },
-  {
-    "words": [
       { "hanzi": "他", "pinyin": "tā" },
       { "hanzi": "安静", "pinyin": "ānjìng" },
       { "hanzi": "地", "pinyin": "de" },
@@ -222,19 +235,6 @@
   },
   {
     "words": [
-      { "hanzi": "你", "pinyin": "nǐ" },
-      { "hanzi": "说", "pinyin": "shuō" },
-      { "hanzi": "中文", "pinyin": "zhōngwén" },
-      { "hanzi": "说", "pinyin": "shuō" },
-      { "hanzi": "得", "pinyin": "de" },
-      { "hanzi": "怎么样", "pinyin": "zěnmeyàng" }
-    ],
-    "correctIndex": 4,
-    "translation": "¿Qué tal hablas chino?",
-    "note": ""
-  },
-  {
-    "words": [
       { "hanzi": "这", "pinyin": "zhè" },
       { "hanzi": "首", "pinyin": "shǒu" },
       { "hanzi": "歌", "pinyin": "gē" },
@@ -261,3 +261,4 @@
     "note": ""
   }
 ]
+
