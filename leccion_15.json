@@ -24,6 +24,39 @@
     ],
     "translation": "Este estudiante es muy inteligente"
   },
+    {
+    "words": [
+      {
+        "hanzi": "你的",
+        "pinyin": "nǐde"
+      },
+      {
+        "hanzi": "妈妈",
+        "pinyin": "māma"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "(一)",
+        "pinyin": "yī"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+            {
+        "hanzi": "好",
+        "pinyin": "hǎo"
+      },
+      {
+        "hanzi": "人",
+        "pinyin": "rén"
+      }
+    ],
+    "translation": "Tu madre es una buena persona"
+  },
   {
     "words": [
       {
@@ -976,41 +1009,9 @@
       }
     ],
     "translation": "Esta silla es muy buena"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你的",
-        "pinyin": "nǐde"
-      },
-      {
-        "hanzi": "妈妈",
-        "pinyin": "māma"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "(一)",
-        "pinyin": "yī"
-      },
-      {
-        "hanzi": "个",
-        "pinyin": "ge"
-      },
-            {
-        "hanzi": "好",
-        "pinyin": "hǎo"
-      },
-      {
-        "hanzi": "人",
-        "pinyin": "rén"
-      }
-    ],
-    "translation": "Tu madre es una buena persona"
   }
 ]
+
 
 
 
