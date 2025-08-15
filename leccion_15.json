@@ -782,7 +782,8 @@
         "pinyin": "piāoliàng"
       }
     ],
-    "translation": "La casa blanca es muy bonita"
+    "translation": "La casa de color blanco es muy bonita",
+    "note": "NOTA: bái 白 es blanco, báisè (de) 白色(的) es de color blanco"
   },
   {
     "words": [
@@ -1010,6 +1011,7 @@
     "translation": "Tu madre es una buena persona"
   }
 ]
+
 
 
 
