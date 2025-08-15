@@ -998,14 +998,19 @@
         "hanzi": "个",
         "pinyin": "ge"
       },
+            {
+        "hanzi": "好",
+        "pinyin": "hǎo"
+      },
       {
-        "hanzi": "好人",
-        "pinyin": "hǎo rén"
+        "hanzi": "人",
+        "pinyin": "rén"
       }
     ],
     "translation": "Tu madre es una buena persona"
   }
 ]
+
 
 
 
