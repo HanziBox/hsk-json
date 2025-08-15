@@ -11,7 +11,7 @@
       },
       {
         "hanzi": "学生",
-        "pinyin": "xué shēng"
+        "pinyin": "xuéshēng"
       },
       {
         "hanzi": "很",
@@ -19,7 +19,7 @@
       },
       {
         "hanzi": "聪明",
-        "pinyin": "cōng míng"
+        "pinyin": "cōngmíng"
       }
     ],
     "translation": "Este estudiante es muy inteligente"
@@ -81,7 +81,7 @@
       },
       {
         "hanzi": "椅子",
-        "pinyin": "yǐ zi"
+        "pinyin": "yǐzi"
       }
     ],
     "translation": "Esa es una silla muy cara"
@@ -90,7 +90,7 @@
     "words": [
       {
         "hanzi": "中国",
-        "pinyin": "zhōng guó"
+        "pinyin": "zhōngguó"
       },
       {
         "hanzi": "(的)",
@@ -106,7 +106,7 @@
       },
       {
         "hanzi": "好吃",
-        "pinyin": "hǎo chī"
+        "pinyin": "hǎochī"
       }
     ],
     "translation": "La comida china es muy deliciosa"
@@ -123,7 +123,7 @@
       },
       {
         "hanzi": "椅子",
-        "pinyin": "yǐ zi"
+        "pinyin": "yǐzi"
       },
       {
         "hanzi": "很",
@@ -140,7 +140,7 @@
     "words": [
       {
         "hanzi": "我的",
-        "pinyin": "wǒ de"
+        "pinyin": "wǒde"
       },
       {
         "hanzi": "猫",
@@ -152,7 +152,7 @@
       },
       {
         "hanzi": "漂亮",
-        "pinyin": "piāo liàng"
+        "pinyin": "piāoliàng"
       }
     ],
     "translation": "Mi gato es muy bonito"
@@ -161,11 +161,11 @@
     "words": [
       {
         "hanzi": "你的",
-        "pinyin": "nǐ de"
+        "pinyin": "nǐde"
       },
       {
         "hanzi": "衣服",
-        "pinyin": "yī fu"
+        "pinyin": "yīfu"
       },
       {
         "hanzi": "很",
@@ -182,7 +182,7 @@
     "words": [
       {
         "hanzi": "这些",
-        "pinyin": "zhè xiē"
+        "pinyin": "zhèxiē"
       },
       {
         "hanzi": "是",
@@ -232,11 +232,11 @@
     "words": [
       {
         "hanzi": "那些",
-        "pinyin": "nà xiē"
+        "pinyin": "nàxiē"
       },
       {
         "hanzi": "红色",
-        "pinyin": "hóng sè"
+        "pinyin": "hóngsè"
       },
       {
         "hanzi": "的",
@@ -256,7 +256,7 @@
       },
       {
         "hanzi": "我的",
-        "pinyin": "wǒ de"
+        "pinyin": "wǒde"
       }
     ],
     "translation": "Esos libros rojos no son míos"
@@ -285,7 +285,7 @@
       },
       {
         "hanzi": "有意思",
-        "pinyin": "yǒu yì si"
+        "pinyin": "yǒuyìsi"
       },
       {
         "hanzi": "的",
@@ -327,7 +327,7 @@
       },
       {
         "hanzi": "苹果",
-        "pinyin": "píng guǒ"
+        "pinyin": "píngguǒ"
       },
       {
         "hanzi": "很",
@@ -352,7 +352,7 @@
       },
       {
         "hanzi": "苹果",
-        "pinyin": "píng guǒ"
+        "pinyin": "píngguǒ"
       },
       {
         "hanzi": "是",
@@ -373,7 +373,7 @@
     "words": [
       {
         "hanzi": "啤酒",
-        "pinyin": "pí jiǔ"
+        "pinyin": "píjiǔ"
       },
       {
         "hanzi": "很",
@@ -415,7 +415,7 @@
     "words": [
       {
         "hanzi": "看书",
-        "pinyin": "kàn shū"
+        "pinyin": "kànshū"
       },
       {
         "hanzi": "很",
@@ -423,7 +423,7 @@
       },
       {
         "hanzi": "有意思",
-        "pinyin": "yǒu yì si"
+        "pinyin": "yǒuyìsi"
       }
     ],
     "translation": "Leer es muy interesante"
@@ -448,7 +448,7 @@
       },
       {
         "hanzi": "便宜",
-        "pinyin": "pián yi"
+        "pinyin": "piányi"
       }
     ],
     "translation": "El pescado aquí es muy barato"
@@ -465,7 +465,7 @@
       },
       {
         "hanzi": "衣服",
-        "pinyin": "yī fu"
+        "pinyin": "yīfu"
       },
       {
         "hanzi": "不",
@@ -473,10 +473,11 @@
       },
       {
         "hanzi": "便宜",
-        "pinyin": "pián yi"
+        "pinyin": "piányi"
       }
     ],
-    "translation": "Esta ropa no es barata"
+    "translation": "Esta prenda no es barata",
+    "note": "NOTA: yīfu 衣服 es ropa en general, pero al referirse a varias se traduce como prenda."
   },
   {
     "words": [
@@ -494,7 +495,7 @@
       },
       {
         "hanzi": "房子",
-        "pinyin": "fáng zi"
+        "pinyin": "fángzi"
       },
       {
         "hanzi": "很",
@@ -502,7 +503,7 @@
       },
       {
         "hanzi": "便宜",
-        "pinyin": "pián yi"
+        "pinyin": "piányi"
       }
     ],
     "translation": "Estas dos casas son muy baratas"
@@ -519,7 +520,7 @@
       },
       {
         "hanzi": "学生",
-        "pinyin": "xué shēng"
+        "pinyin": "xuéshēng"
       },
       {
         "hanzi": "不",
@@ -527,7 +528,7 @@
       },
       {
         "hanzi": "聪明",
-        "pinyin": "cōng míng"
+        "pinyin": "cōngmíng"
       }
     ],
     "translation": "Este estudiante no es inteligente"
@@ -556,7 +557,7 @@
       },
       {
         "hanzi": "我的",
-        "pinyin": "wǒ de"
+        "pinyin": "wǒde"
       }
     ],
     "translation": "Este perrito es mío"
@@ -565,11 +566,11 @@
     "words": [
       {
         "hanzi": "他的",
-        "pinyin": "tā de"
+        "pinyin": "tāde"
       },
       {
         "hanzi": "孩子",
-        "pinyin": "hái zi"
+        "pinyin": "háizi"
       },
       {
         "hanzi": "很",
@@ -594,7 +595,7 @@
       },
       {
         "hanzi": "问题",
-        "pinyin": "wèn tí"
+        "pinyin": "wèntí"
       },
       {
         "hanzi": "不对",
@@ -607,7 +608,7 @@
     "words": [
       {
         "hanzi": "你的",
-        "pinyin": "nǐ de"
+        "pinyin": "nǐde"
       },
       {
         "hanzi": "家",
@@ -628,7 +629,7 @@
     "words": [
       {
         "hanzi": "这些",
-        "pinyin": "zhè xiē"
+        "pinyin": "zhèxiē"
       },
       {
         "hanzi": "是",
@@ -656,10 +657,11 @@
       },
       {
         "hanzi": "衣服",
-        "pinyin": "yī fu"
+        "pinyin": "yīfu"
       }
     ],
-    "translation": "Estas son tres prendas muy caras"
+    "translation": "Estas son tres prendas muy caras",
+    "note": "NOTA: yīfu 衣服 es ropa en general, pero al referirse a varias se traduce como prenda."
   },
   {
     "words": [
@@ -669,7 +671,7 @@
       },
       {
         "hanzi": "孩子",
-        "pinyin": "hái zi"
+        "pinyin": "háizi"
       },
       {
         "hanzi": "很",
@@ -711,7 +713,7 @@
     "words": [
       {
         "hanzi": "我们",
-        "pinyin": "wǒ men"
+        "pinyin": "wǒmen"
       },
       {
         "hanzi": "的",
@@ -719,7 +721,7 @@
       },
       {
         "hanzi": "老师",
-        "pinyin": "lǎo shī"
+        "pinyin": "lǎoshī"
       },
       {
         "hanzi": "很",
@@ -736,7 +738,7 @@
     "words": [
       {
         "hanzi": "我的",
-        "pinyin": "wǒ de"
+        "pinyin": "wǒde"
       },
       {
         "hanzi": "猫",
@@ -761,7 +763,7 @@
     "words": [
       {
         "hanzi": "白色",
-        "pinyin": "bái sè"
+        "pinyin": "báisè"
       },
       {
         "hanzi": "的",
@@ -769,7 +771,7 @@
       },
       {
         "hanzi": "房子",
-        "pinyin": "fáng zi"
+        "pinyin": "fángzi"
       },
       {
         "hanzi": "很",
@@ -777,7 +779,7 @@
       },
       {
         "hanzi": "漂亮",
-        "pinyin": "piāo liàng"
+        "pinyin": "piāoliàng"
       }
     ],
     "translation": "La casa blanca es muy bonita"
@@ -794,7 +796,7 @@
       },
       {
         "hanzi": "漂亮",
-        "pinyin": "piāo liàng"
+        "pinyin": "piāoliàng"
       }
     ],
     "translation": "Eres muy bonita"
@@ -823,7 +825,7 @@
       },
       {
         "hanzi": "房子",
-        "pinyin": "fáng zi"
+        "pinyin": "fángzi"
       }
     ],
     "translation": "Esta es una casa grande"
@@ -856,7 +858,7 @@
       },
       {
         "hanzi": "问题",
-        "pinyin": "wèn tí"
+        "pinyin": "wèntí"
       }
     ],
     "translation": "Esta no es una buena pregunta"
@@ -865,7 +867,7 @@
     "words": [
       {
         "hanzi": "这些",
-        "pinyin": "zhè xiē"
+        "pinyin": "zhèxiē"
       },
       {
         "hanzi": "书",
@@ -886,11 +888,11 @@
     "words": [
       {
         "hanzi": "学习",
-        "pinyin": "xué xí"
+        "pinyin": "xuéxí"
       },
       {
         "hanzi": "汉语",
-        "pinyin": "hàn yǔ"
+        "pinyin": "hànyǔ"
       },
       {
         "hanzi": "很",
@@ -898,7 +900,7 @@
       },
       {
         "hanzi": "有意思",
-        "pinyin": "yǒu yì si"
+        "pinyin": "yǒuyìsi"
       }
     ],
     "translation": "Aprender chino es muy interesante"
@@ -935,7 +937,7 @@
       },
       {
         "hanzi": "衣服",
-        "pinyin": "yī fu"
+        "pinyin": "yīfu"
       }
     ],
     "translation": "Esta es una prenda de ropa muy cara"
@@ -944,7 +946,7 @@
     "words": [
       {
         "hanzi": "你的",
-        "pinyin": "nǐ de"
+        "pinyin": "nǐde"
       },
       {
         "hanzi": "黑",
@@ -952,7 +954,7 @@
       },
       {
         "hanzi": "衣服",
-        "pinyin": "yī fu"
+        "pinyin": "yīfu"
       },
       {
         "hanzi": "很",
@@ -960,7 +962,7 @@
       },
       {
         "hanzi": "漂亮",
-        "pinyin": "piāo liàng"
+        "pinyin": "piāoliàng"
       }
     ],
     "translation": "Tu ropa negra es muy bonita"
@@ -969,11 +971,11 @@
     "words": [
       {
         "hanzi": "他的",
-        "pinyin": "tā de"
+        "pinyin": "tāde"
       },
       {
         "hanzi": "房子",
-        "pinyin": "fáng zi"
+        "pinyin": "fángzi"
       },
       {
         "hanzi": "很",
@@ -998,7 +1000,7 @@
       },
       {
         "hanzi": "椅子",
-        "pinyin": "yǐ zi"
+        "pinyin": "yǐzi"
       },
       {
         "hanzi": "很",
@@ -1015,11 +1017,11 @@
     "words": [
       {
         "hanzi": "你的",
-        "pinyin": "nǐ de"
+        "pinyin": "nǐde"
       },
       {
         "hanzi": "妈妈",
-        "pinyin": "mā ma"
+        "pinyin": "māma"
       },
       {
         "hanzi": "是",
@@ -1039,34 +1041,5 @@
       }
     ],
     "translation": "Tu madre es una buena persona"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "这",
-        "pinyin": "zhè"
-      },
-      {
-        "hanzi": "件",
-        "pinyin": "jiàn"
-      },
-      {
-        "hanzi": "衣服",
-        "pinyin": "yī fu"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "黑",
-        "pinyin": "hēi"
-      },
-      {
-        "hanzi": "的",
-        "pinyin": "de"
-      }
-    ],
-    "translation": "Esta ropa es negra"
   }
 ]
