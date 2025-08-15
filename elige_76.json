@@ -4,19 +4,19 @@
       { "hanzi": "这", "pinyin": "zhè" },
       { "hanzi": "是", "pinyin": "shì" },
       { "hanzi": "我", "pinyin": "wǒ" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "的", "pinyin": "de" },
       { "hanzi": "书", "pinyin": "shū" }
     ],
     "correctIndex": 3,
     "translation": "Este es mi libro",
-    "note": "Prueba de nota"
+    "note": ""
   },
   {
     "words": [
       { "hanzi": "他", "pinyin": "tā" },
       { "hanzi": "穿", "pinyin": "chuān" },
       { "hanzi": "红", "pinyin": "hóng" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "的", "pinyin": "de" },
       { "hanzi": "衣服", "pinyin": "yīfu" }
     ],
     "correctIndex": 3,
@@ -27,21 +27,20 @@
     "words": [
       { "hanzi": "她", "pinyin": "tā" },
       { "hanzi": "是", "pinyin": "shì" },
-      { "hanzi": "一", "pinyin": "yī" },
-      { "hanzi": "个", "pinyin": "gè" },
+      { "hanzi": "一个", "pinyin": "yígè" },
       { "hanzi": "很", "pinyin": "hěn" },
       { "hanzi": "好", "pinyin": "hǎo" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "的", "pinyin": "de" },
       { "hanzi": "人", "pinyin": "rén" }
     ],
-    "correctIndex": 6,
+    "correctIndex": 5,
     "translation": "Ella es una muy buena persona",
     "note": ""
   },
   {
     "words": [
       { "hanzi": "我们", "pinyin": "wǒmen" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "的", "pinyin": "de" },
       { "hanzi": "家", "pinyin": "jiā" },
       { "hanzi": "很", "pinyin": "hěn" },
       { "hanzi": "大", "pinyin": "dà" }
@@ -55,26 +54,25 @@
       { "hanzi": "那", "pinyin": "nà" },
       { "hanzi": "件", "pinyin": "jiàn" },
       { "hanzi": "新", "pinyin": "xīn" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "的", "pinyin": "de" },
       { "hanzi": "衬衫", "pinyin": "chènshān" },
       { "hanzi": "很", "pinyin": "hěn" },
       { "hanzi": "漂亮", "pinyin": "piàoliang" }
     ],
     "correctIndex": 3,
-    "translation": "Esa nueva camisa es muy bonita",
+    "translation": "Esa camisa nueva es muy bonita",
     "note": ""
   },
   {
     "words": [
       { "hanzi": "他", "pinyin": "tā" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "的", "pinyin": "de" },
       { "hanzi": "手机", "pinyin": "shǒujī" },
       { "hanzi": "在", "pinyin": "zài" },
-      { "hanzi": "哪里", "pinyin": "nǎlǐ" },
-      { "hanzi": "?", "pinyin": "?" }
+      { "hanzi": "哪里", "pinyin": "nǎlǐ" }
     ],
     "correctIndex": 1,
-    "translation": "¿Dónde está su móvil?",
+    "translation": "¿Dónde está su teléfono?",
     "note": ""
   },
   {
@@ -82,7 +80,7 @@
       { "hanzi": "她", "pinyin": "tā" },
       { "hanzi": "最", "pinyin": "zuì" },
       { "hanzi": "喜欢", "pinyin": "xǐhuān" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "的", "pinyin": "de" },
       { "hanzi": "颜色", "pinyin": "yánsè" },
       { "hanzi": "是", "pinyin": "shì" },
       { "hanzi": "蓝色", "pinyin": "lánsè" }
@@ -93,21 +91,20 @@
   },
   {
     "words": [
-      { "hanzi": "孩子", "pinyin": "háizi" },
-      { "hanzi": "们", "pinyin": "men" },
+      { "hanzi": "孩子们", "pinyin": "háizimen" },
       { "hanzi": "快乐", "pinyin": "kuàilè" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "地", "pinyin": "de" },
       { "hanzi": "唱歌", "pinyin": "chànggē" }
     ],
-    "correctIndex": 3,
-    "translation": "Los niños cantan alegremente",
+    "correctIndex": 2,
+    "translation": "Los niños cantan felizmente",
     "note": ""
   },
   {
     "words": [
       { "hanzi": "他", "pinyin": "tā" },
       { "hanzi": "不停", "pinyin": "bùtíng" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "地", "pinyin": "de" },
       { "hanzi": "说话", "pinyin": "shuōhuà" }
     ],
     "correctIndex": 2,
@@ -117,30 +114,30 @@
   {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
-      { "hanzi": "慢慢", "pinyin": "mànman" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "慢慢", "pinyin": "mànmàn" },
+      { "hanzi": "地", "pinyin": "de" },
       { "hanzi": "走路", "pinyin": "zǒulù" }
     ],
     "correctIndex": 2,
-    "translation": "Camino lentamente",
+    "translation": "Yo camino lentamente",
     "note": ""
   },
   {
     "words": [
       { "hanzi": "汽车", "pinyin": "qìchē" },
       { "hanzi": "开", "pinyin": "kāi" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "得", "pinyin": "de" },
       { "hanzi": "快", "pinyin": "kuài" }
     ],
     "correctIndex": 2,
-    "translation": "El coche va rápido",
+    "translation": "El coche conduce rápido",
     "note": ""
   },
   {
     "words": [
       { "hanzi": "她", "pinyin": "tā" },
       { "hanzi": "好心", "pinyin": "hǎoxīn" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "地", "pinyin": "de" },
       { "hanzi": "帮助", "pinyin": "bāngzhù" },
       { "hanzi": "了", "pinyin": "le" },
       { "hanzi": "我们", "pinyin": "wǒmen" }
@@ -154,7 +151,7 @@
       { "hanzi": "我们", "pinyin": "wǒmen" },
       { "hanzi": "需要", "pinyin": "xūyào" },
       { "hanzi": "耐心", "pinyin": "nàixīn" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "地", "pinyin": "de" },
       { "hanzi": "等待", "pinyin": "děngdài" }
     ],
     "correctIndex": 3,
@@ -165,18 +162,18 @@
     "words": [
       { "hanzi": "他", "pinyin": "tā" },
       { "hanzi": "安静", "pinyin": "ānjìng" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "地", "pinyin": "de" },
       { "hanzi": "坐着", "pinyin": "zuòzhe" }
     ],
     "correctIndex": 2,
-    "translation": "Él se sienta tranquilamente",
+    "translation": "Él está sentado tranquilamente",
     "note": ""
   },
   {
     "words": [
       { "hanzi": "她", "pinyin": "tā" },
       { "hanzi": "轻轻", "pinyin": "qīngqīng" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "地", "pinyin": "de" },
       { "hanzi": "关", "pinyin": "guān" },
       { "hanzi": "上", "pinyin": "shàng" },
       { "hanzi": "门", "pinyin": "mén" }
@@ -189,19 +186,19 @@
     "words": [
       { "hanzi": "他", "pinyin": "tā" },
       { "hanzi": "偷偷", "pinyin": "tōutōu" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "地", "pinyin": "de" },
       { "hanzi": "走", "pinyin": "zǒu" },
       { "hanzi": "了", "pinyin": "le" }
     ],
     "correctIndex": 2,
-    "translation": "Él se fue a hurtadillas",
+    "translation": "Él se marchó a escondidas",
     "note": ""
   },
   {
     "words": [
       { "hanzi": "他", "pinyin": "tā" },
       { "hanzi": "跑", "pinyin": "pǎo" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "得", "pinyin": "de" },
       { "hanzi": "很", "pinyin": "hěn" },
       { "hanzi": "快", "pinyin": "kuài" }
     ],
@@ -215,12 +212,12 @@
       { "hanzi": "写", "pinyin": "xiě" },
       { "hanzi": "汉字", "pinyin": "hànzì" },
       { "hanzi": "写", "pinyin": "xiě" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "得", "pinyin": "de" },
       { "hanzi": "很", "pinyin": "hěn" },
       { "hanzi": "漂亮", "pinyin": "piàoliang" }
     ],
     "correctIndex": 4,
-    "translation": "Ella escribe los caracteres muy bonitos",
+    "translation": "Ella escribe los caracteres chinos muy bonitos",
     "note": ""
   },
   {
@@ -229,9 +226,8 @@
       { "hanzi": "说", "pinyin": "shuō" },
       { "hanzi": "中文", "pinyin": "zhōngwén" },
       { "hanzi": "说", "pinyin": "shuō" },
-      { "hanzi": "", "pinyin": "" },
-      { "hanzi": "怎么样", "pinyin": "zěnmeyàng" },
-      { "hanzi": "?", "pinyin": "?" }
+      { "hanzi": "得", "pinyin": "de" },
+      { "hanzi": "怎么样", "pinyin": "zěnmeyàng" }
     ],
     "correctIndex": 4,
     "translation": "¿Qué tal hablas chino?",
@@ -243,12 +239,12 @@
       { "hanzi": "首", "pinyin": "shǒu" },
       { "hanzi": "歌", "pinyin": "gē" },
       { "hanzi": "唱", "pinyin": "chàng" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "得", "pinyin": "de" },
       { "hanzi": "很", "pinyin": "hěn" },
       { "hanzi": "好听", "pinyin": "hǎotīng" }
     ],
     "correctIndex": 4,
-    "translation": "Esta canción se canta muy bien",
+    "translation": "Esta canción suena muy bien",
     "note": ""
   },
   {
@@ -256,7 +252,7 @@
       { "hanzi": "他", "pinyin": "tā" },
       { "hanzi": "做饭", "pinyin": "zuòfàn" },
       { "hanzi": "做", "pinyin": "zuò" },
-      { "hanzi": "", "pinyin": "" },
+      { "hanzi": "得", "pinyin": "de" },
       { "hanzi": "非常", "pinyin": "fēicháng" },
       { "hanzi": "好吃", "pinyin": "hǎochī" }
     ],
@@ -265,4 +261,3 @@
     "note": ""
   }
 ]
-
