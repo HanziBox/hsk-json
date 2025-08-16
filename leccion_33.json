@@ -510,7 +510,7 @@
             {"hanzi": "钱", "pinyin": "qián"}
         ],
         "translation": "Cuánto cuestan estos dos libros?"
-    }
+    },
       {
         "hanzi": "睡觉",
         "pinyin": "shuìjiào"
@@ -1315,6 +1315,7 @@
   }
 
 ]
+
 
 
 
