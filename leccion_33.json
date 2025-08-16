@@ -570,27 +570,6 @@
   {
     "words": [
       {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "为什么",
-        "pinyin": "wèishénme"
-      },
-      {
-        "hanzi": "睡觉",
-        "pinyin": "shuìjiào"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Por qué duermes?"
-  },
-  {
-    "words": [
-      {
         "hanzi": "哪个",
         "pinyin": "nǎge"
       },
@@ -1163,6 +1142,7 @@
   }
 
 ]
+
 
 
 
