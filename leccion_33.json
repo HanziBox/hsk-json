@@ -24,6 +24,31 @@
     ],
     "translation": "¿A quién le gusta comer manzanas?"
   },
+    {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "要",
+        "pinyin": "yào"
+      },
+      {
+        "hanzi": "喝",
+        "pinyin": "hē"
+      },
+      {
+        "hanzi": "什么",
+        "pinyin": "shénme"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Qué quieres beber?"
+  },
   {
     "words": [
       {
@@ -60,8 +85,12 @@
         "pinyin": "jǐ"
       },
       {
-        "hanzi": "本书",
-        "pinyin": "běnshū"
+        "hanzi": "本",
+        "pinyin": "běn"
+      },
+            {
+        "hanzi": "书",
+        "pinyin": "shū"
       },
       {
         "hanzi": "?",
@@ -194,31 +223,6 @@
       }
     ],
     "translation": "¿Por qué no estás contento?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "要",
-        "pinyin": "yào"
-      },
-      {
-        "hanzi": "喝",
-        "pinyin": "hē"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué quieres beber?"
   },
   {
     "words": [
@@ -1264,4 +1268,5 @@
     ],
     "translation": "¿Quién es tu profesor?"
   }
+
 ]
