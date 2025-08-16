@@ -1,1331 +1,1550 @@
 [
     {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "想",
-        "pinyin": "xiǎng"
-      },
-      {
-        "hanzi": "说",
-        "pinyin": "shuō"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué quieres decir?"
-  },
-    {
-    "words": [
-      {
-        "hanzi": "这",
-        "pinyin": "zhè"
-      },
-      {
-        "hanzi": "个",
-        "pinyin": "ge"
-      },
-      {
-        "hanzi": "门",
-        "pinyin": "mén"
-      },
-      {
-        "hanzi": "怎么",
-        "pinyin": "zěnme"
-      },
-      {
-        "hanzi": "开",
-        "pinyin": "kāi"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cómo se abre esta puerta?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "喜欢",
-        "pinyin": "xǐhuān"
-      },
-      {
-        "hanzi": "吃",
-        "pinyin": "chī"
-      },
-      {
-        "hanzi": "肉",
-        "pinyin": "ròu"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿A quién le gusta comer carne?"
-  },
-    {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "要",
-        "pinyin": "yào"
-      },
-      {
-        "hanzi": "喝",
-        "pinyin": "hē"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué quieres beber?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "在",
-        "pinyin": "zài"
-      },
-      {
-        "hanzi": "公园",
-        "pinyin": "gōngyuán"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Quién está en el parque?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "有",
-        "pinyin": "yǒu"
-      },
-      {
-        "hanzi": "几",
-        "pinyin": "jǐ"
-      },
-      {
-        "hanzi": "本",
-        "pinyin": "běn"
-      },
+        "words": [
             {
-        "hanzi": "书",
-        "pinyin": "shū"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuántos libros tienes?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "这",
-        "pinyin": "zhè"
-      },
-      {
-        "hanzi": "件",
-        "pinyin": "jiàn"
-      },
-      {
-        "hanzi": "衣服",
-        "pinyin": "yīfu"
-      },
-      {
-        "hanzi": "多少",
-        "pinyin": "duōshao"
-      },
-      {
-        "hanzi": "钱",
-        "pinyin": "qián"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuánto cuesta esta ropa?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "吃",
-        "pinyin": "chī"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué comes?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "从",
-        "pinyin": "cóng"
-      },
-      {
-        "hanzi": "哪里",
-        "pinyin": "nǎlǐ"
-      },
-      {
-        "hanzi": "来",
-        "pinyin": "lái"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿De dónde eres?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "喝",
-        "pinyin": "hē"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "酒",
-        "pinyin": "jiǔ"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué vino bebes?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "为什么",
-        "pinyin": "wèishénme"
-      },
-      {
-        "hanzi": "不",
-        "pinyin": "bú"
-      },
-      {
-        "hanzi": "高兴",
-        "pinyin": "gāoxìng"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Por qué no estás contento?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你的",
-        "pinyin": "nǐde"
-      },
-      {
-        "hanzi": "家",
-        "pinyin": "jiā"
-      },
-      {
-        "hanzi": "在",
-        "pinyin": "zài"
-      },
-      {
-        "hanzi": "哪里",
-        "pinyin": "nǎlǐ"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Dónde está tu casa?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "哪",
-        "pinyin": "nǎ"
-      },
-      {
-        "hanzi": "本",
-        "pinyin": "běn"
-      },
-      {
-        "hanzi": "书",
-        "pinyin": "shū"
-      },
-      {
-        "hanzi": "有意思",
-        "pinyin": "yǒuyìsi"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué libro es interesante?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "什么时候",
-        "pinyin": "shénmeshíhou"
-      },
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
             {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "应该", "pinyin": "yīnggāi"},
-            {"hanzi": "买", "pinyin": "mǎi"},
-            {"hanzi": "哪个", "pinyin": "nǎge"},
-            {"hanzi": "手机", "pinyin": "shǒujī"}
+                "hanzi": "想",
+                "pinyin": "xiǎng"
+            },
+            {
+                "hanzi": "说",
+                "pinyin": "shuō"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuál de los dos teléfonos debería comprar?"
+        "translation": "¿Qué quieres decir?"
     },
     {
         "words": [
-            {"hanzi": "北京", "pinyin": "Běijīng"},
-            {"hanzi": "多大", "pinyin": "duōdà"}
+            {
+                "hanzi": "这",
+                "pinyin": "zhè"
+            },
+            {
+                "hanzi": "个",
+                "pinyin": "ge"
+            },
+            {
+                "hanzi": "门",
+                "pinyin": "mén"
+            },
+            {
+                "hanzi": "怎么",
+                "pinyin": "zěnme"
+            },
+            {
+                "hanzi": "开",
+                "pinyin": "kāi"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Qué tan grande es Pekín?"
+        "translation": "¿Cómo se abre esta puerta?"
     },
     {
         "words": [
-            {"hanzi": "昨天", "pinyin": "zuótiān"},
-            {"hanzi": "有", "pinyin": "yǒu"},
-            {"hanzi": "多少", "pinyin": "duōshǎo"},
-            {"hanzi": "人", "pinyin": "rén"},
-            {"hanzi": "来", "pinyin": "lái"},
-            {"hanzi": "家里", "pinyin": "jiālǐ"}
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuān"
+            },
+            {
+                "hanzi": "吃",
+                "pinyin": "chī"
+            },
+            {
+                "hanzi": "肉",
+                "pinyin": "ròu"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuántas personas vinieron a casa ayer?"
+        "translation": "¿A quién le gusta comer carne?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "需要", "pinyin": "xūyào"},
-            {"hanzi": "多少", "pinyin": "duōshǎo"},
-            {"hanzi": "钱", "pinyin": "qián"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "要",
+                "pinyin": "yào"
+            },
+            {
+                "hanzi": "喝",
+                "pinyin": "hē"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuánto dinero necesitas?"
+        "translation": "¿Qué quieres beber?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "喜欢", "pinyin": "xǐhuān"},
-            {"hanzi": "谁", "pinyin": "shuí"}
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "在",
+                "pinyin": "zài"
+            },
+            {
+                "hanzi": "公园",
+                "pinyin": "gōngyuán"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Quién te gusta?"
+        "translation": "¿Quién está en el parque?"
     },
     {
         "words": [
-            {"hanzi": "一", "pinyin": "yī"},
-            {"hanzi": "晚", "pinyin": "wǎn"},
-            {"hanzi": "多少", "pinyin": "duōshǎo"},
-            {"hanzi": "钱", "pinyin": "qián"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "hanzi": "几",
+                "pinyin": "jǐ"
+            },
+            {
+                "hanzi": "本",
+                "pinyin": "běn"
+            },
+            {
+                "hanzi": "书",
+                "pinyin": "shū"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuánto cuesta por noche?"
+        "translation": "¿Cuántos libros tienes?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "吃", "pinyin": "chī"},
-            {"hanzi": "多少", "pinyin": "duōshǎo"},
-            {"hanzi": "肉", "pinyin": "ròu"}
+            {
+                "hanzi": "这",
+                "pinyin": "zhè"
+            },
+            {
+                "hanzi": "件",
+                "pinyin": "jiàn"
+            },
+            {
+                "hanzi": "衣服",
+                "pinyin": "yīfu"
+            },
+            {
+                "hanzi": "多少",
+                "pinyin": "duōshao"
+            },
+            {
+                "hanzi": "钱",
+                "pinyin": "qián"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuánta carne comes?"
+        "translation": "¿Cuánto cuesta esta ropa?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "要", "pinyin": "yào"},
-            {"hanzi": "几个", "pinyin": "jǐge"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "吃",
+                "pinyin": "chī"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuántos quieres?"
+        "translation": "¿Qué comes?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "喝", "pinyin": "hē"},
-            {"hanzi": "了", "pinyin": "le"},
-            {"hanzi": "多少", "pinyin": "duōshǎo"},
-            {"hanzi": "酒", "pinyin": "jiǔ"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "从",
+                "pinyin": "cóng"
+            },
+            {
+                "hanzi": "哪里",
+                "pinyin": "nǎlǐ"
+            },
+            {
+                "hanzi": "来",
+                "pinyin": "lái"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuánto alcohol bebiste?"
+        "translation": "¿De dónde eres?"
     },
     {
         "words": [
-            {"hanzi": "谁", "pinyin": "shuí"},
-            {"hanzi": "想要", "pinyin": "xiǎngyào"},
-            {"hanzi": "它", "pinyin": "tā"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "喝",
+                "pinyin": "hē"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "酒",
+                "pinyin": "jiǔ"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Quién lo quiere?"
+        "translation": "¿Qué vino bebes?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "为什么", "pinyin": "wèishéme"},
-            {"hanzi": "没", "pinyin": "méi"},
-            {"hanzi": "做", "pinyin": "zuò"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "为什么",
+                "pinyin": "wèishénme"
+            },
+            {
+                "hanzi": "不",
+                "pinyin": "bú"
+            },
+            {
+                "hanzi": "高兴",
+                "pinyin": "gāoxìng"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Por qué no lo hiciste?"
+        "translation": "¿Por qué no estás contento?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "为什么", "pinyin": "wèishéme"},
-            {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "这里", "pinyin": "zhèlǐ"}
+            {
+                "hanzi": "你的",
+                "pinyin": "nǐde"
+            },
+            {
+                "hanzi": "家",
+                "pinyin": "jiā"
+            },
+            {
+                "hanzi": "在",
+                "pinyin": "zài"
+            },
+            {
+                "hanzi": "哪里",
+                "pinyin": "nǎlǐ"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Por qué estás aquí?"
+        "translation": "¿Dónde está tu casa?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "什么", "pinyin": "shénme"},
-            {"hanzi": "时候", "pinyin": "shíhòu"},
-            {"hanzi": "认识", "pinyin": "rènshì"},
-            {"hanzi": "她", "pinyin": "tā"}
+            {
+                "hanzi": "哪",
+                "pinyin": "nǎ"
+            },
+            {
+                "hanzi": "本",
+                "pinyin": "běn"
+            },
+            {
+                "hanzi": "书",
+                "pinyin": "shū"
+            },
+            {
+                "hanzi": "有意思",
+                "pinyin": "yǒuyìsi"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuándo la conociste?"
+        "translation": "¿Qué libro es interesante?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "为什么", "pinyin": "wèishéme"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "什么时候",
+                "pinyin": "shénmeshíhou"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "我",
+                        "pinyin": "wǒ"
+                    },
+                    {
+                        "hanzi": "应该",
+                        "pinyin": "yīnggāi"
+                    },
+                    {
+                        "hanzi": "买",
+                        "pinyin": "mǎi"
+                    },
+                    {
+                        "hanzi": "哪个",
+                        "pinyin": "nǎge"
+                    },
+                    {
+                        "hanzi": "手机",
+                        "pinyin": "shǒujī"
+                    }
+                ],
+                "translation": "Cuál de los dos teléfonos debería comprar?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "北京",
+                        "pinyin": "Běijīng"
+                    },
+                    {
+                        "hanzi": "多大",
+                        "pinyin": "duōdà"
+                    }
+                ],
+                "translation": "Qué tan grande es Pekín?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "昨天",
+                        "pinyin": "zuótiān"
+                    },
+                    {
+                        "hanzi": "有",
+                        "pinyin": "yǒu"
+                    },
+                    {
+                        "hanzi": "多少",
+                        "pinyin": "duōshǎo"
+                    },
+                    {
+                        "hanzi": "人",
+                        "pinyin": "rén"
+                    },
+                    {
+                        "hanzi": "来",
+                        "pinyin": "lái"
+                    },
+                    {
+                        "hanzi": "家里",
+                        "pinyin": "jiālǐ"
+                    }
+                ],
+                "translation": "Cuántas personas vinieron a casa ayer?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "需要",
+                        "pinyin": "xūyào"
+                    },
+                    {
+                        "hanzi": "多少",
+                        "pinyin": "duōshǎo"
+                    },
+                    {
+                        "hanzi": "钱",
+                        "pinyin": "qián"
+                    }
+                ],
+                "translation": "Cuánto dinero necesitas?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "喜欢",
+                        "pinyin": "xǐhuān"
+                    },
+                    {
+                        "hanzi": "谁",
+                        "pinyin": "shuí"
+                    }
+                ],
+                "translation": "Quién te gusta?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "一",
+                        "pinyin": "yī"
+                    },
+                    {
+                        "hanzi": "晚",
+                        "pinyin": "wǎn"
+                    },
+                    {
+                        "hanzi": "多少",
+                        "pinyin": "duōshǎo"
+                    },
+                    {
+                        "hanzi": "钱",
+                        "pinyin": "qián"
+                    }
+                ],
+                "translation": "Cuánto cuesta por noche?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "吃",
+                        "pinyin": "chī"
+                    },
+                    {
+                        "hanzi": "多少",
+                        "pinyin": "duōshǎo"
+                    },
+                    {
+                        "hanzi": "肉",
+                        "pinyin": "ròu"
+                    }
+                ],
+                "translation": "Cuánta carne comes?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "要",
+                        "pinyin": "yào"
+                    },
+                    {
+                        "hanzi": "几个",
+                        "pinyin": "jǐge"
+                    }
+                ],
+                "translation": "Cuántos quieres?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "喝",
+                        "pinyin": "hē"
+                    },
+                    {
+                        "hanzi": "了",
+                        "pinyin": "le"
+                    },
+                    {
+                        "hanzi": "多少",
+                        "pinyin": "duōshǎo"
+                    },
+                    {
+                        "hanzi": "酒",
+                        "pinyin": "jiǔ"
+                    }
+                ],
+                "translation": "Cuánto alcohol bebiste?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "谁",
+                        "pinyin": "shuí"
+                    },
+                    {
+                        "hanzi": "想要",
+                        "pinyin": "xiǎngyào"
+                    },
+                    {
+                        "hanzi": "它",
+                        "pinyin": "tā"
+                    }
+                ],
+                "translation": "Quién lo quiere?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "为什么",
+                        "pinyin": "wèishéme"
+                    },
+                    {
+                        "hanzi": "没",
+                        "pinyin": "méi"
+                    },
+                    {
+                        "hanzi": "做",
+                        "pinyin": "zuò"
+                    }
+                ],
+                "translation": "Por qué no lo hiciste?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "为什么",
+                        "pinyin": "wèishéme"
+                    },
+                    {
+                        "hanzi": "在",
+                        "pinyin": "zài"
+                    },
+                    {
+                        "hanzi": "这里",
+                        "pinyin": "zhèlǐ"
+                    }
+                ],
+                "translation": "Por qué estás aquí?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "什么",
+                        "pinyin": "shénme"
+                    },
+                    {
+                        "hanzi": "时候",
+                        "pinyin": "shíhòu"
+                    },
+                    {
+                        "hanzi": "认识",
+                        "pinyin": "rènshì"
+                    },
+                    {
+                        "hanzi": "她",
+                        "pinyin": "tā"
+                    }
+                ],
+                "translation": "Cuándo la conociste?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "为什么",
+                        "pinyin": "wèishéme"
+                    },
+                    {
+                        "hanzi": "不",
+                        "pinyin": "bù"
+                    },
+                    {
+                        "hanzi": "睡觉",
+                        "pinyin": "shuìjiào"
+                    }
+                ],
+                "translation": "Por qué no duermes?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "谁",
+                        "pinyin": "shuí"
+                    },
+                    {
+                        "hanzi": "告诉",
+                        "pinyin": "gàosù"
+                    },
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "了",
+                        "pinyin": "le"
+                    }
+                ],
+                "translation": "Quién te lo dijo?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "为什么",
+                        "pinyin": "wèishéme"
+                    },
+                    {
+                        "hanzi": "哭",
+                        "pinyin": "kū"
+                    },
+                    {
+                        "hanzi": "了",
+                        "pinyin": "le"
+                    }
+                ],
+                "translation": "Por qué lloraste?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "为什么",
+                        "pinyin": "wèishéme"
+                    },
+                    {
+                        "hanzi": "喜欢",
+                        "pinyin": "xǐhuān"
+                    },
+                    {
+                        "hanzi": "我",
+                        "pinyin": "wǒ"
+                    }
+                ],
+                "translation": "Por qué te gusto?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "你",
+                        "pinyin": "nǐ"
+                    },
+                    {
+                        "hanzi": "昨天",
+                        "pinyin": "zuótiān"
+                    },
+                    {
+                        "hanzi": "在",
+                        "pinyin": "zài"
+                    },
+                    {
+                        "hanzi": "哪里",
+                        "pinyin": "nǎlǐ"
+                    }
+                ],
+                "translation": "Dónde estabas ayer?"
+            },
+            {
+                "words": [
+                    {
+                        "hanzi": "这",
+                        "pinyin": "zhè"
+                    },
+                    {
+                        "hanzi": "两",
+                        "pinyin": "liǎng"
+                    },
+                    {
+                        "hanzi": "本",
+                        "pinyin": "běn"
+                    },
+                    {
+                        "hanzi": "书",
+                        "pinyin": "shū"
+                    },
+                    {
+                        "hanzi": "多少",
+                        "pinyin": "duōshǎo"
+                    },
+                    {
+                        "hanzi": "钱",
+                        "pinyin": "qián"
+                    }
+                ],
+                "translation": "Cuánto cuestan estos dos libros?"
+            },
+            {
+                "hanzi": "睡觉",
+                "pinyin": "shuìjiào"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Por qué no duermes?"
+        "translation": "¿Cuándo te acuestas?"
     },
     {
         "words": [
-            {"hanzi": "谁", "pinyin": "shuí"},
-            {"hanzi": "告诉", "pinyin": "gàosù"},
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "了", "pinyin": "le"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "问题",
+                "pinyin": "wèntí"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Quién te lo dijo?"
+        "translation": "¿Qué preguntas tienes?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "为什么", "pinyin": "wèishéme"},
-            {"hanzi": "哭", "pinyin": "kū"},
-            {"hanzi": "了", "pinyin": "le"}
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "在",
+                "pinyin": "zài"
+            },
+            {
+                "hanzi": "哭",
+                "pinyin": "kū"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Por qué lloraste?"
+        "translation": "¿Quién está llorando?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "为什么", "pinyin": "wèishéme"},
-            {"hanzi": "喜欢", "pinyin": "xǐhuān"},
-            {"hanzi": "我", "pinyin": "wǒ"}
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "会",
+                "pinyin": "huì"
+            },
+            {
+                "hanzi": "开车",
+                "pinyin": "kāichē"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Por qué te gusto?"
+        "translation": "¿Quién sabe conducir?"
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "昨天", "pinyin": "zuótiān"},
-            {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "哪里", "pinyin": "nǎlǐ"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuān"
+            },
+            {
+                "hanzi": "哪个",
+                "pinyin": "nǎge"
+            },
+            {
+                "hanzi": "老师",
+                "pinyin": "lǎoshī"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Dónde estabas ayer?"
+        "translation": "¿Qué profesor te gusta?"
     },
     {
         "words": [
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "两", "pinyin": "liǎng"},
-            {"hanzi": "本", "pinyin": "běn"},
-            {"hanzi": "书", "pinyin": "shū"},
-            {"hanzi": "多少", "pinyin": "duōshǎo"},
-            {"hanzi": "钱", "pinyin": "qián"}
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "认识",
+                "pinyin": "rènshi"
+            },
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
         ],
-        "translation": "Cuánto cuestan estos dos libros?"
+        "translation": "¿A quién conoces?"
     },
-      {
-        "hanzi": "睡觉",
-        "pinyin": "shuìjiào"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuándo te acuestas?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "有",
-        "pinyin": "yǒu"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "问题",
-        "pinyin": "wèntí"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué preguntas tienes?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "在",
-        "pinyin": "zài"
-      },
-      {
-        "hanzi": "哭",
-        "pinyin": "kū"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Quién está llorando?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "会",
-        "pinyin": "huì"
-      },
-      {
-        "hanzi": "开车",
-        "pinyin": "kāichē"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Quién sabe conducir?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "喜欢",
-        "pinyin": "xǐhuān"
-      },
-      {
-        "hanzi": "哪个",
-        "pinyin": "nǎge"
-      },
-      {
-        "hanzi": "老师",
-        "pinyin": "lǎoshī"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué profesor te gusta?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "认识",
-        "pinyin": "rènshi"
-      },
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿A quién conoces?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "想",
-        "pinyin": "xiǎng"
-      },
-      {
-        "hanzi": "去",
-        "pinyin": "qù"
-      },
-      {
-        "hanzi": "哪里",
-        "pinyin": "nǎlǐ"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿A dónde quieres ir?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "那个",
-        "pinyin": "nàge"
-      },
-      {
-        "hanzi": "学生",
-        "pinyin": "xuéshēng"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Quién es ese estudiante?",
-    "note": "📋NOTA: Preguntas por la identidad del estudiante"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你的",
-        "pinyin": "nǐde"
-      },
-      {
-        "hanzi": "生日",
-        "pinyin": "shēngrì"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "什么时候",
-        "pinyin": "shénmeshíhou"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuándo es tu cumpleaños?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "从",
-        "pinyin": "cóng"
-      },
-      {
-        "hanzi": "哪个",
-        "pinyin": "nǎge"
-      },
-      {
-        "hanzi": "城市",
-        "pinyin": "chéngshì"
-      },
-      {
-        "hanzi": "来",
-        "pinyin": "lái"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿De qué ciudad vienes?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "哪个",
-        "pinyin": "nǎge"
-      },
-      {
-        "hanzi": "房间",
-        "pinyin": "fángjiān"
-      },
-      {
-        "hanzi": "有",
-        "pinyin": "yǒu"
-      },
-      {
-        "hanzi": "灯",
-        "pinyin": "dēng"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué habitación tiene la luz?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "要",
-        "pinyin": "yào"
-      },
-      {
-        "hanzi": "喝",
-        "pinyin": "hē"
-      },
-              {
-        "hanzi": "茶",
-        "pinyin": "chá"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Quién quiere beber té?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "厕所",
-        "pinyin": "cèsuǒ"
-      },
-      {
-        "hanzi": "在",
-        "pinyin": "zài"
-      },
-      {
-        "hanzi": "哪里",
-        "pinyin": "nǎlǐ"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Dónde está el baño?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "什么时候",
-        "pinyin": "shénmeshíhou"
-      },
-      {
-        "hanzi": "回家",
-        "pinyin": "huíjiā"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuándo vuelves a casa?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "在",
-        "pinyin": "zài"
-      },
-      {
-        "hanzi": "做",
-        "pinyin": "zuò"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué estás haciendo?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你的",
-        "pinyin": "nǐde"
-      },
-      {
-        "hanzi": "朋友",
-        "pinyin": "péngyou"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Quién es tu amigo?",
-      "note": "📋NOTA: Preguntas por su identidad, quieres información sobre él"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "哪个",
-        "pinyin": "nǎge"
-      },
-      {
-        "hanzi": "学生",
-        "pinyin": "xuéshēng"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "你的",
-        "pinyin": "nǐde"
-      },
-      {
-        "hanzi": "朋友",
-        "pinyin": "péngyou"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué estudiante es tu amigo?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "有",
-        "pinyin": "yǒu"
-      },
-      {
-        "hanzi": "多少",
-        "pinyin": "duōshao"
-      },
-      {
-        "hanzi": "钱",
-        "pinyin": "qián"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuánto dinero tienes?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "为什么",
-        "pinyin": "wèishénme"
-      },
-      {
-        "hanzi": "去",
-        "pinyin": "qù"
-      },
-      {
-        "hanzi": "北京",
-        "pinyin": "běijīng"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Por qué vas a Pekín?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "想",
-        "pinyin": "xiǎng"
-      },
-      {
-        "hanzi": "喝",
-        "pinyin": "hē"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué quieres beber?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "什么时候",
-        "pinyin": "shénmeshíhou"
-      },
-      {
-        "hanzi": "去",
-        "pinyin": "qù"
-      },
-      {
-        "hanzi": "北京",
-        "pinyin": "běijīng"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuándo vas a Pekín?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "家",
-        "pinyin": "jiā"
-      },
-      {
-        "hanzi": "有",
-        "pinyin": "yǒu"
-      },
-      {
-        "hanzi": "几",
-        "pinyin": "jǐ"
-      },
-      {
-        "hanzi": "只",
-        "pinyin": "zhī"
-      },
-      {
-        "hanzi": "猫",
-        "pinyin": "māo"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuántos gatos tienes en casa?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "这",
-        "pinyin": "zhè"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "颜色",
-        "pinyin": "yánsè"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué color es este?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "电影",
-        "pinyin": "diànyǐng"
-      },
-      {
-        "hanzi": "什么时候",
-        "pinyin": "shénmeshíhou"
-      },
-      {
-        "hanzi": "开始",
-        "pinyin": "kāishǐ"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuándo empieza la película?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "哪",
-        "pinyin": "nǎ"
-      },
-      {
-        "hanzi": "家",
-        "pinyin": "jiā"
-      },
-      {
-        "hanzi": "商店",
-        "pinyin": "shāngdiàn"
-      },
-      {
-        "hanzi": "有",
-        "pinyin": "yǒu"
-      },
-      {
-        "hanzi": "便宜",
-        "pinyin": "piányi"
-      },
-      {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
-        "hanzi": "衣服",
-        "pinyin": "yīfu"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué tienda tiene ropa barata?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "要",
-        "pinyin": "yào"
-      },
-      {
-        "hanzi": "几",
-        "pinyin": "jǐ"
-      },
-      {
-        "hanzi": "杯",
-        "pinyin": "bēi"
-      },
-      {
-        "hanzi": "茶",
-        "pinyin": "chá"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cuántas tazas de té quieres?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "哪",
-        "pinyin": "nǎ"
-      },
-      {
-        "hanzi": "只",
-        "pinyin": "zhī"
-      },
-      {
-        "hanzi": "猫",
-        "pinyin": "māo"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "你的",
-        "pinyin": "nǐde"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué gato es tuyo?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "为什么",
-        "pinyin": "wèishénme"
-      },
-      {
-        "hanzi": "哭",
-        "pinyin": "kū"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Por qué lloras?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "看",
-        "pinyin": "kàn"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "书",
-        "pinyin": "shū"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué libro lees?"
-  },
-  {
-    "words": [
-        {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
     {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "你的",
-        "pinyin": "nǐde"
-      },
-      {
-        "hanzi": "学生",
-        "pinyin": "xuéshēng"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Quién es tu estudiante?",
-    "note": "📋NOTA: Quieres identificarlo dentro de un grupo, no su nombre."
-  },
-  {
-    "words": [
-      {
-        "hanzi": "这",
-        "pinyin": "zhè"
-      },
-      {
-        "hanzi": "个",
-        "pinyin": "ge"
-      },
-      {
-        "hanzi": "菜",
-        "pinyin": "cài"
-      },
-      {
-        "hanzi": "怎么",
-        "pinyin": "zěnme"
-      },
-      {
-        "hanzi": "做",
-        "pinyin": "zuò"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cómo se prepara este plato?"
-  },
-  {
-    "words": [
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "想",
+                "pinyin": "xiǎng"
+            },
+            {
+                "hanzi": "去",
+                "pinyin": "qù"
+            },
+            {
+                "hanzi": "哪里",
+                "pinyin": "nǎlǐ"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿A dónde quieres ir?"
+    },
     {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-              {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-              {
-        "hanzi": "你的",
-        "pinyin": "nǐde"
-      },
-      {
-        "hanzi": "老师",
-        "pinyin": "lǎoshī"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Quién es tu profesor?",
-"note": "📋NOTA: Preguntas por quién o cuál es, dentro de un grupo"
-  }
-
+        "words": [
+            {
+                "hanzi": "那个",
+                "pinyin": "nàge"
+            },
+            {
+                "hanzi": "学生",
+                "pinyin": "xuéshēng"
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì"
+            },
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Quién es ese estudiante?",
+        "note": "📋NOTA: Preguntas por la identidad del estudiante"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你的",
+                "pinyin": "nǐde"
+            },
+            {
+                "hanzi": "生日",
+                "pinyin": "shēngrì"
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì"
+            },
+            {
+                "hanzi": "什么时候",
+                "pinyin": "shénmeshíhou"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Cuándo es tu cumpleaños?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "从",
+                "pinyin": "cóng"
+            },
+            {
+                "hanzi": "哪个",
+                "pinyin": "nǎge"
+            },
+            {
+                "hanzi": "城市",
+                "pinyin": "chéngshì"
+            },
+            {
+                "hanzi": "来",
+                "pinyin": "lái"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿De qué ciudad vienes?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "哪个",
+                "pinyin": "nǎge"
+            },
+            {
+                "hanzi": "房间",
+                "pinyin": "fángjiān"
+            },
+            {
+                "hanzi": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "hanzi": "灯",
+                "pinyin": "dēng"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Qué habitación tiene la luz?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "要",
+                "pinyin": "yào"
+            },
+            {
+                "hanzi": "喝",
+                "pinyin": "hē"
+            },
+            {
+                "hanzi": "茶",
+                "pinyin": "chá"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Quién quiere beber té?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "厕所",
+                "pinyin": "cèsuǒ"
+            },
+            {
+                "hanzi": "在",
+                "pinyin": "zài"
+            },
+            {
+                "hanzi": "哪里",
+                "pinyin": "nǎlǐ"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Dónde está el baño?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "什么时候",
+                "pinyin": "shénmeshíhou"
+            },
+            {
+                "hanzi": "回家",
+                "pinyin": "huíjiā"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Cuándo vuelves a casa?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "在",
+                "pinyin": "zài"
+            },
+            {
+                "hanzi": "做",
+                "pinyin": "zuò"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Qué estás haciendo?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你的",
+                "pinyin": "nǐde"
+            },
+            {
+                "hanzi": "朋友",
+                "pinyin": "péngyou"
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì"
+            },
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Quién es tu amigo?",
+        "note": "📋NOTA: Preguntas por su identidad, quieres información sobre él"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "哪个",
+                "pinyin": "nǎge"
+            },
+            {
+                "hanzi": "学生",
+                "pinyin": "xuéshēng"
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì"
+            },
+            {
+                "hanzi": "你的",
+                "pinyin": "nǐde"
+            },
+            {
+                "hanzi": "朋友",
+                "pinyin": "péngyou"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Qué estudiante es tu amigo?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "hanzi": "多少",
+                "pinyin": "duōshao"
+            },
+            {
+                "hanzi": "钱",
+                "pinyin": "qián"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Cuánto dinero tienes?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "为什么",
+                "pinyin": "wèishénme"
+            },
+            {
+                "hanzi": "去",
+                "pinyin": "qù"
+            },
+            {
+                "hanzi": "北京",
+                "pinyin": "běijīng"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Por qué vas a Pekín?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "想",
+                "pinyin": "xiǎng"
+            },
+            {
+                "hanzi": "喝",
+                "pinyin": "hē"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Qué quieres beber?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "什么时候",
+                "pinyin": "shénmeshíhou"
+            },
+            {
+                "hanzi": "去",
+                "pinyin": "qù"
+            },
+            {
+                "hanzi": "北京",
+                "pinyin": "běijīng"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Cuándo vas a Pekín?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "家",
+                "pinyin": "jiā"
+            },
+            {
+                "hanzi": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "hanzi": "几",
+                "pinyin": "jǐ"
+            },
+            {
+                "hanzi": "只",
+                "pinyin": "zhī"
+            },
+            {
+                "hanzi": "猫",
+                "pinyin": "māo"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Cuántos gatos tienes en casa?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "这",
+                "pinyin": "zhè"
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "颜色",
+                "pinyin": "yánsè"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Qué color es este?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "电影",
+                "pinyin": "diànyǐng"
+            },
+            {
+                "hanzi": "什么时候",
+                "pinyin": "shénmeshíhou"
+            },
+            {
+                "hanzi": "开始",
+                "pinyin": "kāishǐ"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Cuándo empieza la película?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "哪",
+                "pinyin": "nǎ"
+            },
+            {
+                "hanzi": "家",
+                "pinyin": "jiā"
+            },
+            {
+                "hanzi": "商店",
+                "pinyin": "shāngdiàn"
+            },
+            {
+                "hanzi": "有",
+                "pinyin": "yǒu"
+            },
+            {
+                "hanzi": "便宜",
+                "pinyin": "piányi"
+            },
+            {
+                "hanzi": "的",
+                "pinyin": "de"
+            },
+            {
+                "hanzi": "衣服",
+                "pinyin": "yīfu"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Qué tienda tiene ropa barata?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "要",
+                "pinyin": "yào"
+            },
+            {
+                "hanzi": "几",
+                "pinyin": "jǐ"
+            },
+            {
+                "hanzi": "杯",
+                "pinyin": "bēi"
+            },
+            {
+                "hanzi": "茶",
+                "pinyin": "chá"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Cuántas tazas de té quieres?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "哪",
+                "pinyin": "nǎ"
+            },
+            {
+                "hanzi": "只",
+                "pinyin": "zhī"
+            },
+            {
+                "hanzi": "猫",
+                "pinyin": "māo"
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì"
+            },
+            {
+                "hanzi": "你的",
+                "pinyin": "nǐde"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Qué gato es tuyo?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "为什么",
+                "pinyin": "wèishénme"
+            },
+            {
+                "hanzi": "哭",
+                "pinyin": "kū"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Por qué lloras?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ"
+            },
+            {
+                "hanzi": "看",
+                "pinyin": "kàn"
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme"
+            },
+            {
+                "hanzi": "书",
+                "pinyin": "shū"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Qué libro lees?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì"
+            },
+            {
+                "hanzi": "你的",
+                "pinyin": "nǐde"
+            },
+            {
+                "hanzi": "学生",
+                "pinyin": "xuéshēng"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Quién es tu estudiante?",
+        "note": "📋NOTA: Quieres identificarlo dentro de un grupo, no su nombre."
+    },
+    {
+        "words": [
+            {
+                "hanzi": "这",
+                "pinyin": "zhè"
+            },
+            {
+                "hanzi": "个",
+                "pinyin": "ge"
+            },
+            {
+                "hanzi": "菜",
+                "pinyin": "cài"
+            },
+            {
+                "hanzi": "怎么",
+                "pinyin": "zěnme"
+            },
+            {
+                "hanzi": "做",
+                "pinyin": "zuò"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Cómo se prepara este plato?"
+    },
+    {
+        "words": [
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi"
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì"
+            },
+            {
+                "hanzi": "你的",
+                "pinyin": "nǐde"
+            },
+            {
+                "hanzi": "老师",
+                "pinyin": "lǎoshī"
+            },
+            {
+                "hanzi": "?",
+                "pinyin": ""
+            }
+        ],
+        "translation": "¿Quién es tu profesor?",
+        "note": "📋NOTA: Preguntas por quién o cuál es, dentro de un grupo"
+    }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
