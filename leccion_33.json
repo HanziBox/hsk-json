@@ -495,7 +495,7 @@
                 "words": [
                     {
                         "hanzi": "谁",
-                        "pinyin": "shuí"
+                        "pinyin": "shéi"
                     },
                     {
                         "hanzi": "想要",
@@ -620,7 +620,7 @@
                 "words": [
                     {
                         "hanzi": "谁",
-                        "pinyin": "shuí"
+                        "pinyin": "shéi"
                     },
                     {
                         "hanzi": "告诉",
@@ -1504,6 +1504,7 @@
         "note": "📋NOTA: Preguntas por quién o cuál es, dentro de un grupo"
     }
 ]
+
 
 
 
