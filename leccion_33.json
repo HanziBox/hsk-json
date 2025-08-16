@@ -1110,6 +1110,14 @@
   },
   {
     "words": [
+        {
+        "hanzi": "谁",
+        "pinyin": "shéi"
+      },
+    {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
       {
         "hanzi": "你的",
         "pinyin": "nǐde"
@@ -1117,14 +1125,6 @@
       {
         "hanzi": "学生",
         "pinyin": "xuéshēng"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
       },
       {
         "hanzi": "?",
@@ -1190,6 +1190,7 @@
   }
 
 ]
+
 
 
 
