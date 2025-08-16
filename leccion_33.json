@@ -911,7 +911,7 @@
             }
         ],
         "translation": "¿Quién es ese estudiante?",
-        "note": "📋NOTA: Preguntas por la identidad del estudiante"
+        "note": "📋CONTEXTO: Quieres saber más sobre se estudiante."
     },
     {
         "words": [
@@ -1108,7 +1108,7 @@
             }
         ],
         "translation": "¿Quién es tu amigo?",
-        "note": "📋NOTA: Preguntas por su identidad, quieres información sobre él"
+        "note": "📋CONTEXTO: Quieres saber más acerca de tu amigo."
     },
     {
         "words": [
@@ -1446,7 +1446,7 @@
             }
         ],
         "translation": "¿Quién es tu estudiante?",
-        "note": "📋NOTA: Quieres identificarlo dentro de un grupo, no su nombre."
+        "note": "📋CONTEXTO: Quieres saber cuál de ellos es, identificarlo entre otros."
     },
     {
         "words": [
@@ -1501,9 +1501,10 @@
             }
         ],
         "translation": "¿Quién es tu profesor?",
-        "note": "📋NOTA: Preguntas por quién o cuál es, dentro de un grupo"
+        "note": "📋CONTEXTO: Quieres saber cuál de ellos es, identificarlo entre otros."
     }
 ]
+
 
 
 
