@@ -511,7 +511,7 @@
       }
     ],
     "translation": "¿Quién es ese estudiante?",
-    "note": "📋NOTA: Ese estudiante que puedes ver y está frente a ti"
+    "note": "📋NOTA: Preguntas por la identidad del estudiante"
   },
   {
     "words": [
@@ -1131,7 +1131,8 @@
         "pinyin": ""
       }
     ],
-    "translation": "¿Quién es tu estudiante?"
+    "translation": "¿Quién es tu estudiante?",
+    "note": "📋NOTA: Quieres identificarlo dentro de un grupo, no su nombre."
   },
   {
     "words": [
@@ -1189,6 +1190,7 @@
   }
 
 ]
+
 
 
 
