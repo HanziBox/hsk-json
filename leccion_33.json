@@ -1,4 +1,58 @@
 [
+    {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "想",
+        "pinyin": "xiǎng"
+      },
+      {
+        "hanzi": "说",
+        "pinyin": "shuō"
+      },
+      {
+        "hanzi": "什么",
+        "pinyin": "shénme"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Qué quieres decir?"
+  },
+    {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "门",
+        "pinyin": "mén"
+      },
+      {
+        "hanzi": "怎么",
+        "pinyin": "zěnme"
+      },
+      {
+        "hanzi": "开",
+        "pinyin": "kāi"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Cómo se abre esta puerta?"
+  },
   {
     "words": [
       {
@@ -14,15 +68,15 @@
         "pinyin": "chī"
       },
       {
-        "hanzi": "苹果",
-        "pinyin": "píngguǒ"
+        "hanzi": "肉",
+        "pinyin": "ròu"
       },
       {
         "hanzi": "?",
         "pinyin": ""
       }
     ],
-    "translation": "¿A quién le gusta comer manzanas?"
+    "translation": "¿A quién le gusta comer carne?"
   },
     {
     "words": [
@@ -806,31 +860,6 @@
         "pinyin": "xiǎng"
       },
       {
-        "hanzi": "说",
-        "pinyin": "shuō"
-      },
-      {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué quieres decir?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "想",
-        "pinyin": "xiǎng"
-      },
-      {
         "hanzi": "喝",
         "pinyin": "hē"
       },
@@ -852,12 +881,8 @@
         "pinyin": "nǐ"
       },
       {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "时候",
-        "pinyin": "shíhou"
+        "hanzi": "什么时候",
+        "pinyin": "shénmeshíhou"
       },
       {
         "hanzi": "去",
@@ -873,35 +898,6 @@
       }
     ],
     "translation": "¿Cuándo vas a Pekín?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "从",
-        "pinyin": "cóng"
-      },
-      {
-        "hanzi": "中国",
-        "pinyin": "zhōngguó"
-      },
-      {
-        "hanzi": "来",
-        "pinyin": "lái"
-      },
-      {
-        "hanzi": "吗",
-        "pinyin": "ma"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Eres de China?"
   },
   {
     "words": [
@@ -968,12 +964,8 @@
         "pinyin": "diànyǐng"
       },
       {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "时候",
-        "pinyin": "shíhou"
+        "hanzi": "什么时候",
+        "pinyin": "shénmeshíhou"
       },
       {
         "hanzi": "开始",
@@ -1055,35 +1047,6 @@
       }
     ],
     "translation": "¿Qué tienda tiene ropa barata?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "这",
-        "pinyin": "zhè"
-      },
-      {
-        "hanzi": "个",
-        "pinyin": "ge"
-      },
-      {
-        "hanzi": "门",
-        "pinyin": "mén"
-      },
-      {
-        "hanzi": "怎么",
-        "pinyin": "zěnme"
-      },
-      {
-        "hanzi": "开",
-        "pinyin": "kāi"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Cómo se abre esta puerta?"
   },
   {
     "words": [
@@ -1270,3 +1233,4 @@
   }
 
 ]
+
