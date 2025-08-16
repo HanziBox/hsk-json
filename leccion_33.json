@@ -328,41 +328,6 @@
         ],
         "translation": "¿Qué libro es interesante?"
     },
-    {
-        "words": [
-            {
-                "hanzi": "你",
-                "pinyin": "nǐ"
-            },
-            {
-                "hanzi": "什么时候",
-                "pinyin": "shénmeshíhou"
-            },
-            {
-                "words": [
-                    {
-                        "hanzi": "我",
-                        "pinyin": "wǒ"
-                    },
-                    {
-                        "hanzi": "应该",
-                        "pinyin": "yīnggāi"
-                    },
-                    {
-                        "hanzi": "买",
-                        "pinyin": "mǎi"
-                    },
-                    {
-                        "hanzi": "哪个",
-                        "pinyin": "nǎge"
-                    },
-                    {
-                        "hanzi": "手机",
-                        "pinyin": "shǒujī"
-                    }
-                ],
-                "translation": "Cuál de los dos teléfonos debería comprar?"
-            },
             {
                 "words": [
                     {
@@ -714,18 +679,7 @@
                         "pinyin": "qián"
                     }
                 ],
-                "translation": "Cuánto cuestan estos dos libros?"
-            },
-            {
-                "hanzi": "睡觉",
-                "pinyin": "shuìjiào"
-            },
-            {
-                "hanzi": "?",
-                "pinyin": ""
-            }
-        ],
-        "translation": "¿Cuándo te acuestas?"
+                "translation": "Cuánto cuestan estos libros?"
     },
     {
         "words": [
@@ -1482,4 +1436,5 @@
         "note": "📋NOTA: Preguntas por quién o cuál es, dentro de un grupo"
     }
 ]
+
 
