@@ -553,39 +553,6 @@
         "pinyin": "nǐ"
       },
       {
-        "hanzi": "买的",
-        "pinyin": "mǎide"
-      },
-      {
-        "hanzi": "票",
-        "pinyin": "piào"
-      },
-      {
-        "hanzi": "怎么",
-        "pinyin": "zěnme"
-      },
-      {
-        "hanzi": "这么",
-        "pinyin": "zhème"
-      },
-      {
-        "hanzi": "贵",
-        "pinyin": "guì"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Por qué el billete que compraste es tan caro?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
         "hanzi": "从",
         "pinyin": "cóng"
       },
@@ -1234,6 +1201,7 @@
   }
 
 ]
+
 
 
 
