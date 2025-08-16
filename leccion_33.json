@@ -946,39 +946,6 @@
         "pinyin": "nǎ"
       },
       {
-        "hanzi": "件",
-        "pinyin": "jiàn"
-      },
-      {
-        "hanzi": "衣服",
-        "pinyin": "yīfu"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "红色",
-        "pinyin": "hóngsè"
-      },
-      {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Qué ropa es roja?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "哪",
-        "pinyin": "nǎ"
-      },
-      {
         "hanzi": "家",
         "pinyin": "jiā"
       },
@@ -1196,6 +1163,7 @@
   }
 
 ]
+
 
 
 
