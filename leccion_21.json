@@ -39,8 +39,12 @@
         "pinyin": "bù"
       },
       {
-        "hanzi": "喝酒",
-        "pinyin": "hējiǔ"
+        "hanzi": "喝",
+        "pinyin": "hē"
+      },
+            {
+        "hanzi": "酒",
+        "pinyin": "jiǔ"
       }
     ],
     "translation": "Ninguno de nosotros bebe alcohol"
@@ -464,3 +468,4 @@
   }
 
 ]
+
