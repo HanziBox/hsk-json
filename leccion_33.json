@@ -724,7 +724,8 @@
         "pinyin": ""
       }
     ],
-    "translation": "¿Quién es tu amigo?"
+    "translation": "¿Quién es tu amigo?",
+      "note": "📋NOTA: Preguntas por su identidad, quieres información sobre él"
   },
   {
     "words": [
@@ -1190,6 +1191,7 @@
   }
 
 ]
+
 
 
 
