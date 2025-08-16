@@ -24,6 +24,27 @@
     ],
     "translation": "Todos ellos quieren ir a Pekín"
   },
+    {
+    "words": [
+      {
+        "hanzi": "我们",
+        "pinyin": "wǒmen"
+      },
+      {
+        "hanzi": "都",
+        "pinyin": "dōu"
+      },
+      {
+        "hanzi": "不",
+        "pinyin": "bù"
+      },
+      {
+        "hanzi": "喝酒",
+        "pinyin": "hējiǔ"
+      }
+    ],
+    "translation": "Ninguno de nosotros bebe alcohol"
+  },
   {
     "words": [
       {
@@ -215,56 +236,6 @@
       }
     ],
     "translation": "A todos ellos les gusta beber té"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "你们",
-        "pinyin": "nǐmen"
-      },
-      {
-        "hanzi": "都",
-        "pinyin": "dōu"
-      },
-      {
-        "hanzi": "认识",
-        "pinyin": "rènshi"
-      },
-      {
-        "hanzi": "他",
-        "pinyin": "tā"
-      },
-      {
-        "hanzi": "吗",
-        "pinyin": "ma"
-      },
-      {
-        "hanzi": "?",
-        "pinyin": ""
-      }
-    ],
-    "translation": "¿Todos ustedes lo conocen?"
-  },
-  {
-    "words": [
-      {
-        "hanzi": "我们",
-        "pinyin": "wǒmen"
-      },
-      {
-        "hanzi": "都",
-        "pinyin": "dōu"
-      },
-      {
-        "hanzi": "不",
-        "pinyin": "bù"
-      },
-      {
-        "hanzi": "喝酒",
-        "pinyin": "hējiǔ"
-      }
-    ],
-    "translation": "Todos nosotros no bebemos alcohol"
   },
   {
     "words": [
@@ -491,4 +462,5 @@
     ],
     "translation": "Ni a él ni a mí nos gusta el color rojo"
   }
+
 ]
