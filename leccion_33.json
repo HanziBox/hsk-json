@@ -624,8 +624,12 @@
         "pinyin": "yào"
       },
       {
-        "hanzi": "喝茶",
-        "pinyin": "hēchá"
+        "hanzi": "喝",
+        "pinyin": "hē"
+      },
+              {
+        "hanzi": "茶",
+        "pinyin": "chá"
       },
       {
         "hanzi": "?",
@@ -1192,6 +1196,7 @@
   }
 
 ]
+
 
 
 
