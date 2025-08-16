@@ -185,7 +185,8 @@
         "pinyin": "míngbái"
       }
     ],
-    "translation": "Su pregunta todos la entendemos"
+    "translation": "Todos entendemos su pregunta"
+    "note": "📋NOTA: Pon énfasis en el objeto (su pregunta)."
   },
   {
     "words": [
@@ -472,6 +473,7 @@
   }
 
 ]
+
 
 
 
