@@ -515,7 +515,7 @@
       }
     ],
     "translation": "¿Quién es ese estudiante?",
-    "📋NOTA: Ese estudiante que puedes ver y está frente a ti"
+    "note": "📋NOTA: Ese estudiante que puedes ver y está frente a ti"
   },
   {
     "words": [
@@ -1234,5 +1234,6 @@
   }
 
 ]
+
 
 
