@@ -338,6 +338,179 @@
         "hanzi": "什么时候",
         "pinyin": "shénmeshíhou"
       },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "应该", "pinyin": "yīnggāi"},
+            {"hanzi": "买", "pinyin": "mǎi"},
+            {"hanzi": "哪个", "pinyin": "nǎge"},
+            {"hanzi": "手机", "pinyin": "shǒujī"}
+        ],
+        "translation": "Cuál de los dos teléfonos debería comprar?"
+    },
+    {
+        "words": [
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "多大", "pinyin": "duōdà"}
+        ],
+        "translation": "Qué tan grande es Pekín?"
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "多少", "pinyin": "duōshǎo"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "家里", "pinyin": "jiālǐ"}
+        ],
+        "translation": "Cuántas personas vinieron a casa ayer?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "需要", "pinyin": "xūyào"},
+            {"hanzi": "多少", "pinyin": "duōshǎo"},
+            {"hanzi": "钱", "pinyin": "qián"}
+        ],
+        "translation": "Cuánto dinero necesitas?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+            {"hanzi": "谁", "pinyin": "shuí"}
+        ],
+        "translation": "Quién te gusta?"
+    },
+    {
+        "words": [
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "晚", "pinyin": "wǎn"},
+            {"hanzi": "多少", "pinyin": "duōshǎo"},
+            {"hanzi": "钱", "pinyin": "qián"}
+        ],
+        "translation": "Cuánto cuesta por noche?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "多少", "pinyin": "duōshǎo"},
+            {"hanzi": "肉", "pinyin": "ròu"}
+        ],
+        "translation": "Cuánta carne comes?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "几个", "pinyin": "jǐge"}
+        ],
+        "translation": "Cuántos quieres?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "多少", "pinyin": "duōshǎo"},
+            {"hanzi": "酒", "pinyin": "jiǔ"}
+        ],
+        "translation": "Cuánto alcohol bebiste?"
+    },
+    {
+        "words": [
+            {"hanzi": "谁", "pinyin": "shuí"},
+            {"hanzi": "想要", "pinyin": "xiǎngyào"},
+            {"hanzi": "它", "pinyin": "tā"}
+        ],
+        "translation": "Quién lo quiere?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "为什么", "pinyin": "wèishéme"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "做", "pinyin": "zuò"}
+        ],
+        "translation": "Por qué no lo hiciste?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "为什么", "pinyin": "wèishéme"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "这里", "pinyin": "zhèlǐ"}
+        ],
+        "translation": "Por qué estás aquí?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "时候", "pinyin": "shíhòu"},
+            {"hanzi": "认识", "pinyin": "rènshì"},
+            {"hanzi": "她", "pinyin": "tā"}
+        ],
+        "translation": "Cuándo la conociste?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "为什么", "pinyin": "wèishéme"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+        ],
+        "translation": "Por qué no duermes?"
+    },
+    {
+        "words": [
+            {"hanzi": "谁", "pinyin": "shuí"},
+            {"hanzi": "告诉", "pinyin": "gàosù"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Quién te lo dijo?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "为什么", "pinyin": "wèishéme"},
+            {"hanzi": "哭", "pinyin": "kū"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Por qué lloraste?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "为什么", "pinyin": "wèishéme"},
+            {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+            {"hanzi": "我", "pinyin": "wǒ"}
+        ],
+        "translation": "Por qué te gusto?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "哪里", "pinyin": "nǎlǐ"}
+        ],
+        "translation": "Dónde estabas ayer?"
+    },
+    {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "两", "pinyin": "liǎng"},
+            {"hanzi": "本", "pinyin": "běn"},
+            {"hanzi": "书", "pinyin": "shū"},
+            {"hanzi": "多少", "pinyin": "duōshǎo"},
+            {"hanzi": "钱", "pinyin": "qián"}
+        ],
+        "translation": "Cuánto cuestan estos dos libros?"
+    }
       {
         "hanzi": "睡觉",
         "pinyin": "shuìjiào"
@@ -1142,6 +1315,7 @@
   }
 
 ]
+
 
 
 
