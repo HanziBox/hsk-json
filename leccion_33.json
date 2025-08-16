@@ -337,7 +337,11 @@
                     {
                         "hanzi": "多大",
                         "pinyin": "duōdà"
-                    }
+                    },
+                    {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Qué tan grande es Pekín?"
             },
@@ -358,7 +362,11 @@
                     {
                         "hanzi": "钱",
                         "pinyin": "qián"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Cuánto dinero necesitas?"
             },
@@ -374,8 +382,12 @@
                     },
                     {
                         "hanzi": "谁",
-                        "pinyin": "shuí"
-                    }
+                        "pinyin": "shéi"
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Quién te gusta?"
             },
@@ -396,7 +408,11 @@
                     {
                         "hanzi": "钱",
                         "pinyin": "qián"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Cuánto cuesta por noche?"
             },
@@ -417,7 +433,11 @@
                     {
                         "hanzi": "肉",
                         "pinyin": "ròu"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Cuánta carne comes?"
             },
@@ -434,7 +454,11 @@
                     {
                         "hanzi": "几个",
                         "pinyin": "jǐge"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Cuántos quieres?"
             },
@@ -459,7 +483,11 @@
                     {
                         "hanzi": "酒",
                         "pinyin": "jiǔ"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Cuánto alcohol bebiste?"
             },
@@ -476,7 +504,11 @@
                     {
                         "hanzi": "它",
                         "pinyin": "tā"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Quién lo quiere?"
             },
@@ -497,7 +529,11 @@
                     {
                         "hanzi": "做",
                         "pinyin": "zuò"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Por qué no lo hiciste?"
             },
@@ -518,7 +554,11 @@
                     {
                         "hanzi": "这里",
                         "pinyin": "zhèlǐ"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Por qué estás aquí?"
             },
@@ -543,7 +583,11 @@
                     {
                         "hanzi": "她",
                         "pinyin": "tā"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Cuándo la conociste?"
             },
@@ -564,7 +608,11 @@
                     {
                         "hanzi": "睡觉",
                         "pinyin": "shuìjiào"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Por qué no duermes?"
             },
@@ -585,7 +633,11 @@
                     {
                         "hanzi": "了",
                         "pinyin": "le"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Quién te lo dijo?"
             },
@@ -606,7 +658,11 @@
                     {
                         "hanzi": "了",
                         "pinyin": "le"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Por qué lloraste?"
             },
@@ -627,7 +683,11 @@
                     {
                         "hanzi": "我",
                         "pinyin": "wǒ"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Por qué te gusto?"
             },
@@ -648,7 +708,11 @@
                     {
                         "hanzi": "哪里",
                         "pinyin": "nǎlǐ"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Dónde estabas ayer?"
             },
@@ -677,7 +741,11 @@
                     {
                         "hanzi": "钱",
                         "pinyin": "qián"
-                    }
+                    },
+                                {
+                "hanzi": "?",
+                "pinyin": ""
+            }
                 ],
                 "translation": "Cuánto cuestan estos libros?"
     },
@@ -1436,5 +1504,6 @@
         "note": "📋NOTA: Preguntas por quién o cuál es, dentro de un grupo"
     }
 ]
+
 
 
