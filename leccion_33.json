@@ -379,35 +379,6 @@
             {
                 "words": [
                     {
-                        "hanzi": "昨天",
-                        "pinyin": "zuótiān"
-                    },
-                    {
-                        "hanzi": "有",
-                        "pinyin": "yǒu"
-                    },
-                    {
-                        "hanzi": "多少",
-                        "pinyin": "duōshǎo"
-                    },
-                    {
-                        "hanzi": "人",
-                        "pinyin": "rén"
-                    },
-                    {
-                        "hanzi": "来",
-                        "pinyin": "lái"
-                    },
-                    {
-                        "hanzi": "家里",
-                        "pinyin": "jiālǐ"
-                    }
-                ],
-                "translation": "Cuántas personas vinieron a casa ayer?"
-            },
-            {
-                "words": [
-                    {
                         "hanzi": "你",
                         "pinyin": "nǐ"
                     },
@@ -1684,4 +1655,5 @@
         "translation": "Cuánto cuestan estos dos libros?"
     }
 ]
+
 
