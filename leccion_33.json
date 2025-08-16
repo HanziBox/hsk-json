@@ -335,12 +335,8 @@
         "pinyin": "nǐ"
       },
       {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "时候",
-        "pinyin": "shíhou"
+        "hanzi": "什么时候",
+        "pinyin": "shénmeshíhou"
       },
       {
         "hanzi": "睡觉",
@@ -532,12 +528,8 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "时候",
-        "pinyin": "shíhou"
+        "hanzi": "什么时候",
+        "pinyin": "shénmeshíhou"
       },
       {
         "hanzi": "?",
@@ -670,12 +662,8 @@
         "pinyin": "nǐ"
       },
       {
-        "hanzi": "什么",
-        "pinyin": "shénme"
-      },
-      {
-        "hanzi": "时候",
-        "pinyin": "shíhou"
+        "hanzi": "什么时候",
+        "pinyin": "shénmeshíhou"
       },
       {
         "hanzi": "回家",
@@ -1201,6 +1189,7 @@
   }
 
 ]
+
 
 
 
