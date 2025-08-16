@@ -402,8 +402,12 @@
         "pinyin": "méi"
       },
       {
-        "hanzi": "买票",
-        "pinyin": "mǎipiào"
+        "hanzi": "买",
+        "pinyin": "mǎi"
+      },
+            {
+        "hanzi": "票",
+        "pinyin": "piào"
       }
     ],
     "translation": "Ellos no compraron ninguna entrada"
@@ -468,6 +472,7 @@
   }
 
 ]
+
 
 
 
