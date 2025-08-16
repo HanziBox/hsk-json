@@ -1166,7 +1166,15 @@
   },
   {
     "words": [
-      {
+    {
+        "hanzi": "谁",
+        "pinyin": "shéi"
+      },
+              {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+              {
         "hanzi": "你的",
         "pinyin": "nǐde"
       },
@@ -1175,22 +1183,16 @@
         "pinyin": "lǎoshī"
       },
       {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "谁",
-        "pinyin": "shéi"
-      },
-      {
         "hanzi": "?",
         "pinyin": ""
       }
     ],
-    "translation": "¿Quién es tu profesor?"
+    "translation": "¿Quién es tu profesor?",
+"note": "📋NOTA: Preguntas por quién o cuál es, dentro de un grupo"
   }
 
 ]
+
 
 
 
