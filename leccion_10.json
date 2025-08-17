@@ -1,0 +1,162 @@
+[
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "需要", "pinyin": "xūyào"},
+            {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+        ],
+        "translation": "Necesito dormir."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "一", "pinyin": "yì"},
+            {"hanzi": "杯", "pinyin": "bēi"},
+            {"hanzi": "茶", "pinyin": "chá"}
+        ],
+        "translation": "Quiero una taza de té."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "哭", "pinyin": "kū"}
+        ],
+        "translation": "El niño quiere llorar."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "三", "pinyin": "sān"},
+            {"hanzi": "瓶", "pinyin": "píng"},
+            {"hanzi": "啤酒", "pinyin": "píjiǔ"}
+        ],
+        "translation": "Quiero tres botellas de cerveza."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "喝水", "pinyin": "hēshuǐ"}
+        ],
+        "translation": "Él quiere beber agua."
+    },
+    {
+        "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "回家", "pinyin": "huíjiā"}
+        ],
+        "translation": "Ellos quieren volver a casa."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "需要", "pinyin": "xūyào"},
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "钱", "pinyin": "qián"}
+        ],
+        "translation": "Necesitamos mucho dinero."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "问", "pinyin": "wèn"},
+            {"hanzi": "一个", "pinyin": "yīge"},
+            {"hanzi": "问题", "pinyin": "wèntí"}
+        ],
+        "translation": "Queremos hacer una pregunta."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "需要", "pinyin": "xūyào"},
+            {"hanzi": "两", "pinyin": "liǎng"},
+            {"hanzi": "张", "pinyin": "zhāng"},
+            {"hanzi": "票", "pinyin": "piào"}
+        ],
+        "translation": "Necesitas dos entradas."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "你们", "pinyin": "nǐmen"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Quiero el vuestro."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "不要", "pinyin": "búyào"},
+            {"hanzi": "说话", "pinyin": "shuōhuà"}
+        ],
+        "translation": "Ella no quiere hablar."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "一点", "pinyin": "yìdiǎn"},
+            {"hanzi": "酒", "pinyin": "jiǔ"}
+        ],
+        "translation": "Queremos beber un poco de alcohol."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "需要", "pinyin": "xūyào"},
+            {"hanzi": "两", "pinyin": "liǎng"},
+            {"hanzi": "张", "pinyin": "zhāng"},
+            {"hanzi": "照片", "pinyin": "zhàopiàn"}
+        ],
+        "translation": "Necesitas dos fotos."
+    },
+    {
+        "words": [
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "想要", "pinyin": "xiǎngyào"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "鱼", "pinyin": "yú"}
+        ],
+        "translation": "El gato quiere comer pescado."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "不要", "pinyin": "búyào"},
+            {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+        ],
+        "translation": "No quiero dormir."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "苹果", "pinyin": "píngguǒ"}
+        ],
+        "translation": "Quiero comer algunas manzanas."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "不要", "pinyin": "búyào"}
+        ],
+        "translation": "No lo quiero."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "需要", "pinyin": "xūyào"},
+            {"hanzi": "回家", "pinyin": "huíjiā"}
+        ],
+        "translation": "Necesitas ir a casa."
+    }
+]
