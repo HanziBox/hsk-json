@@ -28,29 +28,6 @@
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "朋友", "pinyin": "péngyǒu"}
-        ],
-        "translation": "Tú no eres mi amigo."
-    },
-    {
-        "words": [
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "只", "pinyin": "zhī"},
-            {"hanzi": "狗", "pinyin": "gǒu"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Este perro no es de él."
-    },
-    {
-        "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "不", "pinyin": "bù"},
             {"hanzi": "是", "pinyin": "shì"},
@@ -161,4 +138,5 @@
         ],
         "translation": "Yo no soy tu profesor."
     }
+
 ]
