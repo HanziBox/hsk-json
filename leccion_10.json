@@ -106,7 +106,8 @@
             {"hanzi": "一点", "pinyin": "yìdiǎn"},
             {"hanzi": "酒", "pinyin": "jiǔ"}
         ],
-        "translation": "Queremos beber un poco de alcohol."
+        "translation": "Quisiéramos beber un poco de vino.",
+        "note": "📋NOTA: jiǔ 酒 puede ser vino o de forma genérica cualquier licor-"
     },
     {
         "words": [
@@ -162,4 +163,5 @@
     }
 
 ]
+
 
