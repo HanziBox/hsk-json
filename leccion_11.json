@@ -1,0 +1,164 @@
+[
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"}
+        ],
+        "translation": "Ella es mi profesora."
+    },
+    {
+        "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "中国人", "pinyin": "zhōngguórén"}
+        ],
+        "translation": "Ellos son chinos."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "学生", "pinyin": "xuésheng"}
+        ],
+        "translation": "Nosotros no somos estudiantes."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "朋友", "pinyin": "péngyǒu"}
+        ],
+        "translation": "Tú no eres mi amigo."
+    },
+    {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "只", "pinyin": "zhī"},
+            {"hanzi": "狗", "pinyin": "gǒu"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Este perro no es de él."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "你", "pinyin": "nǐ"}
+        ],
+        "translation": "Yo no soy tú."
+    },
+    {
+        "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "中国人", "pinyin": "zhōngguórén"}
+        ],
+        "translation": "Ellos son chinos."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "朋友", "pinyin": "péngyǒu"}
+        ],
+        "translation": "Él no es tu amigo."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "爸爸", "pinyin": "bàba"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"}
+        ],
+        "translation": "Mi papá no es profesor."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "妈妈", "pinyin": "māma"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "中国人", "pinyin": "zhōngguórén"}
+        ],
+        "translation": "Mi mamá no es china."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "孩子", "pinyin": "háizi"}
+        ],
+        "translation": "Él es mi hijo."
+    },
+    {
+        "words": [
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "El gato es mío."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "学生", "pinyin": "xuésheng"}
+        ],
+        "translation": "Nosotros somos estudiantes."
+    },
+    {
+        "words": [
+            {"hanzi": "狗", "pinyin": "gǒu"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "El perro es de él."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "西班牙人", "pinyin": "xībānyárén"}
+        ],
+        "translation": "Ella es española."
+    },
+    {
+        "words": [
+            {"hanzi": "茶", "pinyin": "chá"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "酒", "pinyin": "jiǔ"}
+        ],
+        "translation": "El té no es alcohol."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"}
+        ],
+        "translation": "Yo no soy tu profesor."
+    }
+]
