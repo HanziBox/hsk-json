@@ -39,7 +39,8 @@
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "想", "pinyin": "xiǎng"},
-            {"hanzi": "喝水", "pinyin": "hēshuǐ"}
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "水", "pinyin": "shuǐ"}
         ],
         "translation": "Él quiere beber agua."
     },
@@ -161,3 +162,4 @@
     }
 
 ]
+
