@@ -149,7 +149,7 @@
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "不要", "pinyin": "búyào"}
         ],
-        "translation": "No lo quiero."
+        "translation": "No quiero."
     },
     {
         "words": [
@@ -159,4 +159,5 @@
         ],
         "translation": "Necesitas ir a casa."
     }
+
 ]
