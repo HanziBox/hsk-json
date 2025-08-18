@@ -78,6 +78,182 @@
     ],
     "translation": "Mi gata tiene cinco gatitos"
   },
+    {
+    "words": [
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu"
+      },
+      {
+        "hanzi": "很多",
+        "pinyin": "hěnduō"
+      },
+      {
+        "hanzi": "问题",
+        "pinyin": "wèntí"
+      }
+    ],
+    "translation": "Ellos tienen muchos problemas"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu"
+      },
+      {
+        "hanzi": "一点",
+        "pinyin": "yìdiǎn"
+      },
+      {
+        "hanzi": "钱",
+        "pinyin": "qián"
+      }
+    ],
+    "translation": "Él tiene un poco de dinero"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我们",
+        "pinyin": "wǒmen"
+      },
+      {
+        "hanzi": "家",
+        "pinyin": "jiā"
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu"
+      },
+      {
+        "hanzi": "电视",
+        "pinyin": "diànshì"
+      }
+    ],
+    "translation": "En nuestra casa hay un televisor"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "她",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "聪明",
+        "pinyin": "cōngmíng"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "孩子",
+        "pinyin": "háizi"
+      }
+    ],
+    "translation": "Ella tiene un hijo muy inteligente"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu"
+      },
+      {
+        "hanzi": "三",
+        "pinyin": "sān"
+      },
+      {
+        "hanzi": "条",
+        "pinyin": "tiáo"
+      },
+      {
+        "hanzi": "鱼",
+        "pinyin": "yú"
+      }
+    ],
+    "translation": "Tengo tres peces"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "北京",
+        "pinyin": "běijīng"
+      },
+      {
+        "hanzi": "没有",
+        "pinyin": "méiyǒu"
+      },
+      {
+        "hanzi": "海滩",
+        "pinyin": "hǎitān"
+      }
+    ],
+    "translation": "Pekín no tiene playa"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "北京",
+        "pinyin": "běijīng"
+      },
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu"
+      },
+      {
+        "hanzi": "很多",
+        "pinyin": "hěnduō"
+      },
+      {
+        "hanzi": "学生",
+        "pinyin": "xuésheng"
+      }
+    ],
+    "translation": "Pekín tiene muchos estudiantes"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我的",
+        "pinyin": "wǒde"
+      },
+      {
+        "hanzi": "朋友",
+        "pinyin": "péngyou"
+      },
+      {
+        "hanzi": "没有",
+        "pinyin": "méiyǒu"
+      },
+      {
+        "hanzi": "票",
+        "pinyin": "piào"
+      }
+    ],
+    "translation": "Mi amigo no tiene entrada"
+  },
   {
     "words": [
       {
@@ -401,3 +577,4 @@
   }
 
 ]
+
