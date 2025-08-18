@@ -97,7 +97,8 @@
         "pinyin": "wèntí"
       }
     ],
-    "translation": "Ellos tienen muchos problemas"
+    "translation": "Ellos tienen muchos problemas",
+    "note": "📋NOTA: wèntí 问题 es tanto "problema" como "pregunta"."
   },
   {
     "words": [
@@ -577,4 +578,5 @@
   }
 
 ]
+
 
