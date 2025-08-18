@@ -189,27 +189,6 @@
   {
     "words": [
       {
-        "hanzi": "这些",
-        "pinyin": "zhèxiē"
-      },
-      {
-        "hanzi": "书",
-        "pinyin": "shū"
-      },
-      {
-        "hanzi": "很",
-        "pinyin": "hěn"
-      },
-      {
-        "hanzi": "有意思",
-        "pinyin": "yǒuyìsi"
-      }
-    ],
-    "translation": "Estos libros son muy interesantes"
-  },
-  {
-    "words": [
-      {
         "hanzi": "他",
         "pinyin": "tā"
       },
@@ -420,4 +399,5 @@
     ],
     "translation": "Ellos no tienen trabajo"
   }
+
 ]
