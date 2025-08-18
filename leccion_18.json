@@ -171,6 +171,31 @@
     ],
     "translation": "Ella tiene hijos muy inteligentes"
   },
+    {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "本",
+        "pinyin": "běn"
+      },
+      {
+        "hanzi": "书",
+        "pinyin": "shū"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "有意思",
+        "pinyin": "yǒuyìsi"
+      }
+    ],
+    "translation": "Este libro es muy interesante"
+  },
   {
     "words": [
       {
@@ -578,6 +603,7 @@
   }
 
 ]
+
 
 
 
