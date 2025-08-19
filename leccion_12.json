@@ -14,8 +14,12 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "中国菜",
-        "pinyin": "zhōngguócài"
+        "hanzi": "中国",
+        "pinyin": "zhōngguó"
+      },
+      {
+        "hanzi": "菜",
+        "pinyin": "cài"
       }
     ],
     "translation": "Esto no es comida china"
@@ -436,4 +440,5 @@
     ],
     "translation": "Aquellas tres casas son de ellos"
   }
+
 ]
