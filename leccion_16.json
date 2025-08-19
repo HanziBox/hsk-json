@@ -1,0 +1,338 @@
+[
+  {
+    "words": [
+      {
+        "hanzi": "这些",
+        "pinyin": "zhèxiē"
+      },
+      {
+        "hanzi": "苹果",
+        "pinyin": "píngguǒ"
+      },
+      {
+        "hanzi": "非常",
+        "pinyin": "fēicháng"
+      },
+      {
+        "hanzi": "便宜",
+        "pinyin": "piányi"
+      }
+    ],
+    "translation": "Estas manzanas son muy baratas"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我的",
+        "pinyin": "wǒde"
+      },
+      {
+        "hanzi": "猫",
+        "pinyin": "māo"
+      },
+      {
+        "hanzi": "最",
+        "pinyin": "zuì"
+      },
+      {
+        "hanzi": "可爱",
+        "pinyin": "kě'ài"
+      }
+    ],
+    "translation": "Mi gato es el más lindo"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "有点",
+        "pinyin": "yǒudiǎn"
+      },
+      {
+        "hanzi": "累",
+        "pinyin": "lèi"
+      }
+    ],
+    "translation": "Estoy un poco cansado"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "她的",
+        "pinyin": "tāde"
+      },
+      {
+        "hanzi": "头发",
+        "pinyin": "tóufa"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "长",
+        "pinyin": "cháng"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "黑色",
+        "pinyin": "hēisè"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Su pelo es muy largo, es negro"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你的",
+        "pinyin": "nǐde"
+      },
+      {
+        "hanzi": "手机",
+        "pinyin": "shǒujī"
+      },
+      {
+        "hanzi": "太",
+        "pinyin": "tài"
+      },
+      {
+        "hanzi": "贵",
+        "pinyin": "guì"
+      }
+    ],
+    "translation": "Tu teléfono móvil es demasiado caro"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "她",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "真",
+        "pinyin": "zhēn"
+      },
+      {
+        "hanzi": "聪明",
+        "pinyin": "cōngmíng"
+      }
+    ],
+    "translation": "Ella es realmente inteligente"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "爱",
+        "pinyin": "ài"
+      },
+      {
+        "hanzi": "吃肉",
+        "pinyin": "chīròu"
+      }
+    ],
+    "translation": "A ellos les encanta comer carne"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "中国菜",
+        "pinyin": "zhōngguócài"
+      },
+      {
+        "hanzi": "最",
+        "pinyin": "zuì"
+      },
+      {
+        "hanzi": "好吃",
+        "pinyin": "hǎochī"
+      }
+    ],
+    "translation": "La comida china es la más rica"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "蛋糕",
+        "pinyin": "dàngāo"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "圆",
+        "pinyin": "yuán"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "El pastel es redondo"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "非常",
+        "pinyin": "fēicháng"
+      },
+      {
+        "hanzi": "想",
+        "pinyin": "xiǎng"
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù"
+      },
+      {
+        "hanzi": "中国",
+        "pinyin": "zhōngguó"
+      }
+    ],
+    "translation": "Realmente quiero ir a China"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng"
+      },
+      {
+        "hanzi": "票",
+        "pinyin": "piào"
+      },
+      {
+        "hanzi": "有点",
+        "pinyin": "yǒudiǎn"
+      },
+      {
+        "hanzi": "贵",
+        "pinyin": "guì"
+      }
+    ],
+    "translation": "Esta entrada es un poco cara"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我们的",
+        "pinyin": "wǒmende"
+      },
+      {
+        "hanzi": "老师",
+        "pinyin": "lǎoshī"
+      },
+      {
+        "hanzi": "真",
+        "pinyin": "zhēn"
+      },
+      {
+        "hanzi": "忙",
+        "pinyin": "máng"
+      }
+    ],
+    "translation": "Nuestro profesor está realmente ocupado"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "妈妈",
+        "pinyin": "māma"
+      },
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "最",
+        "pinyin": "zuì"
+      },
+      {
+        "hanzi": "漂亮",
+        "pinyin": "piàoliang"
+      }
+    ],
+    "translation": "¡Mamá, eres la más hermosa!"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "黑猫",
+        "pinyin": "hēimāo"
+      },
+      {
+        "hanzi": "真",
+        "pinyin": "zhēn"
+      },
+      {
+        "hanzi": "可爱",
+        "pinyin": "kě'ài"
+      }
+    ],
+    "translation": "El gato negro es realmente lindo"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "太",
+        "pinyin": "tài"
+      },
+      {
+        "hanzi": "热",
+        "pinyin": "rè"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      }
+    ],
+    "translation": "¡Qué calor!"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "真",
+        "pinyin": "zhēn"
+      },
+      {
+        "hanzi": "需要",
+        "pinyin": "xūyào"
+      },
+      {
+        "hanzi": "睡觉",
+        "pinyin": "shuìjiào"
+      }
+    ],
+    "translation": "Él realmente necesita dormir"
+  }
+]
