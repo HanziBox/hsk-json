@@ -275,12 +275,8 @@
   {
     "words": [
       {
-        "hanzi": "有",
-        "pinyin": "yǒu"
-      },
-      {
-        "hanzi": "人",
-        "pinyin": "rén"
+        "hanzi": "有人",
+        "pinyin": "yǒurén"
       },
       {
         "hanzi": "用",
@@ -866,3 +862,4 @@
   }
 
 ]
+
