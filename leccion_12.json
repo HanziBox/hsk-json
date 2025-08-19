@@ -1,0 +1,439 @@
+[
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "不",
+        "pinyin": "bú"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "中国菜",
+        "pinyin": "zhōngguócài"
+      }
+    ],
+    "translation": "Esto no es comida china"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "六",
+        "pinyin": "liù"
+      },
+      {
+        "hanzi": "本",
+        "pinyin": "běn"
+      },
+      {
+        "hanzi": "书",
+        "pinyin": "shū"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我的",
+        "pinyin": "wǒde"
+      }
+    ],
+    "translation": "Estos seis libros son míos"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "那些",
+        "pinyin": "nàxiē"
+      },
+      {
+        "hanzi": "人",
+        "pinyin": "rén"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "老师",
+        "pinyin": "lǎoshī"
+      }
+    ],
+    "translation": "Aquellas personas son profesores"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "两",
+        "pinyin": "liǎng"
+      },
+      {
+        "hanzi": "只",
+        "pinyin": "zhī"
+      },
+      {
+        "hanzi": "狗",
+        "pinyin": "gǒu"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "老师",
+        "pinyin": "lǎoshī"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Estos dos perros son del profesor"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "要",
+        "pinyin": "yào"
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù"
+      },
+      {
+        "hanzi": "那",
+        "pinyin": "nà"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "公园",
+        "pinyin": "gōngyuán"
+      }
+    ],
+    "translation": "Quiero ir a ese parque"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我们的",
+        "pinyin": "wǒmende"
+      },
+      {
+        "hanzi": "孩子",
+        "pinyin": "háizi"
+      }
+    ],
+    "translation": "Este es nuestro hijo"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这些",
+        "pinyin": "zhèxiē"
+      },
+      {
+        "hanzi": "孩子",
+        "pinyin": "háizi"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我们的",
+        "pinyin": "wǒmende"
+      }
+    ],
+    "translation": "Estos niños son nuestros"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "那",
+        "pinyin": "nà"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "孩子",
+        "pinyin": "háizi"
+      },
+      {
+        "hanzi": "喝",
+        "pinyin": "hē"
+      },
+      {
+        "hanzi": "茶",
+        "pinyin": "chá"
+      }
+    ],
+    "translation": "Aquel niño bebe té"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "明白",
+        "pinyin": "míngbái"
+      },
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "问题",
+        "pinyin": "wèntí"
+      }
+    ],
+    "translation": "Entiendo este problema"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "钱",
+        "pinyin": "qián"
+      }
+    ],
+    "translation": "Este es su dinero"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "两",
+        "pinyin": "liǎng"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "人",
+        "pinyin": "rén"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "中国人",
+        "pinyin": "zhōngguórén"
+      }
+    ],
+    "translation": "Estas dos personas son chinas"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "哥哥",
+        "pinyin": "gēge"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "猫",
+        "pinyin": "māo"
+      }
+    ],
+    "translation": "Este es el gato de mi hermano mayor"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "她",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "要",
+        "pinyin": "yào"
+      },
+      {
+        "hanzi": "买",
+        "pinyin": "mǎi"
+      },
+      {
+        "hanzi": "这个",
+        "pinyin": "zhège"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fángzi"
+      }
+    ],
+    "translation": "Ella quiere comprar esta casa"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这些",
+        "pinyin": "zhèxiē"
+      },
+      {
+        "hanzi": "书",
+        "pinyin": "shū"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "老师",
+        "pinyin": "lǎoshī"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Estos libros son del profesor"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "要",
+        "pinyin": "yào"
+      },
+      {
+        "hanzi": "这个",
+        "pinyin": "zhège"
+      },
+      {
+        "hanzi": "蛋糕",
+        "pinyin": "dàngāo"
+      }
+    ],
+    "translation": "Quiero este pastel"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "奶奶",
+        "pinyin": "nǎinai"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "猫",
+        "pinyin": "māo"
+      }
+    ],
+    "translation": "Este es el gato de la abuela"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "那",
+        "pinyin": "nà"
+      },
+      {
+        "hanzi": "三",
+        "pinyin": "sān"
+      },
+      {
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fángzi"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Aquellas tres casas son de ellos"
+  }
+]
