@@ -1,0 +1,834 @@
+[
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "跟",
+        "pinyin": "gēn"
+      },
+      {
+        "hanzi": "她",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "说话",
+        "pinyin": "shuōhuà"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      }
+    ],
+    "translation": "Hablé con ella"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "会",
+        "pinyin": "huì"
+      },
+      {
+        "hanzi": "用",
+        "pinyin": "yòng"
+      },
+      {
+        "hanzi": "筷子",
+        "pinyin": "kuàizi"
+      },
+      {
+        "hanzi": "吃饭",
+        "pinyin": "chīfàn"
+      },
+      {
+        "hanzi": "吗",
+        "pinyin": "ma"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Sabes comer con palillos?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "她",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "笑",
+        "pinyin": "xiào"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      }
+    ],
+    "translation": "Ella me sonrió"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "从",
+        "pinyin": "cóng"
+      },
+      {
+        "hanzi": "这里",
+        "pinyin": "zhèlǐ"
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào"
+      },
+      {
+        "hanzi": "海滩",
+        "pinyin": "hǎitān"
+      },
+      {
+        "hanzi": "可以",
+        "pinyin": "kěyǐ"
+      },
+      {
+        "hanzi": "坐",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "火车",
+        "pinyin": "huǒchē"
+      },
+      {
+        "hanzi": "吗",
+        "pinyin": "ma"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Se puede ir a la playa en tren desde aquí?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "可以",
+        "pinyin": "kěyǐ"
+      },
+      {
+        "hanzi": "用",
+        "pinyin": "yòng"
+      },
+      {
+        "hanzi": "我的",
+        "pinyin": "wǒde"
+      },
+      {
+        "hanzi": "手机",
+        "pinyin": "shǒujī"
+      },
+      {
+        "hanzi": "给",
+        "pinyin": "gěi"
+      },
+      {
+        "hanzi": "她",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "打电话",
+        "pinyin": "dǎdiànhuà"
+      }
+    ],
+    "translation": "Puedes usar mi teléfono para llamarla"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng"
+      },
+      {
+        "hanzi": "票",
+        "pinyin": "piào"
+      },
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
+      },
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "有用",
+        "pinyin": "yǒuyòng"
+      }
+    ],
+    "translation": "Esta entrada te será muy útil"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "为了",
+        "pinyin": "wèile"
+      },
+      {
+        "hanzi": "家人",
+        "pinyin": "jiārén"
+      },
+      {
+        "hanzi": "工作",
+        "pinyin": "gōngzuò"
+      }
+    ],
+    "translation": "Él trabaja para su familia"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "跑步",
+        "pinyin": "pǎobù"
+      },
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
+      },
+      {
+        "hanzi": "身体",
+        "pinyin": "shēntǐ"
+      },
+      {
+        "hanzi": "非常",
+        "pinyin": "fēicháng"
+      },
+      {
+        "hanzi": "好",
+        "pinyin": "hǎo"
+      }
+    ],
+    "translation": "Correr es muy bueno para la salud"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "有",
+        "pinyin": "yǒu"
+      },
+      {
+        "hanzi": "人",
+        "pinyin": "rén"
+      },
+      {
+        "hanzi": "用",
+        "pinyin": "yòng"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "我的",
+        "pinyin": "wǒde"
+      },
+      {
+        "hanzi": "杯子",
+        "pinyin": "bēizi"
+      },
+      {
+        "hanzi": "喝",
+        "pinyin": "hē"
+      },
+      {
+        "hanzi": "茶",
+        "pinyin": "chá"
+      }
+    ],
+    "translation": "Alguien usó mi taza para beber té"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "大家",
+        "pinyin": "dàjiā"
+      },
+      {
+        "hanzi": "都",
+        "pinyin": "dōu"
+      },
+      {
+        "hanzi": "往",
+        "pinyin": "wǎng"
+      },
+      {
+        "hanzi": "那个",
+        "pinyin": "nàge"
+      },
+      {
+        "hanzi": "地方",
+        "pinyin": "dìfang"
+      },
+      {
+        "hanzi": "走",
+        "pinyin": "zǒu"
+      }
+    ],
+    "translation": "Todos caminaron hacia ese lugar"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这个",
+        "pinyin": "zhège"
+      },
+      {
+        "hanzi": "问题",
+        "pinyin": "wèntí"
+      },
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "来说",
+        "pinyin": "láishuō"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "简单",
+        "pinyin": "jiǎndān"
+      }
+    ],
+    "translation": "Este problema es muy sencillo para mí"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "请",
+        "pinyin": "qǐng"
+      },
+      {
+        "hanzi": "用",
+        "pinyin": "yòng"
+      },
+      {
+        "hanzi": "中文",
+        "pinyin": "zhōngwén"
+      },
+      {
+        "hanzi": "说",
+        "pinyin": "shuō"
+      }
+    ],
+    "translation": "Por favor, habla en chino"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "为",
+        "pinyin": "wèi"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "做",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "件",
+        "pinyin": "jiàn"
+      },
+      {
+        "hanzi": "事",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "吗",
+        "pinyin": "ma"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Hiciste esto por mí?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "家",
+        "pinyin": "jiā"
+      },
+      {
+        "hanzi": "商店",
+        "pinyin": "shāngdiàn"
+      },
+      {
+        "hanzi": "开",
+        "pinyin": "kāi"
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào"
+      },
+      {
+        "hanzi": "晚上",
+        "pinyin": "wǎnshàng"
+      },
+      {
+        "hanzi": "九",
+        "pinyin": "jiǔ"
+      },
+      {
+        "hanzi": "点",
+        "pinyin": "diǎn"
+      }
+    ],
+    "translation": "Esta tienda abre hasta las nueve de la noche"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "每天",
+        "pinyin": "měitiān"
+      },
+      {
+        "hanzi": "给",
+        "pinyin": "gěi"
+      },
+      {
+        "hanzi": "孩子",
+        "pinyin": "háizi"
+      },
+      {
+        "hanzi": "打电话",
+        "pinyin": "dǎdiànhuà"
+      }
+    ],
+    "translation": "Él llama a su hijo todos los días"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "小鸟",
+        "pinyin": "xiǎoniǎo"
+      },
+      {
+        "hanzi": "向",
+        "pinyin": "xiàng"
+      },
+      {
+        "hanzi": "天空",
+        "pinyin": "tiānkōng"
+      },
+      {
+        "hanzi": "飞",
+        "pinyin": "fēi"
+      }
+    ],
+    "translation": "El pajarito vuela hacia el cielo"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "跟",
+        "pinyin": "gēn"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "一起",
+        "pinyin": "yìqǐ"
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù"
+      },
+      {
+        "hanzi": "吧",
+        "pinyin": "ba"
+      }
+    ],
+    "translation": "Ve conmigo"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "可以",
+        "pinyin": "kěyǐ"
+      },
+      {
+        "hanzi": "跟",
+        "pinyin": "gēn"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "说",
+        "pinyin": "shuō"
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yi"
+      },
+      {
+        "hanzi": "说",
+        "pinyin": "shuō"
+      },
+      {
+        "hanzi": "吗",
+        "pinyin": "ma"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Puedes decírmelo?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "她",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
+      },
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "好",
+        "pinyin": "hǎo"
+      },
+      {
+        "hanzi": "吗",
+        "pinyin": "ma"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Ella es buena contigo?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "请",
+        "pinyin": "qǐng"
+      },
+      {
+        "hanzi": "给",
+        "pinyin": "gěi"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "开门",
+        "pinyin": "kāimén"
+      }
+    ],
+    "translation": "Por favor, ábreme la puerta"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "跟",
+        "pinyin": "gēn"
+      },
+      {
+        "hanzi": "爸爸",
+        "pinyin": "bàba"
+      },
+      {
+        "hanzi": "一起",
+        "pinyin": "yìqǐ"
+      },
+      {
+        "hanzi": "吃",
+        "pinyin": "chī"
+      },
+      {
+        "hanzi": "晚饭",
+        "pinyin": "wǎnfàn"
+      }
+    ],
+    "translation": "Cené con mi papá"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "从",
+        "pinyin": "cóng"
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shànghǎi"
+      },
+      {
+        "hanzi": "坐",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "火车",
+        "pinyin": "huǒchē"
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào"
+      },
+      {
+        "hanzi": "北京",
+        "pinyin": "běijīng"
+      }
+    ],
+    "translation": "Viajé en tren de Shanghái a Pekín"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "都",
+        "pinyin": "dōu"
+      },
+      {
+        "hanzi": "从",
+        "pinyin": "cóng"
+      },
+      {
+        "hanzi": "中国",
+        "pinyin": "zhōngguó"
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái"
+      }
+    ],
+    "translation": "Todos ellos vinieron de China"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "为",
+        "pinyin": "wèi"
+      },
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "高兴",
+        "pinyin": "gāoxìng"
+      }
+    ],
+    "translation": "Estoy feliz por ti"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "为了",
+        "pinyin": "wèile"
+      },
+      {
+        "hanzi": "考试",
+        "pinyin": "kǎoshì"
+      },
+      {
+        "hanzi": "学习",
+        "pinyin": "xuéxí"
+      }
+    ],
+    "translation": "Estudio para el examen"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "从",
+        "pinyin": "cóng"
+      },
+      {
+        "hanzi": "早",
+        "pinyin": "zǎo"
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn"
+      },
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "一直",
+        "pinyin": "yìzhí"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "工作",
+        "pinyin": "gōngzuò"
+      }
+    ],
+    "translation": "Él ha estado trabajando desde la mañana hasta la noche"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "跟",
+        "pinyin": "gēn"
+      },
+      {
+        "hanzi": "谁",
+        "pinyin": "shéi"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "说话",
+        "pinyin": "shuōhuà"
+      },
+      {
+        "hanzi": "?",
+        "pinyin": ""
+      }
+    ],
+    "translation": "¿Con quién estás hablando?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "从",
+        "pinyin": "cóng"
+      },
+      {
+        "hanzi": "今天",
+        "pinyin": "jīntiān"
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào"
+      },
+      {
+        "hanzi": "星期四",
+        "pinyin": "xīngqīsì"
+      },
+      {
+        "hanzi": "放假",
+        "pinyin": "fàngjià"
+      }
+    ],
+    "translation": "Estoy de vacaciones desde hoy hasta el jueves"
+  }
+]
