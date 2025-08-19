@@ -283,8 +283,12 @@
   {
     "words": [
       {
-        "hanzi": "黑猫",
-        "pinyin": "hēimāo"
+        "hanzi": "黑",
+        "pinyin": "hēi"
+      },
+      {
+        "hanzi": "猫",
+        "pinyin": "māo"
       },
       {
         "hanzi": "真",
@@ -335,4 +339,5 @@
     ],
     "translation": "Él realmente necesita dormir"
   }
+
 ]
