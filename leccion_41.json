@@ -239,6 +239,39 @@
     ],
     "translation": "Correr es muy bueno para la salud"
   },
+    {
+    "words": [
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
+      },
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "来说",
+        "pinyin": "láishuō"
+      },
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "不",
+        "pinyin": "bú"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "问题",
+        "pinyin": "wèntí"
+      }
+    ],
+    "translation": "Para ellos, esto no es un problema"
+  },
   {
     "words": [
       {
@@ -831,4 +864,5 @@
     ],
     "translation": "Estoy de vacaciones desde hoy hasta el jueves"
   }
+
 ]
