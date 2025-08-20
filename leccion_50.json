@@ -80,10 +80,10 @@
     {
         "words": [
             {"hanzi": "为什么", "pinyin": "wèishéme"},
-            {"hanzi": "红色", "pinyin": "hóngsè"},
+            {"hanzi": "红", "pinyin": "hóng"},
             {"hanzi": "苹果", "pinyin": "píngguǒ"},
             {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "绿色", "pinyin": "lǜsè"},
+            {"hanzi": "绿", "pinyin": "lǜ"},
             {"hanzi": "苹果", "pinyin": "píngguǒ"},
             {"hanzi": "贵", "pinyin": "guì"}
         ],
@@ -684,6 +684,7 @@
     }
 
 ]
+
 
 
 
