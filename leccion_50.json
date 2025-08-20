@@ -279,15 +279,6 @@
     },
     {
         "words": [
-            {"hanzi": "孩子", "pinyin": "háizi"},
-            {"hanzi": "没有", "pinyin": "méiyǒu"},
-            {"hanzi": "学生", "pinyin": "xuésheng"},
-            {"hanzi": "聪明", "pinyin": "cōngmíng"}
-        ],
-        "translation": "Los niños no son tan inteligentes como los estudiantes."
-    },
-    {
-        "words": [
             {"hanzi": "我的", "pinyin": "wǒde"},
             {"hanzi": "房子", "pinyin": "fángzi"},
             {"hanzi": "比", "pinyin": "bǐ"},
@@ -728,6 +719,7 @@
     }
 
 ]
+
 
 
 
