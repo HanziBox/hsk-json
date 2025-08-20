@@ -138,6 +138,15 @@
         ],
         "translation": "La ropa en Beijing es más cara que la ropa aquí."
     },
+        {
+        "words": [
+            {"hanzi": "没有人", "pinyin": "méiyǒurén"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "勇敢", "pinyin": "yǒnggǎn"}
+        ],
+        "translation": "Nadie es más valiente que yo."
+    },
     {
         "words": [
             {"hanzi": "周末", "pinyin": "zhōumò"},
@@ -695,6 +704,7 @@
     }
 
 ]
+
 
 
 
