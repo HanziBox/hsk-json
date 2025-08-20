@@ -5,7 +5,8 @@
             {"hanzi": "可以", "pinyin": "kěyǐ"},
             {"hanzi": "问", "pinyin": "wèn"},
             {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "一个", "pinyin": "yīge"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "个", "pinyin": "ge"},
             {"hanzi": "问题", "pinyin": "wèntí"},
             {"hanzi": "吗", "pinyin": "ma"}
         ],
@@ -175,4 +176,5 @@
         ],
         "translation": "¿Qué perdiste?"
     }
+
 ]
