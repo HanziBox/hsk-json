@@ -560,6 +560,7 @@
             {"hanzi": "北京", "pinyin": "Běijīng"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "个", "pinyin": "ge"},
             {"hanzi": "地方", "pinyin": "dìfang"},
             {"hanzi": "忙", "pinyin": "máng"}
         ],
@@ -732,6 +733,7 @@
     }
 
 ]
+
 
 
 
