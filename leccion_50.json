@@ -68,6 +68,18 @@
         ],
         "translation": "Hoy es el día más frío."
     },
+        {
+        "words": [
+            {"hanzi": "对", "pinyin": "duì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "来说", "pinyin": "láishuō"},
+            {"hanzi": "中文", "pinyin": "zhōngwén"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "英文", "pinyin": "yīngwén"},
+            {"hanzi": "容易", "pinyin": "róngyì"}
+        ],
+        "translation": "Para mí, el chino es más fácil que el inglés."
+    },
     {
         "words": [
             {"hanzi": "北京", "pinyin": "Běijīng"},
@@ -704,6 +716,7 @@
     }
 
 ]
+
 
 
 
