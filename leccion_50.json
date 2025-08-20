@@ -605,15 +605,6 @@
     },
     {
         "words": [
-            {"hanzi": "学生", "pinyin": "xuésheng"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "孩子", "pinyin": "háizi"},
-            {"hanzi": "高", "pinyin": "gāo"}
-        ],
-        "translation": "Los estudiantes son más altos que los niños."
-    },
-    {
-        "words": [
             {"hanzi": "花", "pinyin": "huā"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "菜", "pinyin": "cài"},
@@ -679,6 +670,7 @@
     }
 
 ]
+
 
 
 
