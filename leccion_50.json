@@ -8,6 +8,16 @@
         ],
         "translation": "Ayer no hizo tanto frío como hoy."
     },
+        {
+        "words": [
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "忙", "pinyin": "máng"}
+        ],
+        "translation": "Los estudiantes y los profesores están igual de ocupados."
+    },
     {
         "words": [
             {"hanzi": "酒", "pinyin": "jiǔ"},
@@ -391,16 +401,6 @@
     },
     {
         "words": [
-            {"hanzi": "学生", "pinyin": "xuésheng"},
-            {"hanzi": "和", "pinyin": "hé"},
-            {"hanzi": "老师", "pinyin": "lǎoshī"},
-            {"hanzi": "一样", "pinyin": "yīyàng"},
-            {"hanzi": "忙", "pinyin": "máng"}
-        ],
-        "translation": "Los estudiantes y los profesores están igual de ocupados."
-    },
-    {
-        "words": [
             {"hanzi": "今年", "pinyin": "jīnnián"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "去年", "pinyin": "qùnián"},
@@ -669,4 +669,5 @@
         ],
         "translation": "Las manzanas y la carne están igual de ricas."
     }
+
 ]
