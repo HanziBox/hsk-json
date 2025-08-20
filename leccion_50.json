@@ -516,6 +516,19 @@
         ],
         "translation": "Los gatos son más inteligentes que los perros."
     },
+        {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "杯", "pinyin": "bēi"},
+            {"hanzi": "茶", "pinyin": "chá"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "好喝", "pinyin": "hǎohē"}
+        ],
+        "translation": "Esta taza de té no está tan buena como la de ayer."
+    },
     {
         "words": [
             {"hanzi": "中国", "pinyin": "Zhōngguó"},
@@ -724,6 +737,7 @@
     }
 
 ]
+
 
 
 
