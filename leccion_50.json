@@ -563,7 +563,8 @@
             {"hanzi": "地方", "pinyin": "dìfang"},
             {"hanzi": "忙", "pinyin": "máng"}
         ],
-        "translation": "Beijing está más ocupado que este lugar."
+        "translation": "Beijing es más ajetreado que este lugar.",
+        "note": "📋NOTA: máng 忙 (ocupado) tiene aquí el sentido de ajetreado, bullicioso."
     },
     {
         "words": [
@@ -731,6 +732,7 @@
     }
 
 ]
+
 
 
 
