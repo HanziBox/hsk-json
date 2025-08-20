@@ -126,7 +126,8 @@
     },
     {
         "words": [
-            {"hanzi": "中国菜", "pinyin": "zhōngguócài"},
+            {"hanzi": "中国", "pinyin": "zhōngguó"},
+            {"hanzi": "菜", "pinyin": "cài"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "美国", "pinyin": "Měiguó"},
             {"hanzi": "菜", "pinyin": "cài"},
@@ -730,6 +731,7 @@
     }
 
 ]
+
 
 
 
