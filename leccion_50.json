@@ -309,20 +309,6 @@
     },
     {
         "words": [
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "杯", "pinyin": "bēi"},
-            {"hanzi": "茶", "pinyin": "chá"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "那", "pinyin": "nà"},
-            {"hanzi": "杯", "pinyin": "bēi"},
-            {"hanzi": "咖啡", "pinyin": "kāfēi"},
-            {"hanzi": "便宜", "pinyin": "piányi"},
-            {"hanzi": "一点", "pinyin": "yīdiǎn"}
-        ],
-        "translation": "Esta taza de té es un poco más barata que esa taza de café."
-    },
-    {
-        "words": [
             {"hanzi": "酒", "pinyin": "jiǔ"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "啤酒", "pinyin": "píjiǔ"},
@@ -710,6 +696,7 @@
     }
 
 ]
+
 
 
 
