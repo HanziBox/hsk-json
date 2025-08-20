@@ -153,6 +153,17 @@
     },
         {
         "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "样", "pinyin": "yàng"}
+        ],
+        "translation": "Tú y yo no somos iguales."
+    },
+        {
+        "words": [
             {"hanzi": "没有人", "pinyin": "méiyǒurén"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -683,6 +694,7 @@
     }
 
 ]
+
 
 
 
