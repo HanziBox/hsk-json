@@ -1,0 +1,178 @@
+[
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "可以", "pinyin": "kěyǐ"},
+            {"hanzi": "问", "pinyin": "wèn"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "一个", "pinyin": "yīge"},
+            {"hanzi": "问题", "pinyin": "wèntí"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Puedo hacerte una pregunta?"
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "星期三", "pinyin": "xīngqīsān"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "迷路", "pinyin": "mílù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Él se perdió en Pekín el miércoles."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "会", "pinyin": "huì"},
+            {"hanzi": "做饭", "pinyin": "zuòfàn"},
+            {"hanzi": "但是", "pinyin": "dànshì"},
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "不能", "pinyin": "bùnéng"}
+        ],
+        "translation": "Sé cocinar, pero hoy no puedo."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "会", "pinyin": "huì"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "什么", "pinyin": "shénme"}
+        ],
+        "translation": "¿Qué puedes hacer?"
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "可以", "pinyin": "kěyǐ"},
+            {"hanzi": "坐", "pinyin": "zuò"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "这里", "pinyin": "zhèlǐ"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Puedo sentarme aquí?"
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "可以", "pinyin": "kěyǐ"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "这个", "pinyin": "zhège"},
+            {"hanzi": "电影", "pinyin": "diànyǐng"}
+        ],
+        "translation": "Los niños no pueden ver esta película."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "像", "pinyin": "xiàng"},
+            {"hanzi": "谁", "pinyin": "shuí"}
+        ],
+        "translation": "¿A quién me parezco?"
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "明天", "pinyin": "míngtiān"},
+            {"hanzi": "能", "pinyin": "néng"},
+            {"hanzi": "再", "pinyin": "zài"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "Puedo volver a venir mañana."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "只", "pinyin": "zhǐ"},
+            {"hanzi": "能", "pinyin": "néng"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "两", "pinyin": "liǎng"},
+            {"hanzi": "杯", "pinyin": "bēi"},
+            {"hanzi": "啤酒", "pinyin": "píjiǔ"}
+        ],
+        "translation": "Solo puedo beber dos cervezas."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "太", "pinyin": "tài"},
+            {"hanzi": "小", "pinyin": "xiǎo"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "不会", "pinyin": "búhuì"},
+            {"hanzi": "开车", "pinyin": "kāichē"}
+        ],
+        "translation": "El niño es demasiado pequeño para conducir todavía."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "可以", "pinyin": "kěyǐ"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "一点", "pinyin": "yìdiǎn"},
+            {"hanzi": "啤酒", "pinyin": "píjiǔ"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Puedo beber un poco de cerveza?"
+    },
+    {
+        "words": [
+            {"hanzi": "好像", "pinyin": "hǎoxiàng"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "下雨", "pinyin": "xià yǔ"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Parece que va a llover."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "为什么", "pinyin": "wèishéme"},
+            {"hanzi": "不能", "pinyin": "bùnéng"},
+            {"hanzi": "工作", "pinyin": "gōngzuò"}
+        ],
+        "translation": "¿Por qué no puedes trabajar?"
+    },
+    {
+        "words": [
+            {"hanzi": "好像", "pinyin": "hǎoxiàng"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "Parece que nadie ha venido."
+    },
+    {
+        "words": [
+            {"hanzi": "每个", "pinyin": "měigè"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "好像", "pinyin": "hǎoxiàng"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "累", "pinyin": "lèi"}
+        ],
+        "translation": "Todo el mundo parece muy cansado."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "病", "pinyin": "bìng"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "不能", "pinyin": "bùnéng"},
+            {"hanzi": "去", "pinyin": "qù"}
+        ],
+        "translation": "Ella está enferma y no puede ir."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "丢", "pinyin": "diū"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "东西", "pinyin": "dōngxi"}
+        ],
+        "translation": "¿Qué perdiste?"
+    }
+]
