@@ -79,6 +79,18 @@
     },
     {
         "words": [
+            {"hanzi": "为什么", "pinyin": "wèishéme"},
+            {"hanzi": "红色", "pinyin": "hóngsè"},
+            {"hanzi": "苹果", "pinyin": "píngguǒ"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "绿色", "pinyin": "lǜsè"},
+            {"hanzi": "苹果", "pinyin": "píngguǒ"},
+            {"hanzi": "贵", "pinyin": "guì"}
+        ],
+        "translation": "¿Por qué las manzanas rojas son más caras que las verdes?"
+    },
+    {
+        "words": [
             {"hanzi": "今年", "pinyin": "jīnnián"},
             {"hanzi": "最", "pinyin": "zuì"},
             {"hanzi": "冷", "pinyin": "lěng"},
@@ -672,6 +684,7 @@
     }
 
 ]
+
 
 
 
