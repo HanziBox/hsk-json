@@ -157,8 +157,7 @@
             {"hanzi": "和", "pinyin": "hé"},
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "一", "pinyin": "yī"},
-            {"hanzi": "样", "pinyin": "yàng"}
+            {"hanzi": "一样", "pinyin": "yīyàng"}
         ],
         "translation": "Tú y yo no somos iguales."
     },
@@ -694,6 +693,7 @@
     }
 
 ]
+
 
 
 
