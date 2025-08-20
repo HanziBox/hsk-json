@@ -137,20 +137,6 @@
         ],
         "translation": "La comida china es mucho más deliciosa que la americana."
     },
-    {
-        "words": [
-            {"hanzi": "北京", "pinyin": "Běijīng"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "衣服", "pinyin": "yīfu"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "地方", "pinyin": "dìfang"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "衣服", "pinyin": "yīfu"},
-            {"hanzi": "贵", "pinyin": "guì"}
-        ],
-        "translation": "La ropa en Beijing es más cara que la ropa aquí."
-    },
         {
         "words": [
             {"hanzi": "你", "pinyin": "nǐ"},
@@ -693,6 +679,7 @@
     }
 
 ]
+
 
 
 
