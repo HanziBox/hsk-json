@@ -622,17 +622,6 @@
     },
     {
         "words": [
-            {"hanzi": "跑步", "pinyin": "pǎobù"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "躺", "pinyin": "tǎng"},
-            {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "房间", "pinyin": "fángjiān"},
-            {"hanzi": "累", "pinyin": "lèi"}
-        ],
-        "translation": "Correr cansa más que tumbarse en la habitación."
-    },
-    {
-        "words": [
             {"hanzi": "蔬菜", "pinyin": "shūcài"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "水果", "pinyin": "shuǐguǒ"},
@@ -671,3 +660,4 @@
     }
 
 ]
+
