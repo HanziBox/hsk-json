@@ -341,19 +341,6 @@
     },
     {
         "words": [
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "件", "pinyin": "jiàn"},
-            {"hanzi": "衣服", "pinyin": "yīfu"},
-            {"hanzi": "没有", "pinyin": "méiyǒu"},
-            {"hanzi": "那", "pinyin": "nà"},
-            {"hanzi": "件", "pinyin": "jiàn"},
-            {"hanzi": "衣服", "pinyin": "yīfu"},
-            {"hanzi": "贵", "pinyin": "guì"}
-        ],
-        "translation": "Esta prenda de ropa no es tan cara como aquella."
-    },
-    {
-        "words": [
             {"hanzi": "苹果", "pinyin": "píngguǒ"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "肉", "pinyin": "ròu"},
@@ -696,6 +683,7 @@
     }
 
 ]
+
 
 
 
