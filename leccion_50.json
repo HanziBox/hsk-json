@@ -645,15 +645,6 @@
     },
     {
         "words": [
-            {"hanzi": "蛋糕", "pinyin": "dàngāo"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "鱼", "pinyin": "yú"},
-            {"hanzi": "圆", "pinyin": "yuán"}
-        ],
-        "translation": "El pastel es más redondo que el pescado."
-    },
-    {
-        "words": [
             {"hanzi": "猫", "pinyin": "māo"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "鸟", "pinyin": "niǎo"},
@@ -737,6 +728,7 @@
     }
 
 ]
+
 
 
 
