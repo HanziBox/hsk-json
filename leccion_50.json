@@ -704,15 +704,6 @@
     },
     {
         "words": [
-            {"hanzi": "中文", "pinyin": "Zhōngwén"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "考试", "pinyin": "kǎoshì"},
-            {"hanzi": "难", "pinyin": "nán"}
-        ],
-        "translation": "El chino es más difícil que el examen."
-    },
-    {
-        "words": [
             {"hanzi": "今天", "pinyin": "jīntiān"},
             {"hanzi": "跟", "pinyin": "gēn"},
             {"hanzi": "昨天", "pinyin": "zuótiān"},
@@ -733,6 +724,7 @@
     }
 
 ]
+
 
 
 
