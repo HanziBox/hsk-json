@@ -52,7 +52,8 @@
             {"hanzi": "这里", "pinyin": "zhèlǐ"},
             {"hanzi": "吗", "pinyin": "ma"}
         ],
-        "translation": "¿Puedo sentarme aquí?"
+        "translation": "¿Puedo sentarme aquí?",
+        "note": "📋NOTA: Recuerda que el verbo zuò 坐 va antes de zài 在."
     },
     {
         "words": [
@@ -178,4 +179,5 @@
     }
 
 ]
+
 
