@@ -132,7 +132,8 @@
         "words": [
             {"hanzi": "你", "pinyin": "nǐ"},
             {"hanzi": "为什么", "pinyin": "wèishéme"},
-            {"hanzi": "不能", "pinyin": "bùnéng"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "能", "pinyin": "néng"},
             {"hanzi": "工作", "pinyin": "gōngzuò"}
         ],
         "translation": "¿Por qué no puedes trabajar?"
@@ -162,7 +163,8 @@
             {"hanzi": "她", "pinyin": "tā"},
             {"hanzi": "病", "pinyin": "bìng"},
             {"hanzi": "了", "pinyin": "le"},
-            {"hanzi": "不能", "pinyin": "bùnéng"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "能", "pinyin": "néng"},
             {"hanzi": "去", "pinyin": "qù"}
         ],
         "translation": "Ella está enferma y no puede ir."
@@ -179,5 +181,6 @@
     }
 
 ]
+
 
 
