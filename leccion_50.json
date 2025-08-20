@@ -335,7 +335,7 @@
             {"hanzi": "最", "pinyin": "zuì"},
             {"hanzi": "贵", "pinyin": "guì"}
         ],
-        "translation": "El iPhone es el más caro."
+        "translation": "Los móviles Apple son los más caros."
     },
     {
         "words": [
@@ -660,4 +660,5 @@
     }
 
 ]
+
 
