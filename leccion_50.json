@@ -404,7 +404,8 @@
             {"hanzi": "新鲜", "pinyin": "xīnxiān"},
             {"hanzi": "一点", "pinyin": "yīdiǎn"}
         ],
-        "translation": "El pescado es un poco más fresco que la carne de cerdo."
+        "translation": "El pescado es un poco más fresco que la carne de cerdo.",
+        "note": "📋NOTA: xīnxiān 新鲜 significa fresco."
     },
     {
         "words": [
@@ -719,6 +720,7 @@
     }
 
 ]
+
 
 
 
