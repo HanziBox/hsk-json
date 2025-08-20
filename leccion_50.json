@@ -1,0 +1,672 @@
+[
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "冷", "pinyin": "lěng"}
+        ],
+        "translation": "Ayer no hizo tanto frío como hoy."
+    },
+    {
+        "words": [
+            {"hanzi": "酒", "pinyin": "jiǔ"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "茶", "pinyin": "chá"},
+            {"hanzi": "贵", "pinyin": "guì"}
+        ],
+        "translation": "El alcohol es más caro que el té."
+    },
+    {
+        "words": [
+            {"hanzi": "茶", "pinyin": "chá"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "酒", "pinyin": "jiǔ"},
+            {"hanzi": "贵", "pinyin": "guì"}
+        ],
+        "translation": "El té no es tan caro como el alcohol."
+    },
+    {
+        "words": [
+            {"hanzi": "书", "pinyin": "shū"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "电视", "pinyin": "diànshì"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "有用", "pinyin": "yǒuyòng"}
+        ],
+        "translation": "Los libros y la televisión son igual de útiles."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "最", "pinyin": "zuì"},
+            {"hanzi": "冷", "pinyin": "lěng"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "一天", "pinyin": "yītiān"}
+        ],
+        "translation": "Hoy es el día más frío."
+    },
+    {
+        "words": [
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "最", "pinyin": "zuì"},
+            {"hanzi": "有名", "pinyin": "yǒumíng"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "城市", "pinyin": "chéngshì"}
+        ],
+        "translation": "Beijing es la ciudad más famosa."
+    },
+    {
+        "words": [
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "忙", "pinyin": "máng"}
+        ],
+        "translation": "Los estudiantes están más ocupados que los profesores."
+    },
+    {
+        "words": [
+            {"hanzi": "今年", "pinyin": "jīnnián"},
+            {"hanzi": "最", "pinyin": "zuì"},
+            {"hanzi": "冷", "pinyin": "lěng"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "一天", "pinyin": "yītiān"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"}
+        ],
+        "translation": "El día más frío de este año fue ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "中国菜", "pinyin": "zhōngguócài"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "美国", "pinyin": "Měiguó"},
+            {"hanzi": "菜", "pinyin": "cài"},
+            {"hanzi": "好吃", "pinyin": "hǎochī"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "La comida china es mucho más deliciosa que la americana."
+    },
+    {
+        "words": [
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "地方", "pinyin": "dìfang"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "贵", "pinyin": "guì"}
+        ],
+        "translation": "La ropa en Beijing es más cara que la ropa aquí."
+    },
+    {
+        "words": [
+            {"hanzi": "周末", "pinyin": "zhōumò"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "星期一", "pinyin": "xīngqīyī"},
+            {"hanzi": "快乐", "pinyin": "kuàilè"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El fin de semana es mucho más feliz que el lunes."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "考试", "pinyin": "kǎoshì"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "难", "pinyin": "nán"}
+        ],
+        "translation": "El examen de hoy no es tan difícil como el de ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "冷", "pinyin": "lěng"}
+        ],
+        "translation": "Hoy hace el mismo frío que ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "中文", "pinyin": "Zhōngwén"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "英文", "pinyin": "Yīngwén"},
+            {"hanzi": "有用", "pinyin": "yǒuyòng"}
+        ],
+        "translation": "El chino es más útil que el inglés."
+    },
+    {
+        "words": [
+            {"hanzi": "公园", "pinyin": "gōngyuán"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "海滩", "pinyin": "hǎitān"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "漂亮", "pinyin": "piàoliang"}
+        ],
+        "translation": "El parque y la playa son igual de bonitos."
+    },
+    {
+        "words": [
+            {"hanzi": "红色", "pinyin": "hóngsè"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "白色", "pinyin": "báisè"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "漂亮", "pinyin": "piàoliang"}
+        ],
+        "translation": "La ropa roja es más bonita que la blanca."
+    },
+    {
+        "words": [
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "海滩", "pinyin": "hǎitān"},
+            {"hanzi": "冷", "pinyin": "lěng"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Beijing es mucho más frío que la playa."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "冷", "pinyin": "lěng"},
+            {"hanzi": "一点", "pinyin": "yīdiǎn"}
+        ],
+        "translation": "Hoy hace un poco más de frío que ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "中国", "pinyin": "Zhōngguó"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "美国", "pinyin": "Měiguó"},
+            {"hanzi": "大", "pinyin": "dà"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "China es mucho más grande que Estados Unidos."
+    },
+    {
+        "words": [
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "高", "pinyin": "gāo"},
+            {"hanzi": "一点", "pinyin": "yīdiǎn"}
+        ],
+        "translation": "Los estudiantes son un poco más altos que los niños."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "聪明", "pinyin": "cōngmíng"}
+        ],
+        "translation": "Los niños no son tan inteligentes como los estudiantes."
+    },
+    {
+        "words": [
+            {"hanzi": "公园", "pinyin": "gōngyuán"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "海滩", "pinyin": "hǎitān"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "有意思", "pinyin": "yǒuyìsi"}
+        ],
+        "translation": "El parque y la playa son igual de interesantes."
+    },
+    {
+        "words": [
+            {"hanzi": "米饭", "pinyin": "mǐfàn"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "饺子", "pinyin": "jiǎozi"},
+            {"hanzi": "好吃", "pinyin": "hǎochī"}
+        ],
+        "translation": "El arroz no está tan delicioso como las empanadillas (jiaozi)."
+    },
+    {
+        "words": [
+            {"hanzi": "中文", "pinyin": "Zhōngwén"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "英文", "pinyin": "Yīngwén"},
+            {"hanzi": "难", "pinyin": "nán"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El chino es mucho más difícil que el inglés."
+    },
+    {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "杯", "pinyin": "bēi"},
+            {"hanzi": "茶", "pinyin": "chá"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "那", "pinyin": "nà"},
+            {"hanzi": "杯", "pinyin": "bēi"},
+            {"hanzi": "咖啡", "pinyin": "kāfēi"},
+            {"hanzi": "便宜", "pinyin": "piányi"},
+            {"hanzi": "一点", "pinyin": "yīdiǎn"}
+        ],
+        "translation": "Esta taza de té es un poco más barata que esa taza de café."
+    },
+    {
+        "words": [
+            {"hanzi": "酒", "pinyin": "jiǔ"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "啤酒", "pinyin": "píjiǔ"},
+            {"hanzi": "贵", "pinyin": "guì"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El alcohol es mucho más caro que la cerveza."
+    },
+    {
+        "words": [
+            {"hanzi": "水果", "pinyin": "shuǐguǒ"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "蔬菜", "pinyin": "shūcài"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "健康", "pinyin": "jiànkāng"}
+        ],
+        "translation": "La fruta y las verduras son igual de saludables."
+    },
+    {
+        "words": [
+            {"hanzi": "红色", "pinyin": "hóngsè"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "白色", "pinyin": "báisè"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "漂亮", "pinyin": "piàoliang"}
+        ],
+        "translation": "La ropa roja es más bonita que la blanca."
+    },
+    {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "件", "pinyin": "jiàn"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "那", "pinyin": "nà"},
+            {"hanzi": "件", "pinyin": "jiàn"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "贵", "pinyin": "guì"}
+        ],
+        "translation": "Esta prenda de ropa no es tan cara como aquella."
+    },
+    {
+        "words": [
+            {"hanzi": "苹果", "pinyin": "píngguǒ"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "肉", "pinyin": "ròu"},
+            {"hanzi": "便宜", "pinyin": "piányi"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Las manzanas son mucho más baratas que la carne."
+    },
+    {
+        "words": [
+            {"hanzi": "苹果", "pinyin": "Píngguǒ"},
+            {"hanzi": "手机", "pinyin": "shǒujī"},
+            {"hanzi": "最", "pinyin": "zuì"},
+            {"hanzi": "贵", "pinyin": "guì"}
+        ],
+        "translation": "El iPhone es el más caro."
+    },
+    {
+        "words": [
+            {"hanzi": "鱼", "pinyin": "yú"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "猪肉", "pinyin": "zhūròu"},
+            {"hanzi": "新鲜", "pinyin": "xīnxiān"},
+            {"hanzi": "一点", "pinyin": "yīdiǎn"}
+        ],
+        "translation": "El pescado es un poco más fresco que la carne de cerdo."
+    },
+    {
+        "words": [
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "忙", "pinyin": "máng"}
+        ],
+        "translation": "Los estudiantes y los profesores están igual de ocupados."
+    },
+    {
+        "words": [
+            {"hanzi": "那个", "pinyin": "nàge"},
+            {"hanzi": "地方", "pinyin": "dìfang"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "安静", "pinyin": "ānjìng"}
+        ],
+        "translation": "Aquel lugar es más tranquilo que Beijing."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "考试", "pinyin": "kǎoshì"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "考试", "pinyin": "kǎoshì"},
+            {"hanzi": "难", "pinyin": "nán"}
+        ],
+        "translation": "El examen de hoy es más difícil que el de ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "最", "pinyin": "zuì"},
+            {"hanzi": "聪明", "pinyin": "cōngmíng"}
+        ],
+        "translation": "Él es el más inteligente."
+    },
+    {
+        "words": [
+            {"hanzi": "工作", "pinyin": "gōngzuò"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "学习", "pinyin": "xuéxí"},
+            {"hanzi": "累", "pinyin": "lèi"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Trabajar es mucho más agotador que estudiar."
+    },
+    {
+        "words": [
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "忙", "pinyin": "máng"}
+        ],
+        "translation": "Los estudiantes y los profesores están igual de ocupados."
+    },
+    {
+        "words": [
+            {"hanzi": "今年", "pinyin": "jīnnián"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "去年", "pinyin": "qùnián"},
+            {"hanzi": "有意思", "pinyin": "yǒuyìsi"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Este año es mucho más interesante que el año pasado."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "勇敢", "pinyin": "yǒnggǎn"}
+        ],
+        "translation": "Él es más valiente que yo."
+    },
+    {
+        "words": [
+            {"hanzi": "大家", "pinyin": "dàjiā"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "高兴", "pinyin": "gāoxìng"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Todo el mundo está mucho más feliz que ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "公园", "pinyin": "gōngyuán"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "家", "pinyin": "jiā"},
+            {"hanzi": "大", "pinyin": "dà"}
+        ],
+        "translation": "El parque es más grande que la casa."
+    },
+    {
+        "words": [
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "狗", "pinyin": "gǒu"},
+            {"hanzi": "聪明", "pinyin": "cōngmíng"}
+        ],
+        "translation": "Los gatos son más inteligentes que los perros."
+    },
+    {
+        "words": [
+            {"hanzi": "中国", "pinyin": "Zhōngguó"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "美国", "pinyin": "Měiguó"},
+            {"hanzi": "大", "pinyin": "dà"}
+        ],
+        "translation": "China es más grande que Estados Unidos."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "小", "pinyin": "xiǎo"}
+        ],
+        "translation": "Los niños son más pequeños que los estudiantes."
+    },
+    {
+        "words": [
+            {"hanzi": "苹果", "pinyin": "píngguǒ"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "肉", "pinyin": "ròu"},
+            {"hanzi": "便宜", "pinyin": "piányi"}
+        ],
+        "translation": "Las manzanas son más baratas que la carne."
+    },
+    {
+        "words": [
+            {"hanzi": "鸟", "pinyin": "niǎo"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "鱼", "pinyin": "yú"},
+            {"hanzi": "小", "pinyin": "xiǎo"}
+        ],
+        "translation": "Los pájaros son más pequeños que los peces."
+    },
+    {
+        "words": [
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "地方", "pinyin": "dìfang"},
+            {"hanzi": "忙", "pinyin": "máng"}
+        ],
+        "translation": "Beijing está más ocupado que este lugar."
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "冷", "pinyin": "lěng"}
+        ],
+        "translation": "Ayer hizo más frío que hoy."
+    },
+    {
+        "words": [
+            {"hanzi": "明天", "pinyin": "míngtiān"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "热", "pinyin": "rè"}
+        ],
+        "translation": "Mañana hará más calor que hoy."
+    },
+    {
+        "words": [
+            {"hanzi": "书", "pinyin": "shū"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "电视", "pinyin": "diànshì"},
+            {"hanzi": "有用", "pinyin": "yǒuyòng"}
+        ],
+        "translation": "Los libros son más útiles que la televisión."
+    },
+    {
+        "words": [
+            {"hanzi": "中文", "pinyin": "Zhōngwén"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "英文", "pinyin": "Yīngwén"},
+            {"hanzi": "难", "pinyin": "nán"}
+        ],
+        "translation": "El chino es más difícil que el inglés."
+    },
+    {
+        "words": [
+            {"hanzi": "饺子", "pinyin": "jiǎozi"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "米饭", "pinyin": "mǐfàn"},
+            {"hanzi": "好吃", "pinyin": "hǎochī"}
+        ],
+        "translation": "Las empanadillas (jiaozi) son más deliciosas que el arroz."
+    },
+    {
+        "words": [
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "水果", "pinyin": "shuǐguǒ"},
+            {"hanzi": "贵", "pinyin": "guì"}
+        ],
+        "translation": "La ropa es más cara que la fruta."
+    },
+    {
+        "words": [
+            {"hanzi": "酒", "pinyin": "jiǔ"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "茶", "pinyin": "chá"},
+            {"hanzi": "便宜", "pinyin": "piányi"}
+        ],
+        "translation": "El alcohol es más barato que el té."
+    },
+    {
+        "words": [
+            {"hanzi": "蛋糕", "pinyin": "dàngāo"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "鱼", "pinyin": "yú"},
+            {"hanzi": "圆", "pinyin": "yuán"}
+        ],
+        "translation": "El pastel es más redondo que el pescado."
+    },
+    {
+        "words": [
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "鸟", "pinyin": "niǎo"},
+            {"hanzi": "漂亮", "pinyin": "piàoliang"}
+        ],
+        "translation": "Los gatos son más bonitos que los pájaros."
+    },
+    {
+        "words": [
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "高", "pinyin": "gāo"}
+        ],
+        "translation": "Los estudiantes son más altos que los niños."
+    },
+    {
+        "words": [
+            {"hanzi": "花", "pinyin": "huā"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "菜", "pinyin": "cài"},
+            {"hanzi": "漂亮", "pinyin": "piàoliang"}
+        ],
+        "translation": "Las flores son más bonitas que las verduras."
+    },
+    {
+        "words": [
+            {"hanzi": "电视", "pinyin": "diànshì"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "书", "pinyin": "shū"},
+            {"hanzi": "有意思", "pinyin": "yǒuyìsi"}
+        ],
+        "translation": "La televisión es más interesante que los libros."
+    },
+    {
+        "words": [
+            {"hanzi": "鱼", "pinyin": "yú"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "肉", "pinyin": "ròu"},
+            {"hanzi": "便宜", "pinyin": "piányi"}
+        ],
+        "translation": "El pescado es más barato que la carne."
+    },
+    {
+        "words": [
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "海滩", "pinyin": "hǎitān"},
+            {"hanzi": "冷", "pinyin": "lěng"}
+        ],
+        "translation": "Beijing es más frío que la playa."
+    },
+    {
+        "words": [
+            {"hanzi": "跑步", "pinyin": "pǎobù"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "躺", "pinyin": "tǎng"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "房间", "pinyin": "fángjiān"},
+            {"hanzi": "累", "pinyin": "lèi"}
+        ],
+        "translation": "Correr cansa más que tumbarse en la habitación."
+    },
+    {
+        "words": [
+            {"hanzi": "蔬菜", "pinyin": "shūcài"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "水果", "pinyin": "shuǐguǒ"},
+            {"hanzi": "健康", "pinyin": "jiànkāng"}
+        ],
+        "translation": "Las verduras son más saludables que la fruta."
+    },
+    {
+        "words": [
+            {"hanzi": "中文", "pinyin": "Zhōngwén"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "考试", "pinyin": "kǎoshì"},
+            {"hanzi": "难", "pinyin": "nán"}
+        ],
+        "translation": "El chino es más difícil que el examen."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "跟", "pinyin": "gēn"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "忙", "pinyin": "máng"}
+        ],
+        "translation": "Hoy estoy tan ocupado como ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "苹果", "pinyin": "píngguǒ"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "肉", "pinyin": "ròu"},
+            {"hanzi": "一样", "pinyin": "yīyàng"},
+            {"hanzi": "好吃", "pinyin": "hǎochī"}
+        ],
+        "translation": "Las manzanas y la carne están igual de ricas."
+    }
+]
