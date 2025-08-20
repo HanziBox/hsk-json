@@ -210,6 +210,19 @@
         ],
         "translation": "El parque y la playa son igual de bonitos."
     },
+        {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "最", "pinyin": "zuì"},
+            {"hanzi": "好", "pinyin": "hǎo"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "学生", "pinyin": "xuésheng"}
+        ],
+        "translation": "Tú y yo somos los mejores estudiantes."
+    },
     {
         "words": [
             {"hanzi": "红色", "pinyin": "hóngsè"},
@@ -515,15 +528,6 @@
     },
     {
         "words": [
-            {"hanzi": "孩子", "pinyin": "háizi"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "学生", "pinyin": "xuésheng"},
-            {"hanzi": "小", "pinyin": "xiǎo"}
-        ],
-        "translation": "Los niños son más pequeños que los estudiantes."
-    },
-    {
-        "words": [
             {"hanzi": "苹果", "pinyin": "píngguǒ"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "肉", "pinyin": "ròu"},
@@ -716,6 +720,7 @@
     }
 
 ]
+
 
 
 
