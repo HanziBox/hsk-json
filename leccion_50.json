@@ -10,6 +10,17 @@
     },
         {
         "words": [
+            {"hanzi": "别", "pinyin": "bié"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "漂亮", "pinyin": "piàoliang"}
+        ],
+        "translation": "No digas que ella es más bonita que yo."
+    },
+        {
+        "words": [
             {"hanzi": "学生", "pinyin": "xuésheng"},
             {"hanzi": "和", "pinyin": "hé"},
             {"hanzi": "老师", "pinyin": "lǎoshī"},
@@ -684,6 +695,7 @@
     }
 
 ]
+
 
 
 
