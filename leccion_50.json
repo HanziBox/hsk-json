@@ -457,6 +457,18 @@
         ],
         "translation": "China es más grande que Estados Unidos."
     },
+        {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "觉得", "pinyin": "juéde"},
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "狗", "pinyin": "gǒu"},
+            {"hanzi": "聪明", "pinyin": "cōngmíng"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Crees que los gatos son más inteligentes que los perros?"
+    },
     {
         "words": [
             {"hanzi": "孩子", "pinyin": "háizi"},
@@ -660,5 +672,6 @@
     }
 
 ]
+
 
 
