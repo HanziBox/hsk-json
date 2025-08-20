@@ -287,6 +287,16 @@
     },
     {
         "words": [
+            {"hanzi": "我的", "pinyin": "wǒde"},
+            {"hanzi": "房子", "pinyin": "fángzi"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "你的", "pinyin": "nǐde"},
+            {"hanzi": "小", "pinyin": "xiǎo"}
+        ],
+        "translation": "Mi casa es más pequeña que la tuya."
+    },
+    {
+        "words": [
             {"hanzi": "公园", "pinyin": "gōngyuán"},
             {"hanzi": "和", "pinyin": "hé"},
             {"hanzi": "海滩", "pinyin": "hǎitān"},
@@ -720,6 +730,7 @@
     }
 
 ]
+
 
 
 
