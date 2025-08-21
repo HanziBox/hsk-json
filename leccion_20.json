@@ -1,0 +1,167 @@
+[
+    {
+        "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "猫", "pinyin": "māo"}
+        ],
+        "translation": "Ellos también tienen gatos."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "还有", "pinyin": "háiyǒu"},
+            {"hanzi": "时间", "pinyin": "shíjiān"}
+        ],
+        "translation": "Todavía tenemos tiempo."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+            {"hanzi": "红色", "pinyin": "hóngsè"}
+        ],
+        "translation": "A ella también le gusta el color rojo."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "开车", "pinyin": "kāichē"}
+        ],
+        "translation": "Yo tampoco quiero conducir."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "票", "pinyin": "piào"}
+        ],
+        "translation": "Él todavía tiene algunas entradas."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "姐姐", "pinyin": "jiějiě"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "肉", "pinyin": "ròu"}
+        ],
+        "translation": "Mi hermana mayor tampoco come carne."
+    },
+    {
+        "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "忙", "pinyin": "máng"}
+        ],
+        "translation": "Ellos también están muy ocupados."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "那个", "pinyin": "nàge"},
+            {"hanzi": "公园", "pinyin": "gōngyuán"}
+        ],
+        "translation": "Todavía voy a ese parque."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "问题", "pinyin": "wèntí"}
+        ],
+        "translation": "Nosotros también tenemos muchos problemas."
+    },
+    {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "还有", "pinyin": "háiyǒu"},
+            {"hanzi": "点", "pinyin": "diǎn"},
+            {"hanzi": "冷", "pinyin": "lěng"}
+        ],
+        "translation": "Aquí todavía hace un poco de frío."
+    },
+    {
+        "words": [
+            {"hanzi": "你的", "pinyin": "nǐde"},
+            {"hanzi": "奶奶", "pinyin": "nǎinai"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "漂亮", "pinyin": "piàoliang"}
+        ],
+        "translation": "Tu abuela todavía es muy guapa."
+    },
+    {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "条", "pinyin": "tiáo"},
+            {"hanzi": "小", "pinyin": "xiǎo"},
+            {"hanzi": "鱼", "pinyin": "yú"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "小", "pinyin": "xiǎo"}
+        ],
+        "translation": "Este pececito todavía es muy pequeño."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+            {"hanzi": "看书", "pinyin": "kànshū"}
+        ],
+        "translation": "Todavía le gusta leer."
+    },
+    {
+        "words": [
+            {"hanzi": "我的", "pinyin": "wǒde"},
+            {"hanzi": "一个", "pinyin": "yīge"},
+            {"hanzi": "朋友", "pinyin": "péngyǒu"},
+            {"hanzi": "还有", "pinyin": "háiyǒu"},
+            {"hanzi": "钱", "pinyin": "qián"}
+        ],
+        "translation": "Uno de mis amigos todavía tiene dinero."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "吃饭", "pinyin": "chīfàn"}
+        ],
+        "translation": "Él también quiere venir a comer."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "需要", "pinyin": "xūyào"},
+            {"hanzi": "你的", "pinyin": "nǐde"},
+            {"hanzi": "书", "pinyin": "shū"}
+        ],
+        "translation": "Todavía necesito tu libro."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "回家", "pinyin": "huíjiā"}
+        ],
+        "translation": "Yo también quiero ir a casa."
+    }
+]
