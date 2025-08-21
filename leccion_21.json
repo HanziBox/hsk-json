@@ -257,11 +257,15 @@
         "pinyin": "bù"
       },
       {
-        "hanzi": "吃肉",
-        "pinyin": "chīròu"
+        "hanzi": "吃",
+        "pinyin": "chī"
+      },
+            {
+        "hanzi": "肉",
+        "pinyin": "ròu"
       }
     ],
-    "translation": "Ninguno de ellos comen carne"
+    "translation": "Ninguno de ellos come carne"
   },
   {
     "words": [
@@ -473,6 +477,7 @@
   }
 
 ]
+
 
 
 
