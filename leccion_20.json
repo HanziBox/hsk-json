@@ -95,6 +95,16 @@
         ],
         "translation": "Todavía voy a ese parque."
     },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "爸爸", "pinyin": "bàba"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "忙", "pinyin": "máng"}
+        ],
+        "translation": "Mi padre todavía está muy ocupado."
+    },
     {
         "words": [
             {"hanzi": "我们", "pinyin": "wǒmen"},
@@ -188,6 +198,7 @@
     }
 
 ]
+
 
 
 
