@@ -8,6 +8,15 @@
         ],
         "translation": "Ellos también tienen gatos."
     },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "还有", "pinyin": "háiyǒu"},
+            {"hanzi": "你的", "pinyin": "nǐde"},
+            {"hanzi": "书", "pinyin": "shū"}
+        ],
+        "translation": "Todavía tengo tu libro."
+    },
     {
         "words": [
             {"hanzi": "我们", "pinyin": "wǒmen"},
@@ -158,5 +167,6 @@
     }
 
 ]
+
 
 
