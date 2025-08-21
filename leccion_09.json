@@ -91,11 +91,12 @@
     },
     {
         "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "我的", "pinyin": "wǒde"},
             {"hanzi": "朋友", "pinyin": "péngyǒu"},
             {"hanzi": "很少", "pinyin": "hěnshǎo"}
         ],
-        "translation": "Yo tengo pocos amigos."
+        "translation": "Yo tengo pocos amigos.",
+        "note": "📋NOTA: Literalmente, 'mis amigos son pocos'"
     },
     {
         "words": [
@@ -155,3 +156,4 @@
     }
 
 ]
+
