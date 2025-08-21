@@ -53,7 +53,7 @@
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "老师", "pinyin": "lǎoshī"}
         ],
-        "translation": "Ellas son profesoras."
+        "translation": "Ellas eran profesoras."
     },
     {
         "words": [
@@ -194,5 +194,6 @@
     }
 
 ]
+
 
 
