@@ -11,7 +11,8 @@
     {
         "words": [
             {"hanzi": "我们", "pinyin": "wǒmen"},
-            {"hanzi": "还有", "pinyin": "háiyǒu"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "有", "pinyin": "yǒu"},
             {"hanzi": "时间", "pinyin": "shíjiān"}
         ],
         "translation": "Todavía tenemos tiempo."
@@ -164,4 +165,5 @@
         ],
         "translation": "Yo también quiero ir a casa."
     }
+
 ]
