@@ -78,6 +78,16 @@
     {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "认识", "pinyin": "rènshì"},
+            {"hanzi": "她", "pinyin": "tā"}
+        ],
+        "translation": "Yo también quiero conocerla."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "还", "pinyin": "hái"},
             {"hanzi": "去", "pinyin": "qù"},
             {"hanzi": "那个", "pinyin": "nàge"},
@@ -104,6 +114,17 @@
             {"hanzi": "漂亮", "pinyin": "piàoliang"}
         ],
         "translation": "Tu abuela todavía es muy guapa."
+    },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "最", "pinyin": "zuì"},
+            {"hanzi": "好", "pinyin": "hǎo"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Yo también quiero lo mejor."
     },
     {
         "words": [
@@ -167,6 +188,7 @@
     }
 
 ]
+
 
 
 
