@@ -63,8 +63,8 @@
             {"hanzi": "在", "pinyin": "zài"},
             {"hanzi": "公园", "pinyin": "gōngyuán"},
             {"hanzi": "喝", "pinyin": "hē"},
-            {"hanzi": "了", "pinyin": "le"},
-            {"hanzi": "酒", "pinyin": "jiǔ"}
+            {"hanzi": "酒", "pinyin": "jiǔ"},
+            {"hanzi": "了", "pinyin": "le"}
         ],
         "translation": "Anoche bebisteis alcohol en el parque."
     },
@@ -194,4 +194,5 @@
     }
 
 ]
+
 
