@@ -1,0 +1,156 @@
+[
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "酒", "pinyin": "jiǔ"}
+        ],
+        "translation": "Él bebe mucho alcohol."
+    },
+    {
+        "words": [
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "中国", "pinyin": "Zhōngguó"}
+        ],
+        "translation": "Mucha gente va a China."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "很少", "pinyin": "hěnshǎo"},
+            {"hanzi": "电视", "pinyin": "diànshì"}
+        ],
+        "translation": "Nosotros vemos poca televisión."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "一点", "pinyin": "yìdiǎn"},
+            {"hanzi": "水", "pinyin": "shuǐ"}
+        ],
+        "translation": "Yo bebo un poco de agua."
+    },
+    {
+        "words": [
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "公园", "pinyin": "gōngyuán"}
+        ],
+        "translation": "Algunas personas van al parque."
+    },
+    {
+        "words": [
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "爱", "pinyin": "ài"},
+            {"hanzi": "我", "pinyin": "wǒ"}
+        ],
+        "translation": "Algunas personas me aman."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "水", "pinyin": "shuǐ"}
+        ],
+        "translation": "Él bebe un poco de agua."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "一点", "pinyin": "yìdiǎn"},
+            {"hanzi": "肉", "pinyin": "ròu"}
+        ],
+        "translation": "Nosotros comemos un poco de carne."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "很少", "pinyin": "hěnshǎo"},
+            {"hanzi": "鱼", "pinyin": "yú"}
+        ],
+        "translation": "Yo como poco pescado."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "朋友", "pinyin": "péngyǒu"},
+            {"hanzi": "很少", "pinyin": "hěnshǎo"}
+        ],
+        "translation": "Yo tengo pocos amigos."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "很少", "pinyin": "hěnshǎo"},
+            {"hanzi": "水", "pinyin": "shuǐ"}
+        ],
+        "translation": "Tú bebes poca agua."
+    },
+    {
+        "words": [
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "书", "pinyin": "shū"}
+        ],
+        "translation": "Algunas personas leen muchos libros."
+    },
+    {
+        "words": [
+            {"hanzi": "鱼", "pinyin": "yú"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "水", "pinyin": "shuǐ"}
+        ],
+        "translation": "Los peces no beben agua."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "书", "pinyin": "shū"}
+        ],
+        "translation": "Ella lee algunos libros."
+    },
+    {
+        "words": [
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "爱", "pinyin": "ài"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "肉", "pinyin": "ròu"}
+        ],
+        "translation": "A mucha gente le gusta comer carne."
+    },
+    {
+        "words": [
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "很少", "pinyin": "hěnshǎo"},
+            {"hanzi": "鱼", "pinyin": "yú"}
+        ],
+        "translation": "Muchos gatos, pocos peces."
+    },
+    {
+        "words": [
+            {"hanzi": "很少", "pinyin": "hěnshǎo"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "书", "pinyin": "shū"}
+        ],
+        "translation": "Poca gente lee libros."
+    }
+]
