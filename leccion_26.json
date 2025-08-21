@@ -153,7 +153,7 @@
             {"hanzi": "做饭", "pinyin": "zuòfàn"},
             {"hanzi": "了", "pinyin": "le"}
         ],
-        "translation": "Hoy cocinamos en casa."
+        "translation": "Ayer cocinamos en casa."
     },
     {
         "words": [
@@ -192,4 +192,5 @@
         ],
         "translation": "Esta mañana bebí una taza de café."
     }
+
 ]
