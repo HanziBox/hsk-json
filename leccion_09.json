@@ -119,15 +119,6 @@
     },
     {
         "words": [
-            {"hanzi": "鱼", "pinyin": "yú"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "喝", "pinyin": "hē"},
-            {"hanzi": "水", "pinyin": "shuǐ"}
-        ],
-        "translation": "Los peces no beben agua."
-    },
-    {
-        "words": [
             {"hanzi": "很多", "pinyin": "hěnduō"},
             {"hanzi": "人", "pinyin": "rén"},
             {"hanzi": "爱", "pinyin": "ài"},
@@ -156,4 +147,5 @@
     }
 
 ]
+
 
