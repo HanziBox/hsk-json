@@ -84,16 +84,7 @@
             {"hanzi": "很多", "pinyin": "hěnduō"},
             {"hanzi": "问题", "pinyin": "wèntí"}
         ],
-        "translation": "Nosotros también tenemos muchos problemas."
-    },
-    {
-        "words": [
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "还有", "pinyin": "háiyǒu"},
-            {"hanzi": "点", "pinyin": "diǎn"},
-            {"hanzi": "冷", "pinyin": "lěng"}
-        ],
-        "translation": "Aquí todavía hace un poco de frío."
+        "translation": "Nosotros también tenemos muchas preguntas."
     },
     {
         "words": [
@@ -167,4 +158,5 @@
     }
 
 ]
+
 
