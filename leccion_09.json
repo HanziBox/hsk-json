@@ -1,12 +1,21 @@
 [
-    {
+        {
         "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "喝", "pinyin": "hē"},
-            {"hanzi": "很多", "pinyin": "hěnduō"},
-            {"hanzi": "酒", "pinyin": "jiǔ"}
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "书", "pinyin": "shū"}
         ],
-        "translation": "Él bebe mucho alcohol."
+        "translation": "Ella lee algunos libros."
+    },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "一点", "pinyin": "yìdiǎn"},
+            {"hanzi": "水", "pinyin": "shuǐ"}
+        ],
+        "translation": "Yo bebo un poco de agua."
     },
     {
         "words": [
@@ -26,14 +35,14 @@
         ],
         "translation": "Nosotros vemos poca televisión."
     },
-    {
+        {
         "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "喝", "pinyin": "hē"},
-            {"hanzi": "一点", "pinyin": "yìdiǎn"},
-            {"hanzi": "水", "pinyin": "shuǐ"}
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "酒", "pinyin": "jiǔ"}
         ],
-        "translation": "Yo bebo un poco de agua."
+        "translation": "Él bebe mucho alcohol."
     },
     {
         "words": [
@@ -118,15 +127,6 @@
     },
     {
         "words": [
-            {"hanzi": "她", "pinyin": "tā"},
-            {"hanzi": "看", "pinyin": "kàn"},
-            {"hanzi": "一些", "pinyin": "yìxiē"},
-            {"hanzi": "书", "pinyin": "shū"}
-        ],
-        "translation": "Ella lee algunos libros."
-    },
-    {
-        "words": [
             {"hanzi": "很多", "pinyin": "hěnduō"},
             {"hanzi": "人", "pinyin": "rén"},
             {"hanzi": "爱", "pinyin": "ài"},
@@ -153,4 +153,5 @@
         ],
         "translation": "Poca gente lee libros."
     }
+
 ]
