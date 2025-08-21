@@ -101,9 +101,9 @@
             {"hanzi": "爸爸", "pinyin": "bàba"},
             {"hanzi": "还", "pinyin": "hái"},
             {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "忙", "pinyin": "máng"}
+            {"hanzi": "累", "pinyin": "lèi"}
         ],
-        "translation": "Mi padre todavía está muy ocupado."
+        "translation": "Mi padre todavía está muy cansado."
     },
     {
         "words": [
@@ -198,6 +198,7 @@
     }
 
 ]
+
 
 
 
