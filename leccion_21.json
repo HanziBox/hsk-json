@@ -215,7 +215,8 @@
         "pinyin": "guo"
       }
     ],
-    "translation": "Todos estos libros los he leído"
+    "translation": "Todos estos libros los he leído",
+    "note": "📋NOTA: Pon énfasis en el objeto (estos libros)."
   },
   {
     "words": [
@@ -365,7 +366,8 @@
         "pinyin": "guo"
       }
     ],
-    "translation": "Ninguno de estos libros los he leído"
+    "translation": "Ninguno de estos libros los he leído",
+    "note": "📋NOTA: Pon énfasis en el objeto (estos libros)."
   },
   {
     "words": [
@@ -477,6 +479,7 @@
   }
 
 ]
+
 
 
 
