@@ -1,0 +1,195 @@
+[
+    {
+        "words": [
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "星期", "pinyin": "xīngqī"},
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "公园", "pinyin": "gōngyuán"}
+        ],
+        "translation": "La semana pasada fuimos al parque."
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "姐姐", "pinyin": "jiějiě"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "回家", "pinyin": "huíjiā"}
+        ],
+        "translation": "Ayer mi hermana mayor no volvió a casa."
+    },
+    {
+        "words": [
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "月", "pinyin": "yuè"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "那", "pinyin": "nà"},
+            {"hanzi": "本", "pinyin": "běn"},
+            {"hanzi": "书", "pinyin": "shū"}
+        ],
+        "translation": "El mes pasado él leyó ese libro."
+    },
+    {
+        "words": [
+            {"hanzi": "去年", "pinyin": "qùnián"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "这些", "pinyin": "zhèxiē"},
+            {"hanzi": "电影", "pinyin": "diànyǐng"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El año pasado vi todas estas películas."
+    },
+    {
+        "words": [
+            {"hanzi": "她们", "pinyin": "tāmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"}
+        ],
+        "translation": "Ellas son profesoras."
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "晚上", "pinyin": "wǎnshang"},
+            {"hanzi": "你们", "pinyin": "nǐmen"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "公园", "pinyin": "gōngyuán"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "酒", "pinyin": "jiǔ"}
+        ],
+        "translation": "Anoche ustedes bebieron alcohol en el parque."
+    },
+    {
+        "words": [
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "星期四", "pinyin": "xīngqīsì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "在家", "pinyin": "zàijiā"},
+            {"hanzi": "吃饭", "pinyin": "chīfàn"}
+        ],
+        "translation": "El jueves pasado no comí en casa."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "认识", "pinyin": "rènshì"},
+            {"hanzi": "你的", "pinyin": "nǐde"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"}
+        ],
+        "translation": "No conocí a tu profesor."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "昨晚", "pinyin": "zuówǎn"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+        ],
+        "translation": "Yo tampoco dormí anoche."
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "下雨", "pinyin": "xiàyǔ"}
+        ],
+        "translation": "Ayer no llovió."
+    },
+    {
+        "words": [
+            {"hanzi": "去年", "pinyin": "qùnián"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "中国", "pinyin": "Zhōngguó"},
+            {"hanzi": "认识", "pinyin": "rènshì"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "人", "pinyin": "rén"}
+        ],
+        "translation": "El año pasado él conoció a mucha gente en China."
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "晚上", "pinyin": "wǎnshang"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "买", "pinyin": "mǎi"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "三", "pinyin": "sān"},
+            {"hanzi": "张", "pinyin": "zhāng"},
+            {"hanzi": "票", "pinyin": "piào"}
+        ],
+        "translation": "Anoche compré tres entradas."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "买", "pinyin": "mǎi"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "一些", "pinyin": "yìxiē"},
+            {"hanzi": "猪肉", "pinyin": "zhūròu"}
+        ],
+        "translation": "Ella compró un poco de carne de cerdo."
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "家", "pinyin": "jiā"},
+            {"hanzi": "做饭", "pinyin": "zuòfàn"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Hoy cocinamos en casa."
+    },
+    {
+        "words": [
+            {"hanzi": "我的", "pinyin": "wǒde"},
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "点", "pinyin": "diǎn"},
+            {"hanzi": "鱼", "pinyin": "yú"}
+        ],
+        "translation": "Mi gato comió un poco de pescado."
+    },
+    {
+        "words": [
+            {"hanzi": "她们", "pinyin": "tāmen"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "买", "pinyin": "mǎi"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "衣服", "pinyin": "yīfu"}
+        ],
+        "translation": "Ellas compraron mucha ropa en Pekín."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "早上", "pinyin": "zǎoshang"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "杯", "pinyin": "bēi"},
+            {"hanzi": "咖啡", "pinyin": "kāfēi"}
+        ],
+        "translation": "Esta mañana bebí una taza de café."
+    }
+]
