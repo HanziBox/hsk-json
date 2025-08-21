@@ -120,16 +120,6 @@
     {
         "words": [
             {"hanzi": "很多", "pinyin": "hěnduō"},
-            {"hanzi": "人", "pinyin": "rén"},
-            {"hanzi": "爱", "pinyin": "ài"},
-            {"hanzi": "吃", "pinyin": "chī"},
-            {"hanzi": "肉", "pinyin": "ròu"}
-        ],
-        "translation": "A mucha gente le encanata comer carne."
-    },
-    {
-        "words": [
-            {"hanzi": "很多", "pinyin": "hěnduō"},
             {"hanzi": "猫", "pinyin": "māo"},
             {"hanzi": "很少", "pinyin": "hěnshǎo"},
             {"hanzi": "鱼", "pinyin": "yú"}
@@ -147,6 +137,7 @@
     }
 
 ]
+
 
 
 
