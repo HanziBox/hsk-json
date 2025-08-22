@@ -253,6 +253,69 @@
             ],
             "translation": "La comida en este restaurante es deliciosa y el servicio también es bueno."
         },
+            {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "钥匙", "pinyin": "yàoshi"},
+            {"hanzi": "忘", "pinyin": "wàng"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "出租车", "pinyin": "chūzūchē"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "现在", "pinyin": "xiànzài"},
+            {"hanzi": "找", "pinyin": "zhǎo"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Él olvidó las llaves en el taxi, ahora no las puede encontrar."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "图书馆", "pinyin": "túshūguǎn"},
+            {"hanzi": "看到", "pinyin": "kàndào"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "朋友", "pinyin": "péngyǒu"},
+            {"hanzi": "一起", "pinyin": "yìqǐ"},
+            {"hanzi": "讨论", "pinyin": "tǎolùn"},
+            {"hanzi": "作业", "pinyin": "zuòyè"}
+        ],
+        "translation": "La vi en la biblioteca discutiendo la tarea con sus amigos."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "包", "pinyin": "bāo"},
+            {"hanzi": "放", "pinyin": "fàng"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "桌子", "pinyin": "zhuōzi"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "忘记", "pinyin": "wàngjì"},
+            {"hanzi": "拿走", "pinyin": "názǒu"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Él dejó la bolsa en la mesa y se olvidó de llevársela."
+    },
+    {
+        "words": [
+            {"hanzi": "地铁", "pinyin": "dìtiě"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "差点", "pinyin": "chàdiǎn"},
+            {"hanzi": "挤", "pinyin": "jǐ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "上车", "pinyin": "shàngchē"}
+        ],
+        "translation": "Había mucha gente en el metro, casi no pude subir."
+    },
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -814,6 +877,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
