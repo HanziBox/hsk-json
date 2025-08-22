@@ -34,6 +34,19 @@
             ],
             "translation": "Creo que ni él mismo lo sabe."
         },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "早上", "pinyin": "zǎoshang"},
+            {"hanzi": "看见", "pinyin": "kànjiàn"},
+            {"hanzi": "朋友", "pinyin": "péngyǒu"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "路上", "pinyin": "lùshàng"},
+            {"hanzi": "跑步", "pinyin": "pǎobù"}
+        ],
+        "translation": "Esta mañana vi a un amigo corriendo en la calle."
+    },
         {
             "words": [
                 { "hanzi": "他们", "pinyin": "tāmen" },
@@ -1327,6 +1340,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
