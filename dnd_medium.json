@@ -396,15 +396,6 @@
         },
         {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "可以", "pinyin": "kěyǐ" },
-                { "hanzi": "帮助", "pinyin": "bāngzhù" },
-                { "hanzi": "你", "pinyin": "nǐ" }
-            ],
-            "translation": "Puedo ayudarte."
-        },
-        {
-            "words": [
                 { "hanzi": "南特", "pinyin": "Nántè" },
                 { "hanzi": "是", "pinyin": "shì" },
                 { "hanzi": "法国", "pinyin": "Fàguó" },
@@ -1350,6 +1341,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
