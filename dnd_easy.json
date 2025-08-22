@@ -99,6 +99,15 @@
     ],
     "translation": "Ella todavía no ha llegado."
   },
+                {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "睡觉", "pinyin": "shuìjiào" },
+                { "hanzi": "吗?", "pinyin": "ma?" }
+            ],
+            "translation": "¿Estás durmiendo?"
+        },
   {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
@@ -633,6 +642,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
