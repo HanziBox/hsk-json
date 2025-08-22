@@ -210,9 +210,12 @@
             ],
             "translation": "Últimamente estoy aprendiendo a tocar el piano y me parece muy interesante."
         },
-            {
+    {
         "words": [
-            {"hanzi": "最后,", "pinyin": "zuìhòu"},
+            {"hanzi": "最后", "pinyin": "zuìhòu"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "数学", "pinyin": "shùxué"},
             {"hanzi": "考试", "pinyin": "kǎoshì"},
             {"hanzi": "比", "pinyin": "bǐ"},
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -220,7 +223,7 @@
             {"hanzi": "的", "pinyin": "de"},
             {"hanzi": "容易", "pinyin": "róngyì"}
         ],
-        "translation": "Al final, el examen fue más fácil de lo que imaginaba."
+        "translation": "Al final, el examen de matemáticas de ayer fue más fácil de lo que imaginaba."
     },
         {
             "words": [
@@ -1048,6 +1051,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
