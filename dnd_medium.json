@@ -778,20 +778,6 @@
         },
         {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "今天", "pinyin": "jīntiān" },
-                { "hanzi": "早上", "pinyin": "zǎoshang" },
-                { "hanzi": "喝", "pinyin": "hē" },
-                { "hanzi": "了", "pinyin": "le" },
-                { "hanzi": "一", "pinyin": "yī" },
-                { "hanzi": "杯", "pinyin": "bēi" },
-                { "hanzi": "热", "pinyin": "rè" },
-                { "hanzi": "牛奶", "pinyin": "niúnǎi" }
-            ],
-            "translation": "Esta mañana bebí un vaso de leche caliente."
-        },
-        {
-            "words": [
                 { "hanzi": "下个月", "pinyin": "xià gè yuè" },
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "打算", "pinyin": "dǎsuàn" },
@@ -1341,6 +1327,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
