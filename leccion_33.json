@@ -124,6 +124,14 @@
         ],
         "translation": "¿Quién está en el parque?"
     },
+        {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "怎么", "pinyin": "zěnme"},
+            {"hanzi": "知道", "pinyin": "zhīdào"}
+        ],
+        "translation": "¿Cómo lo sabes?"
+    },
     {
         "words": [
             {
@@ -1504,6 +1512,7 @@
         "note": "📋CONTEXTO: Quieres saber cuál de ellos es, identificarlo entre otros."
     }
 ]
+
 
 
 
