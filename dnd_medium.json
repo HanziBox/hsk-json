@@ -406,8 +406,7 @@
         },
         {
             "words": [
-                { "hanzi": "南", "pinyin": "Nán" },
-                { "hanzi": "特", "pinyin": "tè" },
+                { "hanzi": "南特", "pinyin": "Nántè" },
                 { "hanzi": "是", "pinyin": "shì" },
                 { "hanzi": "法国", "pinyin": "Fàguó" },
                 { "hanzi": "的", "pinyin": "de" },
@@ -1364,6 +1363,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
