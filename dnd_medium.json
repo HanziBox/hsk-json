@@ -427,20 +427,6 @@
         },
         {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "两", "pinyin": "liǎng" },
-                { "hanzi": "岁", "pinyin": "suì" },
-                { "hanzi": "的", "pinyin": "de" },
-                { "hanzi": "时候", "pinyin": "shíhòu" },
-                { "hanzi": "父母", "pinyin": "fùmǔ" },
-                { "hanzi": "就", "pinyin": "jiù" },
-                { "hanzi": "离婚", "pinyin": "líhūn" },
-                { "hanzi": "了", "pinyin": "le" }
-            ],
-            "translation": "Mis padres se divorciaron cuando yo tenía dos años."
-        },
-        {
-            "words": [
                 { "hanzi": "他", "pinyin": "tā" },
                 { "hanzi": "大部分", "pinyin": "dà bùfèn" },
                 { "hanzi": "时间", "pinyin": "shíjiān" },
@@ -1363,6 +1349,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
