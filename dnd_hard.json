@@ -281,24 +281,6 @@
             ],
             "translation": "La comida en este restaurante es deliciosa y el servicio también es bueno."
         },
-            {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "把", "pinyin": "bǎ"},
-            {"hanzi": "钥匙", "pinyin": "yàoshi"},
-            {"hanzi": "忘", "pinyin": "wàng"},
-            {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "出租车", "pinyin": "chūzūchē"},
-            {"hanzi": "里", "pinyin": "lǐ"},
-            {"hanzi": "了", "pinyin": "le"},
-            {"hanzi": "现在", "pinyin": "xiànzài"},
-            {"hanzi": "找", "pinyin": "zhǎo"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "到", "pinyin": "dào"},
-            {"hanzi": "了", "pinyin": "le"}
-        ],
-        "translation": "Él olvidó las llaves en el taxi, ahora no las puede encontrar."
-    },
     {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -1054,6 +1036,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
