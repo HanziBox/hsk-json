@@ -740,7 +740,8 @@
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "在学", "pinyin": "zàixué" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "学", "pinyin": "xué" },
                 { "hanzi": "中文,", "pinyin": "zhōngwén," },
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "觉得", "pinyin": "juéde" },
@@ -1349,6 +1350,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
