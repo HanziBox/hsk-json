@@ -722,15 +722,6 @@
         },
         {
             "words": [
-                { "hanzi": "你", "pinyin": "nǐ" },
-                { "hanzi": "在", "pinyin": "zài" },
-                { "hanzi": "睡觉", "pinyin": "shuìjiào" },
-                { "hanzi": "吗?", "pinyin": "ma?" }
-            ],
-            "translation": "¿Estás durmiendo?"
-        },
-        {
-            "words": [
                 { "hanzi": "她", "pinyin": "tā" },
                 { "hanzi": "已经", "pinyin": "yǐjīng" },
                 { "hanzi": "认识", "pinyin": "rènshì" },
@@ -1373,6 +1364,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
