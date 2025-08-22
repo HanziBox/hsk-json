@@ -390,7 +390,7 @@
             {"hanzi": "讨论", "pinyin": "tǎolùn"},
             {"hanzi": "问题", "pinyin": "wèntí"}
         ],
-        "translation": "Después de que el profesor terminó de dar la clase, los estudiantes todavía estaban discutiendo un problema en el aula."
+        "translation": "Después de que el profesor terminó de dar la clase, los estudiantes siguieron en el aula discutiendo problemas."
     },
     {
         "words": [
@@ -433,7 +433,7 @@
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "保管", "pinyin": "bǎoguǎn"}
         ],
-        "translation": "Él me dio las entradas para que yo se las guardara."
+        "translation": "Él me dio las entradas para que se las guardara."
     },
     {
         "words": [
@@ -448,7 +448,7 @@
             {"hanzi": "拿走", "pinyin": "názǒu"},
             {"hanzi": "了", "pinyin": "le"}
         ],
-        "translation": "Él dejó la bolsa en la mesa y se olvidó de llevársela."
+        "translation": "Dejó la bolsa en la mesa y se olvidó de llevársela."
     },
     {
         "words": [
@@ -1026,6 +1026,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
