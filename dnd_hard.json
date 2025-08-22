@@ -539,6 +539,21 @@
             ],
             "translation": "Ella es una estudiante muy popular en la escuela."
         },
+            {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "让", "pinyin": "ràng"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "爱", "pinyin": "ài"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "别", "pinyin": "bié"},
+            {"hanzi": "骗", "pinyin": "piàn"},
+            {"hanzi": "我", "pinyin": "wǒ"}
+        ],
+        "translation": "Si quieres que te quiera, no me mientas."
+    },
         {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
@@ -1039,6 +1054,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
