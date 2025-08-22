@@ -249,7 +249,7 @@
             {"hanzi": "去", "pinyin": "qù"},
             {"hanzi": "海滩", "pinyin": "hǎitān"}
         ],
-        "translation": "Aunque está lloviendo, todavía queremos ir a la playa."
+        "translation": "Aunque está lloviendo, seguimos queriendo ir a la playa."
     },
         {
             "words": [
@@ -1054,6 +1054,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
