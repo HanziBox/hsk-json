@@ -71,6 +71,15 @@
     ],
     "translation": "Él me lo dijo."
   },
+          {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "可以", "pinyin": "kěyǐ" },
+                { "hanzi": "帮助", "pinyin": "bāngzhù" },
+                { "hanzi": "你", "pinyin": "nǐ" }
+            ],
+            "translation": "Puedo ayudarte."
+        },      
   {
     "words": [
       { "hanzi": "家", "pinyin": "jiā" },
@@ -642,6 +651,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
