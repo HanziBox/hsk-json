@@ -498,7 +498,6 @@
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "能", "pinyin": "néng" },
-                { "hanzi": "个", "pinyin": "gè" },
                 { "hanzi": "来", "pinyin": "lái" },
                 { "hanzi": "接", "pinyin": "jiē" },
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1342,6 +1341,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
