@@ -184,6 +184,19 @@
             ],
             "translation": "Esta mañana bebí un vaso de leche caliente."
         },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "足够", "pinyin": "zúgòu"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "钱", "pinyin": "qián"},
+            {"hanzi": "坐", "pinyin": "zuò"},
+            {"hanzi": "出租车", "pinyin": "chūzūchē"},
+            {"hanzi": "回家", "pinyin": "huíjiā"}
+        ],
+        "translation": "No tengo suficiente dinero para volver a casa en taxi."
+    },
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1026,6 +1039,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
