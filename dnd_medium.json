@@ -149,7 +149,6 @@
                 { "hanzi": "请", "pinyin": "qǐng" },
                 { "hanzi": "给", "pinyin": "gěi" },
                 { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "一个", "pinyin": "yīgè" },
                 { "hanzi": "最", "pinyin": "zuì" },
                 { "hanzi": "贵", "pinyin": "guì" },
                 { "hanzi": "的", "pinyin": "de" }
@@ -1363,6 +1362,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
