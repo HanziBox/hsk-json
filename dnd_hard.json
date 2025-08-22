@@ -115,6 +115,20 @@
             ],
             "translation": "Se divirtieron en el parque durante toda la tarde."
         },
+                {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "两", "pinyin": "liǎng" },
+                { "hanzi": "岁", "pinyin": "suì" },
+                { "hanzi": "的", "pinyin": "de" },
+                { "hanzi": "时候", "pinyin": "shíhòu" },
+                { "hanzi": "父母", "pinyin": "fùmǔ" },
+                { "hanzi": "就", "pinyin": "jiù" },
+                { "hanzi": "离婚", "pinyin": "líhūn" },
+                { "hanzi": "了", "pinyin": "le" }
+            ],
+            "translation": "Mis padres se divorciaron cuando yo tenía dos años."
+        },
         {
             "words": [
                 { "hanzi": "她", "pinyin": "tā" },
@@ -775,6 +789,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
