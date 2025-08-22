@@ -72,6 +72,19 @@
             ],
             "translation": "Ya le conté todo a tu amigo."
         },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "朋友", "pinyin": "péngyǒu"},
+            {"hanzi": "告诉", "pinyin": "gàosù"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "那个", "pinyin": "nàge"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "非常", "pinyin": "fēicháng"},
+            {"hanzi": "聪明", "pinyin": "cōngmíng"}
+        ],
+        "translation": "Mi amigo me dijo que ese profesor es muy inteligente."
+    },
         {
             "words": [
                 { "hanzi": "他", "pinyin": "tā" },
@@ -789,6 +802,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
