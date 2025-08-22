@@ -1000,7 +1000,8 @@
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "想", "pinyin": "xiǎng" },
-                { "hanzi": "买票", "pinyin": "mǎi piào" },
+                { "hanzi": "买", "pinyin": "mǎi" },
+                { "hanzi": "票", "pinyin": "piào" },
                 { "hanzi": "去", "pinyin": "qù" },
                 { "hanzi": "看", "pinyin": "kàn" },
                 { "hanzi": "音乐会", "pinyin": "yīnyuèhuì" }
@@ -1362,6 +1363,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
