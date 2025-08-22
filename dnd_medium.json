@@ -712,7 +712,8 @@
         },
         {
             "words": [
-                { "hanzi": "把钱", "pinyin": "bǎ qián" },
+                { "hanzi": "把", "pinyin": "bǎ" },
+                { "hanzi": "钱", "pinyin": "qián" },
                 { "hanzi": "放进", "pinyin": "fàng jìn" },
                 { "hanzi": "抽屉", "pinyin": "chōuti" },
                 { "hanzi": "里", "pinyin": "lǐ" }
@@ -1372,6 +1373,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
