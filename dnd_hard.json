@@ -158,20 +158,6 @@
         },
         {
             "words": [
-                { "hanzi": "明天", "pinyin": "míngtiān" },
-                { "hanzi": "我们", "pinyin": "wǒmen" },
-                { "hanzi": "打算", "pinyin": "dǎsuàn" },
-                { "hanzi": "一起", "pinyin": "yīqǐ" },
-                { "hanzi": "去", "pinyin": "qù" },
-                { "hanzi": "看", "pinyin": "kàn" },
-                { "hanzi": "一", "pinyin": "yī" },
-                { "hanzi": "场", "pinyin": "chǎng" },
-                { "hanzi": "电影", "pinyin": "diànyǐng" }
-            ],
-            "translation": "Mañana planeamos ir a ver una película juntos."
-        },
-        {
-            "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "最近", "pinyin": "zuìjìn" },
                 { "hanzi": "在", "pinyin": "zài" },
@@ -803,6 +789,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
