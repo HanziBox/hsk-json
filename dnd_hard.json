@@ -301,6 +301,140 @@
         ],
         "translation": "La vi en la biblioteca discutiendo la tarea con sus amigos."
     },
+            {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "晚上", "pinyin": "wǎnshang"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "门口", "pinyin": "ménkǒu"},
+            {"hanzi": "唱歌", "pinyin": "chànggē"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "一会儿", "pinyin": "yīhuìr"}
+        ],
+        "translation": "Anoche alguien estaba cantando en la puerta, yo escuché por un rato."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "早上", "pinyin": "zǎoshang"},
+            {"hanzi": "下雨", "pinyin": "xiàyǔ"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "我的", "pinyin": "wǒde"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "全", "pinyin": "quán"},
+            {"hanzi": "湿", "pinyin": "shī"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Esta mañana llovió, toda mi ropa se mojó."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "晚上", "pinyin": "wǎnshang"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "太", "pinyin": "tài"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "蛋糕", "pinyin": "dàngāo"},
+            {"hanzi": "现在", "pinyin": "xiànzài"},
+            {"hanzi": "肚子", "pinyin": "dùzi"},
+            {"hanzi": "疼", "pinyin": "téng"}
+        ],
+        "translation": "Él comió demasiado pastel anoche, ahora le duele el estómago."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "作业", "pinyin": "zuòyè"},
+            {"hanzi": "写完", "pinyin": "xiěwán"},
+            {"hanzi": "以后", "pinyin": "yǐhòu"},
+            {"hanzi": "又", "pinyin": "yòu"},
+            {"hanzi": "复习", "pinyin": "fùxí"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "中文", "pinyin": "Zhōngwén"}
+        ],
+        "translation": "Después de terminar la tarea, ella repasó chino de nuevo."
+    },
+    {
+        "words": [
+            {"hanzi": "我的", "pinyin": "wǒde"},
+            {"hanzi": "朋友", "pinyin": "péngyǒu"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "放", "pinyin": "fàng"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "阳台", "pinyin": "yángtái"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "晒", "pinyin": "shài"},
+            {"hanzi": "太阳", "pinyin": "tàiyáng"}
+        ],
+        "translation": "Mi amigo puso al gato en el balcón a tomar el sol."
+    },
+    {
+        "words": [
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "讲完", "pinyin": "jiǎngwán"},
+            {"hanzi": "课", "pinyin": "kè"},
+            {"hanzi": "后", "pinyin": "hòu"},
+            {"hanzi": "学生们", "pinyin": "xuéshengmen"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "教室", "pinyin": "jiàoshì"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "讨论", "pinyin": "tǎolùn"},
+            {"hanzi": "问题", "pinyin": "wèntí"}
+        ],
+        "translation": "Después de que el profesor terminó de dar la clase, los estudiantes todavía estaban discutiendo un problema en el aula."
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "晚上", "pinyin": "wǎnshang"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "看到", "pinyin": "kàndào"},
+            {"hanzi": "邻居", "pinyin": "línjū"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "阳台", "pinyin": "yángtái"},
+            {"hanzi": "种花", "pinyin": "zhònghuā"}
+        ],
+        "translation": "Anoche vi a mi vecino plantando flores en el balcón."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "门", "pinyin": "mén"},
+            {"hanzi": "开着", "pinyin": "kāizhe"},
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "窗户", "pinyin": "chuānghu"},
+            {"hanzi": "跳", "pinyin": "tiào"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "进去", "pinyin": "jìnqù"}
+        ],
+        "translation": "Él dejó la puerta abierta y el gato saltó por la ventana."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "票", "pinyin": "piào"},
+            {"hanzi": "交给", "pinyin": "jiāogěi"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "让", "pinyin": "ràng"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "帮", "pinyin": "bāng"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "保管", "pinyin": "bǎoguǎn"}
+        ],
+        "translation": "Él me dio las entradas para que yo se las guardara."
+    },
     {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
@@ -892,6 +1026,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
