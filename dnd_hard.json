@@ -155,6 +155,21 @@
             ],
             "translation": "A ella le gusta leer y estudiar tranquilamente en la biblioteca."
         },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "高中", "pinyin": "gāozhōng"},
+            {"hanzi": "毕业", "pinyin": "bìyè"},
+            {"hanzi": "后", "pinyin": "hòu"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "学", "pinyin": "xué"},
+            {"hanzi": "什么", "pinyin": "shénme"}
+        ],
+        "translation": "Todavía no sé qué estudiar después de graduarme del instituto."
+    },
                 {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -877,6 +892,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
