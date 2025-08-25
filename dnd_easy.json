@@ -305,7 +305,7 @@
                 { "hanzi": "了", "pinyin": "le" },
                 { "hanzi": "苹果", "pinyin": "píngguǒ" }
             ],
-            "translation": "Compré una manzana."
+            "translation": "Compré manzanas."
         },
         {
             "words": [
@@ -651,6 +651,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
