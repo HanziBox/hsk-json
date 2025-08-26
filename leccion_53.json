@@ -28,7 +28,7 @@
             {"hanzi": "了", "pinyin": "le"},
             {"hanzi": "票", "pinyin": "piào"}
         ],
-        "translation": "Ella consiguió la entrada."
+        "translation": "Ella consiguió comprar la entrada."
     },
     {
         "words": [
@@ -357,3 +357,4 @@
     }
 
 ]
+
