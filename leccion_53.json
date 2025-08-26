@@ -9,15 +9,16 @@
         ],
         "translation": "No se lo di a él."
     },
-    {
+        {
         "words": [
-            {"hanzi": "孩子", "pinyin": "háizi"},
-            {"hanzi": "吃", "pinyin": "chī"},
-            {"hanzi": "完", "pinyin": "wán"},
-            {"hanzi": "了", "pinyin": "le"},
-            {"hanzi": "苹果", "pinyin": "píngguǒ"}
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "能", "pinyin": "néng"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "吗", "pinyin": "ma"}
         ],
-        "translation": "El niño se terminó la manzana."
+        "translation": "¿Puedes verme?"
     },
     {
         "words": [
@@ -94,6 +95,16 @@
             {"hanzi": "门", "pinyin": "mén"}
         ],
         "translation": "Me equivoqué de puerta al abrir."
+    },
+        {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "苹果", "pinyin": "píngguǒ"}
+        ],
+        "translation": "El niño se terminó la manzana."
     },
     {
         "words": [
@@ -285,17 +296,6 @@
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "能", "pinyin": "néng"},
-            {"hanzi": "看", "pinyin": "kàn"},
-            {"hanzi": "见", "pinyin": "jiàn"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "吗", "pinyin": "ma"}
-        ],
-        "translation": "¿Puedes verme?"
-    },
-    {
-        "words": [
             {"hanzi": "大家", "pinyin": "dàjiā"},
             {"hanzi": "都", "pinyin": "dōu"},
             {"hanzi": "看", "pinyin": "kàn"},
@@ -355,4 +355,5 @@
         ],
         "translation": "Estaba durmiendo y no escuché nada."
     }
+
 ]
