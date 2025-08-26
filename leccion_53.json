@@ -1,0 +1,358 @@
+[
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "送", "pinyin": "sòng"},
+            {"hanzi": "给", "pinyin": "gěi"},
+            {"hanzi": "他", "pinyin": "tā"}
+        ],
+        "translation": "No se lo di a él."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "苹果", "pinyin": "píngguǒ"}
+        ],
+        "translation": "El niño se terminó la manzana."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "买", "pinyin": "mǎi"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "票", "pinyin": "piào"}
+        ],
+        "translation": "Ella consiguió la entrada."
+    },
+    {
+        "words": [
+            {"hanzi": "所有", "pinyin": "suǒyǒu"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "书", "pinyin": "shū"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "卖", "pinyin": "mài"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Todos los libros se vendieron."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "写", "pinyin": "xiě"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "信", "pinyin": "xìn"}
+        ],
+        "translation": "Terminé de escribir la carta."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "找", "pinyin": "zhǎo"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "钥匙", "pinyin": "yàoshi"}
+        ],
+        "translation": "Encontré la llave."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "杯", "pinyin": "bēi"},
+            {"hanzi": "啤酒", "pinyin": "píjiǔ"}
+        ],
+        "translation": "Me terminé una cerveza."
+    },
+    {
+        "words": [
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "懂", "pinyin": "dǒng"},
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "本", "pinyin": "běn"},
+            {"hanzi": "书", "pinyin": "shū"}
+        ],
+        "translation": "El estudiante no entendió este libro."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "开", "pinyin": "kāi"},
+            {"hanzi": "错", "pinyin": "cuò"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "门", "pinyin": "mén"}
+        ],
+        "translation": "Me equivoqué de puerta al abrir."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "懂", "pinyin": "dǒng"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "高兴", "pinyin": "gāoxìng"}
+        ],
+        "translation": "Me alegro de que lo hayas entendido."
+    },
+    {
+        "words": [
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "写", "pinyin": "xiě"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "中文", "pinyin": "Zhōngwén"},
+            {"hanzi": "作业", "pinyin": "zuòyè"}
+        ],
+        "translation": "Todos los estudiantes terminaron la tarea de chino."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "三", "pinyin": "sān"},
+            {"hanzi": "公里", "pinyin": "gōnglǐ"}
+        ],
+        "translation": "Terminamos de correr tres kilómetros."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "用", "pinyin": "yòng"},
+            {"hanzi": "筷子", "pinyin": "kuàizi"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "饺子", "pinyin": "jiǎozi"}
+        ],
+        "translation": "Ella se terminó los dumplings con palillos."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "对", "pinyin": "duì"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "作业", "pinyin": "zuòyè"}
+        ],
+        "translation": "Hice bien la tarea."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "电影", "pinyin": "diànyǐng"}
+        ],
+        "translation": "Terminamos de ver la película."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "买", "pinyin": "mǎi"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "那", "pinyin": "nà"},
+            {"hanzi": "件", "pinyin": "jiàn"},
+            {"hanzi": "衣服", "pinyin": "yīfu"}
+        ],
+        "translation": "No pude comprar esa ropa."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "叫", "pinyin": "jiào"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ella escuchó al gato maullar."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "对", "pinyin": "duì"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "高兴", "pinyin": "gāoxìng"}
+        ],
+        "translation": "Me alegro de que lo dijeras correctamente."
+    },
+    {
+        "words": [
+            {"hanzi": "钱", "pinyin": "qián"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "用", "pinyin": "yòng"},
+            {"hanzi": "完", "pinyin": "wán"}
+        ],
+        "translation": "Todavía no se ha gastado todo el dinero."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "钱", "pinyin": "qián"},
+            {"hanzi": "已经", "pinyin": "yǐjīng"},
+            {"hanzi": "用", "pinyin": "yòng"},
+            {"hanzi": "完", "pinyin": "wán"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ya me he quedado sin dinero."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "那", "pinyin": "nà"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿No viste a esa persona?"
+    },
+    {
+        "words": [
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "些", "pinyin": "xiē"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "但", "pinyin": "dàn"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "懂", "pinyin": "dǒng"}
+        ],
+        "translation": "Alguien dijo algo, pero no lo entendí."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "只", "pinyin": "zhǐ"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "一个", "pinyin": "yīgè"},
+            {"hanzi": "人", "pinyin": "rén"}
+        ],
+        "translation": "Solo vi a una persona."
+    },
+    {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "晚上", "pinyin": "wǎnshang"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "有人", "pinyin": "yǒurén"},
+            {"hanzi": "唱歌", "pinyin": "chànggē"}
+        ],
+        "translation": "Anoche escuché a alguien cantar."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "懂", "pinyin": "dǒng"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "话", "pinyin": "huà"}
+        ],
+        "translation": "Entendí lo que dijiste."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "能", "pinyin": "néng"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Puedes verme?"
+    },
+    {
+        "words": [
+            {"hanzi": "大家", "pinyin": "dàjiā"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Todo el mundo me vio irse."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "话", "pinyin": "huà"}
+        ],
+        "translation": "No escuché lo que dijo el profesor."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "你", "pinyin": "nǐ"}
+        ],
+        "translation": "Te vi ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "姐姐", "pinyin": "jiějiě"},
+            {"hanzi": "回家", "pinyin": "huíjiā"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Vi a tu hermana mayor regresar a casa."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "睡觉", "pinyin": "shuìjiào"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "见", "pinyin": "jiàn"}
+        ],
+        "translation": "Estaba durmiendo y no escuché nada."
+    }
+]
