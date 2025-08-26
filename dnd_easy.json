@@ -126,6 +126,15 @@
     ],
     "translation": "Quiero el rojo."
   },
+    {
+        "words": [
+            {"hanzi": "让", "pinyin": "ràng"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "吧", "pinyin": "ba"}
+        ],
+        "translation": "Déjame hablar."
+    },        
   {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
@@ -651,6 +660,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
