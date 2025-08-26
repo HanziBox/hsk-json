@@ -288,7 +288,7 @@
                 { "hanzi": "公园", "pinyin": "gōngyuán" },
                 { "hanzi": "吧", "pinyin": "ba" }
             ],
-            "translation": "Vamos al parque."
+            "translation": "Vayamos al parque."
         },
         {
             "words": [
@@ -660,6 +660,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
