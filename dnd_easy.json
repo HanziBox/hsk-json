@@ -79,7 +79,17 @@
                 { "hanzi": "你", "pinyin": "nǐ" }
             ],
             "translation": "Puedo ayudarte."
-        },      
+        },
+                {
+            "words": [
+                { "hanzi": "你", "pinyin": "nǐ" },
+                { "hanzi": "做", "pinyin": "zuò" },
+                { "hanzi": "得", "pinyin": "de" },
+                { "hanzi": "很", "pinyin": "hěn" },
+                { "hanzi": "好", "pinyin": "hǎo" }
+            ],
+            "translation": "Lo hiciste muy bien."
+        },
   {
     "words": [
       { "hanzi": "家", "pinyin": "jiā" },
@@ -660,6 +670,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
