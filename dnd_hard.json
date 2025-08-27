@@ -767,6 +767,21 @@
             "translation": "Vamos juntos al supermercado a comprar frutas y verduras."
         },
         {
+        "words": [
+            {"hanzi": "手机", "pinyin": "shǒujī"},
+            {"hanzi": "摔", "pinyin": "shuāi"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "好", "pinyin": "hǎo"},
+            {"hanzi": "几", "pinyin": "jǐ"},
+            {"hanzi": "次", "pinyin": "cì"},
+            {"hanzi": "但是", "pinyin": "dànshì"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "能", "pinyin": "néng"},
+            {"hanzi": "用", "pinyin": "yòng"}
+        ],
+        "translation": "El teléfono se ha caído varias veces, pero todavía funciona."
+    },
+        {
             "words": [
                 { "hanzi": "这", "pinyin": "zhè" },
                 { "hanzi": "部", "pinyin": "bù" },
@@ -1084,6 +1099,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
