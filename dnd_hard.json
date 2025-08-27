@@ -569,6 +569,22 @@
             "translation": "¿Puedes ayudarme a subir estos libros al piso de arriba?"
         },
         {
+        "words": [
+            {"hanzi": "大家", "pinyin": "dàjiā"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "起来", "pinyin": "qǐlái"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "高兴", "pinyin": "gāoxìng"},
+            {"hanzi": "好像", "pinyin": "hǎoxiàng"},
+            {"hanzi": "刚", "pinyin": "gāng"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "好", "pinyin": "hǎo"},
+            {"hanzi": "消息", "pinyin": "xiāoxi"}
+        ],
+        "translation": "Todo el mundo parece muy contento, como si acabaran de escuchar una buena noticia."
+        },
+        {
             "words": [
                 { "hanzi": "她", "pinyin": "tā" },
                 { "hanzi": "在", "pinyin": "zài" },
@@ -1175,6 +1191,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
