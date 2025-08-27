@@ -539,6 +539,21 @@
             "translation": "Él escucha noticias todos los días para mejorar su comprensión auditiva."
         },
         {
+        "words": [
+            {"hanzi": "虽然", "pinyin": "suīrán"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "可是", "pinyin": "kěshì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "已经", "pinyin": "yǐjīng"},
+            {"hanzi": "明白", "pinyin": "míngbai"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Aunque ella no dijo nada, yo ya lo entendí."
+        },
+        {
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "可以", "pinyin": "kěyǐ" },
@@ -1115,6 +1130,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
