@@ -733,6 +733,18 @@
             "translation": "Nos vemos mañana en la tienda frente al parque."
         },
         {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "小", "pinyin": "xiǎo"},
+            {"hanzi": "时候", "pinyin": "shíhou"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "事情", "pinyin": "shìqing"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "害怕", "pinyin": "hàipà"}
+        ],
+        "translation": "Cuando era pequeño, cualquier cosa me daba miedo."
+        },
+        {
             "words": [
                 { "hanzi": "商店", "pinyin": "shāngdiàn" },
                 { "hanzi": "里", "pinyin": "lǐ" },
@@ -1341,6 +1353,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
