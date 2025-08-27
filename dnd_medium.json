@@ -237,6 +237,17 @@
             "translation": "¿Creen que soy tonto?"
         },
         {
+        "words": [
+            {"hanzi": "回家", "pinyin": "huíjiā"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "时候", "pinyin": "shíhou"},
+            {"hanzi": "记得", "pinyin": "jìde"},
+            {"hanzi": "喂", "pinyin": "wèi"},
+            {"hanzi": "猫", "pinyin": "māo"}
+        ],
+        "translation": "Recuerda darle de comer al gato cuando vuelvas a casa."
+        },
+        {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
                 { "hanzi": "什么", "pinyin": "shénme" },
@@ -1330,6 +1341,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
