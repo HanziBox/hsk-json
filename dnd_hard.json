@@ -114,6 +114,22 @@
             "translation": "Me levanto a las seis de la mañana todos los días para ir a correr."
         },
         {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "图书馆", "pinyin": "túshūguǎn"},
+            {"hanzi": "碰", "pinyin": "pèng"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "老", "pinyin": "lǎo"},
+            {"hanzi": "同学", "pinyin": "tóngxué"}
+        ],
+        "translation": "Ayer me encontré a un viejo compañero de clase en la biblioteca."
+        },
+        {
             "words": [
                 { "hanzi": "他们", "pinyin": "tāmen" },
                 { "hanzi": "在", "pinyin": "zài" },
@@ -1051,6 +1067,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
