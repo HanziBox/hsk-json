@@ -568,6 +568,23 @@
         "translation": "Si quieres que te quiera, no me mientas."
     },
         {
+        "words": [
+            {"hanzi": "门外", "pinyin": "ménwài"},
+            {"hanzi": "站", "pinyin": "zhàn"},
+            {"hanzi": "着", "pinyin": "zhe"},
+            {"hanzi": "几", "pinyin": "jǐ"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "也", "pinyin": "yě"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "认识", "pinyin": "rènshi"}
+        ],
+        "translation": "Había varias personas de pie fuera de la puerta, pero no conocía a ninguna."
+    },
+        {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
                 { "hanzi": "计划", "pinyin": "jìhuà" },
@@ -1067,6 +1084,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
