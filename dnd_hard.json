@@ -725,6 +725,20 @@
             "translation": "¿Prefieres café, té o zumo?"
         },
         {
+        "words": [
+            {"hanzi": "虽然", "pinyin": "suīrán"},
+            {"hanzi": "价格", "pinyin": "jiàgé"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "便宜", "pinyin": "piányi"},
+            {"hanzi": "但是", "pinyin": "dànshì"},
+            {"hanzi": "质量", "pinyin": "zhìliàng"},
+            {"hanzi": "真的", "pinyin": "zhēnde"},
+            {"hanzi": "非常", "pinyin": "fēicháng"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Aunque el precio no es barato, la calidad es realmente muy buena."
+        },
+        {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
                 { "hanzi": "班", "pinyin": "bān" },
@@ -1130,6 +1144,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
