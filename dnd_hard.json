@@ -387,6 +387,22 @@
         ],
         "translation": "Después de terminar la tarea, ella repasó chino de nuevo."
     },
+        {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "到底", "pinyin": "dàodǐ"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "别", "pinyin": "bié"},
+            {"hanzi": "再", "pinyin": "zài"},
+            {"hanzi": "骗", "pinyin": "piàn"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "¿Al final fuiste ayer o no? ¡No me mientas más!"
+    },
     {
         "words": [
             {"hanzi": "我的", "pinyin": "wǒde"},
@@ -1099,6 +1115,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
