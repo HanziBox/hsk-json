@@ -675,6 +675,21 @@
         "translation": "Como había demasiada tarea, anoche no dormí bien."
         },
         {
+        "words": [
+            {"hanzi": "工作", "pinyin": "gōngzuò"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "时候", "pinyin": "shíhou"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "爸爸", "pinyin": "bàba"},
+            {"hanzi": "几乎", "pinyin": "jīhū"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "别人", "pinyin": "biérén"},
+            {"hanzi": "说话", "pinyin": "shuōhuà"}
+        ],
+        "translation": "Cuando está en el trabajo, mi padre casi nunca habla con los demás."
+        },
+        {
             "words": [
                 { "hanzi": "他", "pinyin": "tā" },
                 { "hanzi": "为了", "pinyin": "wèile" },
@@ -1191,6 +1206,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
