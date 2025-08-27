@@ -785,6 +785,22 @@
             "translation": "¿Qué planes tienes para el fin de semana? Podemos salir juntos."
         },
         {
+        "words": [
+            {"hanzi": "因为", "pinyin": "yīnwèi"},
+            {"hanzi": "天气", "pinyin": "tiānqì"},
+            {"hanzi": "太", "pinyin": "tài"},
+            {"hanzi": "冷", "pinyin": "lěng"},
+            {"hanzi": "所以", "pinyin": "suǒyǐ"},
+            {"hanzi": "大家", "pinyin": "dàjiā"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "待", "pinyin": "dāi"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "家", "pinyin": "jiā"},
+            {"hanzi": "里", "pinyin": "lǐ"}
+        ],
+        "translation": "Como hacía demasiado frío, todo el mundo se quedó en casa."
+        },
+        {
             "words": [
                 { "hanzi": "他", "pinyin": "tā" },
                 { "hanzi": "经常", "pinyin": "jīngcháng" },
@@ -1144,6 +1160,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
