@@ -244,7 +244,8 @@
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "喜欢", "pinyin": "xǐhuān" },
-                { "hanzi": "喝茶", "pinyin": "hēchá" }
+                { "hanzi": "喝", "pinyin": "hē" },
+                { "hanzi": "茶", "pinyin": "chá" }    
             ],
             "translation": "Me gusta beber té."
         },
@@ -670,6 +671,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
