@@ -582,7 +582,7 @@
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "有", "pinyin": "yǒu" },
                 { "hanzi": "一", "pinyin": "yī" },
-                { "hanzi": "只", "pinyin": "zhǐ" },
+                { "hanzi": "只", "pinyin": "zhī" },
                 { "hanzi": "狗", "pinyin": "gǒu" }
             ],
             "translation": "Tengo un perro."
@@ -671,6 +671,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
