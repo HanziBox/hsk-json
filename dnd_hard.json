@@ -13,6 +13,20 @@
             ],
             "translation": "Mi hermano mayor camina cuatro kilómetros todas las mañanas."
         },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "给", "pinyin": "gěi"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "爸爸", "pinyin": "bàba"},
+            {"hanzi": "送", "pinyin": "sòng"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "吉他", "pinyin": "jítā"}
+        ],
+        "translation": "Le regalé una guitarra a mi padre."
+    },
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1219,6 +1233,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
