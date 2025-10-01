@@ -9,6 +9,19 @@
             ],
             "translation": "He tenido muchos trabajos."
         },
+            {
+        "words": [
+            {"hanzi": "虽然", "pinyin": "suīrán"},
+            {"hanzi": "价格", "pinyin": "jiàgé"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "高", "pinyin": "gāo"},
+            {"hanzi": "但是", "pinyin": "dànshì"},
+            {"hanzi": "质量", "pinyin": "zhìliàng"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Aunque el precio es alto, la calidad es muy buena."
+    },
         {
             "words": [
                 { "hanzi": "请问", "pinyin": "qǐngwèn" },
@@ -1478,6 +1491,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
