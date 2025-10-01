@@ -373,6 +373,21 @@
         ],
         "translation": "Él comió demasiado pastel anoche, ahora le duele el estómago."
     },
+            {
+        "words": [
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "女人", "pinyin": "nǚrén"},
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "世界", "pinyin": "shìjiè"},
+            {"hanzi": "会", "pinyin": "huì"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "样", "pinyin": "yàng"},
+            {"hanzi": "呢", "pinyin": "ne"}
+        ],
+        "translation": "¿Cómo (lit: qué forma) sería el mundo sin mujeres?"
+    },
     {
         "words": [
             {"hanzi": "她", "pinyin": "tā"},
@@ -1189,6 +1204,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
