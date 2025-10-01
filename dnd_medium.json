@@ -247,6 +247,115 @@
         ],
         "translation": "Recuerda darle de comer al gato cuando vuelvas a casa."
         },
+            {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "女朋友", "pinyin": "nǚpéngyou"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Sabes si tiene novia?"
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "有多", "pinyin": "yǒuduō"},
+            {"hanzi": "担心", "pinyin": "dānxīn"},
+            {"hanzi": "啊", "pinyin": "a"}
+        ],
+        "translation": "¡No sabes lo preocupada que estoy!"
+    },
+    {
+        "words": [
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "真", "pinyin": "zhēn"},
+            {"hanzi": "名字", "pinyin": "míngzi"}
+        ],
+        "translation": "Nadie sabe su verdadero nombre."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "需要", "pinyin": "xūyào"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "什么", "pinyin": "shénme"}
+        ],
+        "translation": "No sé qué necesitas hacer."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "下午", "pinyin": "xiàwǔ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "动物园", "pinyin": "dòngwùyuán"}
+        ],
+        "translation": "¿Quieres ir al zoológico esta tarde?"
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "可以", "pinyin": "kěyǐ"},
+            {"hanzi": "借用", "pinyin": "jièyòng"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "汽车", "pinyin": "qìchē"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Puedo pedir prestado tu coche hoy?"
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "问", "pinyin": "wèn"},
+            {"hanzi": "他的", "pinyin": "tāde"},
+            {"hanzi": "电话", "pinyin": "diànhuà"},
+            {"hanzi": "号码", "pinyin": "hàomǎ"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "多少", "pinyin": "duōshǎo"}
+        ],
+        "translation": "Quiero preguntar cuál es su número de teléfono."
+    },
+    {
+        "words": [
+            {"hanzi": "别人", "pinyin": "biérén"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "没关系", "pinyin": "méiguānxi"}
+        ],
+        "translation": "No importa lo que digan los demás."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "书", "pinyin": "shū"},
+            {"hanzi": "放", "pinyin": "fàng"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "桌子", "pinyin": "zhuōzi"},
+            {"hanzi": "上", "pinyin": "shang"}
+        ],
+        "translation": "Él pone el libro sobre la mesa."
+    },
         {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
@@ -1353,6 +1462,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
