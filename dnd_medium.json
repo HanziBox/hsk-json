@@ -587,15 +587,6 @@
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "男友", "pinyin": "nányǒu" },
-                { "hanzi": "恨", "pinyin": "hèn" },
-                { "hanzi": "你", "pinyin": "nǐ" }
-            ],
-            "translation": "Mi novio te odia."
-        },
-        {
-            "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "不", "pinyin": "bù" },
                 { "hanzi": "觉得", "pinyin": "juéde" },
                 { "hanzi": "他", "pinyin": "tā" },
@@ -1462,6 +1453,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
