@@ -109,6 +109,15 @@
     ],
     "translation": "Tengo un poco de dinero."
   },
+                {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "男友", "pinyin": "nányǒu" },
+                { "hanzi": "恨", "pinyin": "hèn" },
+                { "hanzi": "你", "pinyin": "nǐ" }
+            ],
+            "translation": "Mi novio te odia."
+        },
   {
     "words": [
       { "hanzi": "她", "pinyin": "tā" },
@@ -671,6 +680,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
