@@ -449,6 +449,23 @@
         ],
         "translation": "Después de que el profesor terminó de dar la clase, los estudiantes siguieron en el aula discutiendo problemas."
     },
+        [
+    {
+        "words": [
+            {"hanzi": "如果", "pinyin": "rúguǒ"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "一万", "pinyin": "yīwàn"},
+            {"hanzi": "美元", "pinyin": "měiyuán"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "呢", "pinyin": "ne"}
+        ],
+        "translation": "Si tuvieras diez mil dólares, ¿qué harías (lit: querrías hacer)?"
+    },
+]
     {
         "words": [
             {"hanzi": "昨天", "pinyin": "zuótiān"},
@@ -1204,6 +1221,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
