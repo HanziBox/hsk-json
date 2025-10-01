@@ -11,7 +11,7 @@
                 { "hanzi": "四", "pinyin": "sì" },
                 { "hanzi": "公里", "pinyin": "gōnglǐ" }
             ],
-            "translation": "Mi hermano mayor camina cuatro kilómetros todas las mañanas."
+            "translation": "Mi hermano mayor tiene que caminar cuatro kilómetros todas las mañanas."
         },
             {
         "words": [
@@ -1349,6 +1349,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
