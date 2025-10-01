@@ -72,6 +72,122 @@
             "translation": "Soy el mayor de cuatro hijos."
         },
         {
+        "words": [
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "把", "pinyin": "bǎ"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "儿子", "pinyin": "érzi"},
+            {"hanzi": "独自", "pinyin": "dúzì"},
+            {"hanzi": "留", "pinyin": "liú"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "车", "pinyin": "chē"},
+            {"hanzi": "里", "pinyin": "lǐ"}
+        ],
+        "translation": "Ayer ella dejó a su hijo solo en el coche."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "车站", "pinyin": "chēzhàn"},
+            {"hanzi": "遇", "pinyin": "yù"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "男人", "pinyin": "nánrén"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "爸爸", "pinyin": "bàba"}
+        ],
+        "translation": "El hombre que encontraste en la estación es mi padre."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "迟到", "pinyin": "chídào"},
+            {"hanzi": "行", "pinyin": "xíng"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "迟到", "pinyin": "chídào"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "行", "pinyin": "xíng"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "Está bien que él llegue tarde, ¿pero no está bien que yo llegue tarde?"
+    },
+    {
+        "words": [
+            {"hanzi": "再", "pinyin": "zài"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "最后", "pinyin": "zuìhòu"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "杯", "pinyin": "bēi"},
+            {"hanzi": "然后", "pinyin": "ránhòu"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "带", "pinyin": "dài"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "家", "pinyin": "jiā"}
+        ],
+        "translation": "Bebe una última copa más, y luego te llevaré a casa."
+    },
+    {
+        "words": [
+            {"hanzi": "你们", "pinyin": "nǐmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "早上", "pinyin": "zǎoshang"},
+            {"hanzi": "十点", "pinyin": "shídiǎn"},
+            {"hanzi": "还是", "pinyin": "háishì"},
+            {"hanzi": "晚上", "pinyin": "wǎnshang"},
+            {"hanzi": "十点", "pinyin": "shídiǎn"},
+            {"hanzi": "到", "pinyin": "dào"}
+        ],
+        "translation": "¿Llegan a las diez de la mañana o a las diez de la noche?"
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "为", "pinyin": "wèi"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "事", "pinyin": "shì"},
+            {"hanzi": "感到", "pinyin": "gǎndào"},
+            {"hanzi": "非常", "pinyin": "fēicháng"},
+            {"hanzi": "抱歉", "pinyin": "bàoqiàn"}
+        ],
+        "translation": "Ella se siente muy apenada por lo que hizo."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "可以", "pinyin": "kěyǐ"},
+            {"hanzi": "检查", "pinyin": "jiǎnchá"},
+            {"hanzi": "一下", "pinyin": "yīxià"},
+            {"hanzi": "您", "pinyin": "nín"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "行李", "pinyin": "xíngli"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Podemos revisar (echar un vistazo a) su equipaje?"
+    },
+    {
+        "words": [
+            {"hanzi": "如果", "pinyin": "rúguǒ"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "介意", "pinyin": "jièyì"},
+            {"hanzi": "的话", "pinyin": "dehuà"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "一个人", "pinyin": "yīgerén"},
+            {"hanzi": "呆", "pinyin": "dāi"},
+            {"hanzi": "着", "pinyin": "zhe"}
+        ],
+        "translation": "Si no te importa, me gustaría estar (quedarme) solo/a."
+    },
+        {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "已经", "pinyin": "yǐjīng" },
@@ -1233,6 +1349,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
