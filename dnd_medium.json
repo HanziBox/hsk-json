@@ -47,6 +47,19 @@
         ],
         "translation": "Esta mañana vi a un amigo corriendo en la calle."
     },
+            {
+        "words": [
+            {"hanzi": "周", "pinyin": "Zhōu"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "每天", "pinyin": "měitiān"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "教室", "pinyin": "jiàoshì"},
+            {"hanzi": "教", "pinyin": "jiāo"},
+            {"hanzi": "学生", "pinyin": "xuésheng"},
+            {"hanzi": "中文", "pinyin": "Zhōngwén"}
+        ],
+        "translation": "La profesora Zhou enseña chino a los estudiantes en el aula todos los días."
+    },
         {
             "words": [
                 { "hanzi": "他们", "pinyin": "tāmen" },
@@ -1465,6 +1478,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
