@@ -58,6 +58,18 @@
             ],
             "translation": "¿Qué le están haciendo a ella?"
         },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "在意", "pinyin": "zàiyì"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "六点", "pinyin": "liùdiǎn"},
+            {"hanzi": "钟", "pinyin": "zhōng"},
+            {"hanzi": "起床", "pinyin": "qǐchuáng"}
+        ],
+        "translation": "No me importa levantarme a las seis en punto."
+    },
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1453,6 +1465,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
