@@ -893,6 +893,21 @@
         ],
         "translation": "Cuando está en el trabajo, mi padre casi nunca habla con los demás."
         },
+            {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "城市", "pinyin": "chéngshì"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "名字", "pinyin": "míngzi"}
+        ],
+        "translation": "Toda la gente en nuestra ciudad sabe su nombre."
+    },
         {
             "words": [
                 { "hanzi": "他", "pinyin": "tā" },
@@ -1410,6 +1425,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
