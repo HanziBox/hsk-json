@@ -532,6 +532,22 @@
         ],
         "translation": "Nadie sabe lo que pasará en el futuro."
     },
+            {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "车", "pinyin": "chē"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "有人", "pinyin": "yǒurén"},
+            {"hanzi": "叫", "pinyin": "jiào"},
+            {"hanzi": "她的", "pinyin": "tāde"},
+            {"hanzi": "名字", "pinyin": "míngzi"}
+        ],
+        "translation": "Tan pronto como se bajó del coche, oyó que alguien gritaba su nombre."
+    },
     {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
@@ -1394,6 +1410,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
