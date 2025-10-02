@@ -450,6 +450,18 @@
             ],
             "translation": "No sabes lo que he hecho."
         },
+            {
+        "words": [
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "越", "pinyin": "yuè"},
+            {"hanzi": "少", "pinyin": "shǎo"},
+            {"hanzi": "越", "pinyin": "yuè"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Cuanta menos gente lo sepa, mejor."
+    },
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1503,6 +1515,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
