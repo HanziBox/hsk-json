@@ -333,6 +333,18 @@
         ],
         "translation": "No sé qué necesitas hacer."
     },
+            {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Sabes lo que quieres hacer?"
+    },
     {
         "words": [
             {"hanzi": "你", "pinyin": "nǐ"},
@@ -1491,6 +1503,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
