@@ -305,6 +305,21 @@
             ],
             "translation": "Se divirtieron en el parque durante toda la tarde."
         },
+            {
+        "words": [
+            {"hanzi": "无论", "pinyin": "wúlùn"},
+            {"hanzi": "发生", "pinyin": "fāshēng"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "不", "pinyin": "bú"},
+            {"hanzi": "会", "pinyin": "huì"},
+            {"hanzi": "改", "pinyin": "gǎi"},
+            {"hanzi": "主意", "pinyin": "zhǔyì"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Pase lo que pase, no cambiaré de opinión."
+    },
                 {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1425,6 +1440,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
