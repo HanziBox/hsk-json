@@ -518,6 +518,20 @@
         ],
         "translation": "Esta mañana llovió, toda mi ropa se mojó."
     },
+            {
+        "words": [
+            {"hanzi": "谁", "pinyin": "shéi"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "将来", "pinyin": "jiānglái"},
+            {"hanzi": "会", "pinyin": "huì"},
+            {"hanzi": "发生", "pinyin": "fāshēng"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "事", "pinyin": "shì"}
+        ],
+        "translation": "Nadie sabe lo que pasará en el futuro."
+    },
     {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
@@ -1380,6 +1394,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
