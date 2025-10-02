@@ -101,6 +101,21 @@
         ],
         "translation": "El hombre que encontraste en la estación es mi padre."
     },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "父亲", "pinyin": "fùqīn"},
+            {"hanzi": "让", "pinyin": "ràng"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "自己", "pinyin": "zìjǐ"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "谁", "pinyin": "shuí"}
+        ],
+        "translation": "Mi padre me hizo saber quién soy."
+    },
     {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
@@ -1349,6 +1364,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
