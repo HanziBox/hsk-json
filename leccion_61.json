@@ -1,0 +1,670 @@
+[
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "房间", "pinyin": "fángjiān"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "Él salió (caminando) de la habitación."
+    },
+    {
+        "words": [
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "进", "pinyin": "jìn"},
+            {"hanzi": "教室", "pinyin": "jiàoshì"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El profesor entró (caminando) en el aula."
+    },
+    {
+        "words": [
+            {"hanzi": "小猫", "pinyin": "xiǎomāo"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "窗户", "pinyin": "chuānghu"},
+            {"hanzi": "跳", "pinyin": "tiào"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El gatito saltó por la ventana."
+    },
+    {
+        "words": [
+            {"hanzi": "请", "pinyin": "qǐng"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "进", "pinyin": "jìn"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "坐", "pinyin": "zuò"},
+            {"hanzi": "吧", "pinyin": "ba"}
+        ],
+        "translation": "Por favor, entra y siéntate."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "买", "pinyin": "mǎi"},
+            {"hanzi": "东西", "pinyin": "dōngxi"}
+        ],
+        "translation": "Él salió corriendo a comprar cosas."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "迎接", "pinyin": "yíngjiē"},
+            {"hanzi": "客人", "pinyin": "kèrén"}
+        ],
+        "translation": "Ella salió (caminando) a recibir a los invitados.",
+        "note": "📋NOTA: yíng jiē 迎接 significa dar la bienvenida, recibir."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "家里", "pinyin": "jiālǐ"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "太", "pinyin": "tài"},
+            {"hanzi": "早", "pinyin": "zǎo"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Salí de casa demasiado temprano."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "进", "pinyin": "jìn"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "开始", "pinyin": "kāishǐ"},
+            {"hanzi": "说话", "pinyin": "shuōhuà"}
+        ],
+        "translation": "Tan pronto como entró, empezó a hablar.",
+        "note": "📋NOTA: yī 一 delante de un verbo significa tan pronto como, nada más...."
+    },
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "快", "pinyin": "kuài"},
+            {"hanzi": "进", "pinyin": "jìn"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "吧", "pinyin": "ba"},
+            {"hanzi": "外面", "pinyin": "wàimiàn"},
+            {"hanzi": "太", "pinyin": "tài"},
+            {"hanzi": "冷", "pinyin": "lěng"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Entremos rápido, hace demasiado frío fuera."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "哭", "pinyin": "kū"},
+            {"hanzi": "着", "pinyin": "zhe"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "El niño salió corriendo llorando."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "楼上", "pinyin": "lóushàng"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "Él bajó de arriba (caminando)."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "爬", "pinyin": "pá"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "山", "pinyin": "shān"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ella subió a la montaña."
+    },
+    {
+        "words": [
+            {"hanzi": "老王", "pinyin": "LǎoWáng"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "楼", "pinyin": "lóu"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Lao Wang subió (caminando) las escaleras."
+    },
+    {
+        "words": [
+            {"hanzi": "快", "pinyin": "kuài"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "饭", "pinyin": "fàn"},
+            {"hanzi": "吧", "pinyin": "ba"}
+        ],
+        "translation": "¡Baja rápido a comer!"
+    },
+    {
+        "words": [
+            {"hanzi": "猫", "pinyin": "māo"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "树上", "pinyin": "shùshàng"},
+            {"hanzi": "跳", "pinyin": "tiào"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "El gato bajó del árbol de un salto."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "车上", "pinyin": "chēshàng"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "Él se bajó del coche."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "发生", "pinyin": "fāshēng"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "事", "pinyin": "shì"}
+        ],
+        "translation": "Voy a subir a ver qué pasó."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "能", "pinyin": "néng"},
+            {"hanzi": "帮", "pinyin": "bāng"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "拿", "pinyin": "ná"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Puedes ayudarme a bajarlo?"
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "楼", "pinyin": "lóu"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "拿", "pinyin": "ná"},
+            {"hanzi": "书", "pinyin": "shū"}
+        ],
+        "translation": "Voy a subir a coger un libro."
+    },
+    {
+        "words": [
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "那边", "pinyin": "nàbiān"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El profesor se acercó (caminando) desde allí."
+    },
+    {
+        "words": [
+            {"hanzi": "小狗", "pinyin": "xiǎogǒu"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "追", "pinyin": "zhuī"},
+            {"hanzi": "球", "pinyin": "qiú"}
+        ],
+        "translation": "El perrito corrió a buscar la pelota."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Me vio y vino corriendo hacia mí."
+    },
+    {
+        "words": [
+            {"hanzi": "请", "pinyin": "qǐng"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "一下", "pinyin": "yīxià"}
+        ],
+        "translation": "Por favor, ven aquí un momento."
+    },
+    {
+        "words": [
+            {"hanzi": "那个", "pinyin": "nàge"},
+            {"hanzi": "男孩", "pinyin": "nánhái"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "桥上", "pinyin": "qiáoshàng"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ese chico se acercó (caminando) desde el puente."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "他们", "pinyin": "tāmen"}
+        ],
+        "translation": "Quiero acercarme a verlos."
+    },
+    {
+        "words": [
+            {"hanzi": "风", "pinyin": "fēng"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "窗户", "pinyin": "chuānghu"},
+            {"hanzi": "吹", "pinyin": "chuī"},
+            {"hanzi": "进", "pinyin": "jìn"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El viento entró soplando por la ventana."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "笑", "pinyin": "xiào"},
+            {"hanzi": "着", "pinyin": "zhe"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "Él se acercó (caminando) sonriendo."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "门口", "pinyin": "ménkǒu"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "我", "pinyin": "wǒ"}
+        ],
+        "translation": "Ella pasó (caminando) por la puerta y no me vio."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Yo volví ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "下班", "pinyin": "xiàbān"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Él terminó de trabajar y volvió a casa."
+    },
+    {
+        "words": [
+            {"hanzi": "妈妈", "pinyin": "māma"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "家", "pinyin": "jiā"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Mamá volvió a casa."
+    },
+    {
+        "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "开车", "pinyin": "kāichē"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ellos volvieron en coche a Pekín."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "什么时候", "pinyin": "shénmeshíhou"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "¿Cuándo vuelves?"
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "早点", "pinyin": "zǎodiǎn"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "休息", "pinyin": "xiūxi"}
+        ],
+        "translation": "Quiero volver pronto a descansar."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "刚", "pinyin": "gāng"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "外地", "pinyin": "wàidì"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "Ella acaba de volver de otra ciudad/región."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "骑车", "pinyin": "qíchē"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "家", "pinyin": "jiā"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Él se fue a casa en bicicleta."
+    },
+    {
+        "words": [
+            {"hanzi": "明天", "pinyin": "míngtiān"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "再", "pinyin": "zài"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "找", "pinyin": "zhǎo"},
+            {"hanzi": "你", "pinyin": "nǐ"}
+        ],
+        "translation": "Volveré mañana a buscarte."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "屋里", "pinyin": "wūlǐ"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "又", "pinyin": "yòu"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "进", "pinyin": "jìn"},
+            {"hanzi": "去", "pinyin": "qù"}
+        ],
+        "translation": "Él salió corriendo de la casa y volvió a entrar corriendo."
+    },
+    {
+        "words": [
+            {"hanzi": "狗", "pinyin": "gǒu"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "楼", "pinyin": "lóu"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "找", "pinyin": "zhǎo"},
+            {"hanzi": "主人", "pinyin": "zhǔrén"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El perro subió las escaleras a buscar a su dueño."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "帮", "pinyin": "bāng"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "搬", "pinyin": "bān"},
+            {"hanzi": "东西", "pinyin": "dōngxi"}
+        ],
+        "translation": "Él subió corriendo a ayudarme a mover cosas."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "找", "pinyin": "zhǎo"},
+            {"hanzi": "朋友", "pinyin": "péngyou"}
+        ],
+        "translation": "Ella bajó (caminando) a buscar a una amiga."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "床", "pinyin": "chuáng"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "爬", "pinyin": "pá"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "El niño bajó de la cama gateando."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "教室", "pinyin": "jiàoshì"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "笑", "pinyin": "xiào"},
+            {"hanzi": "着", "pinyin": "zhe"}
+        ],
+        "translation": "Él salió corriendo del aula, riendo."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "进", "pinyin": "jìn"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "时候", "pinyin": "shíhou"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "正", "pinyin": "zhèng"},
+            {"hanzi": "打", "pinyin": "dǎ"},
+            {"hanzi": "电话", "pinyin": "diànhuà"}
+        ],
+        "translation": "Cuando entré (caminando), él estaba hablando por teléfono."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "冲", "pinyin": "chōng"},
+            {"hanzi": "上", "pinyin": "shàng"},
+            {"hanzi": "楼", "pinyin": "lóu"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "拿", "pinyin": "ná"},
+            {"hanzi": "手机", "pinyin": "shǒujī"}
+        ],
+        "translation": "Ella subió corriendo las escaleras a por el móvil.",
+        "note": "📋NOTA: chōng 冲 es correr en el sentido de precipitarse por hacer algo."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "拿", "pinyin": "ná"},
+            {"hanzi": "着", "pinyin": "zhe"},
+            {"hanzi": "伞", "pinyin": "sǎn"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "出", "pinyin": "chū"},
+            {"hanzi": "来", "pinyin": "lái"}
+        ],
+        "translation": "Él salió (caminando) llevando un paraguas."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "告诉", "pinyin": "gàosu"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "个", "pinyin": "ge"},
+            {"hanzi": "好", "pinyin": "hǎo"},
+            {"hanzi": "消息", "pinyin": "xiāoxi"}
+        ],
+        "translation": "Se acercó hacia mi corriendo para darme una buena noticia."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "跟", "pinyin": "gēn"},
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "说话", "pinyin": "shuōhuà"}
+        ],
+        "translation": "Ella se acercó (caminando) a hablar con ellos."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "开车", "pinyin": "kāichē"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "接", "pinyin": "jiē"},
+            {"hanzi": "你", "pinyin": "nǐ"}
+        ],
+        "translation": "Voy en coche (conduciendo) a recogerte."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "快点", "pinyin": "kuàidiǎn"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "帮", "pinyin": "bāng"},
+            {"hanzi": "我", "pinyin": "wǒ"}
+        ],
+        "translation": "Ven rápido a ayudarme."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "拿", "pinyin": "ná"},
+            {"hanzi": "着", "pinyin": "zhe"},
+            {"hanzi": "礼物", "pinyin": "lǐwù"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ella se acercó (caminando) con un regalo."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "飞奔", "pinyin": "fēibēn"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "救", "pinyin": "jiù"},
+            {"hanzi": "人", "pinyin": "rén"}
+        ],
+        "translation": "Él corrió a toda prisa a salvar a la gente.",
+        "note": "📋NOTA: fēibēn 飞奔 es lanzarse, precipitarse a hacer algo."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "能", "pinyin": "néng"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "一下", "pinyin": "yīxià"},
+            {"hanzi": "吗", "pinyin": "ma"}
+        ],
+        "translation": "¿Puedes venir un momento?"
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "见", "pinyin": "jiàn"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Le vi pasar (caminando)."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "笑", "pinyin": "xiào"},
+            {"hanzi": "着", "pinyin": "zhe"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "抱", "pinyin": "bào"},
+            {"hanzi": "我", "pinyin": "wǒ"}
+        ],
+        "translation": "Ella corrió hacia mí sonriendo para abrazarme."
+    },
+    {
+        "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "一起", "pinyin": "yīqǐ"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ellos pasaron juntos (caminando)."
+    }
+]
