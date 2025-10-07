@@ -11,6 +11,30 @@
         ],
         "translation": "Él salió (caminando) de la habitación."
     },
+        {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "过", "pinyin": "guò"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "跟", "pinyin": "gēn"},
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "说话", "pinyin": "shuōhuà"}
+        ],
+        "translation": "Ella se acercó (caminando) a hablar con ellos."
+    },
+        {
+        "words": [
+            {"hanzi": "明天", "pinyin": "míngtiān"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "再", "pinyin": "zài"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "找", "pinyin": "zhǎo"},
+            {"hanzi": "你", "pinyin": "nǐ"}
+        ],
+        "translation": "Mañana volveré de nuevo a buscarte."
+    },
     {
         "words": [
             {"hanzi": "老师", "pinyin": "lǎoshī"},
@@ -372,7 +396,7 @@
             {"hanzi": "去", "pinyin": "qù"},
             {"hanzi": "了", "pinyin": "le"}
         ],
-        "translation": "Ellos volvieron en coche a Pekín."
+        "translation": "Ellos volvieron conduciendo a Pekín."
     },
     {
         "words": [
@@ -415,18 +439,6 @@
             {"hanzi": "了", "pinyin": "le"}
         ],
         "translation": "Él se fue a casa en bicicleta."
-    },
-    {
-        "words": [
-            {"hanzi": "明天", "pinyin": "míngtiān"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "再", "pinyin": "zài"},
-            {"hanzi": "回", "pinyin": "huí"},
-            {"hanzi": "来", "pinyin": "lái"},
-            {"hanzi": "找", "pinyin": "zhǎo"},
-            {"hanzi": "你", "pinyin": "nǐ"}
-        ],
-        "translation": "Volveré mañana a buscarte."
     },
     {
         "words": [
@@ -562,18 +574,6 @@
     },
     {
         "words": [
-            {"hanzi": "她", "pinyin": "tā"},
-            {"hanzi": "走", "pinyin": "zǒu"},
-            {"hanzi": "过", "pinyin": "guò"},
-            {"hanzi": "去", "pinyin": "qù"},
-            {"hanzi": "跟", "pinyin": "gēn"},
-            {"hanzi": "他们", "pinyin": "tāmen"},
-            {"hanzi": "说话", "pinyin": "shuōhuà"}
-        ],
-        "translation": "Ella se acercó (caminando) a hablar con ellos."
-    },
-    {
-        "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "开车", "pinyin": "kāichē"},
             {"hanzi": "过", "pinyin": "guò"},
@@ -667,4 +667,5 @@
         ],
         "translation": "Ellos pasaron juntos (caminando)."
     }
+
 ]
