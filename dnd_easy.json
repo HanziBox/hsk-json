@@ -89,6 +89,14 @@
         ],
         "translation": "No comas demasiado."
     },
+            {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "结婚", "pinyin": "jiéhūn"}
+        ],
+        "translation": "Él no está casado."
+    },
           {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -800,6 +808,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
