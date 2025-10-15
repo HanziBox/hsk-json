@@ -113,7 +113,16 @@
             {"hanzi": "高", "pinyin": "gāo"},
             {"hanzi": "？", "pinyin": "?"}
         ],
-        "translation": "¿Qué altura tienes?"
+        "translation": "¿Cuánto mides?"
+    },
+            {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "被", "pinyin": "bèi"},
+            {"hanzi": "杀", "pinyin": "shā"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ella fue asesinada."
     },
             {
         "words": [
@@ -765,6 +774,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
