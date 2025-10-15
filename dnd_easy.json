@@ -43,6 +43,15 @@
             ],
             "translation": "No tengo nada."
         },
+            {
+        "words": [
+            {"hanzi": "你们", "pinyin": "nǐmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "朋友", "pinyin": "péngyou"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Sois (vosotros) amigos?"
+    },
         {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
@@ -774,6 +783,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
