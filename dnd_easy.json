@@ -90,6 +90,15 @@
     },
             {
         "words": [
+            {"hanzi": "又", "pinyin": "yòu"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "雨", "pinyin": "yǔ"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Está lloviendo de nuevo."
+    },
+            {
+        "words": [
             {"hanzi": "别", "pinyin": "bié"},
             {"hanzi": "来", "pinyin": "lái"},
             {"hanzi": "这里", "pinyin": "zhèlǐ"}
@@ -722,6 +731,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
