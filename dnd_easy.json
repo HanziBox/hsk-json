@@ -113,6 +113,14 @@
         ],
         "translation": "Él no tiene hambre."
     },
+            {
+        "words": [
+            {"hanzi": "请", "pinyin": "qǐng"},
+            {"hanzi": "关", "pinyin": "guān"},
+            {"hanzi": "门", "pinyin": "mén"}
+        ],
+        "translation": "Por favor, cierra la puerta."
+    },
                 {
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
@@ -747,6 +755,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
