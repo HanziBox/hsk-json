@@ -160,6 +160,14 @@
     ],
     "translation": "Ella todavía no ha llegado."
   },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ya me voy."
+    },
                 {
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
@@ -731,6 +739,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
