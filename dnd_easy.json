@@ -96,6 +96,14 @@
         ],
         "translation": "No vengas aquí."
     },
+            {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "饿", "pinyin": "è"}
+        ],
+        "translation": "Él no tiene hambre."
+    },
                 {
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
@@ -714,6 +722,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
