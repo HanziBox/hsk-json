@@ -107,6 +107,16 @@
     },
             {
         "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "高", "pinyin": "gāo"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Qué altura tienes?"
+    },
+            {
+        "words": [
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "不", "pinyin": "bù"},
             {"hanzi": "饿", "pinyin": "è"}
@@ -755,6 +765,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
