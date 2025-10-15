@@ -180,6 +180,15 @@
     ],
     "translation": "Tengo tres hijos."
   },
+            {
+        "words": [
+            {"hanzi": "现在", "pinyin": "xiànzài"},
+            {"hanzi": "几", "pinyin": "jǐ"},
+            {"hanzi": "点", "pinyin": "diǎn"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Qué hora es (ahora)?"
+    },
   {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
@@ -696,6 +705,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
