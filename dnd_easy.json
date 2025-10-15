@@ -242,6 +242,15 @@
             ],
             "translation": "Ahora todo ha terminado."
         },
+            {
+        "words": [
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "喝", "pinyin": "hē"},
+            {"hanzi": "水", "pinyin": "shuǐ"}
+        ],
+        "translation": "No bebas agua."
+    },
         {
             "words": [
                 { "hanzi": "这", "pinyin": "zhè" },
@@ -705,6 +714,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
