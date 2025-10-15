@@ -80,6 +80,15 @@
     ],
     "translation": "Él me lo dijo."
   },
+            {
+        "words": [
+            {"hanzi": "别", "pinyin": "bié"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "太", "pinyin": "tài"},
+            {"hanzi": "多", "pinyin": "duō"}
+        ],
+        "translation": "No comas demasiado."
+    },
           {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -791,6 +800,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
