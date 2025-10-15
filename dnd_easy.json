@@ -91,6 +91,14 @@
         },
             {
         "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "鱼", "pinyin": "yú"}
+        ],
+        "translation": "Ellos comen pescado."
+    },
+            {
+        "words": [
             {"hanzi": "大家", "pinyin": "dàjiā"},
             {"hanzi": "早安", "pinyin": "zǎo'ān"},
             {"hanzi": "！", "pinyin": "!"}
@@ -783,6 +791,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
