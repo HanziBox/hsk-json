@@ -250,6 +250,14 @@
             ],
             "translation": "Recoge tus cosas."
         },
+            {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "累", "pinyin": "lèi"}
+        ],
+        "translation": "Estoy muy cansado/a."
+    },
         {
             "words": [
                 { "hanzi": "把", "pinyin": "bǎ" },
@@ -739,6 +747,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
