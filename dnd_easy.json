@@ -256,6 +256,14 @@
         ],
         "translation": "Déjame hablar."
     },        
+            {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "法语", "pinyin": "fǎyǔ"}
+        ],
+        "translation": "Ella habla francés."
+    },
   {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
@@ -808,6 +816,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
