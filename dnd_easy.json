@@ -80,6 +80,14 @@
             ],
             "translation": "Puedo ayudarte."
         },
+            {
+        "words": [
+            {"hanzi": "别", "pinyin": "bié"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "这里", "pinyin": "zhèlǐ"}
+        ],
+        "translation": "No vengas aquí."
+    },
                 {
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
@@ -680,6 +688,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
