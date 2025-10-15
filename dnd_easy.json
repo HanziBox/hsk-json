@@ -82,6 +82,14 @@
         },
             {
         "words": [
+            {"hanzi": "大家", "pinyin": "dàjiā"},
+            {"hanzi": "早安", "pinyin": "zǎo'ān"},
+            {"hanzi": "！", "pinyin": "!"}
+        ],
+        "translation": "¡Buenos días a todos!"
+    },
+            {
+        "words": [
             {"hanzi": "别", "pinyin": "bié"},
             {"hanzi": "来", "pinyin": "lái"},
             {"hanzi": "这里", "pinyin": "zhèlǐ"}
@@ -688,6 +696,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
