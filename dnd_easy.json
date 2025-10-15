@@ -168,6 +168,14 @@
     },
             {
         "words": [
+            {"hanzi": "夏天", "pinyin": "xiàtiān"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "El verano ha llegado."
+    },
+            {
+        "words": [
             {"hanzi": "请", "pinyin": "qǐng"},
             {"hanzi": "关", "pinyin": "guān"},
             {"hanzi": "门", "pinyin": "mén"}
@@ -816,6 +824,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
