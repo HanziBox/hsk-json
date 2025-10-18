@@ -48,6 +48,7 @@
             {"hanzi": "你们", "pinyin": "nǐmen"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "朋友", "pinyin": "péngyou"},
+            {"hanzi": "吗", "pinyin": "ma"},
             {"hanzi": "？", "pinyin": "?"}
         ],
         "translation": "¿Sois (vosotros) amigos?"
@@ -104,6 +105,16 @@
             {"hanzi": "结婚", "pinyin": "jiéhūn"}
         ],
         "translation": "Él no está casado."
+    },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "得", "pinyin": "děi"},
+            {"hanzi": "完成", "pinyin": "wánchéng"},
+            {"hanzi": "我的", "pinyin": "wǒde"},
+            {"hanzi": "工作", "pinyin": "gōngzuò"}
+        ],
+        "translation": "Tengo que terminar mi trabajo."
     },
           {
             "words": [
@@ -841,6 +852,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
