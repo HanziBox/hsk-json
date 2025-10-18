@@ -656,6 +656,22 @@
         ],
         "translation": "Mi amigo puso al gato en el balcón a tomar el sol."
     },
+        {
+        "words": [
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "日本", "pinyin": "Rìběn"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "另", "pinyin": "lìng"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "意大利", "pinyin": "Yìdàlì"},
+            {"hanzi": "人", "pinyin": "rén"}
+        ],
+        "translation": "Uno es japonés, el otro es italiano."
+    },
     {
         "words": [
             {"hanzi": "老师", "pinyin": "lǎoshī"},
@@ -1457,6 +1473,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
