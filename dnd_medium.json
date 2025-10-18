@@ -145,6 +145,18 @@
         "translation": "Quiero el otro/a."
     },
         {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "那", "pinyin": "nà"},
+            {"hanzi": "样", "pinyin": "yàng"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "No pretendía (quise) hacerlo así."
+    },
+        {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
                 { "hanzi": "明天", "pinyin": "míngtiān" },
@@ -1596,6 +1608,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
