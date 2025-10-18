@@ -98,6 +98,14 @@
         ],
         "translation": "No comas demasiado."
     },
+        {
+        "words": [
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "自己", "pinyin": "zìjǐ"}
+        ],
+        "translation": "Sé tú mismo/a."
+    },
             {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
@@ -852,6 +860,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
