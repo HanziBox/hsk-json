@@ -172,7 +172,6 @@
             {"hanzi": "另", "pinyin": "lìng"},
             {"hanzi": "一", "pinyin": "yī"},
             {"hanzi": "边", "pinyin": "biān"},
-            {"hanzi": "呢", "pinyin": "ne"},
             {"hanzi": "？", "pinyin": "?"}
         ],
         "translation": "¿Cómo puedo ir al otro lado?"
@@ -1552,6 +1551,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
