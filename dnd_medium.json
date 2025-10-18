@@ -155,6 +155,17 @@
             "translation": "Mañana dormimos en la oficina."
         },
         {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "可能", "pinyin": "kěnéng"},
+            {"hanzi": "会", "pinyin": "huì"},
+            {"hanzi": "做", "pinyin": "zuò"}
+        ],
+        "translation": "Ella dijo que podría hacerlo."
+    },
+        {
             "words": [
                 { "hanzi": "办公室", "pinyin": "bàngōngshì" },
                 { "hanzi": "的", "pinyin": "de" },
@@ -1585,6 +1596,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
