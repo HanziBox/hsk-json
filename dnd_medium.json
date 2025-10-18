@@ -268,6 +268,17 @@
             "translation": "Tu hermana (mayor) te trajo un cuadro."
         },
         {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "特别", "pinyin": "tèbié"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "孩子", "pinyin": "háizi"}
+        ],
+        "translation": "Él es un niño especial."
+    },
+        {
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "问问", "pinyin": "wènwèn" },
@@ -1551,6 +1562,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
