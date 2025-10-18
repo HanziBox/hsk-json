@@ -158,6 +158,15 @@
         ],
         "translation": "Ella fue asesinada."
     },
+        {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "孩子", "pinyin": "háizi"}
+        ],
+        "translation": "Él no tiene hijos."
+    },
             {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
@@ -824,6 +833,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
