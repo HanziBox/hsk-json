@@ -123,6 +123,17 @@
             "translation": "Quiero comer algo antes de dormir."
         },
         {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "另", "pinyin": "lìng"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "个", "pinyin": "gè"}
+        ],
+        "translation": "Quiero otro/a."
+    },
+        {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
                 { "hanzi": "明天", "pinyin": "míngtiān" },
@@ -1528,6 +1539,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
