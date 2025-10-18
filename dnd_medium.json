@@ -124,6 +124,17 @@
         },
         {
         "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "谁", "pinyin": "shuí"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "?", "pinyin": "?"}
+        ],
+        "translation": "¿De quién es este niño/a?"
+    },
+        {
+        "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "想", "pinyin": "xiǎng"},
             {"hanzi": "要", "pinyin": "yào"},
@@ -1562,6 +1573,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
