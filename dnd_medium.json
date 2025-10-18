@@ -131,7 +131,7 @@
             {"hanzi": "一", "pinyin": "yī"},
             {"hanzi": "个", "pinyin": "gè"}
         ],
-        "translation": "Quiero otro/a."
+        "translation": "Quiero el otro/a."
     },
         {
             "words": [
@@ -1539,6 +1539,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
