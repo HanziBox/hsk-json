@@ -165,6 +165,19 @@
             "translation": "Mañana por la tarde haremos ejercicio en el parque."
         },
         {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "怎么", "pinyin": "zěnme"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "另", "pinyin": "lìng"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "边", "pinyin": "biān"},
+            {"hanzi": "呢", "pinyin": "ne"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Cómo puedo ir al otro lado?"
+    },
+        {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "问", "pinyin": "wèn" },
@@ -1539,6 +1552,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
