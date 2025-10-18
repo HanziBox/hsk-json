@@ -203,6 +203,23 @@
         ],
         "translation": "¿Podemos revisar (echar un vistazo a) su equipaje?"
     },
+        {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "可能", "pinyin": "kěnéng"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "从", "pinyin": "cóng"},
+            {"hanzi": "另", "pinyin": "lìng"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "条", "pinyin": "tiáo"},
+            {"hanzi": "路", "pinyin": "lù"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "家", "pinyin": "jiā"}
+        ],
+        "translation": "Puede que haya vuelto a casa por otro camino."
+    },
     {
         "words": [
             {"hanzi": "如果", "pinyin": "rúguǒ"},
@@ -1440,6 +1457,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
