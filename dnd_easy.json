@@ -80,6 +80,14 @@
     ],
     "translation": "Él me lo dijo."
   },
+        {
+        "words": [
+            {"hanzi": "不", "pinyin": "bú"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "害怕", "pinyin": "hàipà"}
+        ],
+        "translation": "No tengas miedo."
+    },
             {
         "words": [
             {"hanzi": "别", "pinyin": "bié"},
@@ -833,6 +841,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
