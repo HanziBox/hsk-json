@@ -323,6 +323,18 @@
             "translation": "¿Podemos hacer algo?"
         },
         {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "点", "pinyin": "diǎn"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "不", "pinyin": "bú"},
+            {"hanzi": "怕", "pinyin": "pà"},
+            {"hanzi": "你", "pinyin": "nǐ"}
+        ],
+        "translation": "No te tengo miedo en absoluto (ni un poco)."
+    },
+        {
             "words": [
                 { "hanzi": "你们", "pinyin": "nǐmen" },
                 { "hanzi": "以为", "pinyin": "yǐwéi" },
@@ -1573,6 +1585,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
