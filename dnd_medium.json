@@ -122,6 +122,17 @@
         "translation": "Para mí no hay ninguna diferencia."
     },
         {
+        "words": [
+            {"hanzi": "为什么", "pinyin": "wèishénme"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "样", "pinyin": "yàng"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Por qué tiene que ser diferente?"
+    },
+        {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "想", "pinyin": "xiǎng" },
@@ -1643,6 +1654,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
