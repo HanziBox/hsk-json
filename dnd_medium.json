@@ -96,6 +96,18 @@
         ],
         "translation": "No me importa levantarme a las seis en punto."
     },
+        {
+        "words": [
+            {"hanzi": "现在", "pinyin": "xiànzài"},
+            {"hanzi": "全", "pinyin": "quán"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "样", "pinyin": "yàng"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ahora ya nada es lo mismo."
+    },
             {
         "words": [
             {"hanzi": "你", "pinyin": "nǐ"},
@@ -1654,6 +1666,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
