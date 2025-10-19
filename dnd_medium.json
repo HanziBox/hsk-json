@@ -60,6 +60,18 @@
         ],
         "translation": "Esta mañana vi a un amigo corriendo en la calle."
     },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "好像", "pinyin": "hǎoxiàng"},
+            {"hanzi": "犯", "pinyin": "fàn"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "小", "pinyin": "xiǎo"},
+            {"hanzi": "错误", "pinyin": "cuòwù"}
+        ],
+        "translation": "Parece que cometí un pequeño error."
+    },
             {
         "words": [
             {"hanzi": "周", "pinyin": "Zhōu"},
@@ -1688,6 +1700,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
