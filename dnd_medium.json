@@ -303,6 +303,17 @@
             "translation": "Me hace feliz hablar contigo."
         },
         {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "答案", "pinyin": "dá'àn"},
+            {"hanzi": "好像", "pinyin": "hǎoxiàng"},
+            {"hanzi": "不", "pinyin": "bú"},
+            {"hanzi": "对", "pinyin": "duì"}
+        ],
+        "translation": "Parece que tu respuesta no es correcta."
+    },
+        {
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "一定", "pinyin": "yīdìng" },
@@ -1677,6 +1688,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
