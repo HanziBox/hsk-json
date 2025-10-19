@@ -149,6 +149,20 @@
     },
         {
         "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "想法", "pinyin": "xiǎngfǎ"},
+            {"hanzi": "和", "pinyin": "hé"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "样", "pinyin": "yàng"}
+        ],
+        "translation": "Mis ideas son diferentes a las tuyas."
+    },
+        {
+        "words": [
             {"hanzi": "这", "pinyin": "zhè"},
             {"hanzi": "周", "pinyin": "zhōu"},
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -1487,6 +1501,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
