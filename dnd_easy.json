@@ -170,6 +170,16 @@
             ],
             "translation": "Puedo ayudarte."
         },
+        {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "样", "pinyin": "yàng"}
+        ],
+        "translation": "Somos muy diferentes."
+    },
             {
         "words": [
             {"hanzi": "他们", "pinyin": "tāmen"},
@@ -897,6 +907,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
