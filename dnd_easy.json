@@ -43,6 +43,16 @@
             ],
             "translation": "No tengo nada."
         },
+        {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "像", "pinyin": "xiàng"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "妈", "pinyin": "mā"}
+        ],
+        "translation": "Ella se parece mucho a su madre."
+    },
             {
         "words": [
             {"hanzi": "你们", "pinyin": "nǐmen"},
@@ -907,6 +917,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
