@@ -110,6 +110,18 @@
         "translation": "Todavía no tienes muy clara mi personalidad."
     },
         {
+        "words": [
+            {"hanzi": "对", "pinyin": "duì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "分别", "pinyin": "fēnbié"}
+        ],
+        "translation": "Para mí no hay ninguna diferencia."
+    },
+        {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "想", "pinyin": "xiǎng" },
@@ -1619,6 +1631,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
