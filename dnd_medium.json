@@ -451,6 +451,17 @@
         ],
         "translation": "¿Quieres ir al zoológico esta tarde?"
     },
+        {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "不", "pinyin": "bú"},
+            {"hanzi": "用", "pinyin": "yòng"},
+            {"hanzi": "再", "pinyin": "zài"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "No tienes que venir más (de nuevo)."
+    },
     {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -1608,6 +1619,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
