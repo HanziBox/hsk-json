@@ -180,6 +180,18 @@
         },
         {
         "words": [
+            {"hanzi": "每", "pinyin": "měi"},
+            {"hanzi": "个", "pinyin": "gè"},
+            {"hanzi": "人", "pinyin": "rén"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "样", "pinyin": "yàng"}
+        ],
+        "translation": "Cada persona es diferente."
+    },
+        {
+        "words": [
             {"hanzi": "她", "pinyin": "tā"},
             {"hanzi": "说", "pinyin": "shuō"},
             {"hanzi": "她", "pinyin": "tā"},
@@ -1631,6 +1643,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
