@@ -73,6 +73,15 @@
     ],
     "translation": "No quiero hacer esto."
   },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "好像", "pinyin": "hǎoxiàng"},
+            {"hanzi": "发烧", "pinyin": "fāshāo"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Parece que tengo fiebre."
+    },
   {
     "words": [
       { "hanzi": "把", "pinyin": "bǎ" },
@@ -917,6 +926,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
