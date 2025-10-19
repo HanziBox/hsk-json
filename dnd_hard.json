@@ -145,7 +145,21 @@
             {"hanzi": "了", "pinyin": "le"},
             {"hanzi": "吗", "pinyin": "ma"}
         ],
-        "translation": "Está bien que él llegue tarde, ¿pero no está bien que yo llegue tarde?"
+        "translation": "¿Está bien que él llegue tarde, pero yo no?"
+    },
+        {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "周", "pinyin": "zhōu"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "多", "pinyin": "duō"},
+            {"hanzi": "事情", "pinyin": "shìqing"},
+            {"hanzi": "要", "pinyin": "yào"},
+            {"hanzi": "做", "pinyin": "zuò"}
+        ],
+        "translation": "Esta semana tengo muchas cosas que hacer."
     },
     {
         "words": [
@@ -1473,6 +1487,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
