@@ -98,6 +98,17 @@
     },
         {
         "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "次", "pinyin": "cì"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "一", "pinyin": "yī"},
+            {"hanzi": "样", "pinyin": "yàng"}
+        ],
+        "translation": "Esta vez es diferente."
+    },
+        {
+        "words": [
             {"hanzi": "现在", "pinyin": "xiànzài"},
             {"hanzi": "全", "pinyin": "quán"},
             {"hanzi": "都", "pinyin": "dōu"},
@@ -1666,6 +1677,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
