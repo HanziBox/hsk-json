@@ -136,6 +136,15 @@
         {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "又", "pinyin": "yòu"},
+            {"hanzi": "结婚", "pinyin": "jiéhūn"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Me casé de nuevo."
+    },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "得", "pinyin": "děi"},
             {"hanzi": "完成", "pinyin": "wánchéng"},
             {"hanzi": "我的", "pinyin": "wǒde"},
@@ -879,6 +888,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
