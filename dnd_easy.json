@@ -116,6 +116,15 @@
     },
         {
         "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "又", "pinyin": "yòu"},
+            {"hanzi": "迟到", "pinyin": "chídào"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Ella ha llegado tarde otra vez."
+    },
+        {
+        "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "又", "pinyin": "yòu"},
             {"hanzi": "饿", "pinyin": "è"},
@@ -870,6 +879,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
