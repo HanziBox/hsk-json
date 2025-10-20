@@ -1,14 +1,4 @@
 [
-        {
-            "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "做", "pinyin": "zuò" },
-                { "hanzi": "过", "pinyin": "guò" },
-                { "hanzi": "很多", "pinyin": "hěnduō" },
-                { "hanzi": "工作", "pinyin": "gōngzuò" }
-            ],
-            "translation": "He tenido muchos trabajos."
-        },
             {
         "words": [
             {"hanzi": "虽然", "pinyin": "suīrán"},
@@ -1770,6 +1760,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
