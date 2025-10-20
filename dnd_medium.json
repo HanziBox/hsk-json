@@ -133,6 +133,17 @@
     },
         {
         "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "英语", "pinyin": "Yīngyǔ"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Ella habla inglés muy bien."
+    },
+        {
+        "words": [
             {"hanzi": "你", "pinyin": "nǐ"},
             {"hanzi": "认为", "pinyin": "rènwéi"},
             {"hanzi": "这", "pinyin": "zhè"},
@@ -1746,6 +1757,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
