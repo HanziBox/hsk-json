@@ -239,6 +239,19 @@
         },
         {
         "words": [
+            {"hanzi": "一", "pinyin": "yì"},
+            {"hanzi": "点", "pinyin": "diǎn"},
+            {"hanzi": "新鲜", "pinyin": "xīnxiān"},
+            {"hanzi": "空气", "pinyin": "kōngqì"},
+            {"hanzi": "对", "pinyin": "duì"},
+            {"hanzi": "身体", "pinyin": "shēntǐ"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "好处", "pinyin": "hǎochù"}
+        ],
+        "translation": "Un poco de aire fresco es bueno (tiene beneficios) para el cuerpo."
+    },
+        {
+        "words": [
             {"hanzi": "这", "pinyin": "zhè"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "谁", "pinyin": "shuí"},
@@ -1757,6 +1770,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
