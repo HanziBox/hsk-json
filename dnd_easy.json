@@ -253,6 +253,15 @@
     },
         {
         "words": [
+            {"hanzi": "它", "pinyin": "tā"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "沙发", "pinyin": "shāfā"},
+            {"hanzi": "上", "pinyin": "shàng"}
+        ],
+        "translation": "Está en el sofá."
+    },
+        {
+        "words": [
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "没", "pinyin": "méi"},
             {"hanzi": "有", "pinyin": "yǒu"},
@@ -926,6 +935,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
