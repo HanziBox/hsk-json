@@ -204,6 +204,21 @@
         ],
         "translation": "¿Llegan a las diez de la mañana o a las diez de la noche?"
     },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "希望", "pinyin": "xīwàng"},
+            {"hanzi": "下", "pinyin": "xià"},
+            {"hanzi": "次", "pinyin": "cì"},
+            {"hanzi": "能", "pinyin": "néng"},
+            {"hanzi": "唱", "pinyin": "chàng"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "好", "pinyin": "hǎo"},
+            {"hanzi": "一", "pinyin": "yì"},
+            {"hanzi": "点", "pinyin": "diǎn"}
+        ],
+        "translation": "Espero poder cantar un poco mejor la próxima vez."
+    },
     {
         "words": [
             {"hanzi": "她", "pinyin": "tā"},
@@ -1501,6 +1516,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
