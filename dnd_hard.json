@@ -117,6 +117,23 @@
         ],
         "translation": "El hombre que encontraste en la estación es mi padre."
     },
+        {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "只", "pinyin": "zhǐ"},
+        {"hanzi": "希望", "pinyin": "xīwàng"},
+        {"hanzi": "有", "pinyin": "yǒu"},
+        {"hanzi": "多", "pinyin": "duō"},
+        {"hanzi": "一点", "pinyin": "yìdiǎn"},
+        {"hanzi": "时间", "pinyin": "shíjiān"},
+        {"hanzi": "来", "pinyin": "lái"},
+        {"hanzi": "完成", "pinyin": "wánchéng"},
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "项目", "pinyin": "xiàngmù"}
+    ],
+    "translation": "Solo espero tener un poco más de tiempo para terminar este proyecto."
+},
             {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -1516,6 +1533,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
