@@ -190,6 +190,15 @@
     },
         {
         "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "怎么", "pinyin": "zěnme"},
+            {"hanzi": "付钱", "pinyin": "fùqián"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Cómo pagamos?"
+    },
+        {
+        "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "得", "pinyin": "děi"},
             {"hanzi": "完成", "pinyin": "wánchéng"},
@@ -963,6 +972,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
