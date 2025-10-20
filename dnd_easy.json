@@ -431,6 +431,16 @@
             "translation": "Ella va a México el mes que viene."
         },
         {
+        "words": [
+            {"hanzi": "您", "pinyin": "nín"},
+            {"hanzi": "知道", "pinyin": "zhīdào"},
+            {"hanzi": "为什么", "pinyin": "wèishénme"},
+            {"hanzi": "吗", "pinyin": "ma"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Sabe usted por qué?"
+    },
+        {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "还", "pinyin": "hái" },
@@ -944,6 +954,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
