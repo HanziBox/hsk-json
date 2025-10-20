@@ -136,6 +136,18 @@
     },
             {
     "words": [
+        {"hanzi": "连", "pinyin": "lián"},
+        {"hanzi": "一", "pinyin": "yì"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "云", "pinyin": "yún"},
+        {"hanzi": "朵", "pinyin": "duǒ"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "没有", "pinyin": "méiyǒu"}
+    ],
+    "translation": "Ni siquiera hay una sola nube."
+},
+            {
+    "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
         {"hanzi": "对", "pinyin": "duì"},
         {"hanzi": "她", "pinyin": "tā"},
@@ -1786,6 +1798,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
