@@ -192,6 +192,18 @@
     },
         {
         "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "怎么", "pinyin": "zěnme"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "那儿", "pinyin": "nà'ér"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Cómo llegaste allí?"
+    },
+        {
+        "words": [
             {"hanzi": "为什么", "pinyin": "wèishénme"},
             {"hanzi": "要", "pinyin": "yào"},
             {"hanzi": "不", "pinyin": "bù"},
@@ -1734,6 +1746,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
