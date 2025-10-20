@@ -35,6 +35,17 @@
             "translation": "Disculpe, ¿dónde está el baño? Tengo un poco de prisa."
         },
         {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "认为", "pinyin": "rènwéi"},
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "谁", "pinyin": "shuí"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Quién crees que somos?"
+    },
+        {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
                 { "hanzi": "觉得", "pinyin": "juéde" },
@@ -1723,6 +1734,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
