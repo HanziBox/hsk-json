@@ -207,6 +207,16 @@
         ],
         "translation": "Tengo que terminar mi trabajo."
     },
+        {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "太太", "pinyin": "tàitai"},
+            {"hanzi": "怎么", "pinyin": "zěnme"},
+            {"hanzi": "样", "pinyin": "yàng"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Cómo está tu esposa?"
+    },
           {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -972,6 +982,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
