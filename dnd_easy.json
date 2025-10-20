@@ -92,6 +92,15 @@
         ],
         "translation": "Parece que tengo fiebre."
     },
+        {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "过", "pinyin": "guo"},
+            {"hanzi": "那里", "pinyin": "nàli"}
+        ],
+        "translation": "He estado allí (Fui allí)."
+    },
   {
     "words": [
       { "hanzi": "把", "pinyin": "bǎ" },
@@ -992,6 +1001,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
