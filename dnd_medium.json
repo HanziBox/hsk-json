@@ -121,6 +121,19 @@
         ],
         "translation": "No me importa levantarme a las seis en punto."
     },
+            {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "对", "pinyin": "duì"},
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "一点", "pinyin": "yìdiǎn"},
+        {"hanzi": "也", "pinyin": "yě"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "感", "pinyin": "gǎn"},
+        {"hanzi": "兴趣", "pinyin": "xìngqù"}
+    ],
+    "translation": "Ella no me interesa en lo más mínimo."
+},
         {
         "words": [
             {"hanzi": "她", "pinyin": "tā"},
@@ -1760,6 +1773,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
