@@ -181,6 +181,15 @@
     },
         {
         "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "为", "pinyin": "wèi"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "工作", "pinyin": "gōngzuò"}
+        ],
+        "translation": "Él trabaja para ella."
+    },
+        {
+        "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "得", "pinyin": "děi"},
             {"hanzi": "完成", "pinyin": "wánchéng"},
@@ -954,6 +963,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
