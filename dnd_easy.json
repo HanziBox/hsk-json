@@ -172,6 +172,15 @@
     },
         {
         "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "为什么", "pinyin": "wèishénme"},
+            {"hanzi": "生气", "pinyin": "shēngqì"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Por qué estás enfadado/a?"
+    },
+        {
+        "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "得", "pinyin": "děi"},
             {"hanzi": "完成", "pinyin": "wánchéng"},
@@ -935,6 +944,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
