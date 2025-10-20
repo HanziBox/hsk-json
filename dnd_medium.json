@@ -110,6 +110,19 @@
             "translation": "¿Qué le están haciendo a ella?"
         },
             {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "是", "pinyin": "shì"},
+        {"hanzi": "总是", "pinyin": "zǒngshì"},
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "样", "pinyin": "yàng"},
+        {"hanzi": "做", "pinyin": "zuò"},
+        {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "No siempre lo hago así."
+},
+            {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "不", "pinyin": "bù"},
@@ -1773,6 +1786,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
