@@ -122,6 +122,17 @@
     },
         {
         "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "认为", "pinyin": "rènwéi"},
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Qué crees que es esto?"
+    },
+        {
+        "words": [
             {"hanzi": "这", "pinyin": "zhè"},
             {"hanzi": "一", "pinyin": "yī"},
             {"hanzi": "次", "pinyin": "cì"},
@@ -1712,6 +1723,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
