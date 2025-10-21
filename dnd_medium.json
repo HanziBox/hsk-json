@@ -312,6 +312,18 @@
         ],
         "translation": "No pretendía (quise) hacerlo así."
     },
+            {
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "男孩子", "pinyin": "nánháizi"},
+        {"hanzi": "向", "pinyin": "xiàng"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "扔", "pinyin": "rēng"},
+        {"hanzi": "石头", "pinyin": "shítou"}
+    ],
+    "translation": "Este chico me tiró piedras."
+},
         {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
@@ -1798,6 +1810,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
