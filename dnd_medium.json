@@ -111,6 +111,18 @@
         },
             {
     "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "多久", "pinyin": "duōjiǔ"},
+        {"hanzi": "打扫", "pinyin": "dǎsǎo"},
+        {"hanzi": "一", "pinyin": "yí"},
+        {"hanzi": "次", "pinyin": "cì"},
+        {"hanzi": "房间", "pinyin": "fángjiān"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Cada cuánto tiempo limpias (barres) la habitación?"
+},
+            {
+    "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
         {"hanzi": "不", "pinyin": "bú"},
         {"hanzi": "是", "pinyin": "shì"},
@@ -1810,6 +1822,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
