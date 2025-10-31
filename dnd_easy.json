@@ -368,6 +368,16 @@
     ],
     "translation": "Hace mucho frío en casa."
   },
+        {
+    "words": [
+        {"hanzi": "世界", "pinyin": "shìjiè"},
+        {"hanzi": "变化", "pinyin": "biànhuà"},
+        {"hanzi": "得", "pinyin": "de"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "快", "pinyin": "kuài"}
+    ],
+    "translation": "El mundo cambian muy deprisa."
+},
   {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
@@ -1001,6 +1011,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
