@@ -73,6 +73,17 @@
     ],
     "translation": "¿Quieres probar?"
 },
+            {
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "里", "pinyin": "lǐ"},
+        {"hanzi": "有", "pinyin": "yǒu"},
+        {"hanzi": "好", "pinyin": "hǎo"},
+        {"hanzi": "多", "pinyin": "duō"},
+        {"hanzi": "酒吧", "pinyin": "jiǔbā"}
+    ],
+    "translation": "Aquí hay muchos bares."
+},
         {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -1847,6 +1858,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
