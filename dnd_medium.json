@@ -61,6 +61,18 @@
         ],
         "translation": "Esta mañana vi a un amigo corriendo en la calle."
     },
+            {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "尝", "pinyin": "cháng"},
+        {"hanzi": "一", "pinyin": "yí"},
+        {"hanzi": "下", "pinyin": "xià"},
+        {"hanzi": "吗", "pinyin": "ma"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Quieres probar?"
+},
         {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -1835,6 +1847,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
