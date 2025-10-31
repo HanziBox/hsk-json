@@ -1301,7 +1301,7 @@
                 { "hanzi": "生日", "pinyin": "shēngrì" },
                 { "hanzi": "在", "pinyin": "zài" },
                 { "hanzi": "三", "pinyin": "sān" },
-                { "hanzi": "月份,", "pinyin": "yuèfèn," },
+                { "hanzi": "月,", "pinyin": "yuè," },
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "的", "pinyin": "de" },
                 { "hanzi": "呢", "pinyin": "ne" }
@@ -1835,6 +1835,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
