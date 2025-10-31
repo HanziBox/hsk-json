@@ -74,6 +74,19 @@
         "translation": "Parece que cometí un pequeño error."
     },
             {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "一", "pinyin": "yí"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "人", "pinyin": "rén"},
+        {"hanzi": "路由", "pinyin": "lùyóu"},
+        {"hanzi": "吗", "pinyin": "ma"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Te gusta viajar solo/a?"
+},
+            {
         "words": [
             {"hanzi": "周", "pinyin": "Zhōu"},
             {"hanzi": "老师", "pinyin": "lǎoshī"},
@@ -1822,6 +1835,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
