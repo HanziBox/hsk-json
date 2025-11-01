@@ -134,6 +134,16 @@
     ],
     "translation": "Ella está enferma, tiene que descansar."
 },
+    {
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "必", "pinyin": "bì"},
+        {"hanzi": "自己", "pinyin": "zìjǐ"},
+        {"hanzi": "做", "pinyin": "zuò"}
+    ],
+    "translation": "No tiene que hacerlo ella misma."
+},
 {
     "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
@@ -203,4 +213,5 @@
 }
 
 ]
+
 
