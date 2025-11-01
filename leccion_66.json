@@ -75,7 +75,7 @@
         {"hanzi": "起", "pinyin": "qǐ"},
         {"hanzi": "床", "pinyin": "chuáng"}
     ],
-    "translation": "Se levantó recién a las diez (tarde)."
+    "translation": "No se levantó hasta las diez."
 },
 {
     "words": [
@@ -219,6 +219,7 @@
 }
 
 ]
+
 
 
 
