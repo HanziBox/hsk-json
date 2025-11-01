@@ -87,7 +87,7 @@
         {"hanzi": "件", "pinyin": "jiàn"},
         {"hanzi": "事", "pinyin": "shì"}
     ],
-    "translation": "Recién ayer me enteré de este asunto (tardíamente)."
+    "translation": "No me enteré de este asunto hasta ayer."
 },
 {
     "words": [
@@ -219,6 +219,7 @@
 }
 
 ]
+
 
 
 
