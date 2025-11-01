@@ -1,18 +1,6 @@
 [
 {
     "words": [
-        {"hanzi": "我", "pinyin": "wǒ"},
-        {"hanzi": "一", "pinyin": "yī"},
-        {"hanzi": "到", "pinyin": "dào"},
-        {"hanzi": "家", "pinyin": "jiā"},
-        {"hanzi": "就", "pinyin": "jiù"},
-        {"hanzi": "吃", "pinyin": "chī"},
-        {"hanzi": "饭", "pinyin": "fàn"}
-    ],
-    "translation": "Comeré tan pronto como llegue a casa."
-},
-{
-    "words": [
         {"hanzi": "他", "pinyin": "tā"},
         {"hanzi": "起", "pinyin": "qǐ"},
         {"hanzi": "床", "pinyin": "chuáng"},
@@ -207,6 +195,7 @@
 }
 
 ]
+
 
 
 
