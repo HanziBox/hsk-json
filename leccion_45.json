@@ -55,7 +55,7 @@
         {"hanzi": "吗", "pinyin": "ma"},
         {"hanzi": "？", "pinyin": "?"}
     ],
-    "translation": "¿Tienes que irte/irte inmediatamente?"
+    "translation": "¿Tienes que irte inmediatamente?"
 },
 {
     "words": [
@@ -191,4 +191,5 @@
     ],
     "translation": "Él no debería estar tan triste."
 }
+
 ]
