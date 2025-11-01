@@ -65,7 +65,8 @@
         {"hanzi": "就", "pinyin": "jiù"},
         {"hanzi": "精神", "pinyin": "jīngshén"}
     ],
-    "translation": "Se anima/despierta tan pronto como bebe café."
+    "translation": "Se espabila en cuanto bebe café.",
+    "note": "NOTA: jīngshén 精神 es un adjetivo que significa (sentirse) vigoroso, energético."
 },
 {
     "words": [
@@ -113,7 +114,7 @@
         {"hanzi": "说", "pinyin": "shuō"},
         {"hanzi": "中文", "pinyin": "Zhōngwén"}
     ],
-    "translation": "Solo después de estudiar tres años pude hablar chino (indica esfuerzo o un resultado tardío)."
+    "translation": "Solo después de estudiar tres años pude hablar chino."
 },
 {
     "words": [
@@ -162,7 +163,8 @@
         {"hanzi": "用", "pinyin": "yòng"},
         {"hanzi": "着急", "pinyin": "zháojí"}
     ],
-    "translation": "Solo son las ocho, no tienes que darte prisa."
+    "translation": "Solo son las ocho, no tienes que agobiarte.",
+    "note": "NOTA: zháojí 着急 significa inquietarse, estar ansioso."
 },
 {
     "words": [
@@ -192,21 +194,6 @@
 },
 {
     "words": [
-        {"hanzi": "下雨", "pinyin": "xiàyǔ"},
-        {"hanzi": "了", "pinyin": "le"},
-        {"hanzi": "，", "pinyin": ","},
-        {"hanzi": "我们", "pinyin": "wǒmen"},
-        {"hanzi": "就", "pinyin": "jiù"},
-        {"hanzi": "待", "pinyin": "dāi"},
-        {"hanzi": "在", "pinyin": "zài"},
-        {"hanzi": "家", "pinyin": "jiā"},
-        {"hanzi": "里", "pinyin": "lǐ"},
-        {"hanzi": "吧", "pinyin": "ba"}
-    ],
-    "translation": "Está lloviendo, quedémonos en casa."
-},
-{
-    "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
         {"hanzi": "刚", "pinyin": "gāng"},
         {"hanzi": "到", "pinyin": "dào"},
@@ -220,6 +207,7 @@
 }
 
 ]
+
 
 
 
