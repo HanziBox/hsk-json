@@ -92,6 +92,16 @@
     ],
     "translation": "Mañana por la tarde no tienes que venir a trabajar."
 },
+    {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "必", "pinyin": "bì"},
+        {"hanzi": "早", "pinyin": "zǎo"},
+        {"hanzi": "起", "pinyin": "qǐ"}
+    ],
+    "translation": "No tienes que levantarte temprano."
+},
 {
     "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
@@ -193,3 +203,4 @@
 }
 
 ]
+
