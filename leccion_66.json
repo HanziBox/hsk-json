@@ -24,21 +24,6 @@
 },
 {
     "words": [
-        {"hanzi": "今天", "pinyin": "jīntiān"},
-        {"hanzi": "很", "pinyin": "hěn"},
-        {"hanzi": "冷", "pinyin": "lěng"},
-        {"hanzi": "，", "pinyin": ","},
-        {"hanzi": "我们", "pinyin": "wǒmen"},
-        {"hanzi": "就", "pinyin": "jiù"},
-        {"hanzi": "不", "pinyin": "bú"},
-        {"hanzi": "出", "pinyin": "chū"},
-        {"hanzi": "去", "pinyin": "qù"},
-        {"hanzi": "吧", "pinyin": "ba"}
-    ],
-    "translation": "Hoy hace mucho frío, mejor no salgamos."
-},
-{
-    "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "说", "pinyin": "shuō"},
         {"hanzi": "了", "pinyin": "le"},
@@ -69,6 +54,21 @@
         {"hanzi": "去", "pinyin": "qù"}
     ],
     "translation": "Vamos ahora mismo."
+},
+    {
+    "words": [
+        {"hanzi": "今天", "pinyin": "jīntiān"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "冷", "pinyin": "lěng"},
+        {"hanzi": "，", "pinyin": ","},
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "出", "pinyin": "chū"},
+        {"hanzi": "去", "pinyin": "qù"},
+        {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Hoy hace mucho frío, mejor no salgamos."
 },
 {
     "words": [
@@ -246,4 +246,5 @@
     ],
     "translation": "Él se fue justo cuando yo llegué."
 }
+
 ]
