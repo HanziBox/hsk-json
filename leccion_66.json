@@ -136,7 +136,7 @@
         {"hanzi": "大", "pinyin": "dà"},
         {"hanzi": "学", "pinyin": "xué"}
     ],
-    "translation": "Él recién fue a la universidad a los veinte años (tarde)."
+    "translation": "No fue a la universidad hasta los 20 años."
 },
 {
     "words": [
@@ -219,6 +219,7 @@
 }
 
 ]
+
 
 
 
