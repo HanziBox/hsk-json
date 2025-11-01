@@ -202,7 +202,7 @@
         {"hanzi": "才", "pinyin": "cái"},
         {"hanzi": "来", "pinyin": "lái"}
     ],
-    "translation": "Esperé mucho tiempo y (recién) vino."
+    "translation": "Esperé mucho tiempo hasta que vino."
 },
 {
     "words": [
@@ -248,3 +248,4 @@
 }
 
 ]
+
