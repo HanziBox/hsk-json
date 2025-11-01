@@ -16,7 +16,7 @@
         {"hanzi": "吃", "pinyin": "chī"},
         {"hanzi": "苹果", "pinyin": "píngguǒ"}
     ],
-    "translation": "Quieres/vas a comer una manzana."
+    "translation": "Tienes que comer manzanas."
 },
 {
     "words": [
@@ -167,4 +167,5 @@
     ],
     "translation": "Hoy me tienes que ayudar."
 }
+
 ]
