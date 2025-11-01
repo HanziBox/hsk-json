@@ -221,20 +221,6 @@
 },
 {
     "words": [
-        {"hanzi": "你", "pinyin": "nǐ"},
-        {"hanzi": "早", "pinyin": "zǎo"},
-        {"hanzi": "点", "pinyin": "diǎn"},
-        {"hanzi": "睡", "pinyin": "shuì"},
-        {"hanzi": "，", "pinyin": ","},
-        {"hanzi": "明天", "pinyin": "míngtiān"},
-        {"hanzi": "就", "pinyin": "jiù"},
-        {"hanzi": "不", "pinyin": "bú"},
-        {"hanzi": "累", "pinyin": "lèi"}
-    ],
-    "translation": "Acuéstate temprano y mañana no estarás cansado/a."
-},
-{
-    "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
         {"hanzi": "刚", "pinyin": "gāng"},
         {"hanzi": "到", "pinyin": "dào"},
@@ -248,4 +234,5 @@
 }
 
 ]
+
 
