@@ -161,7 +161,7 @@
         {"hanzi": "用", "pinyin": "yòng"},
         {"hanzi": "着急", "pinyin": "zháojí"}
     ],
-    "translation": "Recién son las ocho, no hay prisa."
+    "translation": "Solo son las ocho, no tienes que darte prisa."
 },
 {
     "words": [
@@ -219,6 +219,7 @@
 }
 
 ]
+
 
 
 
