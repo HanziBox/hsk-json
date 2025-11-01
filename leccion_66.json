@@ -98,7 +98,7 @@
         {"hanzi": "才", "pinyin": "cái"},
         {"hanzi": "走", "pinyin": "zǒu"}
     ],
-    "translation": "Solo me iré después de que él llegue."
+    "translation": "No me iré hasta que él llegue."
 },
 {
     "words": [
@@ -219,6 +219,7 @@
 }
 
 ]
+
 
 
 
