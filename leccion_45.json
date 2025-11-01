@@ -77,7 +77,17 @@
         {"hanzi": "的", "pinyin": "de"},
         {"hanzi": "话", "pinyin": "huà"}
     ],
-    "translation": "Debéis escucharme/obedecerme (escuchar mis palabras)."
+    "translation": "Debéis hacerme caso (escuchar mis palabras)."
+},
+    {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "得", "pinyin": "děi"},
+        {"hanzi": "留", "pinyin": "liú"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Tengo que quedarme en casa."
 },
 {
     "words": [
@@ -213,5 +223,6 @@
 }
 
 ]
+
 
 
