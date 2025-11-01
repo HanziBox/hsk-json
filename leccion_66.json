@@ -1,0 +1,249 @@
+[
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "一", "pinyin": "yī"},
+        {"hanzi": "到", "pinyin": "dào"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "饭", "pinyin": "fàn"}
+    ],
+    "translation": "Comeré tan pronto como llegue a casa."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "起", "pinyin": "qǐ"},
+        {"hanzi": "床", "pinyin": "chuáng"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "手机", "pinyin": "shǒujī"}
+    ],
+    "translation": "Él mira el móvil nada más levantarse."
+},
+{
+    "words": [
+        {"hanzi": "今天", "pinyin": "jīntiān"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "冷", "pinyin": "lěng"},
+        {"hanzi": "，", "pinyin": ","},
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "出", "pinyin": "chū"},
+        {"hanzi": "去", "pinyin": "qù"},
+        {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Hoy hace mucho frío, mejor no salgamos."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "说", "pinyin": "shuō"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "明白", "pinyin": "míngbai"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él lo entenderá cuando se lo digas."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "十", "pinyin": "shí"},
+        {"hanzi": "岁", "pinyin": "suì"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "会", "pinyin": "huì"},
+        {"hanzi": "弹", "pinyin": "tán"},
+        {"hanzi": "钢琴", "pinyin": "gāngqín"}
+    ],
+    "translation": "Él ya sabía tocar el piano a los diez años."
+},
+{
+    "words": [
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "现在", "pinyin": "xiànzài"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Vamos ahora mismo."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "喝", "pinyin": "hē"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "咖啡", "pinyin": "kāfēi"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "精神", "pinyin": "jīngshén"}
+    ],
+    "translation": "Se anima/despierta tan pronto como bebe café."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "十", "pinyin": "shí"},
+        {"hanzi": "点", "pinyin": "diǎn"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "起", "pinyin": "qǐ"},
+        {"hanzi": "床", "pinyin": "chuáng"}
+    ],
+    "translation": "Se levantó recién a las diez (tarde)."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "昨天", "pinyin": "zuótiān"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "知道", "pinyin": "zhīdào"},
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "件", "pinyin": "jiàn"},
+        {"hanzi": "事", "pinyin": "shì"}
+    ],
+    "translation": "Recién ayer me enteré de este asunto (tardíamente)."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "来", "pinyin": "lái"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "走", "pinyin": "zǒu"}
+    ],
+    "translation": "Solo me iré después de que él llegue."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "学", "pinyin": "xué"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "三", "pinyin": "sān"},
+        {"hanzi": "年", "pinyin": "nián"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "会", "pinyin": "huì"},
+        {"hanzi": "说", "pinyin": "shuō"},
+        {"hanzi": "中文", "pinyin": "Zhōngwén"}
+    ],
+    "translation": "Solo después de estudiar tres años pude hablar chino (indica esfuerzo o un resultado tardío)."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "饭", "pinyin": "fàn"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "去", "pinyin": "qù"},
+        {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "Solo iré a trabajar después de comer."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "二十", "pinyin": "èrshí"},
+        {"hanzi": "岁", "pinyin": "suì"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "上", "pinyin": "shàng"},
+        {"hanzi": "大", "pinyin": "dà"},
+        {"hanzi": "学", "pinyin": "xué"}
+    ],
+    "translation": "Él recién fue a la universidad a los veinte años (tarde)."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "告诉", "pinyin": "gàosu"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "，", "pinyin": ","},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "明白", "pinyin": "míngbai"}
+    ],
+    "translation": "Solo lo entenderé si me lo dices."
+},
+{
+    "words": [
+        {"hanzi": "现在", "pinyin": "xiànzài"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "八", "pinyin": "bā"},
+        {"hanzi": "点", "pinyin": "diǎn"},
+        {"hanzi": "，", "pinyin": ","},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "用", "pinyin": "yòng"},
+        {"hanzi": "着急", "pinyin": "zháojí"}
+    ],
+    "translation": "Recién son las ocho, no hay prisa."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "走", "pinyin": "zǒu"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "一", "pinyin": "yí"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "小时", "pinyin": "xiǎoshí"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "到", "pinyin": "dào"}
+    ],
+    "translation": "Caminó durante una hora antes de llegar."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "等", "pinyin": "děng"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "久", "pinyin": "jiǔ"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "才", "pinyin": "cái"},
+        {"hanzi": "来", "pinyin": "lái"}
+    ],
+    "translation": "Esperé mucho tiempo y (recién) vino."
+},
+{
+    "words": [
+        {"hanzi": "下雨", "pinyin": "xiàyǔ"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "，", "pinyin": ","},
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "待", "pinyin": "dāi"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "里", "pinyin": "lǐ"},
+        {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Está lloviendo, quedémonos en casa."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "早", "pinyin": "zǎo"},
+        {"hanzi": "点", "pinyin": "diǎn"},
+        {"hanzi": "睡", "pinyin": "shuì"},
+        {"hanzi": "，", "pinyin": ","},
+        {"hanzi": "明天", "pinyin": "míngtiān"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "累", "pinyin": "lèi"}
+    ],
+    "translation": "Acuéstate temprano y mañana no estarás cansado/a."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "刚", "pinyin": "gāng"},
+        {"hanzi": "到", "pinyin": "dào"},
+        {"hanzi": "，", "pinyin": ","},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "走", "pinyin": "zǒu"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él se fue justo cuando yo llegué."
+}
+]
