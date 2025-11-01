@@ -1,0 +1,170 @@
+[
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "今天", "pinyin": "jīntiān"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "去", "pinyin": "qù"},
+        {"hanzi": "公园", "pinyin": "gōngyuán"}
+    ],
+    "translation": "Hoy voy a ir al parque."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "苹果", "pinyin": "píngguǒ"}
+    ],
+    "translation": "Quieres/vas a comer una manzana."
+},
+{
+    "words": [
+        {"hanzi": "学生", "pinyin": "xuésheng"},
+        {"hanzi": "应该", "pinyin": "yīnggāi"},
+        {"hanzi": "学习", "pinyin": "xuéxí"},
+        {"hanzi": "中文", "pinyin": "Zhōngwén"}
+    ],
+    "translation": "Los estudiantes deberían estudiar chino."
+},
+{
+    "words": [
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "得", "pinyin": "děi"},
+        {"hanzi": "回家", "pinyin": "huíjiā"}
+    ],
+    "translation": "Tenemos que volver a casa."
+},
+{
+    "words": [
+        {"hanzi": "今天", "pinyin": "jīntiān"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "去", "pinyin": "qù"},
+        {"hanzi": "商店", "pinyin": "shāngdiàn"}
+    ],
+    "translation": "Hoy no vayas a la tienda."
+},
+{
+    "words": [
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "还是", "pinyin": "háishi"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "电影", "pinyin": "diànyǐng"},
+        {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Será mejor que veamos una película."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "买", "pinyin": "mǎi"},
+        {"hanzi": "蛋糕", "pinyin": "dàngāo"}
+    ],
+    "translation": "Él quiere/va a comprar un pastel."
+},
+{
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "必", "pinyin": "bì"},
+        {"hanzi": "做", "pinyin": "zuò"},
+        {"hanzi": "饭", "pinyin": "fàn"}
+    ],
+    "translation": "Ella no necesita/tiene que cocinar."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "应该", "pinyin": "yīnggāi"},
+        {"hanzi": "穿", "pinyin": "chuān"},
+        {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Deberías ponerte ropa (vestirte)."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "得", "pinyin": "děi"},
+        {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "Tengo que dormir."
+},
+{
+    "words": [
+        {"hanzi": "明天", "pinyin": "míngtiān"},
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "去", "pinyin": "qù"},
+        {"hanzi": "海滩", "pinyin": "hǎitān"}
+    ],
+    "translation": "Mañana vamos a ir a la playa."
+},
+{
+    "words": [
+        {"hanzi": "孩子", "pinyin": "háizi"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "哭", "pinyin": "kū"}
+    ],
+    "translation": "El niño no debe llorar."
+},
+{
+    "words": [
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "必须", "pinyin": "bìxū"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "晚饭", "pinyin": "wǎnfàn"}
+    ],
+    "translation": "Debemos cenar (comer la cena)."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "还是", "pinyin": "háishi"},
+        {"hanzi": "喝", "pinyin": "hē"},
+        {"hanzi": "茶", "pinyin": "chá"},
+        {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Será mejor que bebas té."
+},
+{
+    "words": [
+        {"hanzi": "老师", "pinyin": "lǎoshī"},
+        {"hanzi": "应该", "pinyin": "yīnggāi"},
+        {"hanzi": "问", "pinyin": "wèn"},
+        {"hanzi": "问题", "pinyin": "wèntí"}
+    ],
+    "translation": "El profesor/a debería hacer preguntas."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "丢", "pinyin": "diū"},
+        {"hanzi": "东西", "pinyin": "dōngxi"}
+    ],
+    "translation": "Él no debe tirar cosas."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "得", "pinyin": "děi"},
+        {"hanzi": "洗", "pinyin": "xǐ"},
+        {"hanzi": "手", "pinyin": "shǒu"}
+    ],
+    "translation": "Tengo que lavarme las manos."
+},
+{
+    "words": [
+        {"hanzi": "今天", "pinyin": "jīntiān"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "帮", "pinyin": "bāng"},
+        {"hanzi": "我", "pinyin": "wǒ"}
+    ],
+    "translation": "Hoy me tienes que ayudar."
+}
+]
