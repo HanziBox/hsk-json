@@ -29,6 +29,17 @@
     ],
     "translation": "Tu dinero no está aquí."
 },
+    {
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "商店", "pinyin": "shāngdiàn"},
+        {"hanzi": "买", "pinyin": "mǎi"},
+        {"hanzi": "苹果", "pinyin": "píngguǒ"}
+    ],
+    "translation": "Ella compra manzanas en la tienda."
+    "note": "📋NOTA: Tienda se dice shāngdiàn 商店."
+},
 {
     "words": [
         {"hanzi": "孩子", "pinyin": "háizi"},
@@ -189,6 +200,7 @@
 }
 
 ]
+
 
 
 
