@@ -140,7 +140,7 @@
         {"hanzi": "看", "pinyin": "kàn"},
         {"hanzi": "电视", "pinyin": "diànshì"}
     ],
-    "translation": "Estoy viendo la televisión en casa."
+    "translation": "Veo la televisión en casa."
 },
 {
     "words": [
@@ -182,4 +182,5 @@
     ],
     "translation": "Ella no quiere trabajar."
 }
+
 ]
