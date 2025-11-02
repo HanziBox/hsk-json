@@ -172,15 +172,7 @@
         {"hanzi": "这里", "pinyin": "zhèlǐ"}
     ],
     "translation": "Tu móvil no está aquí."
-},
-{
-    "words": [
-        {"hanzi": "她", "pinyin": "tā"},
-        {"hanzi": "不", "pinyin": "bù"},
-        {"hanzi": "想", "pinyin": "xiǎng"},
-        {"hanzi": "工作", "pinyin": "gōngzuò"}
-    ],
-    "translation": "Ella no quiere trabajar."
 }
 
 ]
+
