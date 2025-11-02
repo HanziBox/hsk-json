@@ -79,6 +79,19 @@
     ],
     "translation": "Mi hermano mayor está en China."
 },
+    {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "今晚", "pinyin": "jīnwǎn"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "饭", "pinyin": "fàn"}
+    ],
+    "translation": "No quiero cenar en casa esta noche."
+},
 {
     "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
@@ -176,6 +189,7 @@
 }
 
 ]
+
 
 
 
