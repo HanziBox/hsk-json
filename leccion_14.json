@@ -31,6 +31,17 @@
 },
     {
     "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "中文", "pinyin": "Zhōngwén"},
+        {"hanzi": "书", "pinyin": "shū"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "那里", "pinyin": "nàli"}
+    ],
+    "translation": "Tu libro de chino está allí."
+},
+    {
+    "words": [
         {"hanzi": "她", "pinyin": "tā"},
         {"hanzi": "在", "pinyin": "zài"},
         {"hanzi": "商店", "pinyin": "shāngdiàn"},
@@ -211,6 +222,7 @@
 }
 
 ]
+
 
 
 
