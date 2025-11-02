@@ -7,6 +7,28 @@
     ],
     "translation": "Los estudiantes están aquí."
 },
+    {
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "做", "pinyin": "zuò"},
+        {"hanzi": "饭", "pinyin": "fàn"}
+    ],
+    "translation": "Ella quiere cocinar en casa."
+},
+    {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "钱", "pinyin": "qián"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "这里", "pinyin": "zhèlǐ"}
+    ],
+    "translation": "Tu dinero no está aquí."
+},
 {
     "words": [
         {"hanzi": "孩子", "pinyin": "háizi"},
@@ -24,17 +46,6 @@
         {"hanzi": "工作", "pinyin": "gōngzuò"}
     ],
     "translation": "Ellos quieren trabajar en Pekín."
-},
-{
-    "words": [
-        {"hanzi": "你", "pinyin": "nǐ"},
-        {"hanzi": "的", "pinyin": "de"},
-        {"hanzi": "钱", "pinyin": "qián"},
-        {"hanzi": "不", "pinyin": "bú"},
-        {"hanzi": "在", "pinyin": "zài"},
-        {"hanzi": "这里", "pinyin": "zhèlǐ"}
-    ],
-    "translation": "Tu dinero no está aquí."
 },
 {
     "words": [
@@ -165,5 +176,6 @@
 }
 
 ]
+
 
 
