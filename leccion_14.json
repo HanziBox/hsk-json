@@ -37,7 +37,7 @@
         {"hanzi": "买", "pinyin": "mǎi"},
         {"hanzi": "苹果", "pinyin": "píngguǒ"}
     ],
-    "translation": "Ella compra manzanas en la tienda."
+    "translation": "Ella compra manzanas en la tienda.",
     "note": "📋NOTA: Tienda se dice shāngdiàn 商店."
 },
 {
@@ -211,6 +211,7 @@
 }
 
 ]
+
 
 
 
