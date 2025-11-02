@@ -11,6 +11,16 @@
     ],
     "translation": "Todos mis amigos irán."
 },
+        {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "是", "pinyin": "shì"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "一切", "pinyin": "yīqiè"}
+    ],
+    "translation": "Lo eres todo para mí (Tú eres mi todo)."
+},
     {
     "words": [
         {"hanzi": "他", "pinyin": "tā"},
@@ -58,13 +68,14 @@
 },
     {
     "words": [
-        {"hanzi": "你", "pinyin": "nǐ"},
-        {"hanzi": "是", "pinyin": "shì"},
-        {"hanzi": "我", "pinyin": "wǒ"},
-        {"hanzi": "的", "pinyin": "de"},
-        {"hanzi": "一切", "pinyin": "yīqiè"}
+        {"hanzi": "孩子", "pinyin": "háizi"},
+        {"hanzi": "哭", "pinyin": "kū"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "一", "pinyin": "yì"},
+        {"hanzi": "整", "pinyin": "zhěng"},
+        {"hanzi": "晚", "pinyin": "wǎn"}
     ],
-    "translation": "Lo eres todo para mí (Tú eres mi todo)."
+    "translation": "El niño/la niña lloró toda la noche."
 },
     {
     "words": [
@@ -219,6 +230,7 @@
 }
 
 ]
+
 
 
 
