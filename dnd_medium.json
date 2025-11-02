@@ -121,6 +121,19 @@
     },
             {
     "words": [
+        {"hanzi": "整", "pinyin": "zhěng"},
+        {"hanzi": "天", "pinyin": "tiān"},
+        {"hanzi": "坐", "pinyin": "zuò"},
+        {"hanzi": "着", "pinyin": "zhe"},
+        {"hanzi": "对", "pinyin": "duì"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "好", "pinyin": "hǎo"}
+    ],
+    "translation": "Estar sentado todo el día no es bueno para ti."
+},
+            {
+    "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "喜欢", "pinyin": "xǐhuān"},
         {"hanzi": "一", "pinyin": "yí"},
@@ -1881,6 +1894,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
