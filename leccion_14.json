@@ -1,0 +1,185 @@
+[
+{
+    "words": [
+        {"hanzi": "学生", "pinyin": "xuésheng"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "这里", "pinyin": "zhèlǐ"}
+    ],
+    "translation": "Los estudiantes están aquí."
+},
+{
+    "words": [
+        {"hanzi": "孩子", "pinyin": "háizi"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "公园", "pinyin": "gōngyuán"}
+    ],
+    "translation": "El niño/La niña está en el parque."
+},
+{
+    "words": [
+        {"hanzi": "他们", "pinyin": "tāmen"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "北京", "pinyin": "Běijīng"},
+        {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "Ellos quieren trabajar en Pekín."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "钱", "pinyin": "qián"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "这里", "pinyin": "zhèlǐ"}
+    ],
+    "translation": "Tu dinero no está aquí."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "手机", "pinyin": "shǒujī"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "那里", "pinyin": "nàli"}
+    ],
+    "translation": "Tu móvil está allí."
+},
+{
+    "words": [
+        {"hanzi": "那", "pinyin": "nà"},
+        {"hanzi": "些", "pinyin": "xiē"},
+        {"hanzi": "猫", "pinyin": "māo"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "睡", "pinyin": "shuì"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "那里", "pinyin": "nàli"}
+    ],
+    "translation": "Esos gatos no quieren dormir allí."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "哥哥", "pinyin": "gēge"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "中国", "pinyin": "Zhōngguó"}
+    ],
+    "translation": "Mi hermano mayor está en China."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "中国", "pinyin": "Zhōngguó"},
+        {"hanzi": "菜", "pinyin": "cài"}
+    ],
+    "translation": "Quiero comer comida china en casa."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "蛋糕", "pinyin": "dàngāo"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "这里", "pinyin": "zhèlǐ"}
+    ],
+    "translation": "Mi pastel no está aquí."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "两", "pinyin": "liǎng"},
+        {"hanzi": "只", "pinyin": "zhī"},
+        {"hanzi": "猫", "pinyin": "māo"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Mis dos gatos no están en casa."
+},
+{
+    "words": [
+        {"hanzi": "你们", "pinyin": "nǐmen"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "票", "pinyin": "piào"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "这里", "pinyin": "zhèlǐ"}
+    ],
+    "translation": "Vuestras entradas/billetes están aquí."
+},
+{
+    "words": [
+        {"hanzi": "她们", "pinyin": "tāmen"},
+        {"hanzi": "住", "pinyin": "zhù"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "北京", "pinyin": "Běijīng"}
+    ],
+    "translation": "Ellas viven en Pekín."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "奶奶", "pinyin": "nǎinai"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Mi abuela (paterna) está en casa."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "电视", "pinyin": "diànshì"}
+    ],
+    "translation": "Estoy viendo la televisión en casa."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "去", "pinyin": "qù"},
+        {"hanzi": "那里", "pinyin": "nàli"}
+    ],
+    "translation": "No quiero ir allí."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "爸爸", "pinyin": "bàba"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "Mi padre trabaja en casa."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "手机", "pinyin": "shǒujī"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "这里", "pinyin": "zhèlǐ"}
+    ],
+    "translation": "Tu móvil no está aquí."
+},
+{
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "Ella no quiere trabajar."
+}
+]
