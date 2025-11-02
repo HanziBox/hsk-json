@@ -13,6 +13,17 @@
 },
         {
     "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "全", "pinyin": "quán"},
+        {"hanzi": "身", "pinyin": "shēn"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "疼", "pinyin": "téng"}
+    ],
+    "translation": "Le duele todo el cuerpo."
+    "note": "📋NOTA: Doler se dice téng 疼."
+},
+        {
+    "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "是", "pinyin": "shì"},
         {"hanzi": "我", "pinyin": "wǒ"},
@@ -230,6 +241,7 @@
 }
 
 ]
+
 
 
 
