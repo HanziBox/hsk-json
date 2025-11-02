@@ -53,6 +53,16 @@
     ],
     "translation": "¿Bebes té todos los días?"
 },
+    {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "是", "pinyin": "shì"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "一切", "pinyin": "yīqiè"}
+    ],
+    "translation": "Tú lo eres todo para mí (Tú eres mi todo)."
+},
 {
     "words": [
         {"hanzi": "这", "pinyin": "zhè"},
@@ -187,3 +197,4 @@
 }
 
 ]
+
