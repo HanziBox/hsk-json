@@ -151,7 +151,7 @@
         {"hanzi": "的", "pinyin": "de"},
         {"hanzi": "票", "pinyin": "piào"}
     ],
-    "translation": "Ella compró todas las entradas/billetes."
+    "translation": "Ella compró todas los entradas."
 },
 {
     "words": [
@@ -185,4 +185,5 @@
     ],
     "translation": "Él quiere entenderlo todo."
 }
+
 ]
