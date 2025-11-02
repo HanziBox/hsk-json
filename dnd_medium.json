@@ -900,7 +900,8 @@
             "words": [
                 { "hanzi": "你", "pinyin": "nǐ" },
                 { "hanzi": "为什么", "pinyin": "wèishéme" },
-                { "hanzi": "不来", "pinyin": "bù lái" },
+                { "hanzi": "不", "pinyin": "bù" },
+                { "hanzi": "来", "pinyin": "lái" },
                 { "hanzi": "找", "pinyin": "zhǎo" },
                 { "hanzi": "我们?", "pinyin": "wǒmen?" }
             ],
@@ -1917,6 +1918,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
