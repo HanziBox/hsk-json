@@ -19,7 +19,7 @@
         {"hanzi": "都", "pinyin": "dōu"},
         {"hanzi": "疼", "pinyin": "téng"}
     ],
-    "translation": "Le duele todo el cuerpo."
+    "translation": "Le duele todo el cuerpo.",
     "note": "📋NOTA: Doler se dice téng 疼."
 },
         {
@@ -241,6 +241,7 @@
 }
 
 ]
+
 
 
 
