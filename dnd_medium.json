@@ -75,6 +75,17 @@
 },
             {
     "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "为", "pinyin": "wèi"},
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "做", "pinyin": "zuò"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "一切", "pinyin": "yīqiè"}
+    ],
+    "translation": "Él hizo todo por ella."
+},
+            {
+    "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "想", "pinyin": "xiǎng"},
         {"hanzi": "尝", "pinyin": "cháng"},
@@ -1870,6 +1881,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
