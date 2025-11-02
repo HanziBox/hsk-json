@@ -109,6 +109,17 @@
     ],
     "translation": "Todas tus cosas están allí."
 },
+    {
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "睡", "pinyin": "shuì"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "一", "pinyin": "yì"},
+        {"hanzi": "整", "pinyin": "zhěng"},
+        {"hanzi": "天", "pinyin": "tiān"}
+    ],
+    "translation": "Ella durmió todo el día."
+},
 {
     "words": [
         {"hanzi": "所有", "pinyin": "suǒyǒu"},
@@ -197,5 +208,6 @@
 }
 
 ]
+
 
 
