@@ -1,0 +1,188 @@
+[
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "知道", "pinyin": "zhīdào"},
+        {"hanzi": "一切", "pinyin": "yīqiè"}
+    ],
+    "translation": "Lo sé todo."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "所有", "pinyin": "suǒyǒu"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "朋友", "pinyin": "péngyou"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "会", "pinyin": "huì"},
+        {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Todos mis amigos irán."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "睡", "pinyin": "shuì"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "整", "pinyin": "zhěng"},
+        {"hanzi": "两", "pinyin": "liǎng"},
+        {"hanzi": "天", "pinyin": "tiān"}
+    ],
+    "translation": "Dormí dos días enteros."
+},
+{
+    "words": [
+        {"hanzi": "大家", "pinyin": "dàjiā"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "说", "pinyin": "shuō"},
+        {"hanzi": "什么", "pinyin": "shénme"},
+        {"hanzi": "呢", "pinyin": "ne"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Qué está diciendo todo el mundo?"
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "每天", "pinyin": "měitiān"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "喝", "pinyin": "hē"},
+        {"hanzi": "茶", "pinyin": "chá"},
+        {"hanzi": "吗", "pinyin": "ma"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Bebes té todos los días?"
+},
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "些", "pinyin": "xiē"},
+        {"hanzi": "菜", "pinyin": "cài"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "全", "pinyin": "quán"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "过", "pinyin": "guo"}
+    ],
+    "translation": "Ya he comido todos estos platos."
+},
+{
+    "words": [
+        {"hanzi": "每天", "pinyin": "měitiān"},
+        {"hanzi": "早上", "pinyin": "zǎoshang"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "喝", "pinyin": "hē"},
+        {"hanzi": "两", "pinyin": "liǎng"},
+        {"hanzi": "杯", "pinyin": "bēi"},
+        {"hanzi": "热", "pinyin": "rè"},
+        {"hanzi": "水", "pinyin": "shuǐ"}
+    ],
+    "translation": "Todas las mañanas bebo dos tazas de agua caliente."
+},
+{
+    "words": [
+        {"hanzi": "大家", "pinyin": "dàjiā"},
+        {"hanzi": "为什么", "pinyin": "wèishénme"},
+        {"hanzi": "笑", "pinyin": "xiào"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Por qué se ríe todo el mundo?"
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "所有", "pinyin": "suǒyǒu"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "东西", "pinyin": "dōngxi"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "那里", "pinyin": "nàli"}
+    ],
+    "translation": "Todas tus cosas están allí."
+},
+{
+    "words": [
+        {"hanzi": "所有", "pinyin": "suǒyǒu"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "门", "pinyin": "mén"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "关", "pinyin": "guān"},
+        {"hanzi": "着", "pinyin": "zhe"}
+    ],
+    "translation": "Todas las puertas están cerradas."
+},
+{
+    "words": [
+        {"hanzi": "每个", "pinyin": "měige"},
+        {"hanzi": "人", "pinyin": "rén"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "有", "pinyin": "yǒu"},
+        {"hanzi": "自己", "pinyin": "zìjǐ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "问题", "pinyin": "wèntí"}
+    ],
+    "translation": "Cada persona tiene sus propios problemas."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "过", "pinyin": "guo"},
+        {"hanzi": "所有", "pinyin": "suǒyǒu"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "电影", "pinyin": "diànyǐng"}
+    ],
+    "translation": "He visto todas las películas."
+},
+{
+    "words": [
+        {"hanzi": "大家", "pinyin": "dàjiā"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "走", "pinyin": "zǒu"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Todo el mundo se fue."
+},
+{
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "买", "pinyin": "mǎi"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "所有", "pinyin": "suǒyǒu"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "票", "pinyin": "piào"}
+    ],
+    "translation": "Ella compró todas las entradas/billetes."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "怎么", "pinyin": "zěnme"},
+        {"hanzi": "全", "pinyin": "quán"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "知道", "pinyin": "zhīdào"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Cómo lo sabes todo?"
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "所有", "pinyin": "suǒyǒu"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "朋友", "pinyin": "péngyou"}
+    ],
+    "translation": "No me gustan todos tus amigos."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "明白", "pinyin": "míngbai"},
+        {"hanzi": "一切", "pinyin": "yīqiè"}
+    ],
+    "translation": "Él quiere entenderlo todo."
+}
+]
