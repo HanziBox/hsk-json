@@ -98,6 +98,29 @@
 },
             {
     "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "也", "pinyin": "yě"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "用", "pinyin": "yòng"},
+        {"hanzi": "说", "pinyin": "shuō"},
+        {"hanzi": "什么", "pinyin": "shénme"}
+    ],
+    "translation": "Tú tampoco tienes que decir nada."
+},
+            {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "也", "pinyin": "yě"},
+        {"hanzi": "可以", "pinyin": "kěyǐ"},
+        {"hanzi": "什么", "pinyin": "shénme"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "说", "pinyin": "shuō"}
+    ],
+    "translation": "También puedes no decir nada."
+},
+            {
+    "words": [
         {"hanzi": "这", "pinyin": "zhè"},
         {"hanzi": "里", "pinyin": "lǐ"},
         {"hanzi": "有", "pinyin": "yǒu"},
@@ -1894,6 +1917,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
