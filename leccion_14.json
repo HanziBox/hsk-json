@@ -58,6 +58,17 @@
     ],
     "translation": "Ellos quieren trabajar en Pekín."
 },
+    {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "狗", "pinyin": "gǒu"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "Tu perro está en casa durmiendo."
+},
 {
     "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
@@ -200,6 +211,7 @@
 }
 
 ]
+
 
 
 
