@@ -145,16 +145,6 @@
 {
     "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
-        {"hanzi": "不", "pinyin": "bù"},
-        {"hanzi": "想", "pinyin": "xiǎng"},
-        {"hanzi": "去", "pinyin": "qù"},
-        {"hanzi": "那里", "pinyin": "nàli"}
-    ],
-    "translation": "No quiero ir allí."
-},
-{
-    "words": [
-        {"hanzi": "我", "pinyin": "wǒ"},
         {"hanzi": "爸爸", "pinyin": "bàba"},
         {"hanzi": "在", "pinyin": "zài"},
         {"hanzi": "家", "pinyin": "jiā"},
@@ -175,4 +165,5 @@
 }
 
 ]
+
 
