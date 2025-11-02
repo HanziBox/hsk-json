@@ -63,6 +63,18 @@
     },
             {
     "words": [
+        {"hanzi": "把", "pinyin": "bǎ"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "知道", "pinyin": "zhīdào"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "告诉", "pinyin": "gàosu"},
+        {"hanzi": "我们", "pinyin": "wǒmen"}
+    ],
+    "translation": "Dinos todo lo que sabes."
+},
+            {
+    "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "想", "pinyin": "xiǎng"},
         {"hanzi": "尝", "pinyin": "cháng"},
@@ -1858,6 +1870,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
