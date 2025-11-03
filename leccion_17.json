@@ -71,6 +71,17 @@
 },
     {
     "words": [
+        {"hanzi": "中国", "pinyin": "Zhōngguó"},
+        {"hanzi": "人", "pinyin": "rén"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "喝", "pinyin": "hē"},
+        {"hanzi": "热", "pinyin": "rè"},
+        {"hanzi": "水", "pinyin": "shuǐ"}
+    ],
+    "translation": "A los chinos les gusta beber agua caliente."
+},
+    {
+    "words": [
         {"hanzi": "她", "pinyin": "tā"},
         {"hanzi": "喜欢", "pinyin": "xǐhuān"},
         {"hanzi": "红", "pinyin": "hóng"},
@@ -219,6 +230,7 @@
 }
 
 ]
+
 
 
 
