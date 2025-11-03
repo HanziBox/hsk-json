@@ -56,6 +56,18 @@
     "translation": "A ella le gusta el té negro.",
     "note": "📋NOTA: El té negro se dice en chino 'té rojo'"
 },
+    {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "那", "pinyin": "nà"},
+        {"hanzi": "只", "pinyin": "zhī"},
+        {"hanzi": "小", "pinyin": "xiǎo"},
+        {"hanzi": "猫", "pinyin": "māo"}
+    ],
+    "translation": "No me gusta ese gatito."
+},
 {
     "words": [
         {"hanzi": "我们", "pinyin": "wǒmen"},
@@ -184,5 +196,6 @@
 }
 
 ]
+
 
 
