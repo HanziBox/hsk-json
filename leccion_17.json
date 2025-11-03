@@ -92,7 +92,8 @@
         {"hanzi": "的", "pinyin": "de"},
         {"hanzi": "衣服", "pinyin": "yīfu"}
     ],
-    "translation": "Me gusta llevar ropa cara."
+    "translation": "Me gusta llevar ropa cara.",
+    "note": "📋NOTA: Llevar puesto o vestir se dice chuān 穿. Memorízalo"
 },
 {
     "words": [
@@ -160,4 +161,5 @@
     ],
     "translation": "Me gusta ese libro rojo."
 }
+
 ]
