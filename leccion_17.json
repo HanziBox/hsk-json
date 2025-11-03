@@ -48,6 +48,17 @@
 },
     {
     "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "朋友", "pinyin": "péngyou"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "我", "pinyin": "wǒ"}
+    ],
+    "translation": "No les gusto a tus amigos."
+},
+    {
+    "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
         {"hanzi": "喜欢", "pinyin": "xǐhuān"},
         {"hanzi": "那", "pinyin": "nà"},
@@ -208,6 +219,7 @@
 }
 
 ]
+
 
 
 
