@@ -1,0 +1,163 @@
+[
+{
+    "words": [
+        {"hanzi": "他们", "pinyin": "tāmen"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "A ellos les gusta leer libros."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "真", "pinyin": "zhēn"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "你", "pinyin": "nǐ"}
+    ],
+    "translation": "Realmente me gustas."
+},
+{
+    "words": [
+        {"hanzi": "他们", "pinyin": "tāmen"},
+        {"hanzi": "非常", "pinyin": "fēicháng"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "钱", "pinyin": "qián"}
+    ],
+    "translation": "A ellos les gusta mucho el dinero."
+},
+{
+    "words": [
+        {"hanzi": "猫", "pinyin": "māo"},
+        {"hanzi": "最", "pinyin": "zuì"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "A los gatos lo que más les gusta es dormir."
+},
+{
+    "words": [
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "A nosotros no nos gusta trabajar."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "长", "pinyin": "cháng"},
+        {"hanzi": "头发", "pinyin": "tóufa"}
+    ],
+    "translation": "A él le gusta mucho el pelo largo."
+},
+{
+    "words": [
+        {"hanzi": "哥哥", "pinyin": "gēge"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "黑", "pinyin": "hēi"},
+        {"hanzi": "猫", "pinyin": "māo"}
+    ],
+    "translation": "A mi hermano mayor no le gustan los gatos negros."
+},
+{
+    "words": [
+        {"hanzi": "妈妈", "pinyin": "māma"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "开车", "pinyin": "kāichē"}
+    ],
+    "translation": "A mamá no le gusta conducir."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "喝", "pinyin": "hē"},
+        {"hanzi": "冷", "pinyin": "lěng"},
+        {"hanzi": "茶", "pinyin": "chá"}
+    ],
+    "translation": "A él le gusta beber té frío."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "穿", "pinyin": "chuān"},
+        {"hanzi": "贵", "pinyin": "guì"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Me gusta llevar ropa cara."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "太", "pinyin": "tài"},
+        {"hanzi": "忙", "pinyin": "máng"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "No me gusta la gente demasiado ocupada."
+},
+{
+    "words": [
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "电视", "pinyin": "diànshì"}
+    ],
+    "translation": "No nos gusta ver la televisión."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "聪明", "pinyin": "cōngming"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "Me gusta la gente inteligente."
+},
+{
+    "words": [
+        {"hanzi": "爸爸", "pinyin": "bàba"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "A papá le gusta mucho su trabajo."
+},
+{
+    "words": [
+        {"hanzi": "奶奶", "pinyin": "nǎinai"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "中国", "pinyin": "Zhōngguó"},
+        {"hanzi": "菜", "pinyin": "cài"}
+    ],
+    "translation": "A la abuela (paterna) le gusta mucho la comida china."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "那", "pinyin": "nà"},
+        {"hanzi": "本", "pinyin": "běn"},
+        {"hanzi": "红", "pinyin": "hóng"},
+        {"hanzi": "色", "pinyin": "sè"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "Me gusta ese libro rojo."
+}
+]
