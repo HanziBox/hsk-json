@@ -48,6 +48,18 @@
 },
     {
     "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "那", "pinyin": "nà"},
+        {"hanzi": "两", "pinyin": "liǎng"},
+        {"hanzi": "件", "pinyin": "jiàn"},
+        {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Me gustan esas dos prendas (de ropa)",
+    "note": "📋NOTA: El clasificador para ropa es jiàn 件 (prenda)"
+},
+    {
+    "words": [
         {"hanzi": "她", "pinyin": "tā"},
         {"hanzi": "喜欢", "pinyin": "xǐhuān"},
         {"hanzi": "红", "pinyin": "hóng"},
@@ -196,6 +208,7 @@
 }
 
 ]
+
 
 
 
