@@ -46,6 +46,16 @@
     ],
     "translation": "A los gatos lo que más les gusta es dormir."
 },
+    {
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "红", "pinyin": "hóng"},
+        {"hanzi": "茶", "pinyin": "chá"}
+    ],
+    "translation": "A ella le gusta el té negro.",
+    "note": "📋NOTA: El té negro se dice en chino 'té rojo'"
+},
 {
     "words": [
         {"hanzi": "我们", "pinyin": "wǒmen"},
@@ -174,4 +184,5 @@
 }
 
 ]
+
 
