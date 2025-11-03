@@ -8,6 +8,17 @@
     ],
     "translation": "A ellos les gusta leer libros."
 },
+    {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "那", "pinyin": "nà"},
+        {"hanzi": "些", "pinyin": "xiē"},
+        {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "No me gusta esa gente (esas personas)."
+},
 {
     "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
@@ -163,3 +174,4 @@
 }
 
 ]
+
