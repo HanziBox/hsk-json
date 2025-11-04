@@ -1,0 +1,195 @@
+[
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "些", "pinyin": "xiē"},
+        {"hanzi": "小", "pinyin": "xiǎo"},
+        {"hanzi": "猫", "pinyin": "māo"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "黑", "pinyin": "hēi"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "可爱", "pinyin": "kě'ài"}
+    ],
+    "translation": "Estos gatitos son negros y (además) muy lindos."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "一", "pinyin": "yì"},
+        {"hanzi": "起", "pinyin": "qǐ"},
+        {"hanzi": "喝", "pinyin": "hē"},
+        {"hanzi": "茶", "pinyin": "chá"}
+    ],
+    "translation": "Yo bebo té con ella."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "说", "pinyin": "shuō"},
+        {"hanzi": "话", "pinyin": "huà"}
+    ],
+    "translation": "Yo quiero hablar con ella."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "妈妈", "pinyin": "māma"},
+        {"hanzi": "一", "pinyin": "yì"},
+        {"hanzi": "起", "pinyin": "qǐ"},
+        {"hanzi": "回", "pinyin": "huí"},
+        {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Yo vuelvo a casa con mamá."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "聪明", "pinyin": "cōngming"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "帅", "pinyin": "shuài"}
+    ],
+    "translation": "Él es inteligente y (además) guapo."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "男", "pinyin": "nán"},
+        {"hanzi": "朋友", "pinyin": "péngyou"},
+        {"hanzi": "爱", "pinyin": "ài"},
+        {"hanzi": "喝", "pinyin": "hē"},
+        {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "A mi novio y a mí nos encanta beber café."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "北京", "pinyin": "Běijīng"}
+    ],
+    "translation": "Él y yo estamos en Pekín."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "肉", "pinyin": "ròu"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "米饭", "pinyin": "mǐfàn"}
+    ],
+    "translation": "Me gusta comer carne y arroz."
+},
+{
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "男", "pinyin": "nán"},
+        {"hanzi": "朋友", "pinyin": "péngyou"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "高", "pinyin": "gāo"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "帅", "pinyin": "shuài"}
+    ],
+    "translation": "Su novio es alto y (además) guapo."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "是", "pinyin": "shì"},
+        {"hanzi": "中国", "pinyin": "Zhōngguó"},
+        {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "Tanto ella como yo somos chinos."
+},
+{
+    "words": [
+        {"hanzi": "上海", "pinyin": "Shànghǎi"},
+        {"hanzi": "菜", "pinyin": "cài"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "好", "pinyin": "hǎo"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "便宜", "pinyin": "piányi"}
+    ],
+    "translation": "La comida de Shanghái es buena y (además) barata."
+},
+{
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "跟", "pinyin": "gēn"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "一", "pinyin": "yì"},
+        {"hanzi": "起", "pinyin": "qǐ"},
+        {"hanzi": "睡", "pinyin": "shuì"},
+        {"hanzi": "觉", "pinyin": "jiào"}
+    ],
+    "translation": "Ella duerme conmigo."
+},
+{
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "累", "pinyin": "lèi"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "忙", "pinyin": "máng"}
+    ],
+    "translation": "Estás cansado y (además) ocupado."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "认识", "pinyin": "rènshi"},
+        {"hanzi": "他们", "pinyin": "tāmen"}
+    ],
+    "translation": "Tanto tú como yo les conocemos."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "跟", "pinyin": "gēn"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "说", "pinyin": "shuō"},
+        {"hanzi": "话", "pinyin": "huà"}
+    ],
+    "translation": "Yo hablo con él."
+},
+{
+    "words": [
+        {"hanzi": "那里", "pinyin": "nàli"},
+        {"hanzi": "有", "pinyin": "yǒu"},
+        {"hanzi": "啤酒", "pinyin": "píjiǔ"},
+        {"hanzi": "和", "pinyin": "hé"},
+        {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "Allí hay cerveza y café."
+},
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "房子", "pinyin": "fángzi"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "大", "pinyin": "dà"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "便宜", "pinyin": "piányi"}
+    ],
+    "translation": "Esta casa es grande y (además) barata."
+}
+]
