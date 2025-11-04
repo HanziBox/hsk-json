@@ -9,7 +9,7 @@
         {"hanzi": "喝", "pinyin": "hē"},
         {"hanzi": "茶", "pinyin": "chá"}
     ],
-    "translation": "Yo bebo té con ella."
+    "translation": "Bebo té con ella."
 },
 {
     "words": [
@@ -20,7 +20,7 @@
         {"hanzi": "说", "pinyin": "shuō"},
         {"hanzi": "话", "pinyin": "huà"}
     ],
-    "translation": "Yo quiero hablar con ella."
+    "translation": "Quiero hablar con ella."
 },
 {
     "words": [
@@ -32,7 +32,7 @@
         {"hanzi": "回", "pinyin": "huí"},
         {"hanzi": "家", "pinyin": "jiā"}
     ],
-    "translation": "Yo vuelvo a casa con mamá."
+    "translation": "Vuelvo a casa con mamá."
 },
 {
     "words": [
@@ -158,7 +158,7 @@
         {"hanzi": "认识", "pinyin": "rènshi"},
         {"hanzi": "他们", "pinyin": "tāmen"}
     ],
-    "translation": "Tanto tú como yo les conocemos."
+    "translation": "Tanto tú como yo los conocemos."
 },
 {
     "words": [
@@ -168,7 +168,7 @@
         {"hanzi": "说", "pinyin": "shuō"},
         {"hanzi": "话", "pinyin": "huà"}
     ],
-    "translation": "Yo hablo con él."
+    "translation": "Hablo con él."
 },
 {
     "words": [
@@ -194,3 +194,4 @@
 }
 
 ]
+
