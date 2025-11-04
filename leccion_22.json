@@ -1,19 +1,6 @@
 [
 {
     "words": [
-        {"hanzi": "这", "pinyin": "zhè"},
-        {"hanzi": "些", "pinyin": "xiē"},
-        {"hanzi": "小", "pinyin": "xiǎo"},
-        {"hanzi": "猫", "pinyin": "māo"},
-        {"hanzi": "又", "pinyin": "yòu"},
-        {"hanzi": "黑", "pinyin": "hēi"},
-        {"hanzi": "又", "pinyin": "yòu"},
-        {"hanzi": "可爱", "pinyin": "kě'ài"}
-    ],
-    "translation": "Estos gatitos son negros y (además) muy lindos."
-},
-{
-    "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
         {"hanzi": "和", "pinyin": "hé"},
         {"hanzi": "她", "pinyin": "tā"},
@@ -91,6 +78,19 @@
         {"hanzi": "米饭", "pinyin": "mǐfàn"}
     ],
     "translation": "Me gusta comer carne y arroz."
+},
+    {
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "些", "pinyin": "xiē"},
+        {"hanzi": "小", "pinyin": "xiǎo"},
+        {"hanzi": "猫", "pinyin": "māo"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "黑", "pinyin": "hēi"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "可爱", "pinyin": "kě'ài"}
+    ],
+    "translation": "Estos gatitos son negros y (además) muy lindos."
 },
 {
     "words": [
@@ -192,4 +192,5 @@
     ],
     "translation": "Esta casa es grande y (además) barata."
 }
+
 ]
