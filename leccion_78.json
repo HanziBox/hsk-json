@@ -323,7 +323,8 @@
         {"hanzi": "不", "pinyin": "bú"},
         {"hanzi": "错", "pinyin": "cuò"}
     ],
-    "translation": "Su sugerencia suena bien/parece buena."
+    "translation": "Su sugerencia suena bien/parece buena.",
+    "note": "NOTA: Sugerencia se dice jiànyì 建议."
 },
 {
     "words": [
@@ -362,5 +363,6 @@
 }
 
 ]
+
 
 
