@@ -9,7 +9,8 @@
         {"hanzi": "收", "pinyin": "shōu"},
         {"hanzi": "起来", "pinyin": "qǐlái"}
     ],
-    "translation": "Recoge todos estos juguetes."
+    "translation": "Recoge todos estos juguetes.",
+    "note": "NOTA: Juguete se dice wánjù 玩具."
 },
     {
     "words": [
@@ -361,4 +362,5 @@
 }
 
 ]
+
 
