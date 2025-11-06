@@ -133,7 +133,8 @@
         {"hanzi": "好", "pinyin": "hǎo"},
         {"hanzi": "办法", "pinyin": "bànfǎ"}
     ],
-    "translation": "De repente se me ocurrió una buena idea."
+    "translation": "De repente se me ocurrió una buena forma.",
+    "note": "NOTA: bànfǎ 办法 es forma o manera (de solucionar algo)."
 },
 {
     "words": [
@@ -366,6 +367,7 @@
 }
 
 ]
+
 
 
 
