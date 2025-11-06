@@ -178,13 +178,13 @@
         {"hanzi": "听", "pinyin": "tīng"},
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "说", "pinyin": "shuō"},
-        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "起来,", "pinyin": "qǐlái,"},
         {"hanzi": "好像", "pinyin": "hǎoxiàng"},
         {"hanzi": "很", "pinyin": "hěn"},
-        {"hanzi": "有", "pinyin": "yǒu"},
-        {"hanzi": "意思", "pinyin": "yìsi"}
+        {"hanzi": "有意思", "pinyin": "yǒuyìsi"}
     ],
-    "translation": "Por lo que dices (al escucharte hablar), parece muy interesante."
+    "translation": "Por lo que dices (al escucharte hablar), parece muy interesante.",
+    "note": "NOTA: hǎoxiàng 好像 es parecer, ser como."
 },
 {
     "words": [
@@ -369,6 +369,7 @@
 }
 
 ]
+
 
 
 
