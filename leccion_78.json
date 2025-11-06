@@ -231,7 +231,8 @@
         {"hanzi": "不", "pinyin": "bù"},
         {"hanzi": "起来", "pinyin": "qǐlái"}
     ],
-    "translation": "No puedo recordar cómo se escribe ese carácter."
+    "translation": "No puedo recordar cómo se escribe ese carácter.",
+    "note": "NOTA: Topicaliza en este caso; el objeto primero."
 },
 {
     "words": [
@@ -365,6 +366,7 @@
 }
 
 ]
+
 
 
 
