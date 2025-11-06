@@ -10,6 +10,30 @@
     ],
     "translation": "Me levanto a las seis de la mañana."
 },
+    {
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "问题", "pinyin": "wèntí"},
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "难", "pinyin": "nán"}
+    ],
+    "translation": "Este problema suena/parece muy difícil."
+},
+    {
+    "words": [
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "到", "pinyin": "dào"},
+        {"hanzi": "音乐", "pinyin": "yīnyuè"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "跳", "pinyin": "tiào"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Al escuchar la música, él comenzó a bailar."
+},
 {
     "words": [
         {"hanzi": "他", "pinyin": "tā"},
@@ -20,19 +44,6 @@
         {"hanzi": "起来", "pinyin": "qǐlái"}
     ],
     "translation": "Él se levantó de la silla."
-},
-{
-    "words": [
-        {"hanzi": "孩子", "pinyin": "háizi"},
-        {"hanzi": "们", "pinyin": "men"},
-        {"hanzi": "听", "pinyin": "tīng"},
-        {"hanzi": "到", "pinyin": "dào"},
-        {"hanzi": "铃声", "pinyin": "língshēng"},
-        {"hanzi": "就", "pinyin": "jiù"},
-        {"hanzi": "跑", "pinyin": "pǎo"},
-        {"hanzi": "起来", "pinyin": "qǐlái"}
-    ],
-    "translation": "Los niños empezaron a correr nada más oír el timbre."
 },
 {
     "words": [
@@ -71,6 +82,19 @@
     ],
     "translation": "Esta contraseña es demasiado complicada, no puedo recordarla."
 },
+    {
+    "words": [
+        {"hanzi": "孩子", "pinyin": "háizi"},
+        {"hanzi": "们", "pinyin": "men"},
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "到", "pinyin": "dào"},
+        {"hanzi": "铃声", "pinyin": "língshēng"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "跑", "pinyin": "pǎo"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Los niños empezaron a correr nada más oír el timbre."
+},
 {
     "words": [
         {"hanzi": "他", "pinyin": "tā"},
@@ -99,18 +123,6 @@
 },
 {
     "words": [
-        {"hanzi": "听", "pinyin": "tīng"},
-        {"hanzi": "到", "pinyin": "dào"},
-        {"hanzi": "音乐", "pinyin": "yīnyuè"},
-        {"hanzi": "他", "pinyin": "tā"},
-        {"hanzi": "跳", "pinyin": "tiào"},
-        {"hanzi": "起来", "pinyin": "qǐlái"},
-        {"hanzi": "了", "pinyin": "le"}
-    ],
-    "translation": "Al escuchar la música, él se levantó a bailar (o se levantó de un salto)."
-},
-{
-    "words": [
         {"hanzi": "那", "pinyin": "nà"},
         {"hanzi": "件", "pinyin": "jiàn"},
         {"hanzi": "衣服", "pinyin": "yīfu"},
@@ -120,18 +132,6 @@
         {"hanzi": "贵", "pinyin": "guì"}
     ],
     "translation": "Esa ropa/prenda no parece cara."
-},
-{
-    "words": [
-        {"hanzi": "这", "pinyin": "zhè"},
-        {"hanzi": "个", "pinyin": "gè"},
-        {"hanzi": "问题", "pinyin": "wèntí"},
-        {"hanzi": "听", "pinyin": "tīng"},
-        {"hanzi": "起来", "pinyin": "qǐlái"},
-        {"hanzi": "很", "pinyin": "hěn"},
-        {"hanzi": "难", "pinyin": "nán"}
-    ],
-    "translation": "Este problema suena/parece muy difícil."
 },
 {
     "words": [
@@ -288,7 +288,7 @@
         {"hanzi": "歌", "pinyin": "gē"},
         {"hanzi": "来", "pinyin": "lái"}
     ],
-    "translation": "De repente, él se puso a cantar."
+    "translation": "De repente, empezó a cantar."
 },
 {
     "words": [
@@ -348,4 +348,5 @@
     ],
     "translation": "Este pescado no huele bien."
 }
+
 ]
