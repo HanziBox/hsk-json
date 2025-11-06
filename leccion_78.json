@@ -246,7 +246,8 @@
         {"hanzi": "不", "pinyin": "bù"},
         {"hanzi": "起来", "pinyin": "qǐlái"}
     ],
-    "translation": "La caja es demasiado pesada, no puedo levantarla (recogerla)."
+    "translation": "La caja es demasiado pesada, no puedo levantarla (recogerla).",
+    "note": "NOTA: Caja se dice xiāngzi 箱子. Pesado es zhòng 重."
 },
 {
     "words": [
@@ -367,6 +368,7 @@
 }
 
 ]
+
 
 
 
