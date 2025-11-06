@@ -259,7 +259,8 @@
         {"hanzi": "很", "pinyin": "hěn"},
         {"hanzi": "香", "pinyin": "xiāng"}
     ],
-    "translation": "Este plato huele muy bien/aromático."
+    "translation": "Este plato huele muy bien.",
+    "note": "NOTA: dào 道 es también un clasificador para platos o raciones."
 },
 {
     "words": [
@@ -368,6 +369,7 @@
 }
 
 ]
+
 
 
 
