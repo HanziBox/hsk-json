@@ -82,7 +82,8 @@
         {"hanzi": "不", "pinyin": "bù"},
         {"hanzi": "起来", "pinyin": "qǐlái"}
     ],
-    "translation": "Esta contraseña es demasiado complicada, no puedo recordarla."
+    "translation": "Esta contraseña es demasiado complicada, no puedo recordarla.",
+    "note": "NOTA: Contraseña se dice mìmǎ 密码."
 },
     {
     "words": [
@@ -363,6 +364,7 @@
 }
 
 ]
+
 
 
 
