@@ -1,0 +1,351 @@
+[
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "早上", "pinyin": "zǎoshang"},
+        {"hanzi": "六", "pinyin": "liù"},
+        {"hanzi": "点", "pinyin": "diǎn"},
+        {"hanzi": "起", "pinyin": "qǐ"},
+        {"hanzi": "床", "pinyin": "chuáng"}
+    ],
+    "translation": "Me levanto a las seis de la mañana."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "从", "pinyin": "cóng"},
+        {"hanzi": "椅子", "pinyin": "yǐzi"},
+        {"hanzi": "上", "pinyin": "shàng"},
+        {"hanzi": "站", "pinyin": "zhàn"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Él se levantó de la silla."
+},
+{
+    "words": [
+        {"hanzi": "孩子", "pinyin": "háizi"},
+        {"hanzi": "们", "pinyin": "men"},
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "到", "pinyin": "dào"},
+        {"hanzi": "铃声", "pinyin": "língshēng"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "跑", "pinyin": "pǎo"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Los niños empezaron a correr nada más oír el timbre."
+},
+{
+    "words": [
+        {"hanzi": "猫", "pinyin": "māo"},
+        {"hanzi": "从", "pinyin": "cóng"},
+        {"hanzi": "地上", "pinyin": "dìshang"},
+        {"hanzi": "跳", "pinyin": "tiào"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "El gato saltó del suelo (se levantó de un salto)."
+},
+{
+    "words": [
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "话", "pinyin": "huà"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Al escucharle, lo recordé."
+},
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "密码", "pinyin": "mìmǎ"},
+        {"hanzi": "太", "pinyin": "tài"},
+        {"hanzi": "复杂", "pinyin": "fùzá"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "记", "pinyin": "jì"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Esta contraseña es demasiado complicada, no puedo recordarla."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "说", "pinyin": "shuō"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "话", "pinyin": "huà"},
+        {"hanzi": "让", "pinyin": "ràng"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "笑", "pinyin": "xiào"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Lo que dijo me hizo reír."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "突然", "pinyin": "tūrán"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "一", "pinyin": "yí"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "好", "pinyin": "hǎo"},
+        {"hanzi": "办法", "pinyin": "bànfǎ"}
+    ],
+    "translation": "De repente se me ocurrió una buena idea."
+},
+{
+    "words": [
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "到", "pinyin": "dào"},
+        {"hanzi": "音乐", "pinyin": "yīnyuè"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "跳", "pinyin": "tiào"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Al escuchar la música, él se levantó a bailar (o se levantó de un salto)."
+},
+{
+    "words": [
+        {"hanzi": "那", "pinyin": "nà"},
+        {"hanzi": "件", "pinyin": "jiàn"},
+        {"hanzi": "衣服", "pinyin": "yīfu"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "贵", "pinyin": "guì"}
+    ],
+    "translation": "Esa ropa/prenda no parece cara."
+},
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "问题", "pinyin": "wèntí"},
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "难", "pinyin": "nán"}
+    ],
+    "translation": "Este problema suena/parece muy difícil."
+},
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "计划", "pinyin": "jìhuà"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "错", "pinyin": "cuò"}
+    ],
+    "translation": "Este plan parece bueno."
+},
+{
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "记", "pinyin": "jì"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "电话", "pinyin": "diànhuà"},
+        {"hanzi": "号码", "pinyin": "hàomǎ"}
+    ],
+    "translation": "No puedo recordar su número de teléfono."
+},
+{
+    "words": [
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "说", "pinyin": "shuō"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "好像", "pinyin": "hǎoxiàng"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "有", "pinyin": "yǒu"},
+        {"hanzi": "意思", "pinyin": "yìsi"}
+    ],
+    "translation": "Por lo que dices (al escucharte hablar), parece muy interesante."
+},
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "件", "pinyin": "jiàn"},
+        {"hanzi": "衣服", "pinyin": "yīfu"},
+        {"hanzi": "摸", "pinyin": "mō"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "软", "pinyin": "ruǎn"}
+    ],
+    "translation": "Esta prenda se siente muy suave al tacto."
+},
+{
+    "words": [
+        {"hanzi": "请", "pinyin": "qǐng"},
+        {"hanzi": "把", "pinyin": "bǎ"},
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "些", "pinyin": "xiē"},
+        {"hanzi": "玩具", "pinyin": "wánjù"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "收", "pinyin": "shōu"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Por favor, recoge todos estos juguetes."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "声音", "pinyin": "shēngyīn"},
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "温柔", "pinyin": "wēnróu"}
+    ],
+    "translation": "Su voz suena muy suave/tierna."
+},
+{
+    "words": [
+        {"hanzi": "那", "pinyin": "nà"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "字", "pinyin": "zì"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "写", "pinyin": "xiě"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "No puedo recordar cómo se escribe ese carácter."
+},
+{
+    "words": [
+        {"hanzi": "箱子", "pinyin": "xiāngzi"},
+        {"hanzi": "太", "pinyin": "tài"},
+        {"hanzi": "重", "pinyin": "zhòng"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "捡", "pinyin": "jiǎn"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "La caja es demasiado pesada, no puedo levantarla (recogerla)."
+},
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "道", "pinyin": "dào"},
+        {"hanzi": "菜", "pinyin": "cài"},
+        {"hanzi": "闻", "pinyin": "wén"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "香", "pinyin": "xiāng"}
+    ],
+    "translation": "Este plato huele muy bien/aromático."
+},
+{
+    "words": [
+        {"hanzi": "大家", "pinyin": "dàjiā"},
+        {"hanzi": "没", "pinyin": "méi"},
+        {"hanzi": "笑", "pinyin": "xiào"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Nadie se echó a reír."
+},
+{
+    "words": [
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "到", "pinyin": "dào"},
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "消息", "pinyin": "xiāoxi"},
+        {"hanzi": "大家", "pinyin": "dàjiā"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "哭", "pinyin": "kū"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Al escuchar esta noticia, todo el mundo se echó a llorar."
+},
+{
+    "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "笑", "pinyin": "xiào"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "可爱", "pinyin": "kě'ài"}
+    ],
+    "translation": "Ella es muy linda cuando se ríe."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "突然", "pinyin": "tūrán"},
+        {"hanzi": "唱", "pinyin": "chàng"},
+        {"hanzi": "起", "pinyin": "qǐ"},
+        {"hanzi": "歌", "pinyin": "gē"},
+        {"hanzi": "来", "pinyin": "lái"}
+    ],
+    "translation": "De repente, él se puso a cantar."
+},
+{
+    "words": [
+        {"hanzi": "厨房", "pinyin": "chúfáng"},
+        {"hanzi": "里", "pinyin": "lǐ"},
+        {"hanzi": "闻", "pinyin": "wén"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "像", "pinyin": "xiàng"},
+        {"hanzi": "面包", "pinyin": "miànbāo"}
+    ],
+    "translation": "La cocina huele (como) a pan."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "建议", "pinyin": "jiànyì"},
+        {"hanzi": "听", "pinyin": "tīng"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "错", "pinyin": "cuò"}
+    ],
+    "translation": "Su sugerencia suena bien/parece buena."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "还", "pinyin": "hái"},
+        {"hanzi": "没", "pinyin": "méi"},
+        {"hanzi": "站", "pinyin": "zhàn"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Él aún no se ha levantado."
+},
+{
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "话", "pinyin": "huà"},
+        {"hanzi": "没", "pinyin": "méi"},
+        {"hanzi": "让", "pinyin": "ràng"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "笑", "pinyin": "xiào"},
+        {"hanzi": "起来", "pinyin": "qǐlái"}
+    ],
+    "translation": "Lo que él dijo no me hizo reír."
+},
+{
+    "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "条", "pinyin": "tiáo"},
+        {"hanzi": "鱼", "pinyin": "yú"},
+        {"hanzi": "闻", "pinyin": "wén"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "香", "pinyin": "xiāng"}
+    ],
+    "translation": "Este pescado no huele bien."
+}
+]
