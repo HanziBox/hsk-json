@@ -301,7 +301,8 @@
         {"hanzi": "歌", "pinyin": "gē"},
         {"hanzi": "来", "pinyin": "lái"}
     ],
-    "translation": "De repente, empezó a cantar."
+    "translation": "De repente, empezó a cantar.",
+    "note": "NOTA: Chànggē 唱歌 (cantar) es un verbo compuesto. ¡Ojo con el objeto!."
 },
 {
     "words": [
@@ -364,6 +365,7 @@
 }
 
 ]
+
 
 
 
