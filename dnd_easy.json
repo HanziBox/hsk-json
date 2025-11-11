@@ -18,6 +18,16 @@
         ],
         "translation": "¿Sois amigos?"
     },
+          {
+    "words": [
+      { "hanzi": "我", "pinyin": "wǒ" },
+      { "hanzi": "不", "pinyin": "bù" },
+      { "hanzi": "想", "pinyin": "xiǎng" },
+      { "hanzi": "做", "pinyin": "zuò" },
+      { "hanzi": "这个", "pinyin": "zhège" }
+    ],
+    "translation": "No quiero hacer esto."
+  },
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -83,16 +93,6 @@
             ],
             "translation": "Me gustan ellas."
         },
-        {
-    "words": [
-      { "hanzi": "我", "pinyin": "wǒ" },
-      { "hanzi": "不", "pinyin": "bù" },
-      { "hanzi": "想", "pinyin": "xiǎng" },
-      { "hanzi": "做", "pinyin": "zuò" },
-      { "hanzi": "这个", "pinyin": "zhège" }
-    ],
-    "translation": "No quiero hacer esto."
-  },
         {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -1021,6 +1021,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
