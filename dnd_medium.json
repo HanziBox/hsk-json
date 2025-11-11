@@ -121,6 +121,18 @@
 },
             {
     "words": [
+        {"hanzi": "大家", "pinyin": "dàjiā"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "必须", "pinyin": "bìxū"},
+        {"hanzi": "知道", "pinyin": "zhīdào"},
+        {"hanzi": "一", "pinyin": "yí"},
+        {"hanzi": "件", "pinyin": "jiàn"},
+        {"hanzi": "事", "pinyin": "shì"}
+    ],
+    "translation": "Todo el mundo debe saber una cosa."
+},
+            {
+    "words": [
         {"hanzi": "这", "pinyin": "zhè"},
         {"hanzi": "里", "pinyin": "lǐ"},
         {"hanzi": "有", "pinyin": "yǒu"},
@@ -1918,6 +1930,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
