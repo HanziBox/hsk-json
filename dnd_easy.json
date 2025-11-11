@@ -63,6 +63,16 @@
         ],
         "translation": "Ella se parece mucho a su madre."
     },
+                {
+            "words": [
+                { "hanzi": "我们", "pinyin": "wǒmen" },
+                { "hanzi": "明天", "pinyin": "míngtiān" },
+                { "hanzi": "在", "pinyin": "zài" },
+                { "hanzi": "办公室", "pinyin": "bàngōngshì" },
+                { "hanzi": "睡觉", "pinyin": "shuìjiào" }
+            ],
+            "translation": "Mañana dormimos en la oficina."
+        },
             {
         "words": [
             {"hanzi": "你们", "pinyin": "nǐmen"},
@@ -1011,6 +1021,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
