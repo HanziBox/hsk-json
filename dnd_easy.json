@@ -1,12 +1,23 @@
 [
-        {
+                {
             "words": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
-                { "hanzi": "她们", "pinyin": "tāmen" }
+                { "hanzi": "房间", "pinyin": "fángjiān" },
+                { "hanzi": "里", "pinyin": "lǐ" },
+                { "hanzi": "没有", "pinyin": "méiyǒu" },
+                { "hanzi": "人", "pinyin": "rén" }
             ],
-            "translation": "Me gustan ellas."
+            "translation": "No hay nadie en la habitación."
         },
+                    {
+        "words": [
+            {"hanzi": "你们", "pinyin": "nǐmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "朋友", "pinyin": "péngyou"},
+            {"hanzi": "吗", "pinyin": "ma"},
+            {"hanzi": "？", "pinyin": "?"}
+        ],
+        "translation": "¿Sois amigos?"
+    },
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -25,15 +36,6 @@
                 { "hanzi": "工作", "pinyin": "gōngzuò" }
             ],
             "translation": "He tenido muchos trabajos."
-        },
-        {
-            "words": [
-                { "hanzi": "房间", "pinyin": "fángjiān" },
-                { "hanzi": "里", "pinyin": "lǐ" },
-                { "hanzi": "没有", "pinyin": "méiyǒu" },
-                { "hanzi": "人", "pinyin": "rén" }
-            ],
-            "translation": "No hay nadie en la habitación."
         },
         {
             "words": [
@@ -73,16 +75,14 @@
             ],
             "translation": "Mañana dormimos en la oficina."
         },
-            {
-        "words": [
-            {"hanzi": "你们", "pinyin": "nǐmen"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "朋友", "pinyin": "péngyou"},
-            {"hanzi": "吗", "pinyin": "ma"},
-            {"hanzi": "？", "pinyin": "?"}
-        ],
-        "translation": "¿Sois (vosotros) amigos?"
-    },
+                {
+            "words": [
+                { "hanzi": "我", "pinyin": "wǒ" },
+                { "hanzi": "喜欢", "pinyin": "xǐhuān" },
+                { "hanzi": "她们", "pinyin": "tāmen" }
+            ],
+            "translation": "Me gustan ellas."
+        },
         {
     "words": [
       { "hanzi": "我", "pinyin": "wǒ" },
@@ -1021,6 +1021,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
