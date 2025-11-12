@@ -75,6 +75,16 @@
         ],
         "translation": "Ella se parece mucho a su madre."
     },
+  {
+    "words": [
+        {"hanzi": "您", "pinyin": "nín"},
+        {"hanzi": "住", "pinyin": "zhù"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "哪里", "pinyin": "nǎlǐ"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Dónde vive (usted)?"
+},
                 {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
@@ -1021,6 +1031,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
