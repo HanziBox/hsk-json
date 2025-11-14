@@ -141,6 +141,17 @@
 },
             {
     "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "总是", "pinyin": "zǒngshì"},
+        {"hanzi": "待", "pinyin": "dāi"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "学校", "pinyin": "xuéxiào"},
+        {"hanzi": "里", "pinyin": "lǐ"}
+    ],
+    "translation": "Ella siempre se queda en la escuela."
+},
+            {
+    "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "也", "pinyin": "yě"},
         {"hanzi": "可以", "pinyin": "kěyǐ"},
@@ -1952,6 +1963,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
