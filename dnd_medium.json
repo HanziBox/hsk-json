@@ -97,6 +97,16 @@
 },
             {
     "words": [
+        {"hanzi": "她", "pinyin": "tā"},
+        {"hanzi": "总是", "pinyin": "zǒngshì"},
+        {"hanzi": "对", "pinyin": "duì"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "微笑", "pinyin": "wēixiào"}
+    ],
+    "translation": "Ella siempre me sonríe."
+},
+            {
+    "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "想", "pinyin": "xiǎng"},
         {"hanzi": "尝", "pinyin": "cháng"},
@@ -1942,6 +1952,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
