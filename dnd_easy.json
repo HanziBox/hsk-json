@@ -85,6 +85,16 @@
     ],
     "translation": "¿Dónde vive (usted)?"
 },
+  {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "总是", "pinyin": "zǒngshì"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "电视", "pinyin": "diànshì"}
+    ],
+    "translation": "Siempre estás viendo la televisión."
+},
                 {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
@@ -1031,6 +1041,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
