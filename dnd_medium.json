@@ -98,6 +98,17 @@
 },
             {
     "words": [
+        {"hanzi": "他们", "pinyin": "tāmen"},
+        {"hanzi": "聊天", "pinyin": "liáotiān"},
+        {"hanzi": "聊", "pinyin": "liáo"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "久", "pinyin": "jiǔ"}
+    ],
+    "translation": "Ellos charlaron durante mucho tiempo."
+},
+            {
+    "words": [
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "也", "pinyin": "yě"},
         {"hanzi": "不", "pinyin": "bú"},
@@ -1920,6 +1931,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
