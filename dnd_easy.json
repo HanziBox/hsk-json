@@ -47,6 +47,15 @@
             ],
             "translation": "He tenido muchos trabajos."
         },
+  {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "没", "pinyin": "méi"},
+        {"hanzi": "有", "pinyin": "yǒu"},
+        {"hanzi": "时间", "pinyin": "shíjiān"}
+    ],
+    "translation": "No tengo tiempo."
+},
         {
             "words": [
                 { "hanzi": "下次", "pinyin": "xià cì" },
@@ -1041,6 +1050,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
