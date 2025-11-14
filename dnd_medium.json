@@ -49,6 +49,17 @@
             "translation": "Creo que ni él mismo lo sabe."
         },
             {
+    "words": [
+        {"hanzi": "那", "pinyin": "nà"},
+        {"hanzi": "辆", "pinyin": "liàng"},
+        {"hanzi": "车", "pinyin": "chē"},
+        {"hanzi": "是", "pinyin": "shì"},
+        {"hanzi": "黑", "pinyin": "hēi"},
+        {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Aquel coche es negro."
+},
+            {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "今天", "pinyin": "jīntiān"},
@@ -1931,6 +1942,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
