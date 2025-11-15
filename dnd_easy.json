@@ -111,6 +111,15 @@
     ],
     "translation": "Solo tenemos té."
 },
+  {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "得", "pinyin": "děi"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "水果", "pinyin": "shuǐguǒ"}
+    ],
+    "translation": "Tienes que comer fruta."
+},
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1096,6 +1105,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
