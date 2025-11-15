@@ -94,6 +94,16 @@
         },
   {
     "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "每天", "pinyin": "měitiān"},
+        {"hanzi": "跑步", "pinyin": "pǎobù"},
+        {"hanzi": "吗", "pinyin": "ma"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Corres todos los días?"
+},
+  {
+    "words": [
         {"hanzi": "我们", "pinyin": "wǒmen"},
         {"hanzi": "只", "pinyin": "zhǐ"},
         {"hanzi": "有", "pinyin": "yǒu"},
@@ -1086,6 +1096,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
