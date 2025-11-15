@@ -96,6 +96,17 @@
 },
             {
     "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "起来", "pinyin": "qǐlái"},
+        {"hanzi": "没有", "pinyin": "méiyǒu"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "忙", "pinyin": "máng"}
+    ],
+    "translation": "No pareces muy ocupado."
+},
+            {
+    "words": [
         {"hanzi": "他", "pinyin": "tā"},
         {"hanzi": "为", "pinyin": "wèi"},
         {"hanzi": "她", "pinyin": "tā"},
@@ -1985,6 +1996,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
