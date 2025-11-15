@@ -352,6 +352,21 @@
             "translation": "Me levanto a las seis de la mañana todos los días para ir a correr."
         },
         {
+    "words": [
+        {"hanzi": "只要", "pinyin": "zhǐyào"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "写", "pinyin": "xiě"},
+        {"hanzi": "作业,", "pinyin": "zuòyè"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "能", "pinyin": "néng"},
+        {"hanzi": "玩", "pinyin": "wán"},
+        {"hanzi": "游戏", "pinyin": "yóuxì"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Solo si hace sus deberes, podrá jugar a videojuegos."
+},
+        {
         "words": [
             {"hanzi": "昨天", "pinyin": "zuótiān"},
             {"hanzi": "我", "pinyin": "wǒ"},
@@ -1533,6 +1548,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
