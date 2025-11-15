@@ -93,6 +93,15 @@
     ],
     "translation": "¿Cómo es que no vino?"
 },
+  {
+    "words": [
+        {"hanzi": "不用", "pinyin": "búyòng"},
+        {"hanzi": "担心", "pinyin": "dānxīn"},
+        {"hanzi": "其他", "pinyin": "qítā"},
+        {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "No tienes que preocuparte por los demás."
+},
         {
             "words": [
                 { "hanzi": "下次", "pinyin": "xià cì" },
@@ -1115,6 +1124,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
