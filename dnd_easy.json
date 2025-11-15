@@ -38,6 +38,14 @@
     ],
     "translation": "No quiero hacer esto."
   },
+  {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "必须", "pinyin": "bìxū"},
+        {"hanzi": "帮忙", "bāngmáng"}
+    ],
+    "translation": "Debo ayudar."
+},
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1060,6 +1068,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
