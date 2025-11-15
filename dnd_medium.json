@@ -96,6 +96,18 @@
     },
             {
     "words": [
+        {"hanzi": "只要", "pinyin": "zhǐyào"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "微笑,", "pinyin": "wēixiào"},
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "会", "pinyin": "huì"},
+        {"hanzi": "快乐", "pinyin": "kuàilè"}
+    ],
+    "translation": "Mientras sonrías, seré feliz."
+},
+            {
+    "words": [
         {"hanzi": "把", "pinyin": "bǎ"},
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "知道", "pinyin": "zhīdào"},
@@ -2032,6 +2044,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
