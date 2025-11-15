@@ -12,6 +12,18 @@
         ],
         "translation": "Aunque el precio es alto, la calidad es muy buena."
     },
+            {
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "买", "pinyin": "mǎi"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "一", "pinyin": "yì"},
+        {"hanzi": "双", "pinyin": "shuāng"},
+        {"hanzi": "新", "pinyin": "xīn"},
+        {"hanzi": "鞋", "pinyin": "xié"}
+    ],
+    "translation": "Él compró un par de zapatos nuevos."
+},
         {
             "words": [
                 { "hanzi": "请问", "pinyin": "qǐngwèn" },
@@ -2007,6 +2019,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
