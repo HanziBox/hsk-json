@@ -1281,7 +1281,7 @@
                 { "hanzi": "好", "pinyin": "hǎo" },
                 { "hanzi": "主意", "pinyin": "zhǔyì" }
             ],
-            "translation": "No creo que sea una buena idea."
+            "translation": "Creo que no es buena idea."
         },
         {
             "words": [
@@ -2032,6 +2032,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
