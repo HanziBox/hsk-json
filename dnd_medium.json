@@ -248,6 +248,18 @@
         ],
         "translation": "Parece que he esperado demasiado (tiempo)."
     },
+            {
+    "words": [
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "已经", "pinyin": "yǐjīng"},
+        {"hanzi": "忘记", "pinyin": "wàngjì"},
+        {"hanzi": "了", "pinyin": "le"},
+        {"hanzi": "一切", "pinyin": "yīqiè"},
+        {"hanzi": "吗", "pinyin": "ma"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Ya lo has olvidado todo?"
+},
         {
             "words": [
                 { "hanzi": "他们", "pinyin": "tāmen" },
@@ -1963,6 +1975,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
