@@ -1018,6 +1018,19 @@
             ],
             "translation": "Tienen que venir con nosotros."
         },
+            {
+    "words": [
+        {"hanzi": "虽然", "pinyin": "suīrán"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "很", "pinyin": "hěn"},
+        {"hanzi": "有钱,", "pinyin": "yǒuqián"},
+        {"hanzi": "但", "pinyin": "dàn"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "不", "pinyin": "bú"},
+        {"hanzi": "幸福", "pinyin": "xìngfú"}
+    ],
+    "translation": "Aunque él tiene mucho dinero, no es feliz."
+},
         {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
@@ -2019,6 +2032,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
