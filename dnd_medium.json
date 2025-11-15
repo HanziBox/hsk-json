@@ -82,6 +82,18 @@
     "translation": "Aquel coche es negro."
 },
             {
+    "words": [
+        {"hanzi": "请", "pinyin": "qǐng"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "去", "pinyin": "qù"},
+        {"hanzi": "超市", "pinyin": "chāoshì"},
+        {"hanzi": "买", "pinyin": "mǎi"},
+        {"hanzi": "些", "pinyin": "xiē"},
+        {"hanzi": "水果", "pinyin": "shuǐguǒ"}
+    ],
+    "translation": "Por favor, ve al supermercado a comprar algo de fruta."
+},
+            {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "今天", "pinyin": "jīntiān"},
@@ -2044,6 +2056,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
