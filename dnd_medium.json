@@ -35,6 +35,16 @@
         ],
         "translation": "¿Quién crees que somos?"
     },
+            {
+    "words": [
+        {"hanzi": "把", "pinyin": "bǎ"},
+        {"hanzi": "一切", "pinyin": "yīqiè"},
+        {"hanzi": "都", "pinyin": "dōu"},
+        {"hanzi": "告诉", "pinyin": "gàosu"},
+        {"hanzi": "我们", "pinyin": "wǒmen"}
+    ],
+    "translation": "Cuéntanoslo todo."
+},
         {
             "words": [
                 { "hanzi": "我", "pinyin": "wǒ" },
@@ -1975,6 +1985,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
