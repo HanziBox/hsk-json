@@ -83,6 +83,16 @@
     ],
     "translation": "No tengo tiempo."
 },
+  {
+    "words": [
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "怎么", "pinyin": "zěnme"},
+        {"hanzi": "没", "pinyin": "méi"},
+        {"hanzi": "来", "pinyin": "lái"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Cómo es que no vino?"
+},
         {
             "words": [
                 { "hanzi": "下次", "pinyin": "xià cì" },
@@ -1105,6 +1115,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
