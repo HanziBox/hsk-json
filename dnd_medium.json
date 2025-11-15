@@ -83,6 +83,18 @@
 },
             {
     "words": [
+        {"hanzi": "请问,", "pinyin": "qǐngwèn"},
+        {"hanzi": "您", "pinyin": "nín"},
+        {"hanzi": "有", "pinyin": "yǒu"},
+        {"hanzi": "新鲜", "pinyin": "xīnxiān"},
+        {"hanzi": "的", "pinyin": "de"},
+        {"hanzi": "水果", "pinyin": "shuǐguǒ"},
+        {"hanzi": "吗", "pinyin": "ma"}
+    ],
+    "translation": "Disculpe, ¿tiene fruta fresca?"
+},
+            {
+    "words": [
         {"hanzi": "请", "pinyin": "qǐng"},
         {"hanzi": "你", "pinyin": "nǐ"},
         {"hanzi": "去", "pinyin": "qù"},
@@ -2056,6 +2068,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
