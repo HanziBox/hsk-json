@@ -8,6 +8,16 @@
             ],
             "translation": "No hay nadie en la habitación."
         },
+  {
+    "words": [
+        {"hanzi": "有人", "pinyin": "yǒurén"},
+        {"hanzi": "要", "pinyin": "yào"},
+        {"hanzi": "咖啡", "pinyin": "kāfēi"},
+        {"hanzi": "吗", "pinyin": "ma"},
+        {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Alguien quiere café?"
+},
                     {
         "words": [
             {"hanzi": "你们", "pinyin": "nǐmen"},
@@ -1050,6 +1060,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
