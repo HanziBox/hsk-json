@@ -1268,6 +1268,17 @@
             ],
             "translation": "Dale las llaves a él."
         },
+            {
+    "words": [
+        {"hanzi": "我", "pinyin": "wǒ"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "买", "pinyin": "mǎi"},
+        {"hanzi": "几", "pinyin": "jǐ"},
+        {"hanzi": "条", "pinyin": "tiáo"},
+        {"hanzi": "裤子", "pinyin": "kùzi"}
+    ],
+    "translation": "Quiero comprar varios pantalones."
+},
         {
             "words": [
                 { "hanzi": "让", "pinyin": "ràng" },
@@ -1996,6 +2007,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
