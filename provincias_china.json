@@ -18,5 +18,55 @@
         "atra_turisticos": "El Gran Buda de Leshan (乐山大佛), Montaña Emei (峨眉山)",
         "gastronomia": "麻辣火锅 (Málà Huǒguō - Hot Pot picante), 夫妻肺片 (Fūqī Fèipiàn)",
         "curioso": "Hogar del 80% de los pandas gigantes del mundo."
+    },
+    "pHE": {
+        "nombre": "河北",
+        "pinyin": "Héběi",
+        "imagen": "https://cdn.pixabay.com/photo/2016/06/25/11/04/chengde-1478796_1280.jpg",
+        "pie_foto": "Templo Putuo Zongcheng en Chengde, Hebei.",
+        "capital": "石家庄 (Shíjiāzhuāng)",
+        "atra_turisticos": "Shanhaiguan (Paso del 'Primer paso bajo el Cielo'), Templo de Putuo Zongcheng",
+        "gastronomia": "Donkey Meat Burger (驴肉火烧), Pastelería de Hebei",
+        "curioso": "Rodea las municipalidades de Beijing y Tianjin."
+    },
+    "pHL": {
+        "nombre": "黑龙江",
+        "pinyin": "Hēilóngjiāng",
+        "imagen": "https://cdn.pixabay.com/photo/2017/02/09/16/02/russia-2052562_1280.jpg",
+        "pie_foto": "Esculturas de hielo durante el Festival de Hielo y Nieve de Harbin.",
+        "capital": "哈尔滨 (Hā'ěrbīn)",
+        "atra_turisticos": "Festival Internacional de Esculturas de Hielo y Nieve de Harbin, Reserva de Zhalong",
+        "gastronomia": "Goulash, Sopa de Pescado y Albóndigas (por influencia rusa)",
+        "curioso": "Es la provincia más septentrional de China y conocida por su clima extremadamente frío."
+    },
+    "pHN": {
+        "nombre": "河南",
+        "pinyin": "Hénán",
+        "imagen": "https://cdn.pixabay.com/photo/2016/09/08/04/10/shaolin-temple-1653842_1280.jpg",
+        "pie_foto": "Monjes practicando Kung Fu en el Templo Shaolin, Henan.",
+        "capital": "郑州 (Zhèngzhōu)",
+        "atra_turisticos": "Templo Shaolin, Grutas de Longmen, Capitales Antiguas (Luoyang, Kaifeng)",
+        "gastronomia": "Hulatang (Sopa picante y espesa), Estofado de Carpa",
+        "curioso": "Es considerada la cuna de la civilización china, con muchas capitales históricas."
+    },
+    "pNM": {
+        "nombre": "内蒙古",
+        "pinyin": "Nèi Měnggǔ",
+        "imagen": "https://cdn.pixabay.com/photo/2015/10/24/09/25/camel-999321_1280.jpg",
+        "pie_foto": "Pastizales y camellos en la vasta región de Mongolia Interior.",
+        "capital": "呼和浩特 (Hūhéhàotè)",
+        "atra_turisticos": "Desierto de Kubuqi, Mausoleo de Genghis Khan, Pastizales de Hulunbuir",
+        "gastronomia": "Cordero Asado Entero, Leche de Caballo Fermentada (Airag)",
+        "curioso": "Es una de las regiones autónomas más grandes y utiliza el alfabeto mongol en documentos oficiales."
+    },
+    "pJS": {
+        "nombre": "江苏",
+        "pinyin": "Jiāngsū",
+        "imagen": "https://cdn.pixabay.com/photo/2018/06/07/19/27/nanjing-3460458_1280.jpg",
+        "pie_foto": "Puente sobre el río Yangtze en Nankín, Jiangsu.",
+        "capital": "南京 (Nánjīng)",
+        "atra_turisticos": "Jardines Clásicos de Suzhou, Mausoleo de Sun Yat-sen (Nanjing), Zhouzhuang",
+        "gastronomia": "Sweet and Sour Mandarin Fish (pez mandarín agridulce), Pato Salado de Nankín",
+        "curioso": "Famosa por sus ciudades de agua y sus tradicionales jardines."
     }
 }
