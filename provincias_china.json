@@ -88,5 +88,15 @@
         "atra_turisticos": "Templo Shaolin, Grutas de Longmen, Capital Antigua de Luoyang",
         "gastronomia": "Hu Latang (sopa picante de fideos), Guōlǐ Pào Mò",
         "curioso": "Considerada la cuna de la civilización china, fue hogar de varias capitales antiguas."
+    },
+    "pJL": {
+        "nombre": "吉林",
+        "pinyin": "Jílín",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/jilin.jpg", 
+        "pie_foto": "Paisaje de la Montaña Changbai cubierta de nieve.",
+        "capital": "长春 (Chángchūn)",
+        "atra_turisticos": "Montaña Changbai (y el Lago del Cielo), Palacio del Títere Imperial, Rime Ice de Jilin",
+        "gastronomia": "Guiso de Pollo con Champiñones (por la influencia del Nordeste), Cold Noodles",
+        "curioso": "Famosa por ser la cuna de la industria automovilística china."
     }
 }
