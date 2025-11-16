@@ -128,5 +128,15 @@
         "atra_turisticos": "Lago del Oeste (Hangzhou), Wuzhen (Ciudad del Agua), Islas Zhoushan",
         "gastronomia": "Dongpo Pork (cerdo estofado), Longjing Tea",
         "curioso": "Famosa por ser la cuna de muchas de las grandes empresas tecnológicas de China."
+    },
+    "pJX": {
+        "nombre": "江西",
+        "pinyin": "Jiāngxī",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/jiangxi.jpg", 
+        "pie_foto": "Vista de la Torre Tengwang en Nanchang, Jiangxi.",
+        "capital": "南昌 (Nánchāng)",
+        "atra_turisticos": "Monte Lushan, Torre Tengwang, Porcelana de Jingdezhen",
+        "gastronomia": "Pescado al Vapor con Arroz, Cerdo Estofado de Ningdu",
+        "curioso": "Jingdezhen en Jiangxi es conocida como la 'Capital Mundial de la Porcelana'."
     }
 }
