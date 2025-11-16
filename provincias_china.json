@@ -118,5 +118,15 @@
         "atra_turisticos": "Monte Tai (Tàishān), Templo de Confucio, Qingdao (Arquitectura Alemana)",
         "gastronomia": "Pescado en salsa agridulce, Pescado al vapor, Cerveza Tsingtao",
         "curioso": "Lugar de nacimiento de Confucio y una de las provincias costeras más importantes."
+    },
+    "pZJ": {
+        "nombre": "浙江",
+        "pinyin": "Zhèjiāng",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/zhejiang.jpg", 
+        "pie_foto": "El pintoresco Lago del Oeste en Hangzhou, Zhejiang.",
+        "capital": "杭州 (Hángzhōu)",
+        "atra_turisticos": "Lago del Oeste (Hangzhou), Wuzhen (Ciudad del Agua), Islas Zhoushan",
+        "gastronomia": "Dongpo Pork (cerdo estofado), Longjing Tea",
+        "curioso": "Famosa por ser la cuna de muchas de las grandes empresas tecnológicas de China."
     }
 }
