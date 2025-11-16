@@ -38,5 +38,15 @@
         "atra_turisticos": "Sanya, Templo Nanshan, Wuzhizhou Island",
         "gastronomia": "Wenchang Chicken (pollo), Hele Crab (cangrejo)",
         "curioso": "Es la provincia más meridional y la única totalmente tropical de China."
+    },
+    "pGS": {
+        "nombre": "甘肃",
+        "pinyin": "Gānsù",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/gansu.jpg", 
+        "pie_foto": "Parte de la Gran Muralla a su paso por el desierto de Gansu.",
+        "capital": "兰州 (Lánzhōu)",
+        "atra_turisticos": "Grutas de Mogao, Paso de Jiayu, Montañas de Danxia",
+        "gastronomia": "Lanzhou Beef Noodle Soup (拉面), Niangpi (fideos fríos)",
+        "curioso": "Gran parte de la antigua Ruta de la Seda pasaba por esta provincia."
     }
 }
