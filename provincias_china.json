@@ -48,5 +48,15 @@
         "atra_turisticos": "Grutas de Mogao, Paso de Jiayu, Montañas de Danxia",
         "gastronomia": "Lanzhou Beef Noodle Soup (拉面), Niangpi (fideos fríos)",
         "curioso": "Gran parte de la antigua Ruta de la Seda pasaba por esta provincia."
+    },
+    "pAH": {
+        "nombre": "安徽",
+        "pinyin": "Ānhuī",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/anhui.jpg", 
+        "pie_foto": "Pueblo tradicional de Hongcun, Anhui.",
+        "capital": "合肥 (Héféi)",
+        "atra_turisticos": "Monte Huangshan (Montaña Amarilla), Aldea Hongcun, Cueva de Huashan",
+        "gastronomia": "Li Hongzhang Dish (Estofado), Patos de Wuhu",
+        "curioso": "El Monte Huangshan es uno de los paisajes más célebres y fotografiados de China."
     }
 }
