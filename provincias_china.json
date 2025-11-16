@@ -119,11 +119,11 @@
         "gastronomia": "Pescado en salsa agridulce, Pescado al vapor, Cerveza Tsingtao",
         "curioso": "Lugar de nacimiento de Confucio y una de las provincias costeras más importantes."
     },
-    "pZJ": {
+"pZJ": {
         "nombre": "浙江",
         "pinyin": "Zhèjiāng",
         "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/zhejiang.jpg", 
-        "pie_foto": "El pintoresco Lago del Oeste en Hangzhou, Zhejiang.",
+        "pie_foto": "Vista nocturna del Lago del Oeste en Hangzhou, Zhejiang.", 
         "capital": "杭州 (Hángzhōu)",
         "atra_turisticos": "Lago del Oeste (Hangzhou), Wuzhen (Ciudad del Agua), Islas Zhoushan",
         "gastronomia": "Dongpo Pork (cerdo estofado), Longjing Tea",
