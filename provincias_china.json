@@ -168,5 +168,15 @@
         "atra_turisticos": "Lago Qinghai (Koko Nor), Monasterio Ta'er, Meseta Tibetana",
         "gastronomia": "Tsampa (harina de cebada tostada), Yogurt de Yak, Fideos Lami",
         "curioso": "El Lago Qinghai es el lago más grande de China y se encuentra a una altitud de más de 3.200 metros."
+    },
+    "pSX": {
+        "nombre": "山西",
+        "pinyin": "Shānxī",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/shanxi.jpg", 
+        "pie_foto": "Casas tradicionales en la antigua ciudad amurallada de Pingyao.",
+        "capital": "太原 (Tàiyuán)",
+        "atra_turisticos": "Ciudad Antigua de Pingyao, Grutas de Yungang, Monte Wutai",
+        "gastronomia": "Fideos cortados a cuchillo (Dāo Xiāo Miàn), Vinagre añejo de Shanxi",
+        "curioso": "El Monte Wutai es una de las cuatro montañas sagradas del budismo en China."
     }
 }
