@@ -98,5 +98,15 @@
         "atra_turisticos": "Montaña Changbai (y el Lago del Cielo), Palacio del Títere Imperial, Rime Ice de Jilin",
         "gastronomia": "Guiso de Pollo con Champiñones (por la influencia del Nordeste), Cold Noodles",
         "curioso": "Famosa por ser la cuna de la industria automovilística china."
+    },
+    "pJS": {
+        "nombre": "江苏",
+        "pinyin": "Jiāngsū",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/jiangsu.jpg", 
+        "pie_foto": "Jardines clásicos de Suzhou, famosos por su arquitectura y diseño.",
+        "capital": "南京 (Nánjīng)",
+        "atra_turisticos": "Jardines Clásicos de Suzhou, Mausoleo de Sun Yat-sen (Nanjing), Gran Canal",
+        "gastronomia": "Jiangsu Sweet and Sour Pork, Pastel de Sésamo de Nanjing",
+        "curioso": "Famosa por sus ciudades de agua y sus jardines, a menudo llamada 'La Tierra del Pescado y el Arroz'."
     }
 }
