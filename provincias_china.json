@@ -241,5 +241,16 @@
         "atra_turisticos": "Palacio de Potala, Monte Everest (cara norte), Monasterio de Jokhang, Lago Namtso",
         "gastronomia": "Tsampa (harina de cebada tostada), Yak butter tea (Té de mantequilla de yak), Momos (empanadillas), Carne de yak",
         "curioso": "El Tíbet es la región más alta de la Tierra, con una altitud media de más de 4.000 metros, lo que le otorga el apodo de 'Techo del Mundo'."
+    },
+    "pNX": {
+        "nombre": "Ningxia",
+        "pinyin": "Níngxià",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/ningxia.jpg", 
+        "pie_foto": "Las dunas de arena del Desierto de Shapotou y el Río Amarillo en Ningxia.",
+        "tipo": "Autónoma",
+        "capital": "银川 (Yínchuān)",
+        "atra_turisticos": "Shapotou (punto escénico del desierto y Río Amarillo), Tumbas Reales de los Xia Occidentales, Monte Helan",
+        "gastronomia": "Carne de cordero estofada (hand-grabbed lamb), Pastel de arroz glutinoso (yóu gāo), Vino tinto local",
+        "curioso": "Es una de las regiones más pequeñas de China y fue establecida como Región Autónoma Hui para la minoría Hui, que es predominantemente musulmana."
     }
 }
