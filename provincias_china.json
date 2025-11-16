@@ -148,5 +148,15 @@
         "atra_turisticos": "Palacio Imperial de Shenyang, Puerto de Dalian, Tumbas Fuling y Zhaoling",
         "gastronomia": "Guiso de Cerdo con Fideos (por el Nordeste), Mariscos de Dalian",
         "curioso": "Contiene el segundo palacio imperial mejor conservado de China, después de la Ciudad Prohibida."
+    },
+    "pGZ": {
+        "nombre": "贵州",
+        "pinyin": "Guìzhōu",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/guizhou.jpg", 
+        "pie_foto": "Cascadas de Huangguoshu, una de las mayores caídas de agua de China.",
+        "capital": "贵阳 (Guìyáng)",
+        "atra_turisticos": "Cascadas de Huangguoshu, Aldeas de la etnia Miao, Ciudad Vieja de Zhenyuan",
+        "gastronomia": "Sopa de Pescado Agria y Picante (Suan Tang Yu), Guiso de Cerdo Frito",
+        "curioso": "Una de las provincias más montañosas, con una gran diversidad étnica y famosa por su licor Maotai."
     }
 }
