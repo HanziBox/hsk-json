@@ -1,0 +1,23 @@
+{
+    "pYN": {
+        "nombre": "云南", 
+        "pinyin": "Yúnnán",
+        "imagen": "https://ejemplo.com/imagen/yunnan.jpg",
+        "audio": "https://ejemplo.com/audio/yunnan.mp3",
+        "capital": "昆明 (Kūnmíng)",
+        "atra_turisticos": "Bosque de Piedra (石林 Shílín), Arrozales de Yuanyang (元阳梯田)",
+        "gastronomia": "Setas silvestres, Pastel de arroz (Erbukuai 饵块)",
+        "curioso": "Hogar de la mayoría de los grupos étnicos de China."
+    },
+    "pSC": {
+        "nombre": "四川",
+        "pinyin": "Sìchuān",
+        "imagen": "https://ejemplo.com/imagen/sichuan.jpg",
+        "audio": "https://ejemplo.com/audio/sichuan.mp3",
+        "capital": "成都 (Chéngdū)",
+        "atra_turisticos": "El Gran Buda de Leshan (乐山大佛), Montaña Emei (峨眉山)",
+        "gastronomia": "麻辣火锅 (Málà Huǒguō - Hot Pot picante), 夫妻肺片 (Fūqī Fèipiàn)",
+        "curioso": "Hogar del 80% de los pandas gigantes del mundo."
+    }
+    // ... AQUÍ IRÁN LAS OTRAS 32 REGIONES ...
+}
