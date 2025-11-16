@@ -178,5 +178,15 @@
         "atra_turisticos": "Ciudad Antigua de Pingyao, Grutas de Yungang, Monte Wutai",
         "gastronomia": "Fideos cortados a cuchillo (Dāo Xiāo Miàn), Vinagre añejo de Shanxi",
         "curioso": "El Monte Wutai es una de las cuatro montañas sagradas del budismo en China."
+    },
+"pSN": {
+        "nombre": "陕西",
+        "pinyin": "Shǎnxī",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/shaanxi.jpg", 
+        "pie_foto": "Vista de los picos del Monte Hua (Huashan) en Shaanxi.",
+        "capital": "西安 (Xī'ān)",
+        "atra_turisticos": "Guerreros de Terracota, Monte Hua (Huashan), Murallas de Xi'an",
+        "gastronomia": "Rou Jia Mo ('Hamburguesa' china), Fideos Biang Biang, Brochetas de Cordero",
+        "curioso": "Xi'an fue la capital de China durante trece dinastías y es el punto de partida de la Ruta de la Seda."
     }
 }
