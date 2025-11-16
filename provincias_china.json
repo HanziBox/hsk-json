@@ -208,5 +208,16 @@
         "atra_turisticos": "Torre de Cantón, Casa Ancestral de la Familia Chen, Shenzhen (Innovación)",
         "gastronomia": "Dim Sum (点心), Chow Mein, Wonton Soup",
         "curioso": "Es la provincia más poblada de China y un centro económico global."
+    },
+    "pNM": {
+        "nombre": "Mongolia Interior",
+        "pinyin": "Nèi Měnggǔ",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/mongolia_interior.jpg", 
+        "pie_foto": "Yurtas tradicionales en las vastas estepas de Mongolia Interior.",
+        "tipo": "Autónoma",
+        "capital": "呼和浩特 (Hūhéhàotè)",
+        "atra_turisticos": "Desierto de Kubuqi, Mausoleo de Genghis Khan, Pastizales de Hulunbuir",
+        "gastronomia": "Carne de cordero asada (cuerpo entero), Leche de Yak y Queso",
+        "curioso": "Es la tercera subdivisión de primer nivel más grande de China en superficie y es conocida por su cultura nómada."
     }
 }
