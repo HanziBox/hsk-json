@@ -34,11 +34,11 @@
     "pHI": {
         "nombre": "海南",
         "pinyin": "Hǎinán",
-        "imagen": "images/hainan.jpg", 
+        "imagen": "images/hainan.jpg",
         "pie_foto": "Playa tropical y palmeras en Sanya, Hainan.",
         "capital": "海口 (Hǎikǒu)",
         "atra_turisticos": "Sanya, Templo Nanshan, Wuzhizhou Island",
         "gastronomia": "Wenchang Chicken (pollo), Hele Crab (cangrejo)",
         "curioso": "Es la provincia más meridional y la única totalmente tropical de China."
-}
+    }
 }
