@@ -198,5 +198,15 @@
         "atra_turisticos": "Presa de las Tres Gargantas, Monte Wudang, Torre de la Grulla Amarilla (Huanghelou)",
         "gastronomia": "Reganmian (fideos secos calientes), Sopa de Raíz de Loto con Costillas",
         "curioso": "La provincia es famosa por su enorme infraestructura, incluyendo la monumental Presa de las Tres Gargantas."
+    },
+    "pGD_1": {
+        "nombre": "广东",
+        "pinyin": "Guǎngdōng",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/guangdong.jpg", 
+        "pie_foto": "La Torre de Cantón en Guangzhou, vista al atardecer.",
+        "capital": "广州 (Guǎngzhōu)",
+        "atra_turisticos": "Torre de Cantón, Casa Ancestral de la Familia Chen, Shenzhen (Innovación)",
+        "gastronomia": "Dim Sum (点心), Chow Mein, Wonton Soup",
+        "curioso": "Es la provincia más poblada de China y un centro económico global."
     }
 }
