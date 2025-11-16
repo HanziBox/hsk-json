@@ -158,5 +158,15 @@
         "atra_turisticos": "Cascadas de Huangguoshu, Aldeas de la etnia Miao, Ciudad Vieja de Zhenyuan",
         "gastronomia": "Sopa de Pescado Agria y Picante (Suan Tang Yu), Guiso de Cerdo Frito",
         "curioso": "Una de las provincias más montañosas, con una gran diversidad étnica y famosa por su licor Maotai."
+    },
+    "pQH": {
+        "nombre": "青海",
+        "pinyin": "Qīnghǎi",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/qinghai.jpg", 
+        "pie_foto": "El vasto y pintoresco Lago Qinghai (Koko Nor).",
+        "capital": "西宁 (Xīníng)",
+        "atra_turisticos": "Lago Qinghai (Koko Nor), Monasterio Ta'er, Meseta Tibetana",
+        "gastronomia": "Tsampa (harina de cebada tostada), Yogurt de Yak, Fideos Lami",
+        "curioso": "El Lago Qinghai es el lago más grande de China y se encuentra a una altitud de más de 3.200 metros."
     }
 }
