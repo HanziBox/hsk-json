@@ -138,5 +138,15 @@
         "atra_turisticos": "Monte Lushan, Torre Tengwang, Porcelana de Jingdezhen",
         "gastronomia": "Pescado al Vapor con Arroz, Cerdo Estofado de Ningdu",
         "curioso": "Jingdezhen en Jiangxi es conocida como la 'Capital Mundial de la Porcelana'."
+    },
+    "pLN_1": {
+        "nombre": "辽宁",
+        "pinyin": "Liáoníng",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/liaoning.jpg", 
+        "pie_foto": "Detalle de la arquitectura tradicional del Palacio Imperial de Shenyang.",
+        "capital": "沈阳 (Shěnyáng)",
+        "atra_turisticos": "Palacio Imperial de Shenyang, Puerto de Dalian, Tumbas Fuling y Zhaoling",
+        "gastronomia": "Guiso de Cerdo con Fideos (por el Nordeste), Mariscos de Dalian",
+        "curioso": "Contiene el segundo palacio imperial mejor conservado de China, después de la Ciudad Prohibida."
     }
 }
