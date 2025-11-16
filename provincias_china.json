@@ -68,5 +68,15 @@
         "atra_turisticos": "Fujian Tulou (Patrimonio UNESCO), Montaña Wuyi, Isla Gulangyu",
         "gastronomia": "Buddha Jumps Over the Wall (Fó Tiào Qiáng), Sopa de bola de pescado",
         "curioso": "Gran parte de la diáspora china del sudeste asiático proviene de esta provincia."
+    },
+    "pHJ": {
+        "nombre": "黑龙江",
+        "pinyin": "Hēilóngjiāng",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/heilongjiang.jpg", 
+        "pie_foto": "Esculturas de hielo durante el Festival de Hielo y Nieve de Harbin.",
+        "capital": "哈尔滨 (Hā'ěrbīn)",
+        "atra_turisticos": "Festival Internacional de Esculturas de Hielo y Nieve de Harbin, Reserva de Zhalong",
+        "gastronomia": "Goulash, Sopa de Pescado y Albóndigas (por influencia rusa)",
+        "curioso": "Es la provincia más septentrional de China y conocida por su clima extremadamente frío."
     }
 }
