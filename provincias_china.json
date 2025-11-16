@@ -230,5 +230,16 @@
         "atra_turisticos": "Paisaje kárstico de Guilin y Yangshuo, Cascadas Detian, Gruta de la Flauta de Caña",
         "gastronomia": "Fideos de arroz de Guilin, Sopa de serpiente (especialidad local), Pato Asado de Yangshuo",
         "curioso": "Es el hogar de la minoría étnica Zhuang, el grupo minoritario más grande de China después de los Han."
+    },
+    "pXZ": {
+        "nombre": "Tíbet",
+        "pinyin": "Xīzàng",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/tibet.jpg", 
+        "pie_foto": "El Palacio de Potala, Lhasa, Tíbet.",
+        "tipo": "Autónoma",
+        "capital": "拉萨 (Lāsà)",
+        "atra_turisticos": "Palacio de Potala, Monte Everest (cara norte), Monasterio de Jokhang, Lago Namtso",
+        "gastronomia": "Tsampa (harina de cebada tostada), Yak butter tea (Té de mantequilla de yak), Momos (empanadillas), Carne de yak",
+        "curioso": "El Tíbet es la región más alta de la Tierra, con una altitud media de más de 4.000 metros, lo que le otorga el apodo de 'Techo del Mundo'."
     }
 }
