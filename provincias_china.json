@@ -108,5 +108,15 @@
         "atra_turisticos": "Jardines Clásicos de Suzhou, Mausoleo de Sun Yat-sen (Nanjing), Gran Canal",
         "gastronomia": "Jiangsu Sweet and Sour Pork, Pastel de Sésamo de Nanjing",
         "curioso": "Famosa por sus ciudades de agua y sus jardines, a menudo llamada 'La Tierra del Pescado y el Arroz'."
+    },
+"pSD": {
+        "nombre": "山东",
+        "pinyin": "Shāndōng",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/shandong.jpg", 
+        "pie_foto": "El Templo y Residencia de Confucio en Qufu, Shandong.", 
+        "capital": "济南 (Jǐnán)",
+        "atra_turisticos": "Monte Tai (Tàishān), Templo de Confucio, Qingdao (Arquitectura Alemana)",
+        "gastronomia": "Pescado en salsa agridulce, Pescado al vapor, Cerveza Tsingtao",
+        "curioso": "Lugar de nacimiento de Confucio y una de las provincias costeras más importantes."
     }
 }
