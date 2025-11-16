@@ -188,5 +188,15 @@
         "atra_turisticos": "Guerreros de Terracota, Monte Hua (Huashan), Murallas de Xi'an",
         "gastronomia": "Rou Jia Mo ('Hamburguesa' china), Fideos Biang Biang, Brochetas de Cordero",
         "curioso": "Xi'an fue la capital de China durante trece dinastías y es el punto de partida de la Ruta de la Seda."
+    },
+    "pHB": {
+        "nombre": "湖北",
+        "pinyin": "Húběi",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/hubei.jpg", 
+        "pie_foto": "La Presa de las Tres Gargantas en el río Yangtze.",
+        "capital": "武汉 (Wǔhàn)",
+        "atra_turisticos": "Presa de las Tres Gargantas, Monte Wudang, Torre de la Grulla Amarilla (Huanghelou)",
+        "gastronomia": "Reganmian (fideos secos calientes), Sopa de Raíz de Loto con Costillas",
+        "curioso": "La provincia es famosa por su enorme infraestructura, incluyendo la monumental Presa de las Tres Gargantas."
     }
 }
