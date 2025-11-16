@@ -219,5 +219,16 @@
         "atra_turisticos": "Desierto de Kubuqi, Mausoleo de Genghis Khan, Pastizales de Hulunbuir",
         "gastronomia": "Carne de cordero asada (cuerpo entero), Leche de Yak y Queso",
         "curioso": "Es la tercera subdivisión de primer nivel más grande de China en superficie y es conocida por su cultura nómada."
+    },
+"pGX": {
+        "nombre": "Guangxi",
+        "pinyin": "Guǎngxī",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/guanxi.jpg", 
+        "pie_foto": "Amanecer en las montañas de Guilin, Guangxi.",
+        "tipo": "Autónoma",
+        "capital": "南宁 (Nánníng)",
+        "atra_turisticos": "Paisaje kárstico de Guilin y Yangshuo, Cascadas Detian, Gruta de la Flauta de Caña",
+        "gastronomia": "Fideos de arroz de Guilin, Sopa de serpiente (especialidad local), Pato Asado de Yangshuo",
+        "curioso": "Es el hogar de la minoría étnica Zhuang, el grupo minoritario más grande de China después de los Han."
     }
 }
