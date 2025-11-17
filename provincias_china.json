@@ -296,5 +296,16 @@
         "atra_turisticos": "El Bund, Torre Perla Oriental, Jardín Yu, Templo Jing'an",
         "gastronomia": "Xiao Long Bao (bollos de sopa), Sheng Jian Bao (bollos fritos), Cangrejo peludo de río",
         "curioso": "Es la ciudad más poblada de China y un centro financiero y comercial global. Se divide entre Puxi (viejo Shanghai) y Pudong (el distrito moderno)."
+    },
+    "pTJ": {
+        "nombre": "天津",
+        "pinyin": "Tiānjīn",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/tianjin.jpg", 
+        "pie_foto": "La Ferris Wheel 'El Ojo de Tianjin', sobre el río Haihe.",
+        "tipo": "Municipio",
+        "capital": "Tianjín",
+        "atra_turisticos": "El Bund, Torre Perla Oriental, Jardín Yu, Templo Jing'an",
+        "gastronomia": "Goubuli Baozi (bollos al vapor), Fritos de Masa de Barro (Máhua), Jianbing (crepe de desayuno)",
+        "curioso": "Es un puerto clave en el norte de China y se desarrolló rápidamente tras el establecimiento de varias concesiones extranjeras en el siglo XIX."
     }
 }
