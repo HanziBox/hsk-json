@@ -81,6 +81,18 @@
     ],
     "translation": "Aquel coche es negro."
 },
+                        {
+        "words": [
+            {"hanzi": "虽然", "pinyin": "suīrán"},
+            {"hanzi": "下雨", "pinyin": "xià yǔ"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "还要", "pinyin": "háiyào"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "海滩", "pinyin": "hǎitān"}
+        ],
+        "translation": "Aunque está lloviendo, seguimos queriendo ir a la playa."
+    },
             {
     "words": [
         {"hanzi": "请问,", "pinyin": "qǐngwèn"},
@@ -2068,6 +2080,7 @@
             "translation": "No te preocupes, todo irá bien."
   }
 ]
+
 
 
 
