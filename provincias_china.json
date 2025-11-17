@@ -263,5 +263,16 @@
         "atra_turisticos": "Lago Kanas, Ciudad Antigua de Kashgar, Oasis de Turpan, las Montañas Tian Shan",
         "gastronomia": "Polo (arroz pilaf), Laghman (fideos estirados a mano), Kebabs (brochetas de cordero), Pan Naan",
         "curioso": "Es el hogar de la minoría étnica Uigur y contiene gran parte de la Ruta de la Seda y el vasto Desierto de Taklamakán."
+    },
+    "pHN": {
+        "nombre": "Hunan",
+        "pinyin": "Húnán",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/hunan.jpg", 
+        "pie_foto": "Montañas de Zhangjiajie, inspiración de la película Avatar.",
+        "tipo": "Provincia",
+        "capital": "长沙 (Chángshā)",
+        "atra_turisticos": "Parque Forestal Nacional de Zhangjiajie, Monte Heng, Parque Nacional del Cañón de Dehang, Pueblo Antiguo de Fenghuang",
+        "gastronomia": "Pescado al vapor con chiles picantes (Duòjiāo Yútóu), Tofu Apestoso (Chòu Dòufu) de Changsha, Pollo Dingji",
+        "curioso": "Es la provincia natal del líder Mao Zedong y es conocida por su cocina que es aún más picante que la de Sichuan, pero con un toque agrio."
     }
 }
