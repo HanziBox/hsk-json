@@ -252,5 +252,16 @@
         "atra_turisticos": "Shapotou (punto escénico del desierto y Río Amarillo), Tumbas Reales de los Xia Occidentales, Monte Helan",
         "gastronomia": "Carne de cordero estofada (hand-grabbed lamb), Pastel de arroz glutinoso (yóu gāo), Vino tinto local",
         "curioso": "Es una de las regiones más pequeñas de China y fue establecida como Región Autónoma Hui para la minoría Hui, que es predominantemente musulmana."
+    },
+    "pXJ": {
+        "nombre": "Sinkiang (Xinjiang)",
+        "pinyin": "Xīnjiāng",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/xinjiang.jpg", 
+        "pie_foto": "Lago Kanas, al norte de Xinjiang, en otoño.",
+        "tipo": "Autónoma",
+        "capital": "乌鲁木齐 (Wūlǔmùqí)",
+        "atra_turisticos": "Lago Kanas, Ciudad Antigua de Kashgar, Oasis de Turpan, las Montañas Tian Shan",
+        "gastronomia": "Polo (arroz pilaf), Laghman (fideos estirados a mano), Kebabs (brochetas de cordero), Pan Naan",
+        "curioso": "Es el hogar de la minoría étnica Uigur y contiene gran parte de la Ruta de la Seda y el vasto Desierto de Taklamakán."
     }
 }
