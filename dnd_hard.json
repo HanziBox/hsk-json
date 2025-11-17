@@ -538,18 +538,6 @@
             ],
             "translation": "Su chino se está volviendo cada vez más fluido, lo cual es genial."
         },
-            {
-        "words": [
-            {"hanzi": "虽然", "pinyin": "suīrán"},
-            {"hanzi": "下雨", "pinyin": "xià yǔ"},
-            {"hanzi": "了", "pinyin": "le"},
-            {"hanzi": "我们", "pinyin": "wǒmen"},
-            {"hanzi": "还要", "pinyin": "háiyào"},
-            {"hanzi": "去", "pinyin": "qù"},
-            {"hanzi": "海滩", "pinyin": "hǎitān"}
-        ],
-        "translation": "Aunque está lloviendo, seguimos queriendo ir a la playa."
-    },
         {
             "words": [
                 { "hanzi": "我们", "pinyin": "wǒmen" },
@@ -1548,6 +1536,7 @@
             "translation": "Planeamos ir a Shanghái el mes que viene para asistir a una exposición."
   }
 ]
+
 
 
 
