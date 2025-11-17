@@ -307,5 +307,16 @@
         "atra_turisticos": "El Ojo de Tianjin (Noria), Cinco Grandes Avenidas (Wudadao), Calle de la Cultura Antigua, Zona de Estilo Italiano",
         "gastronomia": "Goubuli Baozi (bollos al vapor), Fritos de Masa de Barro (Máhua), Jianbing (crepe de desayuno)",
         "curioso": "Es un puerto clave en el norte de China y se desarrolló rápidamente tras el establecimiento de varias concesiones extranjeras en el siglo XIX."
+    },
+    "pCQ": {
+        "nombre": "重庆",
+        "pinyin": "Chóngqìng",
+        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/chongqing.jpg", 
+        "pie_foto": "Imagen noctruna de la bulliciosa Chongqing.",
+        "tipo": "Municipio",
+        "capital": "Chongqing",
+        "atra_turisticos": "Hall del Pueblo, Tres Gargantas (parcialmente), Monumento de Liberación del Pueblo, Estatuas Rupestres de Dazu",
+        "gastronomia": "Hot Pot de Chongqing (olla caliente picante), Fideos picantes y agrios (Suānlà Fěntiáo), Pollo con chile (Làzǐ Jī)",
+        "curioso": "Es la única municipalidad sin acceso al mar y es conocida como la 'Ciudad de la Montaña' debido a su terreno accidentado."
     }
 }
