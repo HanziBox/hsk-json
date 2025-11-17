@@ -210,7 +210,7 @@
         "curioso": "Es la provincia más poblada de China y un centro económico global."
     },
 "pNM": {
-        "nombre": "Mongolia Int.",
+        "nombre": "内蒙古 (Mongolia int.)",
         "pinyin": "Nèi Měnggǔ",
         "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/mongolia_interior.jpg", 
         "pie_foto": "Estepas y yurta mongolas en el vasto paisaje de Mongolia Interior.",
@@ -221,7 +221,7 @@
         "curioso": "Es la tercera subdivisión de primer nivel más grande de China en superficie y es conocida por su cultura nómada."
     },
 "pGX": {
-        "nombre": "Guangxi",
+        "nombre": "广西",
         "pinyin": "Guǎngxī",
         "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/guangxi.jpg", 
         "pie_foto": "Amanecer en las montañas de Guilin, Guangxi.",
@@ -232,7 +232,7 @@
         "curioso": "Es el hogar de la minoría étnica Zhuang, el grupo minoritario más grande de China después de los Han."
     },
     "pXZ": {
-        "nombre": "Tíbet",
+        "nombre": "西藏 (Tibet)",
         "pinyin": "Xīzàng",
         "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/tibet.jpg", 
         "pie_foto": "El Palacio de Potala, Lhasa, Tíbet.",
@@ -243,7 +243,7 @@
         "curioso": "El Tíbet es la región más alta de la Tierra, con una altitud media de más de 4.000 metros, lo que le otorga el apodo de 'Techo del Mundo'."
     },
     "pNX": {
-        "nombre": "Ningxia",
+        "nombre": "宁夏",
         "pinyin": "Níngxià",
         "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/ningxia.jpg", 
         "pie_foto": "Las dunas de arena del Desierto de Shapotou.",
@@ -254,7 +254,7 @@
         "curioso": "Es una de las regiones más pequeñas de China y fue establecida como Región Autónoma Hui para la minoría Hui, que es predominantemente musulmana."
     },
     "pXJ": {
-        "nombre": "Sinkiang (Xinjiang)",
+        "nombre": "新疆",
         "pinyin": "Xīnjiāng",
         "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/xinjiang.jpg", 
         "pie_foto": "Lago Kanas, al norte de Xinjiang, en otoño.",
