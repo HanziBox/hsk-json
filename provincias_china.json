@@ -122,16 +122,17 @@
 "pZJ": {
     "nombre": "浙江",
     "pinyin": "Zhèjiāng",
-    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/zhejiang.jpg", 
-    "pie_foto": "Vista nocturna del Lago del Oeste en Hangzhou, Zhejiang.", 
-    "descripcion": "Zhèjiāng es una provincia costera del este de China, famosa por sus paisajes acuáticos, rica historia cultural y economía dinámica. La región combina ciudades modernas con pueblos tradicionales de agua.",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/zhejiang.jpg",
+    "pie_foto": "Vista nocturna del Lago del Oeste en Hangzhou, Zhejiang.",
+    "descripcion": "Zhèjiāng es una joya costera del este de China, donde las ciudades modernas conviven con pueblos tradicionales de agua que parecen sacados de un cuadro pintado. Historia, cultura y paisajes de ensueño en cada rincón.",
     "capital": "杭州 (Hángzhōu)",
-    "capital_info": "Ciudad histórica con canales y jardines clásicos, punto de partida ideal para explorar la provincia.",
-    "atra_turisticos": "Lago del Oeste (Hangzhou), Wuzhen (Ciudad del Agua), Islas Zhoushan. Cada lugar ofrece historia, arquitectura tradicional y paisajes pintorescos.",
-    "gastronomia": "Dongpo Pork (cerdo estofado), Longjing Tea y una gran variedad de mariscos frescos. Ideal para probar en mercados locales y restaurantes tradicionales.",
-    "curioso": "Famosa por ser la cuna de muchas de las grandes empresas tecnológicas de China, así como por su historia en la seda y comercio.",
-    "tip_viaje": "La mejor época para visitar es primavera u otoño; los lagos y canales lucen espectaculares, y los templos históricos están menos concurridos."
+    "capital_info": "Hangzhou es famosa por sus canales, jardines clásicos y el Lago del Oeste. Es perfecta para pasear, probar la gastronomía local y perderse entre templos históricos.",
+    "atra_turisticos": "🌊 Lago del Oeste: imprescindible al amanecer. 🛶 Wuzhen: ciudad del agua con canales pintorescos. ⛵ Islas Zhoushan: naturaleza y templos antiguos.",
+    "gastronomia": "🍖 Dongpo Pork: cerdo estofado tradicional. 🍵 Longjing Tea: té famoso por su aroma y sabor delicado. Sin olvidar los mariscos frescos locales.",
+    "curioso": "🚀 Cuna de varias de las grandes empresas tecnológicas de China y con una larga tradición en la producción de seda.",
+    "tip_viaje": "🌸 Mejor visitar en primavera u otoño para disfrutar de los lagos y templos con menos multitudes y temperaturas agradables."
 },
+
     "pJX": {
         "nombre": "江西",
         "pinyin": "Jiāngxī",
