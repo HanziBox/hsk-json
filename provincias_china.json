@@ -30,13 +30,13 @@
     "pinyin": "Héběi",
     "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/hebei.jpg",
     "pie_foto": "Templo Putuo Zongcheng en Chengde, Hebei.",
-    "descripcion": "Héběi rodea a Beijing y Tianjin y ofrece un vistazo al corazón histórico de China. Tiene pasajes legendarios, templos majestuosos y paisajes donde sentir realmente la historia.",
     "capital": "石家庄 (Shíjiāzhuāng)",
-    "capital_info": "Shíjiāzhuāng es una ciudad moderna en una provincia antigua, ideal para explorar la mezcla entre pasado y presente sin tanto bullicio turístico.",
-    "atra_turisticos": "Shanhaiguan, conocido como el 'Primer paso bajo el Cielo' por su sección de la Gran Muralla, y el Templo de Putuo Zongcheng, una joya arquitectónica que evoca palacios imperiales.",
-    "gastronomia": "El famoso Donkey Meat Burger (驴肉火烧), un snack local único, y una pastelería tradicional de Hebei con dulces que han pasado de generación en generación.",
-    "curioso": "Héběi es literalmente la ‘región norte de los ríos’. Su posición estratégica la convirtió en una zona clave durante muchas dinastías.",
-    "tip_viaje": "Visitar Héběi en primavera o otoño permite disfrutar de clima templado y ver la Gran Muralla sin las multitudes más pesadas."
+    
+    "atra_turisticos": "Shanhaiguan, el punto donde la Gran Muralla se encuentra con el mar; el Templo de Putuo Zongcheng, una réplica en miniatura del Palacio Potala.",
+    
+    "gastronomia": "El famoso 'donkey meat burger' (驴肉火烧), muy típico del norte de China, además de dulces tradicionales como el lǘ dǎ gǔn (pastel de arroz glutinoso), shānzhā gāo (pastel de espino) y varias galletas de sésamo.",
+    
+    "curioso": "Hebei rodea completamente Beijing y Tianjin, lo que la convierte en una provincia clave en el desarrollo económico del norte del país."
 },
 "pHI": {
     "nombre": "海南",
