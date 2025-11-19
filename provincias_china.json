@@ -77,26 +77,32 @@
     "curioso": "El Monte Huangshan es uno de los paisajes más célebres y fotografiados de China, inspiración para artistas y poetas durante siglos.",
     "tip_viaje": "La mejor época para visitar Ānhuī es primavera y otoño, cuando las montañas están cubiertas de niebla ligera y los paisajes lucen espectaculares."
 },
-    "pFJ_1": {
-        "nombre": "福建",
-        "pinyin": "Fújiàn",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/fujian.jpg", 
-        "pie_foto": "Casas redondas Tulou, en Fujian.",
-        "capital": "福州 (Fúzhōu)",
-        "atra_turisticos": "Fujian Tulou (Patrimonio UNESCO), Montaña Wuyi, Isla Gulangyu",
-        "gastronomia": "Buddha Jumps Over the Wall (Fó Tiào Qiáng), Sopa de bola de pescado",
-        "curioso": "Gran parte de la diáspora china del sudeste asiático proviene de esta provincia."
-    },
-    "pHJ": {
-        "nombre": "黑龙江",
-        "pinyin": "Hēilóngjiāng",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/heilongjiang.jpg", 
-        "pie_foto": "El Festival de Hielo y Nieve de Harbin.",
-        "capital": "哈尔滨 (Hā'ěrbīn)",
-        "atra_turisticos": "Festival Internacional de Esculturas de Hielo y Nieve de Harbin, Reserva de Zhalong",
-        "gastronomia": "Goulash, Sopa de Pescado y Albóndigas (por influencia rusa)",
-        "curioso": "Es la provincia más septentrional de China y conocida por su clima extremadamente frío."
-    },
+"pFJ_1": {
+    "nombre": "福建",
+    "pinyin": "Fújiàn",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/fujian.jpg",
+    "pie_foto": "Casas redondas Tulou, en Fujian.",
+    "descripcion": "Fújiàn es famosa por su arquitectura única y su costa escarpada. Sus pueblos Tulou parecen fortalezas circulares sacadas de otra época y las playas invitan a relajarse.",
+    "capital": "福州 (Fúzhōu)",
+    "capital_info": "Fúzhōu es una ciudad vibrante con templos antiguos, calles llenas de historia y mercados donde probar la auténtica comida de la provincia.",
+    "atra_turisticos": "Fujian Tulou (Patrimonio UNESCO), la imponente Montaña Wuyi y la pintoresca Isla Gulangyu.",
+    "gastronomia": "El legendario Buddha Jumps Over the Wall (Fó Tiào Qiáng), sopa de bola de pescado y otros manjares locales que sorprenden por su sabor y tradición.",
+    "curioso": "Muchos emigrantes chinos del sudeste asiático tienen raíces en Fújiàn, lo que la convierte en una provincia con gran influencia cultural.",
+    "tip_viaje": "La mejor época para visitar Fújiàn es primavera y otoño, cuando el clima es templado y se pueden explorar tanto la costa como las montañas."
+},
+"pHJ": {
+    "nombre": "黑龙江",
+    "pinyin": "Hēilóngjiāng",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/heilongjiang.jpg",
+    "pie_foto": "El Festival de Hielo y Nieve de Harbin.",
+    "descripcion": "Hēilóngjiāng es la tierra del frío extremo y los paisajes nevados interminables. Es un destino ideal para los amantes de la nieve y la cultura rusa en China.",
+    "capital": "哈尔滨 (Hā'ěrbīn)",
+    "capital_info": "Hā'ěrbīn es famosa por su arquitectura europea, cafés con encanto y el impresionante Festival Internacional de Esculturas de Hielo y Nieve.",
+    "atra_turisticos": "Festival Internacional de Esculturas de Hielo y Nieve de Harbin y la Reserva Natural de Zhalong, hogar de numerosas aves migratorias.",
+    "gastronomia": "Goulash al estilo ruso, sopa de pescado caliente y albóndigas rellenas, reflejo de la influencia rusa en la gastronomía local.",
+    "curioso": "Es la provincia más septentrional de China y su invierno puede llegar a temperaturas extremadamente bajas, ofreciendo paisajes de ensueño.",
+    "tip_viaje": "El invierno es mágico en Hēilóngjiāng, especialmente durante el Festival de Hielo, pero abrígate bien: las temperaturas pueden ser extremas."
+},
     "pHA": {
         "nombre": "河南",
         "pinyin": "Hénán",
