@@ -51,26 +51,32 @@
     "curioso": "Es la provincia más meridional de China y la única que es completamente tropical, con palmeras, clima cálido todo el año y una naturaleza exuberante.",
     "tip_viaje": "Visita Hǎinán entre noviembre y marzo para disfrutar del sol en su mejor momento, evitar lluvias y aprovechar para escapadas de playa inolvidables."
 },
-    "pGS": {
-        "nombre": "甘肃",
-        "pinyin": "Gānsù",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/gansu.jpg", 
-        "pie_foto": "Desierto de Gansu.",
-        "capital": "兰州 (Lánzhōu)",
-        "atra_turisticos": "Grutas de Mogao, Paso de Jiayu, Montañas de Danxia",
-        "gastronomia": "Lanzhou Beef Noodle Soup (拉面), Niangpi (fideos fríos)",
-        "curioso": "Gran parte de la antigua Ruta de la Seda pasaba por esta provincia."
-    },
-    "pAH": {
-        "nombre": "安徽",
-        "pinyin": "Ānhuī",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/anhui.jpg", 
-        "pie_foto": "Pueblo tradicional de Hongcun, Anhui.",
-        "capital": "合肥 (Héféi)",
-        "atra_turisticos": "Monte Huangshan (Montaña Amarilla), Aldea Hongcun, Cueva de Huashan",
-        "gastronomia": "Li Hongzhang Dish (Estofado), Patos de Wuhu",
-        "curioso": "El Monte Huangshan es uno de los paisajes más célebres y fotografiados de China."
-    },
+"pGS": {
+    "nombre": "甘肃",
+    "pinyin": "Gānsù",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/gansu.jpg",
+    "pie_foto": "Desierto de Gansu.",
+    "descripcion": "Gānsù ofrece un viaje al corazón de la Ruta de la Seda, con desiertos que parecen infinitos, valles históricos y ciudades donde se mezcla lo antiguo y lo moderno.",
+    "capital": "兰州 (Lánzhōu)",
+    "capital_info": "Lánzhōu es famosa por su sopa de fideos y su papel histórico como punto estratégico de comercio en la Ruta de la Seda.",
+    "atra_turisticos": "Las Grutas de Mogao con sus frescos milenarios, el Paso de Jiayu que protegía la Gran Muralla, y las coloridas Montañas de Danxia.",
+    "gastronomia": "La emblemática Lanzhou Beef Noodle Soup (拉面) y Niangpi, fideos fríos ideales para combatir el calor del desierto.",
+    "curioso": "Gran parte de la antigua Ruta de la Seda pasaba por esta provincia, dejando un legado cultural y arquitectónico fascinante.",
+    "tip_viaje": "La mejor época para visitar Gānsù es de primavera a otoño, cuando el clima es más amable y los paisajes se muestran en todo su esplendor."
+},
+"pAH": {
+    "nombre": "安徽",
+    "pinyin": "Ānhuī",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/anhui.jpg",
+    "pie_foto": "Pueblo tradicional de Hongcun, Anhui.",
+    "descripcion": "Ānhuī combina montañas impresionantes, aldeas con siglos de historia y una arquitectura que parece sacada de un cuadro antiguo chino.",
+    "capital": "合肥 (Héféi)",
+    "capital_info": "Héféi es una ciudad moderna que sirve como puerta de entrada para explorar los tesoros naturales y culturales de Anhui.",
+    "atra_turisticos": "El Monte Huangshan (Montaña Amarilla), ideal para senderismo y amaneceres de ensueño, la pintoresca Aldea Hongcun y la histórica Cueva de Huashan.",
+    "gastronomia": "El famoso Li Hongzhang Dish (estofado) y los Patos de Wuhu, platos que reflejan la cocina rica y variada de la región.",
+    "curioso": "El Monte Huangshan es uno de los paisajes más célebres y fotografiados de China, inspiración para artistas y poetas durante siglos.",
+    "tip_viaje": "La mejor época para visitar Ānhuī es primavera y otoño, cuando las montañas están cubiertas de niebla ligera y los paisajes lucen espectaculares."
+},
     "pFJ_1": {
         "nombre": "福建",
         "pinyin": "Fújiàn",
