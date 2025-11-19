@@ -129,26 +129,32 @@
     "curioso": "Jílín es un motor de la industria automovilística china y sus paisajes invernales atraen a turistas de todo el país.",
     "tip_viaje": "El invierno es mágico en Jílín gracias al Rime Ice y la nieve abundante, mientras que el verano permite disfrutar de lagos y montañas con temperaturas agradables."
 },
-    "pJS": {
-        "nombre": "江苏",
-        "pinyin": "Jiāngsū",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/jiangsu.jpg", 
-        "pie_foto": "Jardines clásicos de Suzhou, famosos por su arquitectura y diseño.",
-        "capital": "南京 (Nánjīng)",
-        "atra_turisticos": "Jardines Clásicos de Suzhou, Mausoleo de Sun Yat-sen (Nanjing), Gran Canal",
-        "gastronomia": "Jiangsu Sweet and Sour Pork, Pastel de Sésamo de Nanjing",
-        "curioso": "Famosa por sus ciudades de agua y sus jardines, a menudo llamada 'La Tierra del Pescado y el Arroz'."
-    },
+"pJS": {
+    "nombre": "江苏",
+    "pinyin": "Jiāngsū",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/jiangsu.jpg",
+    "pie_foto": "Jardines clásicos de Suzhou, famosos por su arquitectura y diseño.",
+    "descripcion": "Jiāngsū es famosa por sus ciudades de agua, canales y jardines clásicos que parecen sacados de una pintura. Es un lugar donde la tradición y la modernidad se entrelazan armoniosamente.",
+    "capital": "南京 (Nánjīng)",
+    "capital_info": "Nánjīng combina historia imperial con una ciudad moderna y dinámica, ofreciendo templos, calles peatonales y museos fascinantes.",
+    "atra_turisticos": "Jardines Clásicos de Suzhou, el Mausoleo de Sun Yat-sen en Nánjīng y el Gran Canal, patrimonio que recorre la provincia.",
+    "gastronomia": "Jiangsu Sweet and Sour Pork, delicadamente preparado; y el pastel de sésamo de Nanjing, un dulce tradicional irresistible.",
+    "curioso": "Conocida como 'La Tierra del Pescado y el Arroz', Jiāngsū ha sido un centro cultural y económico durante siglos.",
+    "tip_viaje": "Visitar Jiāngsū en primavera permite disfrutar de los jardines en plena floración y paseos en barco por los canales."
+},
 "pSD": {
-        "nombre": "山东",
-        "pinyin": "Shāndōng",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/shandong.jpg", 
-        "pie_foto": "El Templo y Residencia de Confucio en Qufu, Shandong.", 
-        "capital": "济南 (Jǐnán)",
-        "atra_turisticos": "Monte Tai (Tàishān), Templo de Confucio, Qingdao (Arquitectura Alemana)",
-        "gastronomia": "Pescado en salsa agridulce, Pescado al vapor, Cerveza Tsingtao",
-        "curioso": "Lugar de nacimiento de Confucio y una de las provincias costeras más importantes."
-    },
+    "nombre": "山东",
+    "pinyin": "Shāndōng",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/shandong.jpg",
+    "pie_foto": "El Templo y Residencia de Confucio en Qufu, Shandong.",
+    "descripcion": "Shāndōng combina montañas sagradas, costas y ciudades históricas. Es ideal para quienes buscan naturaleza, cultura y gastronomía tradicional china.",
+    "capital": "济南 (Jǐnán)",
+    "capital_info": "Jǐnán, conocida como la 'Ciudad de los manantiales', ofrece parques, fuentes naturales y un ambiente relajado en pleno noreste de la provincia.",
+    "atra_turisticos": "Monte Tai (Tàishān), un símbolo espiritual; Templo de Confucio y la ciudad histórica de Qufu; y Qingdao, con su arquitectura alemana y playas.",
+    "gastronomia": "Pescado en salsa agridulce, pescado al vapor y la mundialmente famosa cerveza Tsingtao.",
+    "curioso": "Cuna de Confucio y territorio costero estratégico, Shāndōng combina historia y modernidad de manera única.",
+    "tip_viaje": "Primavera y otoño son ideales para explorar Shāndōng, evitando el calor veraniego y disfrutando de los paisajes y templos sin multitudes."
+},
 "pZJ": {
     "nombre": "浙江",
     "pinyin": "Zhèjiāng",
