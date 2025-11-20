@@ -179,26 +179,36 @@
         "gastronomia": "Pescado al Vapor con Arroz, Cerdo Estofado de Ningdu",
         "curioso": "Jingdezhen en Jiangxi es conocida como la 'Capital Mundial de la Porcelana'."
     },
-    "pLN_1": {
-        "nombre": "辽宁",
-        "pinyin": "Liáoníng",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/liaoning.jpg", 
-        "pie_foto": "Palacio Imperial de Shenyang.",
-        "capital": "沈阳 (Shěnyáng)",
-        "atra_turisticos": "Palacio Imperial de Shenyang, Puerto de Dalian, Tumbas Fuling y Zhaoling",
-        "gastronomia": "Guiso de Cerdo con Fideos (por el Nordeste), Mariscos de Dalian",
-        "curioso": "Contiene el segundo palacio imperial mejor conservado de China, después de la Ciudad Prohibida."
-    },
-    "pGZ": {
-        "nombre": "贵州",
-        "pinyin": "Guìzhōu",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/guizhou.jpg", 
-        "pie_foto": "Cascadas de Huangguoshu, una de las mayores caídas de agua de China.",
-        "capital": "贵阳 (Guìyáng)",
-        "atra_turisticos": "Cascadas de Huangguoshu, Aldeas de la etnia Miao, Ciudad Vieja de Zhenyuan",
-        "gastronomia": "Sopa de Pescado Agria y Picante (Suan Tang Yu), Guiso de Cerdo Frito",
-        "curioso": "Una de las provincias más montañosas, con una gran diversidad étnica y famosa por su licor Maotai."
-    },
+"pJX": {
+    "nombre": "江西",
+    "pinyin": "Jiāngxī",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/jiangxi.jpg",
+    "pie_foto": "Vista de la Torre Tengwang en Nanchang, Jiangxi.",
+    "capital": "南昌 (Nánchāng)",
+    "atra_turisticos": "Monte Lushan, Torre Tengwang, Porcelana de Jingdezhen",
+    "gastronomia": "Pescado al vapor con arroz, Cerdo estofado de Ningdu",
+    "curioso": "Jingdezhen, en Jiangxi, es conocida como la 'Capital Mundial de la Porcelana'."
+},
+"pLN_1": {
+    "nombre": "辽宁",
+    "pinyin": "Liáoníng",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/liaoning.jpg",
+    "pie_foto": "Palacio Imperial de Shenyang.",
+    "capital": "沈阳 (Shěnyáng)",
+    "atra_turisticos": "Palacio Imperial de Shenyang, Puerto de Dalian, Tumbas Fuling y Zhaoling",
+    "gastronomia": "Guiso de cerdo con fideos (típico del Nordeste), Mariscos de Dalian",
+    "curioso": "Aloja el segundo palacio imperial mejor conservado de China, después de la Ciudad Prohibida."
+},
+"pGZ": {
+    "nombre": "贵州",
+    "pinyin": "Guìzhōu",
+    "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/guizhou.jpg",
+    "pie_foto": "Cascadas de Huangguoshu, una de las mayores caídas de agua de China.",
+    "capital": "贵阳 (Guìyáng)",
+    "atra_turisticos": "Cascadas de Huangguoshu, Aldeas de la etnia Miao, Ciudad Vieja de Zhenyuan",
+    "gastronomia": "Sopa de pescado agria y picante (Suan Tang Yu), Guiso de cerdo frito",
+    "curioso": "Una de las provincias más montañosas de China, con una gran diversidad étnica y famosa por su licor Maotai."
+},
     "pQH": {
         "nombre": "青海",
         "pinyin": "Qīnghǎi",
