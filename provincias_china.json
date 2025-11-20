@@ -168,46 +168,44 @@
     "curioso": "Cuna de varias de las grandes empresas tecnológicas de China y con una larga tradición en la producción de seda.",
     "tip_viaje": "Mejor visitar en primavera u otoño para disfrutar de los lagos y templos con menos multitudes y temperaturas agradables."
 },
-
-    "pJX": {
-        "nombre": "江西",
-        "pinyin": "Jiāngxī",
-        "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/jiangxi.jpg", 
-        "pie_foto": "Vista de la Torre Tengwang en Nanchang, Jiangxi.",
-        "capital": "南昌 (Nánchāng)",
-        "atra_turisticos": "Monte Lushan, Torre Tengwang, Porcelana de Jingdezhen",
-        "gastronomia": "Pescado al Vapor con Arroz, Cerdo Estofado de Ningdu",
-        "curioso": "Jingdezhen en Jiangxi es conocida como la 'Capital Mundial de la Porcelana'."
-    },
 "pJX": {
     "nombre": "江西",
     "pinyin": "Jiāngxī",
     "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/jiangxi.jpg",
     "pie_foto": "Vista de la Torre Tengwang en Nanchang, Jiangxi.",
+    "descripcion": "Jiāngxī es una provincia tranquila, verde y muy ligada a la tradición china. Ríos, montes y pueblos artesanos hacen que destaque sin necesidad de grandes ciudades turísticas.",
     "capital": "南昌 (Nánchāng)",
-    "atra_turisticos": "Monte Lushan, Torre Tengwang, Porcelana de Jingdezhen",
-    "gastronomia": "Pescado al vapor con arroz, Cerdo estofado de Ningdu",
-    "curioso": "Jingdezhen, en Jiangxi, es conocida como la 'Capital Mundial de la Porcelana'."
+    "capital_info": "Nánchāng combina historia y vida moderna. No es una ciudad excesivamente turística, pero precisamente por eso es un buen punto de partida para conocer la región con calma.",
+    "atra_turisticos": "El Monte Lushan y sus miradores entre nubes; la Torre Tengwang, uno de los pabellones clásicos más famosos de China; y Jingdezhen, centro histórico de producción de porcelana fina.",
+    "gastronomia": "Platos caseros con sabores marcados, como el cerdo estofado de Ningdu o el pescado al vapor con arroz, típicos de la cocina sencilla del sur.",
+    "curioso": "Durante siglos, Jingdezhen fue el corazón de la porcelana imperial, exportada a medio mundo.",
+    "tip_viaje": "Conviene visitarla en primavera u otoño, cuando el clima es más suave y las montañas están especialmente fotogénicas."
 },
 "pLN_1": {
     "nombre": "辽宁",
     "pinyin": "Liáoníng",
     "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/liaoning.jpg",
     "pie_foto": "Palacio Imperial de Shenyang.",
+    "descripcion": "Liáoníng mezcla historia manchú, ciudades industriales y costas abiertas al mar. Es una provincia con carácter y un ritmo distinto al del interior.",
     "capital": "沈阳 (Shěnyáng)",
-    "atra_turisticos": "Palacio Imperial de Shenyang, Puerto de Dalian, Tumbas Fuling y Zhaoling",
-    "gastronomia": "Guiso de cerdo con fideos (típico del Nordeste), Mariscos de Dalian",
-    "curioso": "Aloja el segundo palacio imperial mejor conservado de China, después de la Ciudad Prohibida."
+    "capital_info": "Shěnyáng es vibrante y tiene un patrimonio histórico sorprendente, como su palacio imperial. Además, es una base muy práctica para excursiones por todo el noreste.",
+    "atra_turisticos": "El Palacio Imperial de Shenyang, casi como una 'Ciudad Prohibida del norte'; el puerto de Dalian con su arquitectura moderna; y las tumbas imperiales Fuling y Zhaoling.",
+    "gastronomia": "Guisos contundentes del noreste, carne salteada y los célebres mariscos de Dalian, frescos y muy apreciados.",
+    "curioso": "El palacio imperial de Shenyang es la segunda residencia imperial mejor conservada de China.",
+    "tip_viaje": "Si buscas playa, el verano es perfecto para Dalian; si vas en invierno, prepárate para frío intenso pero cielos muy claros."
 },
 "pGZ": {
     "nombre": "贵州",
     "pinyin": "Guìzhōu",
     "imagen": "https://www.hanzibox.com/stuff/PROVINCIAS/guizhou.jpg",
     "pie_foto": "Cascadas de Huangguoshu, una de las mayores caídas de agua de China.",
+    "descripcion": "Guìzhōu es naturaleza pura: montañas escarpadas, aldeas tradicionales y un ritmo de vida que parece detenido en el tiempo. Ideal para quien busca una China más auténtica y menos visitada.",
     "capital": "贵阳 (Guìyáng)",
-    "atra_turisticos": "Cascadas de Huangguoshu, Aldeas de la etnia Miao, Ciudad Vieja de Zhenyuan",
-    "gastronomia": "Sopa de pescado agria y picante (Suan Tang Yu), Guiso de cerdo frito",
-    "curioso": "Una de las provincias más montañosas de China, con una gran diversidad étnica y famosa por su licor Maotai."
+    "capital_info": "Guìyáng es fresca, verde y relativamente tranquila para ser capital. Es conocida por su clima templado y su cercanía a varios enclaves naturales.",
+    "atra_turisticos": "Las cascadas de Huangguoshu, las aldeas Miao con su arquitectura de madera, y la tranquila ciudad antigua de Zhenyuan.",
+    "gastronomia": "Sabores intensos, mucha acidez y picante. La sopa de pescado agria y picante es un imprescindible, igual que los guisos locales de montaña.",
+    "curioso": "Guìzhōu es una de las provincias con mayor diversidad étnica de China y cuna del famoso licor Maotai.",
+    "tip_viaje": "La primavera u otoño te darán el mejor clima para explorar montañas y aldeas sin la humedad y las lluvias del verano."
 },
     "pQH": {
         "nombre": "青海",
