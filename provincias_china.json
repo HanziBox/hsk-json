@@ -164,7 +164,7 @@
     "capital": "杭州 (Hángzhōu)",
     "capital_info": "Hangzhou es famosa por sus canales, jardines clásicos y el Lago del Oeste. Es perfecta para pasear, probar la gastronomía local y perderse entre templos históricos.",
     "atra_turisticos": "Lago del Oeste: imprescindible al amanecer. Wuzhen: ciudad del agua con canales pintorescos. Islas Zhoushan: naturaleza y templos antiguos.",
-    "gastronomia": "Dongpo Pork: cerdo estofado tradicional. Longjing Tea: té famoso por su aroma y sabor delicado. Sin olvidar los mariscos frescos locales.",
+    "gastronomia": "Panceta de cerdo estofado tradicional (东坡肉 dōngpō ròu) y el Longjing Tea (龙井茶 Lóngjǐng Chá), un té famoso por su aroma y sabor delicado. Sin olvidar los mariscos frescos locales.",
     "curioso": "Cuna de varias de las grandes empresas tecnológicas de China y con una larga tradición en la producción de seda.",
     "tip_viaje": "Mejor visitar en primavera u otoño para disfrutar de los lagos y templos con menos multitudes y temperaturas agradables."
 },
@@ -229,7 +229,7 @@
     "capital": "太原 (Tàiyuán)",
     "capital_info": "Tàiyuán es un centro urbano con mercados de comida local, templos antiguos y un ambiente auténtico del norte de China.",
     "atra_turisticos": "La Ciudad Antigua de Pingyao conserva la esencia de la China imperial; las Grutas de Yungang albergan esculturas budistas impresionantes; y el Monte Wutai es un lugar sagrado de peregrinación.",
-    "gastronomia": "Fideos cortados a cuchillo (Dāo Xiāo Miàn), vinagre añejo de Shanxi y platos tradicionales locales.",
+    "gastronomia": "Fideos cortados a cuchillo (刀削面 dāo xiāo miàn), vinagre añejo de Shanxi y platos tradicionales locales.",
     "curioso": "Shānxī es famosa por su vinagre aromático y la influencia cultural budista en sus templos y monasterios.",
     "tip_viaje": "Otoño es ideal para recorrer templos y ciudades antiguas, disfrutando del clima fresco y los paisajes dorados."
 },
@@ -242,7 +242,7 @@
     "capital": "西安 (Xī'ān)",
     "capital_info": "Xī'ān combina murallas antiguas, barrios con mercados bulliciosos y templos históricos, siendo perfecta para los amantes de la historia.",
     "atra_turisticos": "Los Guerreros de Terracota, el Monte Hua con senderos espectaculares y las murallas de Xi'an que rodean la ciudad antigua.",
-    "gastronomia": "Rou Jia Mo ('hamburguesa' china), fideos Biang Biang y brochetas de cordero.",
+    "gastronomia": "La icónica 'hamburguesa china' (肉夹馍 ròu jiā mó) como comida callejera, fideos Biang Biang (los del famoso carácter 𰻝 biáng de 59 trazos) y brochetas de cordero.",
     "curioso": "Capital durante trece dinastías, Xi'an fue un punto clave de la Ruta de la Seda y mantiene viva su historia en cada calle.",
     "tip_viaje": "Primavera y otoño ofrecen clima agradable para recorrer la ciudad y subir al Monte Hua sin las multitudes veraniegas."
 },
@@ -255,7 +255,7 @@
     "capital": "武汉 (Wǔhàn)",
     "capital_info": "Wǔhàn es una ciudad moderna con lagos, puentes icónicos y mercados que ofrecen la gastronomía típica del centro de China.",
     "atra_turisticos": "La Presa de las Tres Gargantas, el Monte Wudang y la Torre de la Grulla Amarilla (Huanghelou).",
-    "gastronomia": "Reganmian (fideos secos calientes), sopa de raíz de loto con costillas y especialidades locales.",
+    "gastronomia": "Los fideos secos calientes (热干面 rè gān miàn), sopa de raíz de loto con costillas y especialidades locales.",
     "curioso": "La infraestructura de Húběi es impresionante, desde presas hasta puentes que muestran la magnitud del desarrollo moderno.",
     "tip_viaje": "Primavera y otoño permiten disfrutar de la navegación por el Yangtze y explorar templos y paisajes sin excesivo calor."
 },
@@ -268,7 +268,7 @@
     "capital": "广州 (Guǎngzhōu)",
     "capital_info": "Guǎngzhōu combina rascacielos, ríos y mercados locales donde probar Dim Sum auténtico y productos frescos.",
     "atra_turisticos": "Torre de Cantón, la Casa Ancestral de la Familia Chen y el vibrante distrito de innovación de Shenzhen.",
-    "gastronomia": "Dim Sum (点心), Chow Mein y Wonton Soup, destacando por la diversidad y frescura de sus ingredientes.",
+    "gastronomia": "Dim Sum (点心 diǎn xin), Chow Mein y Wonton Soup, destacando por la diversidad y frescura de sus ingredientes.",
     "curioso": "Es la provincia más poblada de China y un centro económico global con conexiones internacionales.",
     "tip_viaje": "Primavera y otoño son ideales para recorrer ciudades, parques y disfrutar de la gastronomía sin el calor húmedo del verano."
 },
@@ -324,7 +324,7 @@
     "capital": "银川 (Yínchuān)",
     "capital_info": "Yínchuān combina modernidad y tradición, con mercados de especias, mezquitas y paisajes desérticos cerca.",
     "atra_turisticos": "Shapotou, Tumbas Reales de los Xia Occidentales, Monte Helan.",
-    "gastronomia": "Carne de cordero estofada, pastel de arroz glutinoso (yóu gāo), vino tinto local.",
+    "gastronomia": "Carne de cordero estofada, pastel de arroz glutinoso (油糕 yóu gāo), vino tinto local.",
     "curioso": "Establecida para la minoría Hui, esta región es pequeña pero culturalmente rica y predominantemente musulmana.",
     "tip_viaje": "Otoño es perfecto para explorar los desiertos y disfrutar de temperaturas suaves."
 },
@@ -352,7 +352,7 @@
     "capital": "长沙 (Chángshā)",
     "capital_info": "Chángshā es animada y cultural, con mercados de comida picante, templos y lagos que invitan a pasear.",
     "atra_turisticos": "Parque Forestal Nacional de Zhangjiajie, Monte Heng, Parque Nacional del Cañón de Dehang, Pueblo Antiguo de Fenghuang.",
-    "gastronomia": "Pescado al vapor con chiles picantes, tofu apestoso de Changsha, pollo Dingji.",
+    "gastronomia": "Pescado al vapor con chiles picantes, tofu apestoso de Changsha, y el pollo cortado a cubitos Dingji (丁鸡 dīng jī).",
     "curioso": "Provincia natal de Mao Zedong y famosa por su cocina picante y ligeramente agria.",
     "tip_viaje": "Otoño permite disfrutar de senderismo y paisajes sin el calor extremo del verano."
 },
@@ -366,7 +366,7 @@
     "capital": "Pekín (Sede del gobierno central)",
     "capital_info": "La capital política y cultural de China, con mercados, palacios y barrios históricos que narran siglos de historia.",
     "atra_turisticos": "Ciudad Prohibida, Gran Muralla China (Badaling y Mutianyu), Templo del Cielo, Plaza de Tiananmén.",
-    "gastronomia": "Pato laqueado de Pekín, jiaozi (dumplings), fideos Zha Jiang Mian.",
+    "gastronomia": "Pato laqueado de Pekín, las famosas empanadillas al vapor (饺子 jiǎozi), fideos con salsa salteada (炸酱面 zhà jiàng miàn.)",
     "curioso": "Centro cultural y político de China, con una mezcla única de tradición y modernidad.",
     "tip_viaje": "Otoño y primavera son ideales para recorrer la ciudad evitando el calor y la contaminación extrema del verano."
 },
@@ -394,7 +394,7 @@
     "capital": "Tianjín",
     "capital_info": "Ciudad con influencia extranjera histórica, mercados locales y barrios que conservan el estilo de principios del siglo XX.",
     "atra_turisticos": "El Ojo de Tianjin (Noria), Cinco Grandes Avenidas (Wudadao), Calle de la Cultura Antigua, Zona de Estilo Italiano.",
-    "gastronomia": "Goubuli Baozi (bollos al vapor), fritos de masa de barro (Máhua), Jianbing (crepe de desayuno).",
+    "gastronomia": "Bollitos al vapor (狗不理包子 gǒubùlǐ bāozi) para desayunar, los snacks de trenzas fritas crujientes (麻花 máhuā) y los crepes a la plancha (煎饼 jiān bing).",
     "curioso": "Puerto clave en el norte de China y ejemplo de la mezcla de culturas por las concesiones extranjeras.",
     "tip_viaje": "Otoño es perfecto para recorrer la ciudad, disfrutar de su arquitectura y probar la gastronomía sin demasiado calor."
 },
@@ -408,7 +408,7 @@
     "capital": "Chongqing",
     "capital_info": "Entre ríos y colinas, la ciudad ofrece mercados, arquitectura moderna y callejones tradicionales que explorar.",
     "atra_turisticos": "Hall del Pueblo, Tres Gargantas (parcialmente), Monumento de Liberación del Pueblo, Estatuas Rupestres de Dazu.",
-    "gastronomia": "Hot Pot de Chongqing, fideos picantes y agrios (Suānlà Fěntiáo), pollo con chile (Làzǐ Jī).",
+    "gastronomia": "Hot Pot de Chongqing, fideos picantes y agrios (酸辣粉条 suānlà fěntiáo) y el pollo con chile (辣子鸡 làzǐ jī).",
     "curioso": "Única municipalidad sin salida al mar, conocida como 'Ciudad de la Montaña' por su topografía escarpada.",
     "tip_viaje": "Otoño y primavera permiten explorar la ciudad y sus alrededores sin soportar el calor húmedo del verano."
 }
