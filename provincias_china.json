@@ -2,27 +2,27 @@
 "pYN": {
     "nombre": "云南",
     "pinyin": "Yúnnán",
-    "galeria": [
+    "imagenes": [
         {
             "src": "https://www.hanzibox.com/stuff/PROVINCIAS/yunnan.jpg",
             "pie": "La Ciudad Antigua de Dali."
         },
         {
             "src": "https://www.hanzibox.com/stuff/PROVINCIAS/yunnan_2.jpg",
-            "pie": "Terrazas de arroz de Yuányáng, un paisaje modelado por siglos de tradición agrícola."
+            "pie": "Terrazas de arroz en Yuanyang."
         },
         {
             "src": "https://www.hanzibox.com/stuff/PROVINCIAS/yunnan_3.jpg",
-            "pie": "Montañas de Shangri-La, un rincón tibetano lleno de senderos y monasterios."
+            "pie": "Lago Lugu y pueblos tradicionales."
         }
     ],
-    "descripcion": "Yúnnán es un auténtico mosaico de culturas, climas y paisajes. Selvas, lagos, montañas nevadas y aldeas étnicas crean una mezcla única que sorprende a cada paso.",
+    "descripcion": "Yúnnán es una región de diversidad natural y cultural increíble. Montañas, lagos y pueblos étnicos crean un entorno impresionante.",
     "capital": "昆明 (Kūnmíng)",
-    "capital_info": "Kūnmíng, la 'Ciudad de la Eterna Primavera', destaca por su ambiente relajado, sus parques floreados todo el año y una gastronomía muy ligada a ingredientes locales.",
-    "atra_turisticos": "Lago Erhai, Shaxi y Dali: historia, mercados y arquitectura tradicional. El Parque Nacional Jade Dragon Snow Mountain ofrece glaciares, trekking y vistas espectaculares.",
-    "gastronomia": "Los famosos 'fideos que cruzan el puente' (过桥米线 guò qiáo mǐxiàn) son el plato estrella. También son muy populares los platos con flores, hongos silvestres y hierbas locales.",
-    "curioso": "Yúnnán es la provincia con mayor diversidad étnica de China y un paraíso para botánicos gracias a su enorme variedad de plantas.",
-    "tip_viaje": "Primavera y otoño son ideales para viajar: cielos despejados, temperaturas suaves y paisajes especialmente fotogénicos."
+    "capital_info": "Kūnmíng, la 'Ciudad de la Eterna Primavera', ideal para recorrer mercados y templos históricos sin agobio urbano.",
+    "atra_turisticos": "Lago Erhai, Shaxi y Dali, Parque Nacional de Jade Dragon Snow Mountain.",
+    "gastronomia": "'Los fideos que cruzan el puente' (过桥米线 guò qiáo mǐxiàn), flores comestibles y hierbas locales.",
+    "curioso": "Yúnnán alberga la mayor diversidad étnica de China y una enorme colección de plantas y flores.",
+    "tip_viaje": "Primavera u otoño, cuando los paisajes están en su máximo esplendor."
 },
 "pSC": {
     "nombre": "四川",
