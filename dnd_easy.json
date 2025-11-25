@@ -51,7 +51,7 @@
     "words": [
         {"hanzi": "我", "pinyin": "wǒ"},
         {"hanzi": "必须", "pinyin": "bìxū"},
-        {"hanzi": "帮忙", "bāngmáng"}
+        {"hanzi": "帮忙", "pinyin": "bāngmáng"}
     ],
     "translation": "Debo ayudar."
 },
