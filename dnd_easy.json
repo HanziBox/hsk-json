@@ -489,7 +489,7 @@
         {"hanzi": "很", "pinyin": "hěn"},
         {"hanzi": "快", "pinyin": "kuài"}
     ],
-    "translation": "El mundo cambian muy deprisa."
+    "translation": "El mundo cambia muy deprisa."
 },
   {
     "words": [
@@ -1124,6 +1124,7 @@
             "translation": "Tengo muchos amigos."
   }
 ]
+
 
 
 
