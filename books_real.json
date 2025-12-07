@@ -1,4 +1,5 @@
-[
+{
+    "books": [
   {
     "id": 1,
     "titulo": "Stoner",
@@ -827,4 +828,7 @@
   "paso6_sexo": "presente",
   "paso6_violencia": "soportable"
 }
+
 ]
+}
+  
