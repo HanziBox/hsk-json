@@ -530,7 +530,7 @@
     "pais": "Estados Unidos",
     "genero": ["Ciencia Ficción","Distopía","Histórica"],
     "puntuacion": 3,
-    "sumario": "Tres historias que presentan versiones alternativas de los Estados Unidos (en 1893, 1993 y 2093) explora temas como la libertad, el amor y la pérdida a través de personajes conectados en el tiempo y el espacio; desde una utopía social donde el matrimonio gay está permitido en el siglo XIX, hasta una América futura distópica, regida por pandemias y caos climático.",
+    "sumario": "Dividida en tres historias que presentan versiones alternativas de los Estados Unidos (en 1893, 1993 y 2093) explora temas como la libertad, el amor y la pérdida a través de personajes conectados en el tiempo y el espacio; desde una utopía social donde el matrimonio gay está permitido en el siglo XIX, hasta una América futura distópica, regida por pandemias y caos climático.",
     "paso1_tono": "oscuro",
     "paso2_experiencia": "drama_interior",
     "paso3_foco": "pulso_social",
@@ -830,6 +830,7 @@
 
 ]
   
+
 
 
 
