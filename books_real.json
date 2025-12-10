@@ -477,7 +477,7 @@
     "pais": "Estados Unidos",
     "genero": ["Ficción Literaria","Sátira","Comedia"],
     "puntuacion": 5,
-    "sumario": "Ambientada en Nueva Orleans, sigue las hilarantes y caóticas desventuras de **Ignatius J. Reilly**, un intelectual obeso y misántropo de 30 años que vive con su madre y se ve obligado a buscar trabajo, confrontando un mundo moderno que considera vulgar y estúpido.",
+    "sumario": "Ambientada en Nueva Orleans, sigue las hilarantes y caóticas desventuras de Ignatius J. Reilly, un intelectual obeso y misántropo de 30 años que vive con su madre y se ve obligado a buscar trabajo, confrontando un mundo moderno que considera vulgar y estúpido.",
     "paso1_tono": "oscuro",
     "paso2_experiencia": "retrato_humano",
     "paso3_foco": "pulso_social",
@@ -831,6 +831,7 @@
 
 ]
   
+
 
 
 
