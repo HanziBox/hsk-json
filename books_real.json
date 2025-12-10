@@ -396,23 +396,23 @@
     "paso6_violencia": "soportable"
   },
 {
-    "id": 23,
-    "titulo": "Los peligros de fumar en la cama",
-    "autor": "Mariana Enriquez",
-    "portada": "covers/portada_23.jpg",
-    "año": 2009,
-    "pais": "Argentina",
-    "genero": ["Terror","Gótico","Sobrenatural"],
-    "puntuacion": 3,
-    "sumario": "Colección de doce cuentos de terror contemporáneo y gótico que exploran la oscuridad cotidiana en Argentina. Las historias abordan temas de obsesión, marginalidad, rituales y la fragilidad del cuerpo con una atmósfera intensa y perturbadora.",
+    "id": 23,
+    "titulo": "Los peligros de fumar en la cama",
+    "autor": "Mariana Enriquez",
+    "portada": "covers/portada_23.jpg",
+    "año": 2009,
+    "pais": "Argentina",
+    "genero": ["Terror","Gótico","Sobrenatural"],
+    "puntuacion": 3,
+    "sumario": "Colección de doce cuentos de terror contemporáneo y gótico que exploran la oscuridad cotidiana en Argentina. Las historias abordan temas de obsesión, marginalidad, rituales y la fragilidad del cuerpo con una atmósfera intensa y perturbadora.",
     "tipo_obra": "relatos",
-    "paso1_tono": "oscuro",
-    "paso2_experiencia": "el_enigma",
-    "paso3_foco": "lo_inexplicable",
-    "paso4_compromiso": "devorar",
-    "paso5_extension": "corta",
-    "paso6_sexo": "presente",
-    "paso6_violencia": "desatada"
+    "paso1_tono": "oscuro",
+    "paso2_experiencia": "el_enigma",
+    "paso3_foco": "lo_inexplicable",
+    "paso4_compromiso": "devorar",
+    "paso5_extension": "corta",
+    "paso6_sexo": "presente",
+    "paso6_violencia": "desatada"
 },
   {
     "id": 24,
@@ -831,6 +831,7 @@
 
 ]
   
+
 
 
 
