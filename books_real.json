@@ -640,9 +640,10 @@
   "genero": ["Fantasía", "Realismo Mágico", "Cuento Corto"],
   "puntuacion": 3,
   "sumario": "Antología de quince relatos que mezclan ciencia ficción especulativa, fantasía y realismo mágico. Las historias exploran profundamente el impacto de la tecnología, el legado cultural chino, la identidad y las complejas dinámicas familiares, con un tono melancólico y conmovedor. Incluye el relato homónimo, ganador de los premios Hugo, Nebula y World Fantasy.",
-  "paso1_tono": "luminoso",
-  "paso2_experiencia": "retrato_humano",
-  "paso3_foco": "el_espejo_real",
+  "tipo_obra": "relatos",
+  "paso1_tono": "oscuro",
+  "paso2_experiencia": "el_enigma",
+  "paso3_foco": "lo_inexplicable",
   "paso4_compromiso": "saborear",
   "paso5_extension": "corta",
   "paso6_sexo": "inexistente",
@@ -831,6 +832,7 @@
 
 ]
   
+
 
 
 
