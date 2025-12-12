@@ -1197,7 +1197,7 @@
     "genero": ["Ficción Literaria", "Narrativa Japonesa", "Drama", "Retrato Íntimo"],
     "etiquetas_clave": ["narrativa_japonesa", "belleza_efimera", "geishas", "soledad", "amor_tragico"],
     "puntuacion": 5,
-    "sumario": "Un hombre rico de Tokio viaja periódicamente al País de Nieve para encontrarse con una joven aprendiz de geisha. La novela es una exploración lírica de la belleza efímera, la soledad y el amor no correspondido. Kawabata capta como nadie el profundo abismo emocional entre un hombre en busca de evasión y una mujer atrapada por su destino.",
+    "sumario": "Un hombre rico de Tokio viaja periódicamente al País de Nieve para encontrarse con una joven aprendiz de geisha. La novela es una exploración lírica de la belleza efímera, la soledad y el amor no correspondido. Kawabata capta como nadie el profundo abismo emocional entre un hombre en busca de evasión y una mujer rehén de su destino.",
     "tipo_obra": "novela_completa",
     "isbn13": "9788426466336",
     "url_compra": "https://ejemplo.com/",
@@ -1243,6 +1243,7 @@
   }
 ]
   
+
 
 
 
