@@ -152,17 +152,6 @@
     },
     {
         "words": [
-            {"hanzi": "这些", "pinyin": "zhèxiē"},
-            {"hanzi": "玩具", "pinyin": "wánjù"},
-            {"hanzi": "都", "pinyin": "dōu"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Todos estos juguetes son suyos."
-    },
-    {
-        "words": [
             {"hanzi": "那", "pinyin": "nà"},
             {"hanzi": "个人", "pinyin": "ge rén"},
             {"hanzi": "是", "pinyin": "shì"},
@@ -173,6 +162,7 @@
     }
 
 ]
+
 
 
 
