@@ -132,7 +132,8 @@
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "电话号码", "pinyin": "diànhuà hàomǎ"},
+            {"hanzi": "电话", "pinyin": "diànhuà"},
+            {"hanzi": "号码", "pinyin": "hàomǎ"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "错", "pinyin": "cuò"},
             {"hanzi": "的", "pinyin": "de"}
@@ -162,6 +163,7 @@
     }
 
 ]
+
 
 
 
