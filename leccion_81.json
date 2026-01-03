@@ -76,19 +76,6 @@
     {
         "words": [
             {"hanzi": "那", "pinyin": "nà"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "不知道", "pinyin": "bùzhīdào"},
-            {"hanzi": "，", "pinyin": ","},
-            {"hanzi": "没有", "pinyin": "méiyǒu"},
-            {"hanzi": "人", "pinyin": "rén"},
-            {"hanzi": "告诉", "pinyin": "gàosu"},
-            {"hanzi": "我", "pinyin": "wǒ"}
-        ],
-        "translation": "Eso sí que no lo sé, nadie me lo dijo."
-    },
-    {
-        "words": [
-            {"hanzi": "那", "pinyin": "nà"},
             {"hanzi": "双", "pinyin": "shuāng"},
             {"hanzi": "鞋", "pinyin": "xié"},
             {"hanzi": "是", "pinyin": "shì"},
@@ -186,6 +173,7 @@
     }
 
 ]
+
 
 
 
