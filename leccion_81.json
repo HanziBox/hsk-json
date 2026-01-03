@@ -121,10 +121,12 @@
         "words": [
             {"hanzi": "中文", "pinyin": "zhōngwén"},
             {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "不容易", "pinyin": "bùróngyì"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "容易", "pinyin": "róngyì"},
             {"hanzi": "，", "pinyin": ","},
             {"hanzi": "但是", "pinyin": "dànshì"},
-            {"hanzi": "很有意思", "pinyin": "hěnyǒu yìsi"}
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "有意思", "pinyin": "yǒu yìsi"}
         ],
         "translation": "El chino sí que no es fácil, pero es muy interesante."
     },
@@ -163,6 +165,7 @@
     }
 
 ]
+
 
 
 
