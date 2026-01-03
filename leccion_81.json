@@ -2,7 +2,7 @@
     {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "icon", "pinyin": "de"},
+            {"hanzi": "的", "pinyin": "de"},
             {"hanzi": "自行车", "pinyin": "zìxíngchē"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "绿", "pinyin": "lǜ"},
@@ -220,4 +220,5 @@
         ],
         "translation": "Esa persona sí que es muy rara."
     }
+
 ]
