@@ -23,21 +23,6 @@
     },
     {
         "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "想", "pinyin": "xiǎng"},
-            {"hanzi": "帮", "pinyin": "bāng"},
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "，", "pinyin": ","},
-            {"hanzi": "不是", "pinyin": "búshì"},
-            {"hanzi": "想", "pinyin": "xiǎng"},
-            {"hanzi": "骗", "pinyin": "piàn"},
-            {"hanzi": "你", "pinyin": "nǐ"}
-        ],
-        "translation": "Mi intención sí es ayudarte, no engañarte."
-    },
-    {
-        "words": [
             {"hanzi": "妈妈", "pinyin": "māma"},
             {"hanzi": "说", "pinyin": "shuō"},
             {"hanzi": "的", "pinyin": "de"},
@@ -212,4 +197,5 @@
     }
 
 ]
+
 
