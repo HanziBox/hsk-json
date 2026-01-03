@@ -12,16 +12,6 @@
     },
     {
         "words": [
-            {"hanzi": "这个", "pinyin": "zhège"},
-            {"hanzi": "手机", "pinyin": "shǒujī"},
-            {"hanzi": "不是", "pinyin": "búshì"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Este móvil no es mío."
-    },
-    {
-        "words": [
             {"hanzi": "那", "pinyin": "nà"},
             {"hanzi": "张", "pinyin": "zhāng"},
             {"hanzi": "桌子", "pinyin": "zhuōzi"},
@@ -222,3 +212,4 @@
     }
 
 ]
+
