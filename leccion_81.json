@@ -127,7 +127,7 @@
             {"hanzi": "，", "pinyin": ","},
             {"hanzi": "但是", "pinyin": "dànshì"},
             {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "有意思", "pinyin": "yǒu yìsi"}
+            {"hanzi": "有意思", "pinyin": "yǒuyìsi"}
         ],
         "translation": "El chino sí que no es fácil, pero es muy interesante."
     },
@@ -162,10 +162,11 @@
             {"hanzi": "很", "pinyin": "hěn"},
             {"hanzi": "奇怪", "pinyin": "qíguài"}
         ],
-        "translation": "Esa persona sí que es muy rara."
+        "translation": "Esa persona sí que es rara."
     }
 
 ]
+
 
 
 
