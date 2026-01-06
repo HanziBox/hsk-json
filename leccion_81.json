@@ -163,9 +163,115 @@
             {"hanzi": "奇怪", "pinyin": "qíguài"}
         ],
         "translation": "Esa persona sí que es rara."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "去年", "pinyin": "qùnián"},
+            {"hanzi": "搬", "pinyin": "bān"},
+            {"hanzi": "到", "pinyin": "dào"},
+            {"hanzi": "上海", "pinyin": "Shànghǎi"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Él se mudó a Shanghái el año pasado."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "坐", "pinyin": "zuò"},
+            {"hanzi": "火车", "pinyin": "huǒchē"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Él vino en tren."
+    },
+    {
+        "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "本", "pinyin": "běn"},
+            {"hanzi": "书", "pinyin": "shū"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "妈妈", "pinyin": "māma"},
+            {"hanzi": "给", "pinyin": "gěi"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Fue mi mamá quien me dio este libro."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "出生", "pinyin": "chūshēng"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Fue en Pekín donde nació."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "用", "pinyin": "yòng"},
+            {"hanzi": "手机", "pinyin": "shǒujī"},
+            {"hanzi": "拍", "pinyin": "pāi"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "照片", "pinyin": "zhàopiàn"}
+        ],
+        "translation": "Tomó la foto con el móvil."
+    },
+    {
+        "words": [
+            {"hanzi": "他们", "pinyin": "tāmen"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "一起", "pinyin": "yìqǐ"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "回", "pinyin": "huí"},
+            {"hanzi": "家", "pinyin": "jiā"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Ellos volvieron a casa caminando juntos."
+    },
+    {
+        "words": [
+            {"hanzi": "晚饭", "pinyin": "wǎnfàn"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "弟弟", "pinyin": "dìdi"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "La cena la hizo mi hermano menor."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "真的", "pinyin": "zhēnde"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "聪明", "pinyin": "cōngmíng"}
+        ],
+        "translation": "Él realmente es muy inteligente."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "晚上", "pinyin": "wǎnshang"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "回家", "pinyin": "huíjiā"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Esta noche sí que ya no vuelvo a casa."
     }
 
 ]
+
 
 
 
