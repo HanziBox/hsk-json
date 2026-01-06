@@ -266,7 +266,7 @@
             {"hanzi": "做", "pinyin": "zuò"},
             {"hanzi": "的", "pinyin": "de"}
         ],
-        "translation": "La cena la hizo mi hermano menor."
+        "translation": "Fue mi hermano menor quien hizo la cena."
     },
     {
         "words": [
@@ -292,6 +292,7 @@
     }
 
 ]
+
 
 
 
