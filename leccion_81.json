@@ -139,7 +139,7 @@
             {"hanzi": "带", "pinyin": "dài"},
             {"hanzi": "书", "pinyin": "shū"}
         ],
-        "translation": "Es que de verdad olvidé traer el libro."
+        "translation": "Sí que me olvidé de traer el libro."
     },
     {
         "words": [
@@ -197,7 +197,7 @@
             {"hanzi": "上海", "pinyin": "Shànghǎi"},
             {"hanzi": "的", "pinyin": "de"}
         ],
-        "translation": "Él se mudó a Shanghái el año pasado."
+        "translation": "Fue el año pasado cuando se mudó a Shanghái"
     },
     {
         "words": [
@@ -294,6 +294,7 @@
     }
 
 ]
+
 
 
 
