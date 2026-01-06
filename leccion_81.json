@@ -61,7 +61,7 @@
             {"hanzi": "不对", "pinyin": "búduì"},
             {"hanzi": "的", "pinyin": "de"}
         ],
-        "translation": "Esta respuesta es incorrecta / no es la correcta."
+        "translation": "Esta respuesta es incorrecta (no es la correcta)."
     },
     {
         "words": [
@@ -73,7 +73,8 @@
             {"hanzi": "棉", "pinyin": "mián"},
             {"hanzi": "的", "pinyin": "de"}
         ],
-        "translation": "Toda mi ropa es de algodón."
+        "translation": "Toda mi ropa es de algodón.",
+        "note": "📋NOTA: Algodón se dice mián 棉."
     },
     {
         "words": [
@@ -83,7 +84,8 @@
             {"hanzi": "很", "pinyin": "hěn"},
             {"hanzi": "热", "pinyin": "rè"}
         ],
-        "translation": "Hoy sí que hace mucho calor."
+        "translation": "Hoy sí que hace mucho calor.",
+        "note": "📋NOTA: "tiān 天 (día) es el sujeto aquí"
     },
     {
         "words": [
@@ -292,6 +294,7 @@
     }
 
 ]
+
 
 
 
