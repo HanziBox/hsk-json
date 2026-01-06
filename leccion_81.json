@@ -111,7 +111,8 @@
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "忘了", "pinyin": "wàngle"},
+            {"hanzi": "忘", "pinyin": "wàng"},
+            {"hanzi": "了", "pinyin": "le"},
             {"hanzi": "带", "pinyin": "dài"},
             {"hanzi": "书", "pinyin": "shū"}
         ],
@@ -165,6 +166,7 @@
     }
 
 ]
+
 
 
 
