@@ -10,6 +10,27 @@
         ],
         "translation": "Su bicicleta es verde."
     },
+        {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "北京", "pinyin": "Běijīng"},
+            {"hanzi": "出生", "pinyin": "chūshēng"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Fue en Pekín donde nació."
+    },
+        {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "天", "pinyin": "tiān"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "热", "pinyin": "rè"}
+        ],
+        "translation": "Hoy sí que hace mucho calor."
+    },
     {
         "words": [
             {"hanzi": "那", "pinyin": "nà"},
@@ -271,6 +292,7 @@
     }
 
 ]
+
 
 
 
