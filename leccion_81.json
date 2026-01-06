@@ -85,7 +85,7 @@
             {"hanzi": "热", "pinyin": "rè"}
         ],
         "translation": "Hoy sí que hace mucho calor.",
-        "note": "📋NOTA: "tiān 天 'día' es el sujeto aquí"
+        "note": "📋NOTA: tiān 天 'día' es el sujeto aquí."
     },
     {
         "words": [
@@ -294,6 +294,7 @@
     }
 
 ]
+
 
 
 
