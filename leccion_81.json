@@ -64,6 +64,18 @@
     },
     {
         "words": [
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "爸爸", "pinyin": "bàba"},
+            {"hanzi": "教", "pinyin": "jiāo"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "Fue mi papá quien me enseñó.",
+        "note": "📋NOTA: jiāo 教 significa enseñar."
+    }m
+    {
+        "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "的", "pinyin": "de"},
             {"hanzi": "衣服", "pinyin": "yīfu"},
@@ -319,6 +331,7 @@
     }
 
 ]
+
 
 
 
