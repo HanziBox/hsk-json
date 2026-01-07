@@ -109,6 +109,43 @@
     },
     {
         "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "件", "pinyin": "jiàn"},
+            {"hanzi": "事情", "pinyin": "shìqing"},
+            {"hanzi": "不是", "pinyin": "búshì"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "告诉", "pinyin": "gàosu"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "No fuiste tú quien me dijo esto."
+    },
+    {
+        "words": [
+            {"hanzi": "这个", "pinyin": "zhège"},
+            {"hanzi": "菜", "pinyin": "cài"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "怎么", "pinyin": "zěnme"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "¿Cómo es que se hace este plato?"
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "想", "pinyin": "xiǎng"},
+            {"hanzi": "去", "pinyin": "qù"},
+            {"hanzi": "，", "pinyin": ","},
+            {"hanzi": "但是", "pinyin": "dànshì"},
+            {"hanzi": "没", "pinyin": "méi"},
+            {"hanzi": "时间", "pinyin": "shíjiān"}
+        ],
+        "translation": "Sí que quiero ir, pero no tengo tiempo."
+    },
+    {
+        "words": [
             {"hanzi": "老师", "pinyin": "lǎoshī"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "对", "pinyin": "duì"},
@@ -294,6 +331,7 @@
     }
 
 ]
+
 
 
 
