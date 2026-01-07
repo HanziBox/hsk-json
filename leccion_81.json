@@ -21,7 +21,7 @@
         ],
         "translation": "Fue en Pekín donde nació."
     },
-        {
+    {
         "words": [
             {"hanzi": "今天", "pinyin": "jīntiān"},
             {"hanzi": "天", "pinyin": "tiān"},
@@ -29,7 +29,8 @@
             {"hanzi": "很", "pinyin": "hěn"},
             {"hanzi": "热", "pinyin": "rè"}
         ],
-        "translation": "Hoy sí que hace mucho calor."
+        "translation": "Hoy sí que hace mucho calor.",
+        "note": "📋NOTA: tiān 天 'día' es el sujeto aquí."
     },
     {
         "words": [
@@ -75,17 +76,6 @@
         ],
         "translation": "Toda mi ropa es de algodón.",
         "note": "📋NOTA: Algodón se dice mián 棉."
-    },
-    {
-        "words": [
-            {"hanzi": "今天", "pinyin": "jīntiān"},
-            {"hanzi": "天", "pinyin": "tiān"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "热", "pinyin": "rè"}
-        ],
-        "translation": "Hoy sí que hace mucho calor.",
-        "note": "📋NOTA: tiān 天 'día' es el sujeto aquí."
     },
     {
         "words": [
@@ -331,6 +321,7 @@
     }
 
 ]
+
 
 
 
