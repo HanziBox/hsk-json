@@ -206,7 +206,7 @@
             {"hanzi": "件", "pinyin": "jiàn"},
             {"hanzi": "事", "pinyin": "shì"}
         ],
-        "translation": "Esto es precisamente lo que me preocupa.",
+        "translation": "Esto es justo lo que me preocupa.",
         "note": "📋NOTA: dānxīn 担心 significa preocuparse / preocupación."
     },
   {
@@ -939,6 +939,7 @@
     ]
   }
 ]
+
 
 
 
