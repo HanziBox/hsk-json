@@ -89,6 +89,18 @@
     },
     {
         "words": [
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "问题", "pinyin": "wèntí"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "关键", "pinyin": "guānjiàn"}
+        ],
+        "translation": "Esta es precisamente la clave del problema.",
+        "note": "📋NOTA: guān jiàn 关键 significa clave o punto crucial."
+    },
+    {
+        "words": [
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "很", "pinyin": "hěn"},
@@ -331,6 +343,7 @@
     }
 
 ]
+
 
 
 
