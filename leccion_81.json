@@ -610,40 +610,6 @@
         ],
         "translation": "Él es precisamente la persona que me llamó ayer.",
         "note": "📋NOTA: dǎ diànhuà 打电话 significa llamar por teléfono."
-    },
-  {
-    "words": [
-      {
-        "hanzi": "我",
-        "pinyin": "wǒ"
-      },
-      {
-        "hanzi": "是",
-        "pinyin": "shì"
-      },
-      {
-        "hanzi": "不",
-        "pinyin": "bù"
-      },
-            {
-        "hanzi": "同意",
-        "pinyin": "tóngyì"
-      },
-      {
-        "hanzi": "你",
-        "pinyin": "nǐ"
-      },
-      {
-        "hanzi": "的",
-        "pinyin": "de"
-      },
-      {
-        "hanzi": "想法",
-        "pinyin": "xiǎngfǎ"
-      },
-      ],
-      "translation": "Realmente no estoy de acuerdo con tu opinión.",
-      "note": "📋NOTA: xiǎngfǎ 想法 es opinión o, literalmente, 'forma de pensar'."
   },
   {
     "translation": "Esa persona sí que es rara.",
@@ -670,6 +636,18 @@
       }
     ]
   },
+  {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "不同意", "pinyin": "bùtóngyì"},
+            {"hanzi": "你", "pinyin": "de"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "想法", "pinyin": "xiǎngfǎ"}
+        ],
+        "translation": "Realmente no estoy de acuerdo con tu idea.",
+        "note": "📋NOTA: xiǎngfǎ 想法 es opinión o, literalmente, 'forma de pensar'."
+    },
   {
     "translation": "Fue el año pasado cuando se mudó a Shanghái",
     "words": [
@@ -956,6 +934,7 @@
     ]
   }
 ]
+
 
 
 
