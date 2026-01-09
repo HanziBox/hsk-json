@@ -612,7 +612,7 @@
         "note": "📋NOTA: dǎ diànhuà 打电话 significa llamar por teléfono."
     },
   {
-    "translation": "Realmente no estoy de acuerdo con tu idea.",
+    "translation": "Realmente no estoy de acuerdo con tu opinión.",
     "words": [
       {
         "hanzi": "我",
@@ -641,7 +641,8 @@
       {
         "hanzi": "想法",
         "pinyin": "xiǎngfǎ"
-      }
+      },
+      "note": "📋NOTA: xiǎngfǎ 想法 es opinión o, literalmente, 'forma de pensar'."
     ]
   },
   {
@@ -955,6 +956,7 @@
     ]
   }
 ]
+
 
 
 
