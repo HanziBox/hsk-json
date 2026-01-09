@@ -584,6 +584,22 @@
     ]
   },
   {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "给", "pinyin": "gěi"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "打", "pinyin": "dǎ"},
+            {"hanzi": "电话", "pinyin": "diànhuà"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "人", "pinyin": "rén"}
+        ],
+        "translation": "Él es precisamente la persona que me llamó ayer.",
+        "note": "📋NOTA: dǎ diànhuà 打电话 significa llamar por teléfono."
+    },
+  {
     "translation": "Realmente no estoy de acuerdo con tu idea.",
     "words": [
       {
@@ -595,8 +611,12 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "不同意",
-        "pinyin": "bùtóngyì"
+        "hanzi": "不",
+        "pinyin": "bù"
+      },
+            {
+        "hanzi": "同意",
+        "pinyin": "tóngyì"
       },
       {
         "hanzi": "你",
@@ -923,5 +943,6 @@
     ]
   }
 ]
+
 
 
