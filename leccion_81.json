@@ -1,5 +1,6 @@
 [
   {
+    "translation": "Su bicicleta es verde.",
     "words": [
       {
         "hanzi": "他",
@@ -25,10 +26,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Su bicicleta es verde."
+    ]
   },
   {
+    "translation": "Fue en Pekín donde nació.",
     "words": [
       {
         "hanzi": "他",
@@ -54,10 +55,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Fue en Pekín donde nació."
+    ]
   },
   {
+    "translation": "Hoy sí que hace mucho calor.",
     "words": [
       {
         "hanzi": "今天",
@@ -75,10 +76,10 @@
         "hanzi": "热",
         "pinyin": "rè"
       }
-    ],
-    "translation": "Hoy sí que hace mucho calor."
+    ]
   },
   {
+    "translation": "Esa mesa es de madera.",
     "words": [
       {
         "hanzi": "那",
@@ -104,10 +105,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Esa mesa es de madera."
+    ]
   },
   {
+    "translation": "Lo que dice mamá siempre es correcto.",
     "words": [
       {
         "hanzi": "妈妈",
@@ -133,10 +134,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Lo que dice mamá siempre es correcto."
+    ]
   },
   {
+    "translation": "Esta respuesta es incorrecta (no es la correcta).",
     "words": [
       {
         "hanzi": "这个",
@@ -158,10 +159,11 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Esta respuesta es incorrecta (no es la correcta)."
+    ]
   },
   {
+    "note": "📋NOTA: jiāo 教 significa enseñar.",
+    "translation": "Fue mi papá quien me enseñó.",
     "words": [
       {
         "hanzi": "是",
@@ -187,11 +189,11 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Fue mi papá quien me enseñó.",
-    "note": "📋NOTA: jiāo 教 significa enseñar."
+    ]
   },
   {
+    "note": "📋NOTA: Algodón se dice mián 棉.",
+    "translation": "Toda mi ropa es de algodón.",
     "words": [
       {
         "hanzi": "我",
@@ -221,11 +223,11 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Toda mi ropa es de algodón.",
-    "note": "📋NOTA: Algodón se dice mián 棉."
+    ]
   },
   {
+    "note": "📋NOTA: guān jiàn 关键 significa clave o punto crucial.",
+    "translation": "Esta es precisamente la clave del problema.",
     "words": [
       {
         "hanzi": "这",
@@ -251,11 +253,10 @@
         "hanzi": "关键",
         "pinyin": "guānjiàn"
       }
-    ],
-    "translation": "Esta es precisamente la clave del problema.",
-    "note": "📋NOTA: guān jiàn 关键 significa clave o punto crucial."
+    ]
   },
   {
+    "translation": "Él sí que es muy famoso.",
     "words": [
       {
         "hanzi": "他",
@@ -273,10 +274,10 @@
         "hanzi": "有名",
         "pinyin": "yǒumíng"
       }
-    ],
-    "translation": "Él sí que es muy famoso."
+    ]
   },
   {
+    "translation": "Esos zapatos son negros.",
     "words": [
       {
         "hanzi": "那",
@@ -302,10 +303,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Esos zapatos son negros."
+    ]
   },
   {
+    "translation": "No fuiste tú quien me dijo esto.",
     "words": [
       {
         "hanzi": "这",
@@ -339,10 +340,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "No fuiste tú quien me dijo esto."
+    ]
   },
   {
+    "translation": "¿Cómo es que se hace este plato?",
     "words": [
       {
         "hanzi": "这个",
@@ -368,10 +369,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "¿Cómo es que se hace este plato?"
+    ]
   },
   {
+    "translation": "Sí que quiero ir, pero no tengo tiempo.",
     "words": [
       {
         "hanzi": "我",
@@ -405,10 +406,10 @@
         "hanzi": "时间",
         "pinyin": "shíjiān"
       }
-    ],
-    "translation": "Sí que quiero ir, pero no tengo tiempo."
+    ]
   },
   {
+    "translation": "El profesor tiene razón, yo me equivoqué.",
     "words": [
       {
         "hanzi": "老师",
@@ -442,10 +443,10 @@
         "hanzi": "了",
         "pinyin": "le"
       }
-    ],
-    "translation": "El profesor tiene razón, yo me equivoqué."
+    ]
   },
   {
+    "translation": "Este vaso es de plástico.",
     "words": [
       {
         "hanzi": "这个",
@@ -467,10 +468,11 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Este vaso es de plástico."
+    ]
   },
   {
+    "note": "📋NOTA: dǎ diànhuà 打电话 significa llamar por teléfono.",
+    "translation": "Fue (justo) él la persona que me llamó ayer.",
     "words": [
       {
         "hanzi": "他",
@@ -512,11 +514,10 @@
         "hanzi": "人",
         "pinyin": "rén"
       }
-    ],
-    "translation": "Fue (justo) él la persona que me llamó ayer.",
-    "note": "📋NOTA: dǎ diànhuà 打电话 significa llamar por teléfono."
+    ]
   },
   {
+    "translation": "Sí que me olvidé de traer el libro.",
     "words": [
       {
         "hanzi": "我",
@@ -542,10 +543,10 @@
         "hanzi": "书",
         "pinyin": "shū"
       }
-    ],
-    "translation": "Sí que me olvidé de traer el libro."
+    ]
   },
   {
+    "translation": "El chino sí que no es fácil, pero es muy interesante.",
     "words": [
       {
         "hanzi": "中文",
@@ -579,10 +580,10 @@
         "hanzi": "有意思",
         "pinyin": "yǒuyìsi"
       }
-    ],
-    "translation": "El chino sí que no es fácil, pero es muy interesante."
+    ]
   },
   {
+    "translation": "Su número de teléfono está mal.",
     "words": [
       {
         "hanzi": "他",
@@ -612,10 +613,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Su número de teléfono está mal."
+    ]
   },
   {
+    "translation": "Realmente no estoy de acuerdo con tu idea.",
     "words": [
       {
         "hanzi": "我",
@@ -641,10 +642,10 @@
         "hanzi": "想法",
         "pinyin": "xiǎngfǎ"
       }
-    ],
-    "translation": "Realmente no estoy de acuerdo con tu idea."
+    ]
   },
   {
+    "translation": "Esa persona sí que es rara.",
     "words": [
       {
         "hanzi": "那",
@@ -666,10 +667,10 @@
         "hanzi": "奇怪",
         "pinyin": "qíguài"
       }
-    ],
-    "translation": "Esa persona sí que es rara."
+    ]
   },
   {
+    "translation": "Fue el año pasado cuando se mudó a Shanghái",
     "words": [
       {
         "hanzi": "他",
@@ -699,10 +700,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Fue el año pasado cuando se mudó a Shanghái"
+    ]
   },
   {
+    "translation": "Él vino en tren.",
     "words": [
       {
         "hanzi": "他",
@@ -728,10 +729,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Él vino en tren."
+    ]
   },
   {
+    "translation": "Fue mi mamá quien me dio este libro.",
     "words": [
       {
         "hanzi": "这",
@@ -769,10 +770,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Fue mi mamá quien me dio este libro."
+    ]
   },
   {
+    "translation": "Fue en Pekín donde nació.",
     "words": [
       {
         "hanzi": "他",
@@ -798,10 +799,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Fue en Pekín donde nació."
+    ]
   },
   {
+    "translation": "Tomó la foto con el móvil.",
     "words": [
       {
         "hanzi": "她",
@@ -831,10 +832,10 @@
         "hanzi": "照片",
         "pinyin": "zhàopiàn"
       }
-    ],
-    "translation": "Tomó la foto con el móvil."
+    ]
   },
   {
+    "translation": "Ellos volvieron a casa caminando juntos.",
     "words": [
       {
         "hanzi": "他们",
@@ -864,10 +865,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Ellos volvieron a casa caminando juntos."
+    ]
   },
   {
+    "translation": "Fue mi hermano menor quien hizo la cena.",
     "words": [
       {
         "hanzi": "晚饭",
@@ -893,10 +894,10 @@
         "hanzi": "的",
         "pinyin": "de"
       }
-    ],
-    "translation": "Fue mi hermano menor quien hizo la cena."
+    ]
   },
   {
+    "translation": "Él realmente es muy inteligente.",
     "words": [
       {
         "hanzi": "他",
@@ -918,10 +919,10 @@
         "hanzi": "聪明",
         "pinyin": "cōngmíng"
       }
-    ],
-    "translation": "Él realmente es muy inteligente."
+    ]
   },
   {
+    "translation": "Esta noche sí que ya no vuelvo a casa.",
     "words": [
       {
         "hanzi": "今天",
@@ -951,7 +952,6 @@
         "hanzi": "了",
         "pinyin": "le"
       }
-    ],
-    "translation": "Esta noche sí que ya no vuelvo a casa."
+    ]
   }
 ]
