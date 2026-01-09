@@ -433,6 +433,10 @@
         "pinyin": "méi"
       },
       {
+        "hanzi": "有",
+        "pinyin": "yǒu"
+      },
+      {
         "hanzi": "时间",
         "pinyin": "shíjiān"
       }
@@ -479,8 +483,12 @@
     "translation": "Este vaso es de plástico.",
     "words": [
       {
-        "hanzi": "这个",
-        "pinyin": "zhège"
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+            {
+        "hanzi": "个",
+        "pinyin": "ge"
       },
       {
         "hanzi": "杯子",
@@ -623,8 +631,12 @@
         "pinyin": "nà"
       },
       {
-        "hanzi": "个人",
-        "pinyin": "ge rén"
+        "hanzi": "个",
+        "pinyin": "ge"
+      },
+      {
+        "hanzi": "人",
+        "pinyin": "rén"
       },
       {
         "hanzi": "是",
@@ -645,7 +657,7 @@
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "不同意", "pinyin": "bùtóngyì"},
-            {"hanzi": "你", "pinyin": "de"},
+            {"hanzi": "你", "pinyin": "nǐ"},
             {"hanzi": "的", "pinyin": "de"},
             {"hanzi": "想法", "pinyin": "xiǎngfǎ"}
         ],
@@ -786,6 +798,7 @@
   },
   {
     "translation": "Tomó la foto con el móvil.",
+    "note": "📋NOTA: pāi 拍 es tomar (una foto).",
     "words": [
       {
         "hanzi": "她",
@@ -907,6 +920,7 @@
   },
   {
     "translation": "Esta noche sí que ya no vuelvo a casa.",
+    "note": "📋NOTA: En esta oración 了 expresa un cambio de estado.",
     "words": [
       {
         "hanzi": "今天",
@@ -939,6 +953,7 @@
     ]
   }
 ]
+
 
 
 
