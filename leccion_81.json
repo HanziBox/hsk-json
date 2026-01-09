@@ -192,6 +192,20 @@
     ]
   },
   {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "担心", "pinyin": "dānxīn"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "这", "pinyin": "zhè"},
+            {"hanzi": "件", "pinyin": "jiàn"},
+            {"hanzi": "事", "pinyin": "shì"}
+        ],
+        "translation": "Esto es precisamente lo que me preocupa.",
+        "note": "📋NOTA: dānxīn 担心 significa preocuparse / preocupación."
+    },
+  {
     "note": "📋NOTA: Algodón se dice mián 棉.",
     "translation": "Toda mi ropa es de algodón.",
     "words": [
@@ -909,4 +923,5 @@
     ]
   }
 ]
+
 
