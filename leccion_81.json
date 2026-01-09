@@ -1,386 +1,957 @@
 [
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "自行车", "pinyin": "zìxíngchē"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "绿", "pinyin": "lǜ"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Su bicicleta es verde."
-    },
-        {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "北京", "pinyin": "Běijīng"},
-            {"hanzi": "出生", "pinyin": "chūshēng"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Fue en Pekín donde nació."
-    },
-    {
-        "words": [
-            {"hanzi": "今天", "pinyin": "jīntiān"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "热", "pinyin": "rè"}
-        ],
-        "translation": "Hoy sí que hace mucho calor."
-    },
-    {
-        "words": [
-            {"hanzi": "那", "pinyin": "nà"},
-            {"hanzi": "张", "pinyin": "zhāng"},
-            {"hanzi": "桌子", "pinyin": "zhuōzi"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "木头", "pinyin": "mùtou"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Esa mesa es de madera."
-    },
-    {
-        "words": [
-            {"hanzi": "妈妈", "pinyin": "māma"},
-            {"hanzi": "说", "pinyin": "shuō"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "总是", "pinyin": "zǒngshì"},
-            {"hanzi": "对", "pinyin": "duì"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Lo que dice mamá siempre es correcto."
-    },
-    {
-        "words": [
-            {"hanzi": "这个", "pinyin": "zhège"},
-            {"hanzi": "答案", "pinyin": "dá'àn"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "不对", "pinyin": "búduì"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Esta respuesta es incorrecta (no es la correcta)."
-    },
-    {
-        "words": [
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "爸爸", "pinyin": "bàba"},
-            {"hanzi": "教", "pinyin": "jiāo"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Fue mi papá quien me enseñó.",
-        "note": "📋NOTA: jiāo 教 significa enseñar."
-    },
-    {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "衣服", "pinyin": "yīfu"},
-            {"hanzi": "都", "pinyin": "dōu"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "棉", "pinyin": "mián"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Toda mi ropa es de algodón.",
-        "note": "📋NOTA: Algodón se dice mián 棉."
-    },
-    {
-        "words": [
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "就", "pinyin": "jiù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "问题", "pinyin": "wèntí"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "关键", "pinyin": "guānjiàn"}
-        ],
-        "translation": "Esta es precisamente la clave del problema.",
-        "note": "📋NOTA: guān jiàn 关键 significa clave o punto crucial."
-    },
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "有名", "pinyin": "yǒumíng"}
-        ],
-        "translation": "Él sí que es muy famoso."
-    },
-    {
-        "words": [
-            {"hanzi": "那", "pinyin": "nà"},
-            {"hanzi": "双", "pinyin": "shuāng"},
-            {"hanzi": "鞋", "pinyin": "xié"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "黑", "pinyin": "hēi"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Esos zapatos son negros."
-    },
-    {
-        "words": [
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "件", "pinyin": "jiàn"},
-            {"hanzi": "事情", "pinyin": "shìqing"},
-            {"hanzi": "不是", "pinyin": "búshì"},
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "告诉", "pinyin": "gàosu"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "No fuiste tú quien me dijo esto."
-    },
-    {
-        "words": [
-            {"hanzi": "这个", "pinyin": "zhège"},
-            {"hanzi": "菜", "pinyin": "cài"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "怎么", "pinyin": "zěnme"},
-            {"hanzi": "做", "pinyin": "zuò"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "¿Cómo es que se hace este plato?"
-    },
-    {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "想", "pinyin": "xiǎng"},
-            {"hanzi": "去", "pinyin": "qù"},
-            {"hanzi": "，", "pinyin": ","},
-            {"hanzi": "但是", "pinyin": "dànshì"},
-            {"hanzi": "没", "pinyin": "méi"},
-            {"hanzi": "时间", "pinyin": "shíjiān"}
-        ],
-        "translation": "Sí que quiero ir, pero no tengo tiempo."
-    },
-    {
-        "words": [
-            {"hanzi": "老师", "pinyin": "lǎoshī"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "对", "pinyin": "duì"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "，", "pinyin": ","},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "错", "pinyin": "cuò"},
-            {"hanzi": "了", "pinyin": "le"}
-        ],
-        "translation": "El profesor tiene razón, yo me equivoqué."
-    },
-    {
-        "words": [
-            {"hanzi": "这个", "pinyin": "zhège"},
-            {"hanzi": "杯子", "pinyin": "bēizi"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "塑料", "pinyin": "sùliào"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Este vaso es de plástico."
-    },
-    [
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "就", "pinyin": "jiù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "昨天", "pinyin": "zuótiān"},
-            {"hanzi": "给", "pinyin": "gěi"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "打", "pinyin": "dǎ"},
-            {"hanzi": "电话", "pinyin": "diànhuà"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "人", "pinyin": "rén"}
-        ],
-        "translation": "Fue (justo) él la persona que me llamó ayer.",
-        "note": "📋NOTA: dǎ diànhuà 打电话 significa llamar por teléfono."
-    },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "自行车",
+        "pinyin": "zìxíngchē"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "绿",
+        "pinyin": "lǜ"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Su bicicleta es verde."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "北京",
+        "pinyin": "Běijīng"
+      },
+      {
+        "hanzi": "出生",
+        "pinyin": "chūshēng"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Fue en Pekín donde nació."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "今天",
+        "pinyin": "jīntiān"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "热",
+        "pinyin": "rè"
+      }
+    ],
+    "translation": "Hoy sí que hace mucho calor."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "那",
+        "pinyin": "nà"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng"
+      },
+      {
+        "hanzi": "桌子",
+        "pinyin": "zhuōzi"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "木头",
+        "pinyin": "mùtou"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Esa mesa es de madera."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "妈妈",
+        "pinyin": "māma"
+      },
+      {
+        "hanzi": "说",
+        "pinyin": "shuō"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "总是",
+        "pinyin": "zǒngshì"
+      },
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Lo que dice mamá siempre es correcto."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这个",
+        "pinyin": "zhège"
+      },
+      {
+        "hanzi": "答案",
+        "pinyin": "dá'àn"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "不对",
+        "pinyin": "búduì"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Esta respuesta es incorrecta (no es la correcta)."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "爸爸",
+        "pinyin": "bàba"
+      },
+      {
+        "hanzi": "教",
+        "pinyin": "jiāo"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Fue mi papá quien me enseñó.",
+    "note": "📋NOTA: jiāo 教 significa enseñar."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "衣服",
+        "pinyin": "yīfu"
+      },
+      {
+        "hanzi": "都",
+        "pinyin": "dōu"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "棉",
+        "pinyin": "mián"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Toda mi ropa es de algodón.",
+    "note": "📋NOTA: Algodón se dice mián 棉."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "就",
+        "pinyin": "jiù"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "问题",
+        "pinyin": "wèntí"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "关键",
+        "pinyin": "guānjiàn"
+      }
+    ],
+    "translation": "Esta es precisamente la clave del problema.",
+    "note": "📋NOTA: guān jiàn 关键 significa clave o punto crucial."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "有名",
+        "pinyin": "yǒumíng"
+      }
+    ],
+    "translation": "Él sí que es muy famoso."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "那",
+        "pinyin": "nà"
+      },
+      {
+        "hanzi": "双",
+        "pinyin": "shuāng"
+      },
+      {
+        "hanzi": "鞋",
+        "pinyin": "xié"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "黑",
+        "pinyin": "hēi"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Esos zapatos son negros."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "件",
+        "pinyin": "jiàn"
+      },
+      {
+        "hanzi": "事情",
+        "pinyin": "shìqing"
+      },
+      {
+        "hanzi": "不是",
+        "pinyin": "búshì"
+      },
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "告诉",
+        "pinyin": "gàosu"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "No fuiste tú quien me dijo esto."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这个",
+        "pinyin": "zhège"
+      },
+      {
+        "hanzi": "菜",
+        "pinyin": "cài"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "怎么",
+        "pinyin": "zěnme"
+      },
+      {
+        "hanzi": "做",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "¿Cómo es que se hace este plato?"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "想",
+        "pinyin": "xiǎng"
+      },
+      {
+        "hanzi": "去",
+        "pinyin": "qù"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ","
+      },
+      {
+        "hanzi": "但是",
+        "pinyin": "dànshì"
+      },
+      {
+        "hanzi": "没",
+        "pinyin": "méi"
+      },
+      {
+        "hanzi": "时间",
+        "pinyin": "shíjiān"
+      }
+    ],
+    "translation": "Sí que quiero ir, pero no tengo tiempo."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "老师",
+        "pinyin": "lǎoshī"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": ",",
+        "pinyin": ","
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "错",
+        "pinyin": "cuò"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      }
+    ],
+    "translation": "El profesor tiene razón, yo me equivoqué."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这个",
+        "pinyin": "zhège"
+      },
+      {
+        "hanzi": "杯子",
+        "pinyin": "bēizi"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "塑料",
+        "pinyin": "sùliào"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Este vaso es de plástico."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "就",
+        "pinyin": "jiù"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "昨天",
+        "pinyin": "zuótiān"
+      },
+      {
+        "hanzi": "给",
+        "pinyin": "gěi"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ"
+      },
+      {
+        "hanzi": "电话",
+        "pinyin": "diànhuà"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "人",
+        "pinyin": "rén"
+      }
+    ],
+    "translation": "Fue (justo) él la persona que me llamó ayer.",
+    "note": "📋NOTA: dǎ diànhuà 打电话 significa llamar por teléfono."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "忘",
+        "pinyin": "wàng"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      },
+      {
+        "hanzi": "带",
+        "pinyin": "dài"
+      },
+      {
+        "hanzi": "书",
+        "pinyin": "shū"
+      }
+    ],
+    "translation": "Sí que me olvidé de traer el libro."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "中文",
+        "pinyin": "zhōngwén"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "不",
+        "pinyin": "bù"
+      },
+      {
+        "hanzi": "容易",
+        "pinyin": "róngyì"
+      },
+      {
+        "hanzi": "，",
+        "pinyin": ","
+      },
+      {
+        "hanzi": "但是",
+        "pinyin": "dànshì"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "有意思",
+        "pinyin": "yǒuyìsi"
+      }
+    ],
+    "translation": "El chino sí que no es fácil, pero es muy interesante."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "电话",
+        "pinyin": "diànhuà"
+      },
+      {
+        "hanzi": "号码",
+        "pinyin": "hàomǎ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "错",
+        "pinyin": "cuò"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Su número de teléfono está mal."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "不同意",
+        "pinyin": "bùtóngyì"
+      },
+      {
+        "hanzi": "你",
+        "pinyin": "nǐ"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "想法",
+        "pinyin": "xiǎngfǎ"
+      }
+    ],
+    "translation": "Realmente no estoy de acuerdo con tu idea."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "那",
+        "pinyin": "nà"
+      },
+      {
+        "hanzi": "个人",
+        "pinyin": "ge rén"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "奇怪",
+        "pinyin": "qíguài"
+      }
+    ],
+    "translation": "Esa persona sí que es rara."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "去年",
+        "pinyin": "qùnián"
+      },
+      {
+        "hanzi": "搬",
+        "pinyin": "bān"
+      },
+      {
+        "hanzi": "到",
+        "pinyin": "dào"
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "Shànghǎi"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Fue el año pasado cuando se mudó a Shanghái"
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "坐",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "火车",
+        "pinyin": "huǒchē"
+      },
+      {
+        "hanzi": "来",
+        "pinyin": "lái"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Él vino en tren."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "这",
+        "pinyin": "zhè"
+      },
+      {
+        "hanzi": "本",
+        "pinyin": "běn"
+      },
+      {
+        "hanzi": "书",
+        "pinyin": "shū"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "妈妈",
+        "pinyin": "māma"
+      },
+      {
+        "hanzi": "给",
+        "pinyin": "gěi"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Fue mi mamá quien me dio este libro."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài"
+      },
+      {
+        "hanzi": "北京",
+        "pinyin": "Běijīng"
+      },
+      {
+        "hanzi": "出生",
+        "pinyin": "chūshēng"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Fue en Pekín donde nació."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "她",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "用",
+        "pinyin": "yòng"
+      },
+      {
+        "hanzi": "手机",
+        "pinyin": "shǒujī"
+      },
+      {
+        "hanzi": "拍",
+        "pinyin": "pāi"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      },
+      {
+        "hanzi": "照片",
+        "pinyin": "zhàopiàn"
+      }
+    ],
+    "translation": "Tomó la foto con el móvil."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他们",
+        "pinyin": "tāmen"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "一起",
+        "pinyin": "yìqǐ"
+      },
+      {
+        "hanzi": "走",
+        "pinyin": "zǒu"
+      },
+      {
+        "hanzi": "回",
+        "pinyin": "huí"
+      },
+      {
+        "hanzi": "家",
+        "pinyin": "jiā"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Ellos volvieron a casa caminando juntos."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "晚饭",
+        "pinyin": "wǎnfàn"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "弟弟",
+        "pinyin": "dìdi"
+      },
+      {
+        "hanzi": "做",
+        "pinyin": "zuò"
+      },
+      {
+        "hanzi": "的",
+        "pinyin": "de"
+      }
+    ],
+    "translation": "Fue mi hermano menor quien hizo la cena."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "他",
+        "pinyin": "tā"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēnde"
+      },
+      {
+        "hanzi": "很",
+        "pinyin": "hěn"
+      },
+      {
+        "hanzi": "聪明",
+        "pinyin": "cōngmíng"
+      }
+    ],
+    "translation": "Él realmente es muy inteligente."
+  },
+  {
+    "words": [
+      {
+        "hanzi": "今天",
+        "pinyin": "jīntiān"
+      },
+      {
+        "hanzi": "晚上",
+        "pinyin": "wǎnshang"
+      },
+      {
+        "hanzi": "我",
+        "pinyin": "wǒ"
+      },
+      {
+        "hanzi": "是",
+        "pinyin": "shì"
+      },
+      {
+        "hanzi": "不",
+        "pinyin": "bù"
+      },
+      {
+        "hanzi": "回家",
+        "pinyin": "huíjiā"
+      },
+      {
+        "hanzi": "了",
+        "pinyin": "le"
+      }
+    ],
+    "translation": "Esta noche sí que ya no vuelvo a casa."
+  }
 ]
-    {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "忘", "pinyin": "wàng"},
-            {"hanzi": "了", "pinyin": "le"},
-            {"hanzi": "带", "pinyin": "dài"},
-            {"hanzi": "书", "pinyin": "shū"}
-        ],
-        "translation": "Sí que me olvidé de traer el libro."
-    },
-    {
-        "words": [
-            {"hanzi": "中文", "pinyin": "zhōngwén"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "容易", "pinyin": "róngyì"},
-            {"hanzi": "，", "pinyin": ","},
-            {"hanzi": "但是", "pinyin": "dànshì"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "有意思", "pinyin": "yǒuyìsi"}
-        ],
-        "translation": "El chino sí que no es fácil, pero es muy interesante."
-    },
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "电话", "pinyin": "diànhuà"},
-            {"hanzi": "号码", "pinyin": "hàomǎ"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "错", "pinyin": "cuò"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Su número de teléfono está mal."
-    },
-    {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "不同意", "pinyin": "bùtóngyì"},
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "想法", "pinyin": "xiǎngfǎ"}
-        ],
-        "translation": "Realmente no estoy de acuerdo con tu idea."
-    },
-    {
-        "words": [
-            {"hanzi": "那", "pinyin": "nà"},
-            {"hanzi": "个人", "pinyin": "ge rén"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "奇怪", "pinyin": "qíguài"}
-        ],
-        "translation": "Esa persona sí que es rara."
-    },
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "去年", "pinyin": "qùnián"},
-            {"hanzi": "搬", "pinyin": "bān"},
-            {"hanzi": "到", "pinyin": "dào"},
-            {"hanzi": "上海", "pinyin": "Shànghǎi"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Fue el año pasado cuando se mudó a Shanghái"
-    },
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "坐", "pinyin": "zuò"},
-            {"hanzi": "火车", "pinyin": "huǒchē"},
-            {"hanzi": "来", "pinyin": "lái"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Él vino en tren."
-    },
-    {
-        "words": [
-            {"hanzi": "这", "pinyin": "zhè"},
-            {"hanzi": "本", "pinyin": "běn"},
-            {"hanzi": "书", "pinyin": "shū"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "妈妈", "pinyin": "māma"},
-            {"hanzi": "给", "pinyin": "gěi"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Fue mi mamá quien me dio este libro."
-    },
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "北京", "pinyin": "Běijīng"},
-            {"hanzi": "出生", "pinyin": "chūshēng"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Fue en Pekín donde nació."
-    },
-    {
-        "words": [
-            {"hanzi": "她", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "用", "pinyin": "yòng"},
-            {"hanzi": "手机", "pinyin": "shǒujī"},
-            {"hanzi": "拍", "pinyin": "pāi"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "照片", "pinyin": "zhàopiàn"}
-        ],
-        "translation": "Tomó la foto con el móvil."
-    },
-    {
-        "words": [
-            {"hanzi": "他们", "pinyin": "tāmen"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "一起", "pinyin": "yìqǐ"},
-            {"hanzi": "走", "pinyin": "zǒu"},
-            {"hanzi": "回", "pinyin": "huí"},
-            {"hanzi": "家", "pinyin": "jiā"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Ellos volvieron a casa caminando juntos."
-    },
-    {
-        "words": [
-            {"hanzi": "晚饭", "pinyin": "wǎnfàn"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "弟弟", "pinyin": "dìdi"},
-            {"hanzi": "做", "pinyin": "zuò"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "Fue mi hermano menor quien hizo la cena."
-    },
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "真的", "pinyin": "zhēnde"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "聪明", "pinyin": "cōngmíng"}
-        ],
-        "translation": "Él realmente es muy inteligente."
-    },
-    {
-        "words": [
-            {"hanzi": "今天", "pinyin": "jīntiān"},
-            {"hanzi": "晚上", "pinyin": "wǎnshang"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "回家", "pinyin": "huíjiā"},
-            {"hanzi": "了", "pinyin": "le"}
-        ],
-        "translation": "Esta noche sí que ya no vuelvo a casa."
-    }
-
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
