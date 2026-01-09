@@ -152,8 +152,12 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "不对",
-        "pinyin": "búduì"
+        "hanzi": "不",
+        "pinyin": "bú"
+      },
+      {
+        "hanzi": "对",
+        "pinyin": "duì"
       },
       {
         "hanzi": "的",
@@ -935,6 +939,7 @@
     ]
   }
 ]
+
 
 
 
