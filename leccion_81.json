@@ -270,6 +270,18 @@
     ]
   },
   {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "事实", "pinyin": "shìshí"}
+        ],
+        "translation": "Lo que él dice es precisamente la realidad (los hechos).",
+        "note": "📋NOTA: shìshí 事实 significa hecho o realidad. En esta frase el verbo principal es 是 shì (ser)"
+    },
+  {
     "translation": "Él sí que es muy famoso.",
     "words": [
       {
@@ -943,6 +955,7 @@
     ]
   }
 ]
+
 
 
 
