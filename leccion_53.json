@@ -216,7 +216,7 @@
             {"hanzi": "用", "pinyin": "yòng"},
             {"hanzi": "完", "pinyin": "wán"}
         ],
-        "translation": "Todavía no se ha gastado todo el dinero."
+        "translation": "Todavía no se ha agotado todo el dinero."
     },
     {
         "words": [
@@ -358,5 +358,6 @@
     }
 
 ]
+
 
 
