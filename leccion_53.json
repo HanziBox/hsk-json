@@ -221,13 +221,14 @@
     {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"},
             {"hanzi": "钱", "pinyin": "qián"},
             {"hanzi": "已经", "pinyin": "yǐjīng"},
             {"hanzi": "用", "pinyin": "yòng"},
             {"hanzi": "完", "pinyin": "wán"},
             {"hanzi": "了", "pinyin": "le"}
         ],
-        "translation": "Ya me he quedado sin dinero."
+        "translation": "Ya me he quedado sin dinero. (lit: Mi dinero ya se ha agotado)"
     },
     {
         "words": [
@@ -357,4 +358,5 @@
     }
 
 ]
+
 
