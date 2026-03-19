@@ -37,14 +37,6 @@
     },
     {
         "words": [
-            {"hanzi": "他们", "pinyin": "tāmen"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "中国人", "pinyin": "zhōngguórén"}
-        ],
-        "translation": "Ellos son chinos."
-    },
-    {
-        "words": [
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "不", "pinyin": "bù"},
             {"hanzi": "是", "pinyin": "shì"},
