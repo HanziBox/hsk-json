@@ -236,6 +236,23 @@
         ],
         "translation": "Espero poder cantar un poco mejor la próxima vez."
     },
+        {
+    "words": [
+        {"hanzi": "如果", "pinyin": "rúguǒ"},
+        {"hanzi": "你", "pinyin": "nǐ"},
+        {"hanzi": "今晚", "pinyin": "jīnwǎn"},
+        {"hanzi": "有空，", "pinyin": "yǒukòng，"},
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "就", "pinyin": "jiù"},
+        {"hanzi": "可以", "pinyin": "kěyǐ"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "家", "pinyin": "jiā"},
+        {"hanzi": "一起", "pinyin": "yìqǐ"},
+        {"hanzi": "看", "pinyin": "kàn"},
+        {"hanzi": "电影。", "pinyin": "diànyǐng."}
+    ],
+    "translation": "Si tienes tiempo libre esta noche, podemos ver una película juntos en casa."
+},
     {
         "words": [
             {"hanzi": "她", "pinyin": "tā"},
