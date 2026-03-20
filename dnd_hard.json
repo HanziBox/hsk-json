@@ -250,6 +250,22 @@
         ],
         "translation": "Ella se siente muy apenada por lo que hizo."
     },
+        {
+    "words": [
+        {"hanzi": "我的", "pinyin": "wǒde"},
+        {"hanzi": "老师", "pinyin": "lǎoshī"},
+        {"hanzi": "要求", "pinyin": "yāoqiú"},
+        {"hanzi": "我们", "pinyin": "wǒmen"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "明天", "pinyin": "míngtiān"},
+        {"hanzi": "之前", "pinyin": "zhīqián"},
+        {"hanzi": "完成", "pinyin": "wánchéng"},
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "个", "pinyin": "gè"},
+        {"hanzi": "练习", "pinyin": "liànxí"}
+    ],
+    "translation": "Mi profesor nos pidió que termináramos este ejercicio antes de mañana."
+}
     {
         "words": [
             {"hanzi": "我们", "pinyin": "wǒmen"},
