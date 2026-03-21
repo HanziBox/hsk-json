@@ -143,14 +143,6 @@
     },
     {
         "words": [
-            {"hanzi": "狗", "pinyin": "gǒu"},
-            {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "门外", "pinyin": "ménwài"}
-        ],
-        "translation": "El perro está fuera de la puerta."
-    },
-    {
-        "words": [
             {"hanzi": "如果", "pinyin": "rúguǒ"},
             {"hanzi": "你", "pinyin": "nǐ"},
             {"hanzi": "在", "pinyin": "zài"},
