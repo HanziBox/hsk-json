@@ -107,7 +107,8 @@
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "家里", "pinyin": "jiālǐ"}
+            {"hanzi": "里", "pinyin": "jiā"},
+            {"hanzi": "里", "pinyin": "lǐ"}
         ],
         "translation": "Estoy en casa."
     },
