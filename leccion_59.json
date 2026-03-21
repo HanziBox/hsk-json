@@ -1,16 +1,6 @@
 [
     {
         "words": [
-            {"hanzi": "我们", "pinyin": "wǒmen"},
-            {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "门口", "pinyin": "ménkǒu"},
-            {"hanzi": "等", "pinyin": "děng"},
-            {"hanzi": "你", "pinyin": "nǐ"}
-        ],
-        "translation": "Te esperamos en la puerta."
-    },
-    {
-        "words": [
             {"hanzi": "手机", "pinyin": "shǒujī"},
             {"hanzi": "在", "pinyin": "zài"},
             {"hanzi": "桌子", "pinyin": "zhuōzi"},
