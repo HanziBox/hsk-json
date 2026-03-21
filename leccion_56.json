@@ -11,6 +11,20 @@
     },
     {
         "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Él lo hace mejor que yo.",
+        "alternatives": [
+            ["他", "比", "我", "做", "得", "好"]
+        ]
+    },
+    {
+        "words": [
             {"hanzi": "你", "pinyin": "nǐ"},
             {"hanzi": "写", "pinyin": "xiě"},
             {"hanzi": "得", "pinyin": "de"},
@@ -39,20 +53,6 @@
             {"hanzi": "饱", "pinyin": "bǎo"}
         ],
         "translation": "He comido mucho / Estoy muy lleno."
-    },
-{
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "做", "pinyin": "zuò"},
-            {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "好", "pinyin": "hǎo"}
-        ],
-        "translation": "Él lo hace mejor que yo.",
-        "alternatives": [
-            ["他", "比", "我", "做", "得", "好"]
-        ]
     },
     {
         "words": [
