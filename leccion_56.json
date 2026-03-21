@@ -304,7 +304,8 @@
             {"hanzi": "讲课", "pinyin": "jiǎngkè"},
             {"hanzi": "讲", "pinyin": "jiǎng"},
             {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "很", "pinyin": "清楚", "pinyin": "qīngchu"}
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "清楚", "pinyin": "qīngchu"}
         ],
         "translation": "El profesor explica la lección muy claramente."
     }
