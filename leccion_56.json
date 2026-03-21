@@ -9,6 +9,17 @@
         ],
         "translation": "Él corre muy rápido."
     },
+        {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "睡", "pinyin": "shuì"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Hoy he dormido muy bien."
+    },
     {
         "words": [
             {"hanzi": "她", "pinyin": "tā"},
@@ -44,17 +55,6 @@
         "alternatives": [
             ["你", "比", "他", "跑步", "跑", "得", "快"]
             ]
-    },
-    {
-        "words": [
-            {"hanzi": "今天", "pinyin": "jīntiān"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "睡", "pinyin": "shuì"},
-            {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "好", "pinyin": "hǎo"}
-        ],
-        "translation": "Hoy he dormido muy bien."
     },
         {
         "words": [
