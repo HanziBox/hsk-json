@@ -27,7 +27,8 @@
             {"hanzi": "不", "pinyin": "bù"},
             {"hanzi": "清楚", "pinyin": "qīngchu"}
         ],
-        "translation": "Ella habla de forma poco clara."
+        "translation": "Ella habla de forma poco clara.",
+        "note": "📋NOTA: qīngchu 清楚 significa claro."
     },
     {
         "words": [
@@ -124,7 +125,8 @@
             {"hanzi": "汉语", "pinyin": "hànyǔ"},
             {"hanzi": "说", "pinyin": "shuō"},
             {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "比", "pinyin": "我", "pinyin": "wǒ"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "慢", "pinyin": "màn"}
         ],
         "translation": "Hablas chino más despacio que yo."
