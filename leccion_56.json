@@ -1,15 +1,5 @@
 [
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "跑", "pinyin": "pǎo"},
-            {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "快", "pinyin": "kuài"}
-        ],
-        "translation": "Él corre muy rápido."
-    },
-    {
+        {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "做", "pinyin": "zuò"},
@@ -22,6 +12,16 @@
         "alternatives": [
             ["他", "比", "我", "做", "得", "好"]
         ]
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "快", "pinyin": "kuài"}
+        ],
+        "translation": "Él corre muy rápido."
     },
     {
         "words": [
