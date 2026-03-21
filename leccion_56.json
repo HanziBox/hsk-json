@@ -1,0 +1,293 @@
+[
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "快", "pinyin": "kuài"}
+        ],
+        "translation": "Él corre muy rápido."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "写", "pinyin": "xiě"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Escribes muy bien."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "清楚", "pinyin": "qīngchu"}
+        ],
+        "translation": "Ella habla de forma poco clara."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "吃", "pinyin": "chī"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "饱", "pinyin": "bǎo"}
+        ],
+        "translation": "He comido mucho / Estoy muy lleno."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Él lo hace mejor que yo."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "跑步", "pinyin": "pǎobù"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "比", "pinyin": "他", "pinyin": "tā"},
+            {"hanzi": "快", "pinyin": "kuài"}
+        ],
+        "translation": "Tú corres más rápido que él."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "睡", "pinyin": "shuì"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Hoy he dormido muy bien."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "唱歌", "pinyin": "chànggē"},
+            {"hanzi": "唱", "pinyin": "chàng"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "好听", "pinyin": "hǎotīng"}
+        ],
+        "translation": "Ella canta muy bien."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "看书", "pinyin": "kànshū"},
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "认真", "pinyin": "rènzhēn"}
+        ],
+        "translation": "Él lee libros muy atentamente."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "学", "pinyin": "xué"},
+            {"hanzi": "汉语", "pinyin": "hànyǔ"},
+            {"hanzi": "学", "pinyin": "xué"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "太", "pinyin": "tài"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "No aprendo chino muy bien."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "早", "pinyin": "zǎo"}
+        ],
+        "translation": "Él llegó muy temprano."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "汉语", "pinyin": "hànyǔ"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "比", "pinyin": "我", "pinyin": "wǒ"},
+            {"hanzi": "慢", "pinyin": "màn"}
+        ],
+        "translation": "Hablas chino más despacio que yo."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "走路", "pinyin": "zǒulù"},
+            {"hanzi": "走", "pinyin": "zǒu"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "慢", "pinyin": "màn"}
+        ],
+        "translation": "Ella camina muy despacio."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "说话", "pinyin": "shuōhuà"},
+            {"hanzi": "听", "pinyin": "tīng"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "清楚", "pinyin": "qīngchu"}
+        ],
+        "translation": "Él escucha muy claramente lo que dice el profesor."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "做饭", "pinyin": "zuòfàn"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "够", "pinyin": "gòu"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "No cocino lo suficientemente bien."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "跑步", "pinyin": "pǎobù"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "比", "pinyin": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "快", "pinyin": "kuài"}
+        ],
+        "translation": "Él corre más rápido que ayer."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "写", "pinyin": "xiě"},
+            {"hanzi": "汉字", "pinyin": "hànzì"},
+            {"hanzi": "写", "pinyin": "xiě"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "比", "pinyin": "以前", "pinyin": "yǐqián"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Escribes caracteres chinos mejor que antes."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "学", "pinyin": "xué"},
+            {"hanzi": "新", "pinyin": "xīn"},
+            {"hanzi": "词", "pinyin": "cí"},
+            {"hanzi": "学", "pinyin": "xué"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "快", "pinyin": "kuài"}
+        ],
+        "translation": "Ella aprende palabras nuevas muy rápido."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "汉语", "pinyin": "hànyǔ"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "不", "pinyin": "bù"},
+            {"hanzi": "太", "pinyin": "tài"},
+            {"hanzi": "流利", "pinyin": "liúlì"}
+        ],
+        "translation": "No hablo chino muy fluidamente."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "作业", "pinyin": "zuòyè"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "好", "pinyin": "hǎo"},
+            {"hanzi": "但是", "pinyin": "dànshì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "更", "pinyin": "gèng"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Él hace los deberes muy bien, pero yo los hago aún mejor."
+    },
+    {
+        "words": [
+            {"hanzi": "今天", "pinyin": "jīntiān"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "来", "pinyin": "lái"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "比", "pinyin": "我", "pinyin": "wǒ"},
+            {"hanzi": "早", "pinyin": "zǎo"}
+        ],
+        "translation": "Hoy has llegado más temprano que yo."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "唱歌", "pinyin": "chànggē"},
+            {"hanzi": "唱", "pinyin": "chàng"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Él no canta tan bien como ella."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "跑步", "pinyin": "pǎobù"},
+            {"hanzi": "跑", "pinyin": "pǎo"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "快", "pinyin": "kuài"}
+        ],
+        "translation": "No corro tan rápido como tú."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "说话", "pinyin": "shuōhuà"},
+            {"hanzi": "说", "pinyin": "shuō"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "快", "pinyin": "kuài"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "听不懂", "pinyin": "tīngbudǒng"}
+        ],
+        "translation": "Ella habla muy rápido, no la entiendo."
+    },
+    {
+        "words": [
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "讲课", "pinyin": "jiǎngkè"},
+            {"hanzi": "讲", "pinyin": "jiǎng"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "清楚", "pinyin": "qīngchu"}
+        ],
+        "translation": "El profesor explica la lección muy claramente."
+    }
+]
