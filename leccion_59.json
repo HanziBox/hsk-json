@@ -52,6 +52,17 @@
         "translation": "Ella me dijo que las llaves están en el bolso."
     },
     {
+    "words": [
+        {"hanzi": "狗", "pinyin": "gǒu"},
+        {"hanzi": "得", "pinyin": "děi"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "店", "pinyin": "diàn"},
+        {"hanzi": "外", "pinyin": "wài"},
+        {"hanzi": "等", "pinyin": "děng"}
+    ],
+    "translation": "El perro tiene que esperar fuera de la tienda."
+},
+    {
         "words": [
             {"hanzi": "你", "pinyin": "nǐ"},
             {"hanzi": "坐", "pinyin": "zuò"},
