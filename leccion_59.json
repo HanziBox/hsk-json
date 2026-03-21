@@ -210,7 +210,8 @@
             {"hanzi": "椅子", "pinyin": "yǐzi"},
             {"hanzi": "中间", "pinyin": "zhōngjiān"},
             {"hanzi": "有", "pinyin": "yǒu"},
-            {"hanzi": "一张", "pinyin": "yìzhāng"},
+            {"hanzi": "一", "pinyin": "yì"},
+            {"hanzi": "张", "pinyin": "zhāng"},
             {"hanzi": "小", "pinyin": "xiǎo"},
             {"hanzi": "桌子", "pinyin": "zhuōzi"}
         ],
