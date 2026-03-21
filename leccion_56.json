@@ -50,7 +50,9 @@
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "快", "pinyin": "kuài"}
         ],
-        "translation": "Tú corres más rápido que él."
+        "translation": "Tú corres más rápido que él.",
+        "alternatives": [
+            ["你", "比", "他", "跑步", "跑", "得", "快"]
     },
     {
         "words": [
