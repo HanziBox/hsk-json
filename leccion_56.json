@@ -233,7 +233,8 @@
             {"hanzi": "太", "pinyin": "tài"},
             {"hanzi": "流利", "pinyin": "liúlì"}
         ],
-        "translation": "No hablo chino muy fluidamente."
+        "translation": "No hablo chino muy fluidamente.",
+        "note": "📋NOTA: liúlì 流利 significa fluido."
     },
     {
         "words": [
