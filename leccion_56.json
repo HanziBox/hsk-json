@@ -11,17 +11,6 @@
     },
     {
         "words": [
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "写", "pinyin": "xiě"},
-            {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "很", "pinyin": "hěn"},
-            {"hanzi": "好", "pinyin": "hǎo"}
-        ],
-        "translation": "Escribes muy bien.",
-        "note": "📋NOTA: xiě 写 significa escribir ¡Memorízalo!"
-    },
-    {
-        "words": [
             {"hanzi": "她", "pinyin": "tā"},
             {"hanzi": "说", "pinyin": "shuō"},
             {"hanzi": "得", "pinyin": "de"},
@@ -66,6 +55,17 @@
             {"hanzi": "好", "pinyin": "hǎo"}
         ],
         "translation": "Hoy he dormido muy bien."
+    },
+        {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "写", "pinyin": "xiě"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Escribes muy bien.",
+        "note": "📋NOTA: xiě 写 significa escribir ¡Memorízalo!"
     },
     {
         "words": [
