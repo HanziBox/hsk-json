@@ -1,18 +1,4 @@
 [
-        {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "做", "pinyin": "zuò"},
-            {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "比", "pinyin": "bǐ"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "好", "pinyin": "hǎo"}
-        ],
-        "translation": "Él lo hace mejor que yo.",
-        "alternatives": [
-            ["他", "比", "我", "做", "得", "好"]
-        ]
-    },
     {
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
@@ -98,6 +84,20 @@
             {"hanzi": "认真", "pinyin": "rènzhēn"}
         ],
         "translation": "Él lee libros muy atentamente."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "做", "pinyin": "zuò"},
+            {"hanzi": "得", "pinyin": "de"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "好", "pinyin": "hǎo"}
+        ],
+        "translation": "Él lo hace mejor que yo.",
+        "alternatives": [
+            ["他", "比", "我", "做", "得", "好"]
+        ]
     },
     {
         "words": [
