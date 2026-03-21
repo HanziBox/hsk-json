@@ -249,7 +249,8 @@
         "words": [
             {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "在", "pinyin": "zài"},
-            {"hanzi": "楼上", "pinyin": "lóushàng"}
+            {"hanzi": "楼", "pinyin": "lóu"},
+            {"hanzi": "上", "pinyin": "shàng"}
         ],
         "translation": "Él está en el piso de arriba."
     },
