@@ -22,7 +22,8 @@
             {"hanzi": "门", "pinyin": "mén"},
             {"hanzi": "后面", "pinyin": "hòumiàn"},
             {"hanzi": "有", "pinyin": "yǒu"},
-            {"hanzi": "一把", "pinyin": "yìbǎ"},
+            {"hanzi": "一", "pinyin": "yì"},
+            {"hanzi": "把", "pinyin": "bǎ"},
             {"hanzi": "伞", "pinyin": "sǎn"}
         ],
         "translation": "Hay un paraguas detrás de la puerta."
