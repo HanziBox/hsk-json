@@ -27,8 +27,7 @@
             {"hanzi": "不", "pinyin": "bù"},
             {"hanzi": "清楚", "pinyin": "qīngchu"}
         ],
-        "translation": "Ella habla de forma poco clara.",
-        "note": "📋NOTA: qīngchu 清楚 significa claro."
+        "translation": "Ella habla de forma poco clara."
     },
     {
         "words": [
@@ -57,7 +56,8 @@
             {"hanzi": "跑步", "pinyin": "pǎobù"},
             {"hanzi": "跑", "pinyin": "pǎo"},
             {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "比", "pinyin": "他", "pinyin": "tā"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "他", "pinyin": "tā"},
             {"hanzi": "快", "pinyin": "kuài"}
         ],
         "translation": "Tú corres más rápido que él."
@@ -173,7 +173,8 @@
             {"hanzi": "跑步", "pinyin": "pǎobù"},
             {"hanzi": "跑", "pinyin": "pǎo"},
             {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "比", "pinyin": "昨天", "pinyin": "zuótiān"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "昨天", "pinyin": "zuótiān"},
             {"hanzi": "快", "pinyin": "kuài"}
         ],
         "translation": "Él corre más rápido que ayer."
@@ -185,7 +186,8 @@
             {"hanzi": "汉字", "pinyin": "hànzì"},
             {"hanzi": "写", "pinyin": "xiě"},
             {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "比", "pinyin": "以前", "pinyin": "yǐqián"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "以前", "pinyin": "yǐqián"},
             {"hanzi": "好", "pinyin": "hǎo"}
         ],
         "translation": "Escribes caracteres chinos mejor que antes."
@@ -240,7 +242,8 @@
             {"hanzi": "你", "pinyin": "nǐ"},
             {"hanzi": "来", "pinyin": "lái"},
             {"hanzi": "得", "pinyin": "de"},
-            {"hanzi": "比", "pinyin": "我", "pinyin": "wǒ"},
+            {"hanzi": "比", "pinyin": "bǐ"},
+            {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "早", "pinyin": "zǎo"}
         ],
         "translation": "Hoy has llegado más temprano que yo."
