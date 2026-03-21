@@ -176,7 +176,8 @@
     },
     {
         "words": [
-            {"hanzi": "床下", "pinyin": "chuángxià"},
+            {"hanzi": "床", "pinyin": "chuáng"},
+            {"hanzi": "下", "pinyin": "xià"},
             {"hanzi": "什么", "pinyin": "shénme"},
             {"hanzi": "都", "pinyin": "dōu"},
             {"hanzi": "没有", "pinyin": "méiyǒu"}
