@@ -274,5 +274,24 @@
             {"hanzi": "有人", "pinyin": "yǒurén"}
         ],
         "translation": "Hay alguien en la habitación."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "前面", "pinyin": "qiánmiàn"},
+            {"hanzi": "等", "pinyin": "děng"},
+            {"hanzi": "我", "pinyin": "wǒ"}
+        ],
+        "translation": "Él me espera delante."
+    },
+    {
+        "words": [
+            {"hanzi": "学校", "pinyin": "xuéxiào"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "银行", "pinyin": "yínháng"},
+            {"hanzi": "前面", "pinyin": "qiánmiàn"}
+        ],
+        "translation": "La escuela está delante del banco."
     }
 ]
