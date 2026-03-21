@@ -136,7 +136,10 @@
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "慢", "pinyin": "màn"}
         ],
-        "translation": "Hablas chino más despacio que yo."
+        "translation": "Hablas chino más despacio que yo.",
+        "alternatives": [
+            ["你", "比", "我", "说", "汉语", "说", "得", "慢"]
+            ]
     },
     {
         "words": [
@@ -184,7 +187,10 @@
             {"hanzi": "昨天", "pinyin": "zuótiān"},
             {"hanzi": "快", "pinyin": "kuài"}
         ],
-        "translation": "Él corre más rápido que ayer."
+        "translation": "Él corre más rápido que ayer.",
+                "alternatives": [
+            ["他", "比", "昨天", "跑步", "跑", "得", "快"]
+            ]
     },
     {
         "words": [
@@ -197,7 +203,10 @@
             {"hanzi": "以前", "pinyin": "yǐqián"},
             {"hanzi": "好", "pinyin": "hǎo"}
         ],
-        "translation": "Escribes caracteres chinos mejor que antes."
+        "translation": "Escribes caracteres chinos mejor que antes.",
+        "alternatives": [
+            ["你", "比", "以前", "写", "汉字", "写", "得", "好"]
+            ]
     },
     {
         "words": [
@@ -247,7 +256,10 @@
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "早", "pinyin": "zǎo"}
         ],
-        "translation": "Hoy has llegado más temprano que yo."
+        "translation": "Hoy has llegado más temprano que yo.",
+        "alternatives": [
+            ["今天", "你", "比", "我", "来", "得", "早"]
+            ]
     },
     {
         "words": [
