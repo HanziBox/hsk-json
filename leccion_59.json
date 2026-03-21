@@ -1,0 +1,291 @@
+[
+    {
+        "words": [
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "门口", "pinyin": "ménkǒu"},
+            {"hanzi": "等", "pinyin": "děng"},
+            {"hanzi": "你", "pinyin": "nǐ"}
+        ],
+        "translation": "Te esperamos en la puerta."
+    },
+    {
+        "words": [
+            {"hanzi": "手机", "pinyin": "shǒujī"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "桌子", "pinyin": "zhuōzi"},
+            {"hanzi": "下面", "pinyin": "xiàmiàn"}
+        ],
+        "translation": "El móvil está debajo de la mesa."
+    },
+    {
+        "words": [
+            {"hanzi": "下面", "pinyin": "xiàmiàn"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "一个", "pinyin": "yígè"},
+            {"hanzi": "问题", "pinyin": "wèntí"}
+        ],
+        "translation": "Debajo hay una pregunta."
+    },
+    {
+        "words": [
+            {"hanzi": "书包", "pinyin": "shūbāo"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "椅子", "pinyin": "yǐzi"},
+            {"hanzi": "上", "pinyin": "shàng"}
+        ],
+        "translation": "La mochila está sobre la silla."
+    },
+    {
+        "words": [
+            {"hanzi": "门", "pinyin": "mén"},
+            {"hanzi": "后面", "pinyin": "hòumiàn"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "一把", "pinyin": "yìbǎ"},
+            {"hanzi": "伞", "pinyin": "sǎn"}
+        ],
+        "translation": "Hay un paraguas detrás de la puerta."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "外面", "pinyin": "wàimiàn"},
+            {"hanzi": "等", "pinyin": "děng"},
+            {"hanzi": "了", "pinyin": "le"},
+            {"hanzi": "很久", "pinyin": "hěnjiǔ"}
+        ],
+        "translation": "Él esperó afuera mucho tiempo."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "告诉", "pinyin": "gàosu"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "钥匙", "pinyin": "yàoshi"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "包", "pinyin": "bāo"},
+            {"hanzi": "里", "pinyin": "lǐ"}
+        ],
+        "translation": "Ella me dijo que las llaves están en el bolso."
+    },
+    {
+        "words": [
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "坐", "pinyin": "zuò"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "爸爸", "pinyin": "bàba"},
+            {"hanzi": "旁边", "pinyin": "pángbiān"},
+            {"hanzi": "吧", "pinyin": "ba"}
+        ],
+        "translation": "Siéntate al lado de tu padre."
+    },
+    {
+        "words": [
+            {"hanzi": "上面", "pinyin": "shàngmiàn"},
+            {"hanzi": "写", "pinyin": "xiě"},
+            {"hanzi": "着", "pinyin": "zhe"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "名字", "pinyin": "míngzi"}
+        ],
+        "translation": "Arriba está escrito tu nombre."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "房子", "pinyin": "fángzi"},
+            {"hanzi": "外面", "pinyin": "wàimiàn"}
+        ],
+        "translation": "El niño está fuera de la casa."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "房间", "pinyin": "fángjiān"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "冷", "pinyin": "lěng"}
+        ],
+        "translation": "Hace mucho frío en su habitación."
+    },
+    {
+        "words": [
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "家里", "pinyin": "jiālǐ"}
+        ],
+        "translation": "Estoy en casa."
+    },
+    {
+        "words": [
+            {"hanzi": "别", "pinyin": "bié"},
+            {"hanzi": "说话", "pinyin": "shuōhuà"},
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "后面", "pinyin": "hòumiàn"}
+        ],
+        "translation": "No hables, él está detrás de nosotros."
+    },
+    {
+        "words": [
+            {"hanzi": "外面", "pinyin": "wàimiàn"},
+            {"hanzi": "下雨", "pinyin": "xiàyǔ"},
+            {"hanzi": "了", "pinyin": "le"}
+        ],
+        "translation": "Fuera está lloviendo."
+    },
+    {
+        "words": [
+            {"hanzi": "老师", "pinyin": "lǎoshī"},
+            {"hanzi": "坐", "pinyin": "zuò"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "我们", "pinyin": "wǒmen"},
+            {"hanzi": "后面", "pinyin": "hòumiàn"}
+        ],
+        "translation": "El profesor está sentado detrás de nosotros."
+    },
+    {
+        "words": [
+            {"hanzi": "狗", "pinyin": "gǒu"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "门外", "pinyin": "ménwài"}
+        ],
+        "translation": "El perro está fuera de la puerta."
+    },
+    {
+        "words": [
+            {"hanzi": "如果", "pinyin": "rúguǒ"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "里面", "pinyin": "lǐmiàn"},
+            {"hanzi": "就", "pinyin": "jiù"},
+            {"hanzi": "开门", "pinyin": "kāimén"},
+            {"hanzi": "给", "pinyin": "gěi"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "吧", "pinyin": "ba"}
+        ],
+        "translation": "Si estás dentro, ábreme la puerta."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "包", "pinyin": "bāo"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "很多", "pinyin": "hěnduō"},
+            {"hanzi": "钱", "pinyin": "qián"}
+        ],
+        "translation": "En su bolso hay mucho dinero."
+    },
+    {
+        "words": [
+            {"hanzi": "床下", "pinyin": "chuángxià"},
+            {"hanzi": "什么", "pinyin": "shénme"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "没有", "pinyin": "méiyǒu"}
+        ],
+        "translation": "No hay nada debajo de la cama."
+    },
+    {
+        "words": [
+            {"hanzi": "她", "pinyin": "tā"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "旁边", "pinyin": "pángbiān"},
+            {"hanzi": "坐", "pinyin": "zuò"}
+        ],
+        "translation": "Ella se sienta a mi lado."
+    },
+    {
+        "words": [
+            {"hanzi": "狗", "pinyin": "gǒu"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "桌子", "pinyin": "zhuōzi"},
+            {"hanzi": "下面", "pinyin": "xiàmiàn"},
+            {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+        ],
+        "translation": "El perro duerme debajo de la mesa."
+    },
+    {
+        "words": [
+            {"hanzi": "两个", "pinyin": "liǎnggè"},
+            {"hanzi": "椅子", "pinyin": "yǐzi"},
+            {"hanzi": "中间", "pinyin": "zhōngjiān"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "一张", "pinyin": "yìzhāng"},
+            {"hanzi": "小", "pinyin": "xiǎo"},
+            {"hanzi": "桌子", "pinyin": "zhuōzi"}
+        ],
+        "translation": "Hay una mesita entre las dos sillas."
+    },
+    {
+        "words": [
+            {"hanzi": "右边", "pinyin": "yòubiān"},
+            {"hanzi": "那个", "pinyin": "nàge"},
+            {"hanzi": "女孩", "pinyin": "nǚhái"},
+            {"hanzi": "很", "pinyin": "hěn"},
+            {"hanzi": "漂亮", "pinyin": "piàoliang"}
+        ],
+        "translation": "Esa chica de la derecha es muy guapa."
+    },
+    {
+        "words": [
+            {"hanzi": "看", "pinyin": "kàn"},
+            {"hanzi": "你", "pinyin": "nǐ"},
+            {"hanzi": "左边", "pinyin": "zuǒbiān"}
+        ],
+        "translation": "Mira a tu izquierda."
+    },
+    {
+        "words": [
+            {"hanzi": "右边", "pinyin": "yòubiān"},
+            {"hanzi": "的", "pinyin": "de"},
+            {"hanzi": "衣服", "pinyin": "yīfu"},
+            {"hanzi": "是", "pinyin": "shì"},
+            {"hanzi": "我", "pinyin": "wǒ"},
+            {"hanzi": "的", "pinyin": "de"}
+        ],
+        "translation": "La ropa de la derecha es mía."
+    },
+    {
+        "words": [
+            {"hanzi": "他", "pinyin": "tā"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "楼上", "pinyin": "lóushàng"}
+        ],
+        "translation": "Él está en el piso de arriba."
+    },
+    {
+        "words": [
+            {"hanzi": "一切", "pinyin": "yíqiè"},
+            {"hanzi": "都", "pinyin": "dōu"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "书", "pinyin": "shū"},
+            {"hanzi": "里", "pinyin": "lǐ"}
+        ],
+        "translation": "Todo está en los libros."
+    },
+    {
+        "words": [
+            {"hanzi": "孩子", "pinyin": "háizi"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "外面", "pinyin": "wàimiàn"},
+            {"hanzi": "玩", "pinyin": "wán"}
+        ],
+        "translation": "El niño está jugando fuera."
+    },
+    {
+        "words": [
+            {"hanzi": "房间", "pinyin": "fángjiān"},
+            {"hanzi": "里", "pinyin": "lǐ"},
+            {"hanzi": "有人", "pinyin": "yǒurén"}
+        ],
+        "translation": "Hay alguien en la habitación."
+    }
+]
