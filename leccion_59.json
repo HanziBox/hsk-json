@@ -10,15 +10,6 @@
     },
     {
         "words": [
-            {"hanzi": "下面", "pinyin": "xiàmiàn"},
-            {"hanzi": "有", "pinyin": "yǒu"},
-            {"hanzi": "一个", "pinyin": "yígè"},
-            {"hanzi": "问题", "pinyin": "wèntí"}
-        ],
-        "translation": "Debajo hay una pregunta."
-    },
-    {
-        "words": [
             {"hanzi": "书包", "pinyin": "shūbāo"},
             {"hanzi": "在", "pinyin": "zài"},
             {"hanzi": "椅子", "pinyin": "yǐzi"},
@@ -70,6 +61,15 @@
             {"hanzi": "吧", "pinyin": "ba"}
         ],
         "translation": "Siéntate al lado de tu padre."
+    },
+        {
+        "words": [
+            {"hanzi": "下面", "pinyin": "xiàmiàn"},
+            {"hanzi": "有", "pinyin": "yǒu"},
+            {"hanzi": "一个", "pinyin": "yígè"},
+            {"hanzi": "问题", "pinyin": "wèntí"}
+        ],
+        "translation": "Debajo hay una pregunta."
     },
     {
         "words": [
