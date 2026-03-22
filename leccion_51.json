@@ -31,17 +31,6 @@
   },
   {
     "words": [
-      {"hanzi": "妈妈", "pinyin": "māma"},
-      {"hanzi": "让", "pinyin": "ràng"},
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "去", "pinyin": "qù"},
-      {"hanzi": "买", "pinyin": "mǎi"},
-      {"hanzi": "东西", "pinyin": "dōngxi"}
-    ],
-    "translation": "Mamá me manda a comprar cosas."
-  },
-  {
-    "words": [
       {"hanzi": "这", "pinyin": "zhè"},
       {"hanzi": "件", "pinyin": "jiàn"},
       {"hanzi": "事", "pinyin": "shì"},
@@ -237,7 +226,7 @@
       {"hanzi": "买", "pinyin": "mǎi"},
       {"hanzi": "东西", "pinyin": "dōngxi"}
     ],
-    "translation": "Papá me manda a comprar cosas."
+    "translation": "Papá me manda ir a comprar (cosas)."
   },
   {
     "words": [
