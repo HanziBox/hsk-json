@@ -1,4 +1,14 @@
 [
+      {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "开心", "pinyin": "kāixīn"}
+    ],
+    "translation": "Él me hace muy feliz."
+  },
     {
     "words": [
       {"hanzi": "别", "pinyin": "bié"},
@@ -8,6 +18,16 @@
       {"hanzi": "手机", "pinyin": "shǒujī"}
     ],
     "translation": "No dejes que el niño juegue con el móvil."
+  },
+      {
+    "words": [
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "跟", "pinyin": "gēn"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Déjame ir contigo."
   },
   {
     "words": [
@@ -19,16 +39,6 @@
       {"hanzi": "东西", "pinyin": "dōngxi"}
     ],
     "translation": "Mamá me manda a comprar cosas."
-  },
-  {
-    "words": [
-      {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "让", "pinyin": "ràng"},
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "很", "pinyin": "hěn"},
-      {"hanzi": "开心", "pinyin": "kāixīn"}
-    ],
-    "translation": "Él me hace muy feliz."
   },
   {
     "words": [
