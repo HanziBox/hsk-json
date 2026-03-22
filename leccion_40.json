@@ -175,7 +175,8 @@
       {"hanzi": "写", "pinyin": "xiě"},
       {"hanzi": "作业", "pinyin": "zuòyè"}
     ],
-    "translation": "No te hice los deberes."
+    "translation": "No te hice los deberes.",
+    "note": "📋NOTA: En chino se dice "escribir los deberes". xiě 写 es escribir"
   },
   {
     "words": [
