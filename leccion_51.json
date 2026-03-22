@@ -285,7 +285,8 @@
       {"hanzi": "等", "pinyin": "děng"},
       {"hanzi": "你", "pinyin": "nǐ"}
     ],
-    "translation": "No hagas que los demás te esperen."
+    "translation": "No hagas esperar a los demás.",
+    "note": "📋NOTA: biérén 别人 es los demás (lit: otras personas)"
   },
   {
     "words": [
