@@ -329,6 +329,7 @@
       {"hanzi": "很", "pinyin": "hěn"},
       {"hanzi": "感动", "pinyin": "gǎndòng"}
     ],
-    "translation": "Esta película me emociona mucho."
+    "translation": "Esta película me hace emocionarme mucho.",
+    "note": "📋NOTA: bù 部 es el clasificador específico para películas"
   }
 ]
