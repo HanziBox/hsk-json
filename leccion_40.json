@@ -1,0 +1,347 @@
+[
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "电话", "pinyin": "diànhuà"}
+    ],
+    "translation": "Él me llama por teléfono."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一", "pinyin": "yì"},
+      {"hanzi": "杯", "pinyin": "bēi"},
+      {"hanzi": "水", "pinyin": "shuǐ"}
+    ],
+    "translation": "Por favor, dame un vaso de agua."
+  },
+  {
+    "words": [
+      {"hanzi": "妈妈", "pinyin": "māma"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "做饭", "pinyin": "zuòfàn"}
+    ],
+    "translation": "Mamá cocina para mí."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一", "pinyin": "yí"},
+      {"hanzi": "件", "pinyin": "jiàn"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Él le compró una prenda de ropa."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "可以", "pinyin": "kěyǐ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "吗", "pinyin": "ma"}
+    ],
+    "translation": "¿Puedes darme esto?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "一", "pinyin": "yí"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "礼物", "pinyin": "lǐwù"}
+    ],
+    "translation": "Quiero darte un regalo."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一", "pinyin": "yì"},
+      {"hanzi": "点", "pinyin": "diǎn"},
+      {"hanzi": "时间", "pinyin": "shíjiān"}
+    ],
+    "translation": "Por favor, dame un poco de tiempo."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "介绍", "pinyin": "jièshào"},
+      {"hanzi": "一", "pinyin": "yí"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "朋友", "pinyin": "péngyou"}
+    ],
+    "translation": "Te presento a un amigo."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "朋友", "pinyin": "péngyou"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "电话", "pinyin": "diànhuà"}
+    ],
+    "translation": "Él no llamó a su amigo."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一", "pinyin": "yì"},
+      {"hanzi": "点", "pinyin": "diǎn"},
+      {"hanzi": "钱", "pinyin": "qián"}
+    ],
+    "translation": "Por favor, dame un poco de dinero."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "谁", "pinyin": "shéi"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "电话", "pinyin": "diànhuà"}
+    ],
+    "translation": "¿A quién llamas?"
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一", "pinyin": "yì"},
+      {"hanzi": "张", "pinyin": "zhāng"},
+      {"hanzi": "照片", "pinyin": "zhàopiàn"}
+    ],
+    "translation": "Él me enseñó una foto."
+  },
+  {
+    "words": [
+      {"hanzi": "谁", "pinyin": "shéi"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "写", "pinyin": "xiě"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "信", "pinyin": "xìn"}
+    ],
+    "translation": "¿Quién te escribió la carta?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "她", "pinyin": "tā"}
+    ],
+    "translation": "Mañana se lo daré a ella."
+  },
+  {
+    "words": [
+      {"hanzi": "妈妈", "pinyin": "māma"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "做饭", "pinyin": "zuòfàn"}
+    ],
+    "translation": "Mamá no cocinó para mí."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "写", "pinyin": "xiě"},
+      {"hanzi": "作业", "pinyin": "zuòyè"}
+    ],
+    "translation": "No hice los deberes para ti."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "什么", "pinyin": "shénme"}
+    ],
+    "translation": "¿Qué te compró?"
+  },
+  {
+    "words": [
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "电话", "pinyin": "diànhuà"}
+    ],
+    "translation": "Ayer no me llamaste."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "几", "pinyin": "jǐ"},
+      {"hanzi": "本", "pinyin": "běn"},
+      {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "¿Cuántos libros le das?"
+  },
+  {
+    "words": [
+      {"hanzi": "谁", "pinyin": "shéi"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "件", "pinyin": "jiàn"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "¿Quién te compró esta ropa?"
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "什么", "pinyin": "shénme"}
+    ],
+    "translation": "¿Qué me das?"
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "送", "pinyin": "sòng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一", "pinyin": "yí"},
+      {"hanzi": "束", "pinyin": "shù"},
+      {"hanzi": "花", "pinyin": "huā"}
+    ],
+    "translation": "Él le regaló un ramo de flores al profesor."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "找", "pinyin": "zhǎo"},
+      {"hanzi": "一", "pinyin": "yí"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "地方", "pinyin": "dìfang"}
+    ],
+    "translation": "Te busco un sitio."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一", "pinyin": "yì"},
+      {"hanzi": "杯", "pinyin": "bēi"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "Ella me hizo un café."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "别人", "pinyin": "biérén"},
+      {"hanzi": "很多", "pinyin": "hěnduō"},
+      {"hanzi": "钱", "pinyin": "qián"}
+    ],
+    "translation": "Él le da mucho dinero a los demás."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "大家", "pinyin": "dàjiā"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "蛋糕", "pinyin": "dàngāo"}
+    ],
+    "translation": "Compré tarta para todos."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "nǐ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "介绍", "pinyin": "jièshào"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "谁", "pinyin": "shéi"}
+    ],
+    "translation": "¿A quién te presentó?"
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一", "pinyin": "yì"},
+      {"hanzi": "点", "pinyin": "diǎn"},
+      {"hanzi": "吃的", "pinyin": "chīde"}
+    ],
+    "translation": "Él me compró algo de comer."
+  },
+  {
+    "words": [
+      {"hanzi": "下", "pinyin": "xià"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "月", "pinyin": "yuè"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "买", "pinyin": "mǎi"}
+    ],
+    "translation": "El mes que viene te lo compraré.",
+    "alternatives": [
+      ["我", "下", "个", "月", "会", "给", "你", "买"]
+    ]
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "星期二", "pinyin": "xīngqī'èr"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él me lo dio el martes.",
+    "alternatives": [
+      ["他", "星期二", "给", "了", "我"]
+    ]
+  }
+]
