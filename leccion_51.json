@@ -273,7 +273,7 @@
       {"hanzi": "杯", "pinyin": "bēi"},
       {"hanzi": "咖啡", "pinyin": "kāfēi"}
     ],
-    "translation": "Él me mandó comprarle un café."
+    "translation": "Él me hizo comprarle un café."
   },
   {
     "words": [
@@ -297,18 +297,6 @@
       {"hanzi": "你", "pinyin": "nǐ"}
     ],
     "translation": "No hagas que los demás te esperen."
-  },
-  {
-    "words": [
-      {"hanzi": "老师", "pinyin": "lǎoshī"},
-      {"hanzi": "让", "pinyin": "ràng"},
-      {"hanzi": "我们", "pinyin": "wǒmen"},
-      {"hanzi": "在", "pinyin": "zài"},
-      {"hanzi": "教室", "pinyin": "jiàoshì"},
-      {"hanzi": "里", "pinyin": "lǐ"},
-      {"hanzi": "学习", "pinyin": "xuéxí"}
-    ],
-    "translation": "El profesor nos hace estudiar en el aula."
   },
   {
     "words": [
