@@ -313,7 +313,8 @@
       {"hanzi": "吃", "pinyin": "chī"},
       {"hanzi": "的", "pinyin": "de"}
     ],
-    "translation": "Él me compró algo de comer."
+    "translation": "Él me compró algo de comer.",
+    "note": "📋NOTA: Literalmente: ...cosas (omitido) de comer"
   },
   {
     "words": [
