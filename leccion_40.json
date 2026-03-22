@@ -309,8 +309,7 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "买", "pinyin": "mǎi"},
       {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "一", "pinyin": "yì"},
-      {"hanzi": "点", "pinyin": "diǎn"},
+      {"hanzi": "一点", "pinyin": "yì diǎn"},
       {"hanzi": "吃的", "pinyin": "chīde"}
     ],
     "translation": "Él me compró algo de comer."
