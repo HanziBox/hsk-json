@@ -1,4 +1,14 @@
 [
+    {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "孩子", "pinyin": "háizi"},
+      {"hanzi": "玩", "pinyin": "wán"},
+      {"hanzi": "手机", "pinyin": "shǒujī"}
+    ],
+    "translation": "No dejes que el niño juegue con el móvil."
+  },
   {
     "words": [
       {"hanzi": "妈妈", "pinyin": "māma"},
@@ -40,16 +50,6 @@
       {"hanzi": "回家", "pinyin": "huíjiā"}
     ],
     "translation": "Mamá me dice que vuelva a casa."
-  },
-  {
-    "words": [
-      {"hanzi": "别", "pinyin": "bié"},
-      {"hanzi": "让", "pinyin": "ràng"},
-      {"hanzi": "孩子", "pinyin": "háizi"},
-      {"hanzi": "玩", "pinyin": "wán"},
-      {"hanzi": "手机", "pinyin": "shǒujī"}
-    ],
-    "translation": "No dejes que el niño juegue con el móvil."
   },
   {
     "words": [
@@ -276,7 +276,7 @@
       {"hanzi": "张", "pinyin": "zhāng"},
       {"hanzi": "照片", "pinyin": "zhàopiàn"}
     ],
-    "translation": "Él me enseñó una foto."
+    "translation": "Él me dejó ver una foto."
   },
   {
     "words": [
