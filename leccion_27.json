@@ -1,0 +1,218 @@
+[
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "中国", "pinyin": "Zhōngguó"}
+    ],
+    "translation": "He estado en China."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "酒", "pinyin": "jiǔ"}
+    ],
+    "translation": "No hemos bebido alcohol (nunca)."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "一点", "pinyin": "yìdiǎn"},
+      {"hanzi": "中文", "pinyin": "Zhōngwén"}
+    ],
+    "translation": "He estudiado un poco de chino."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "开", "pinyin": "kāi"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "车", "pinyin": "chē"}
+    ],
+    "translation": "Él no ha conducido (nunca)."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "部", "pinyin": "bù"},
+      {"hanzi": "电影", "pinyin": "diànyǐng"}
+    ],
+    "translation": "He visto esta película."
+  },
+  {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "也", "pinyin": "yě"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Ellos también han venido a mi casa."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "那里", "pinyin": "nàlǐ"}
+    ],
+    "translation": "No he estado allí."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "上海", "pinyin": "Shànghǎi"}
+    ],
+    "translation": "No hemos estado en Shanghái."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "去", "pinyin": "过", "pinyin": "guò"},
+      {"hanzi": "中国", "pinyin": "Zhōngguó"}
+    ],
+    "translation": "Todavía no he estado en China."
+  },
+  {
+    "words": [
+      {"hanzi": "她们", "pinyin": "tāmen"},
+      {"hanzi": "认识", "pinyin": "rènshi"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "一", "pinyin": "yì"},
+      {"hanzi": "些", "pinyin": "xiē"},
+      {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "Ellas conocieron a algunas personas."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "没", "pinyin": "见", "pinyin": "jiàn"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "他", "pinyin": "tā"}
+    ],
+    "translation": "Todavía no lo he visto / conocido."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "也", "pinyin": "yě"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "没", "pinyin": "去", "pinyin": "qù"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "那儿", "pinyin": "nàr"}
+    ],
+    "translation": "Él tampoco ha estado allí todavía."
+  },
+  {
+    "words": [
+      {"hanzi": "妈妈", "pinyin": "māma"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "没", "pinyin": "看", "pinyin": "kàn"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "Mamá aún no ha leído mi libro."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "也", "pinyin": "yě"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "没", "pinyin": "吃", "pinyin": "chī"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "菜", "pinyin": "cài"}
+    ],
+    "translation": "Yo tampoco he probado este plato todavía."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "很多", "pinyin": "hěnduō"},
+      {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "He leído muchos libros."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "去", "pinyin": "过", "pinyin": "guò"},
+      {"hanzi": "很多", "pinyin": "hěnduō"},
+      {"hanzi": "地方", "pinyin": "dìfang"}
+    ],
+    "translation": "Ella ha estado en muchos lugares."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没", "pinyin": "认识", "pinyin": "rènshi"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "他", "pinyin": "tā"}
+    ],
+    "translation": "No lo he conocido (nunca llegamos a conocernos)."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "He bebido café."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "也", "pinyin": "yě"},
+      {"hanzi": "去", "pinyin": "过", "pinyin": "guò"},
+      {"hanzi": "那个", "pinyin": "nàge"},
+      {"hanzi": "公园", "pinyin": "gōngyuán"}
+    ],
+    "translation": "Nosotros también hemos estado en aquel parque."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "没", "pinyin": "看", "pinyin": "kàn"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "本", "pinyin": "běn"},
+      {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "Él no ha leído este libro."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "妈妈", "pinyin": "māma"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "中国", "pinyin": "Zhōngguó"},
+      {"hanzi": "菜", "pinyin": "cài"}
+    ],
+    "translation": "Mi madre ha cocinado comida china."
+  }
+]
