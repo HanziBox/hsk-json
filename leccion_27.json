@@ -133,7 +133,7 @@
       {"hanzi": "我的", "pinyin": "wǒ de"},
       {"hanzi": "书", "pinyin": "shū"}
     ],
-    "translation": "Mi mamá todavía no ha visto mi libro."
+    "translation": "Mi mamá todavía no ha leído mi libro."
   },
   {
     "words": [
@@ -208,7 +208,7 @@
       {"hanzi": "本", "pinyin": "běn"},
       {"hanzi": "书", "pinyin": "shū"}
     ],
-    "translation": "Él no ha visto este libro."
+    "translation": "Él no ha leído este libro."
   },
   {
     "words": [
