@@ -215,7 +215,8 @@
       {"hanzi": "我妈妈", "pinyin": "wǒ māmā"},
       {"hanzi": "做", "pinyin": "zuò"},
       {"hanzi": "过", "pinyin": "guò"},
-      {"hanzi": "中国菜", "pinyin": "Zhōngguó cài"}
+      {"hanzi": "中国", "pinyin": "Zhōngguó"},
+      {"hanzi": "菜", "pinyin": "cài"}
     ],
     "translation": "Mi mamá ha cocinado comida china."
   }
