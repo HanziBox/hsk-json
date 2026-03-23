@@ -57,7 +57,8 @@
       {"hanzi": "过", "pinyin": "guò"},
       {"hanzi": "我家", "pinyin": "wǒ jiā"}
     ],
-    "translation": "Ellos también han venido a mi casa."
+    "translation": "Ellos también han venido a mi casa.",
+    "note": "📋NOTA: lái 来 es el verbo venir."
   },
   {
     "words": [
@@ -143,10 +144,11 @@
       {"hanzi": "没", "pinyin": "méi"},
       {"hanzi": "吃", "pinyin": "chī"},
       {"hanzi": "过", "pinyin": "guò"},
-      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"},
       {"hanzi": "菜", "pinyin": "cài"}
     ],
-    "translation": "Tampoco he probado este plato."
+    "translation": "Yo tampoco he probado este plato aún."
   },
   {
     "words": [
@@ -166,7 +168,8 @@
       {"hanzi": "很多", "pinyin": "hěn duō"},
       {"hanzi": "地方", "pinyin": "dìfāng"}
     ],
-    "translation": "Ella ha ido a muchos lugares."
+    "translation": "Ella ha ido a muchos lugares.",
+    "note": "📋NOTA: dìfāng 地方 significa sitio o lugar. ¡Memorízalo!."
   },
   {
     "words": [
@@ -196,7 +199,7 @@
       {"hanzi": "那个", "pinyin": "nàgè"},
       {"hanzi": "公园", "pinyin": "gōngyuán"}
     ],
-    "translation": "También hemos ido a ese parque."
+    "translation": "Nosotros también hemos ido a ese parque."
   },
   {
     "words": [
