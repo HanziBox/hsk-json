@@ -91,7 +91,8 @@
   {
     "words": [
       {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "穿着", "pinyin": "chuānzhe"},
+      {"hanzi": "穿", "pinyin": "chuān"},
+      {"hanzi": "着", "pinyin": "zhe"},
       {"hanzi": "昨天", "pinyin": "zuótiān"},
       {"hanzi": "买", "pinyin": "mǎi"},
       {"hanzi": "的", "pinyin": "de"},
@@ -102,7 +103,8 @@
   {
     "words": [
       {"hanzi": "门口", "pinyin": "ménkǒu"},
-      {"hanzi": "站着", "pinyin": "zhànzhe"},
+      {"hanzi": "站", "pinyin": "zhàn"},
+      {"hanzi": "着", "pinyin": "zhe"},
       {"hanzi": "一个", "pinyin": "yí gè"},
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "不", "pinyin": "bù"},
