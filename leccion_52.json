@@ -178,7 +178,8 @@
   {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "见过", "pinyin": "jiànguò"},
+      {"hanzi": "见", "pinyin": "jiàn"},
+      {"hanzi": "过", "pinyin": "guò"},
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "喜欢", "pinyin": "xǐhuān"},
       {"hanzi": "的", "pinyin": "de"},
