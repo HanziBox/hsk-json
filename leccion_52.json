@@ -204,7 +204,8 @@
       {"hanzi": "，", "pinyin": ","},
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "看过", "pinyin": "kàn guò"}
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "过", "pinyin": "guò"}
     ],
     "translation": "Todos los libros que me diste ya los he leído."
   }
