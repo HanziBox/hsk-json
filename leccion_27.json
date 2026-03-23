@@ -212,7 +212,8 @@
   },
   {
     "words": [
-      {"hanzi": "我妈妈", "pinyin": "wǒ māmā"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "妈妈", "pinyin": "māmā"},
       {"hanzi": "做", "pinyin": "zuò"},
       {"hanzi": "过", "pinyin": "guò"},
       {"hanzi": "中国", "pinyin": "Zhōngguó"},
