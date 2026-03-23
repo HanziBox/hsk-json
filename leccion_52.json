@@ -1,0 +1,222 @@
+[
+  {
+    "words": [
+      {"hanzi": "红色", "pinyin": "hóngsè"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "好看", "pinyin": "hǎokàn"}
+    ],
+    "translation": "El rojo es muy bonito."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "便宜", "pinyin": "piányi"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Me gustan los que son baratos."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "件", "pinyin": "jiàn"},
+      {"hanzi": "好看", "pinyin": "hǎokàn"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Compré una ropa bonita."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "一个", "pinyin": "yí gè"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "高", "pinyin": "gāo"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "Él es una persona muy alta."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "Me gustan los libros que compraste."
+  },
+  {
+    "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "妈妈", "pinyin": "māmā"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "饭", "pinyin": "fàn"}
+    ],
+    "translation": "Esta es la comida que hizo mamá."
+  },
+  {
+    "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "电影", "pinyin": "diànyǐng"}
+    ],
+    "translation": "Esta es la película que vi ayer."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "东西", "pinyin": "dōngxī"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "贵", "pinyin": "guì"}
+    ],
+    "translation": "Las cosas que me gustan son caras."
+  },
+  {
+    "words": [
+      {"hanzi": "那", "pinyin": "nà"},
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "老师", "pinyin": "lǎoshī"}
+    ],
+    "translation": "Ese es su profesor."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "穿着", "pinyin": "chuānzhe"},
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "鞋", "pinyin": "xié"}
+    ],
+    "translation": "Él lleva los zapatos que compró ayer."
+  },
+  {
+    "words": [
+      {"hanzi": "门口", "pinyin": "ménkǒu"},
+      {"hanzi": "站着", "pinyin": "zhànzhe"},
+      {"hanzi": "一个", "pinyin": "yí gè"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "认识", "pinyin": "rènshi"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "En la puerta hay una persona que no conozco."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "房子", "pinyin": "fángzi"},
+      {"hanzi": "真", "pinyin": "zhēn"},
+      {"hanzi": "贵", "pinyin": "guì"}
+    ],
+    "translation": "La casa que compró es realmente cara."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一个", "pinyin": "yí gè"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "安静", "pinyin": "ānjìng"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "地方", "pinyin": "dìfāng"}
+    ],
+    "translation": "Fuimos a un lugar muy tranquilo."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "穿", "pinyin": "chuān"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "件", "pinyin": "jiàn"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "见过", "pinyin": "jiànguò"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Ella lleva una ropa que nunca he visto."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "房子", "pinyin": "fángzi"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "大", "pinyin": "dà"}
+    ],
+    "translation": "La casa donde vivo es grande."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不想", "pinyin": "bù xiǎng"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "东西", "pinyin": "dōngxī"}
+    ],
+    "translation": "No quiero comer lo que ella hizo."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "见过", "pinyin": "jiànguò"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "那个", "pinyin": "nà gè"},
+      {"hanzi": "女孩", "pinyin": "nǚhái"}
+    ],
+    "translation": "He visto a la chica que te gusta."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "看书", "pinyin": "kàn shū"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "Me gustan las personas que leen."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "书", "pinyin": "shū"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "看过", "pinyin": "kàn guò"}
+    ],
+    "translation": "Todos los libros que me diste ya los he leído."
+  }
+]
