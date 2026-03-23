@@ -112,7 +112,8 @@
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "人", "pinyin": "rén"}
     ],
-    "translation": "En la puerta hay una persona que no conozco."
+    "translation": "En la puerta hay (está de pie) una persona que no conozco.",
+    "note": "📋NOTA: zhàn 站 significa estar parado, de pie"
   },
   {
     "words": [
