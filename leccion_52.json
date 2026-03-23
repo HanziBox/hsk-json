@@ -145,22 +145,8 @@
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "地方", "pinyin": "dìfāng"}
     ],
-    "translation": "Fuimos a un lugar muy tranquilo."
-  },
-  {
-    "words": [
-      {"hanzi": "她", "pinyin": "tā"},
-      {"hanzi": "穿", "pinyin": "chuān"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "一", "pinyin": "yī"},
-      {"hanzi": "件", "pinyin": "jiàn"},
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "没", "pinyin": "méi"},
-      {"hanzi": "见过", "pinyin": "jiànguò"},
-      {"hanzi": "的", "pinyin": "de"},
-      {"hanzi": "衣服", "pinyin": "yīfu"}
-    ],
-    "translation": "Ella lleva un vestido que nunca he visto."
+    "translation": "Fuimos a un lugar muy tranquilo.",
+    "note": "📋NOTA: ānjìng 安静 significa tranquilo"
   },
   {
     "words": [
