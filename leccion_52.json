@@ -174,7 +174,8 @@
   {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "不想", "pinyin": "bù xiǎng"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
       {"hanzi": "吃", "pinyin": "chī"},
       {"hanzi": "她", "pinyin": "tā"},
       {"hanzi": "做", "pinyin": "zuò"},
