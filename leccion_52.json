@@ -8,14 +8,27 @@
     ],
     "translation": "El rojo es muy bonito."
   },
-  {
+    {
+    "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "妈妈", "pinyin": "māmā"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "饭", "pinyin": "fàn"}
+    ],
+    "translation": "Esta es la comida que hizo mamá."
+  },
+    {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "喜欢", "pinyin": "xǐhuān"},
-      {"hanzi": "便宜", "pinyin": "piányi"},
-      {"hanzi": "的", "pinyin": "de"}
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "书", "pinyin": "shū"}
     ],
-    "translation": "Me gustan los que son baratos."
+    "translation": "Me gustan los libros que compraste."
   },
   {
     "words": [
@@ -41,28 +54,6 @@
       {"hanzi": "人", "pinyin": "rén"}
     ],
     "translation": "Él es una persona muy alta."
-  },
-  {
-    "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
-      {"hanzi": "你", "pinyin": "nǐ"},
-      {"hanzi": "买", "pinyin": "mǎi"},
-      {"hanzi": "的", "pinyin": "de"},
-      {"hanzi": "书", "pinyin": "shū"}
-    ],
-    "translation": "Me gustan los libros que compraste."
-  },
-  {
-    "words": [
-      {"hanzi": "这", "pinyin": "zhè"},
-      {"hanzi": "是", "pinyin": "shì"},
-      {"hanzi": "妈妈", "pinyin": "māmā"},
-      {"hanzi": "做", "pinyin": "zuò"},
-      {"hanzi": "的", "pinyin": "de"},
-      {"hanzi": "饭", "pinyin": "fàn"}
-    ],
-    "translation": "Esta es la comida que hizo mamá."
   },
   {
     "words": [
@@ -131,6 +122,15 @@
       {"hanzi": "贵", "pinyin": "guì"}
     ],
     "translation": "La casa que compró es realmente cara."
+  },
+    {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "便宜", "pinyin": "piányi"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Me gustan los que son baratos."
   },
   {
     "words": [
