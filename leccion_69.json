@@ -380,7 +380,8 @@
       {"hanzi": "打", "pinyin": "dǎ"},
       {"hanzi": "电话", "pinyin": "diànhuà"},
       {"hanzi": "的人", "pinyin": "de rén"},
-      {"hanzi": "是谁", "pinyin": "shì shéi"}
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "谁", "pinyin": "shéi"}
     ],
     "translation": "¿Quién es la persona que siempre te llama?"
   },
