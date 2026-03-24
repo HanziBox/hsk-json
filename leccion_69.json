@@ -296,10 +296,11 @@
     "words": [
       {"hanzi": "从来", "pinyin": "cónglái"},
       {"hanzi": "别", "pinyin": "bié"},
-      {"hanzi": "上楼", "pinyin": "shànglóu"},
+      {"hanzi": "上", "pinyin": "shàng"},
+      {"hanzi": "楼", "pinyin": "lóu"},
       {"hanzi": "去", "pinyin": "qù"}
     ],
-    "translation": "¡Nunca subas las escaleras!"
+    "translation": "¡Nunca subas al piso de arriba!"
   },
   {
     "words": [
