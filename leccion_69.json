@@ -348,7 +348,8 @@
       {"hanzi": "没", "pinyin": "méi"},
       {"hanzi": "去过", "pinyin": "qùguò"}
     ],
-    "translation": "Nunca he ido al restaurante caro."
+    "translation": "Nunca he ido a restaurantes caros.",
+    "note": "📋NOTA: Usa la topicalización en este caso."
   },
   {
     "words": [
