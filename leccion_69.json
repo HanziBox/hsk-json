@@ -95,6 +95,16 @@
     "translation": "Ella todos los días bebe mucha agua."
   },
   {
+  "words": [
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "也", "pinyin": "yě"},
+    {"hanzi": "一直", "pinyin": "yīzhí"},
+    {"hanzi": "很", "pinyin": "hěn"},
+    {"hanzi": "累", "pinyin": "lèi"}
+  ],
+  "translation": "Yo también siempre estoy muy cansado/a."
+},
+  {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "有时", "pinyin": "yǒushí"},
