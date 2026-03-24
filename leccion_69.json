@@ -2,7 +2,7 @@
   {
     "words": [
       {"hanzi": "她", "pinyin": "tā"},
-      {"hanzi": "总是", "pinyin": "zǒng shì"},
+      {"hanzi": "总是", "pinyin": "zǒngshì"},
       {"hanzi": "坐", "pinyin": "zuò"},
       {"hanzi": "在", "pinyin": "zài"},
       {"hanzi": "我", "pinyin": "wǒ"},
@@ -44,7 +44,7 @@
   {
     "words": [
       {"hanzi": "老师", "pinyin": "lǎoshī"},
-      {"hanzi": "总是", "pinyin": "zǒng shì"},
+      {"hanzi": "总是", "pinyin": "zǒngshì"},
       {"hanzi": "给", "pinyin": "gěi"},
       {"hanzi": "我们", "pinyin": "wǒmen"},
       {"hanzi": "很多", "pinyin": "hěn duō"},
@@ -92,7 +92,7 @@
       {"hanzi": "很多", "pinyin": "hěn duō"},
       {"hanzi": "水", "pinyin": "shuǐ"}
     ],
-    "translation": "Ella bebe mucha agua todos los días."
+    "translation": "Ella todos los días bebe mucha agua."
   },
   {
     "words": [
@@ -187,7 +187,7 @@
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "菜", "pinyin": "cài"}
     ],
-    "translation": "¡Nunca comas los platos que no te gustan!"
+    "translation": "Nunca comas los platos que no te gustan."
   },
     {
     "words": [
@@ -225,7 +225,7 @@
   {
     "words": [
       {"hanzi": "她", "pinyin": "tā"},
-      {"hanzi": "总是", "pinyin": "zǒng shì"},
+      {"hanzi": "总是", "pinyin": "zǒngshì"},
       {"hanzi": "说", "pinyin": "shuō"},
       {"hanzi": "得", "pinyin": "de"},
       {"hanzi": "很", "pinyin": "hěn"},
@@ -248,7 +248,7 @@
   {
     "words": [
       {"hanzi": "妈妈", "pinyin": "māmā"},
-      {"hanzi": "总是", "pinyin": "zǒng shì"},
+      {"hanzi": "总是", "pinyin": "zǒngshì"},
       {"hanzi": "做饭", "pinyin": "zuòfàn"},
       {"hanzi": "做", "pinyin": "zuò"},
       {"hanzi": "得", "pinyin": "de"},
@@ -261,7 +261,8 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "常常", "pinyin": "chángcháng"},
       {"hanzi": "去", "pinyin": "qù"},
-      {"hanzi": "那个", "pinyin": "nà gè"},
+      {"hanzi": "那", "pinyin": "nà"},
+      {"hanzi": "个", "pinyin": "gè"},
       {"hanzi": "公园", "pinyin": "gōngyuán"}
     ],
     "translation": "Voy a ese parque con frecuencia."
@@ -294,13 +295,14 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "从来", "pinyin": "cónglái"},
       {"hanzi": "没", "pinyin": "méi"},
-      {"hanzi": "吃过", "pinyin": "chīguò"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "过", "pinyin": "guò"},
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "做", "pinyin": "zuò"},
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "饭", "pinyin": "fàn"}
     ],
-    "translation": "Nunca he comido la comida que hiciste."
+    "translation": "Nunca he comido tu comida (la que tú cocinas)."
   },
   {
     "words": [
@@ -409,9 +411,9 @@
       {"hanzi": "奇怪", "pinyin": "qíguài"},
       {"hanzi": "的话", "pinyin": "de huà"}
     ],
-    "translation": "A veces dice cosas extrañas."
+    "translation": "A veces dice cosas extrañas.",
+    "note": "📋NOTA: Extraño o raro se dice en chino qíguài 奇怪, recuérdalo."
   },
-  [
   {
     "words": [
       {"hanzi": "我们", "pinyin": "wǒmen"},
@@ -455,5 +457,4 @@
     ],
     "translation": "Ella siempre ha gustado mucho de este lugar."
   }
-]
 ]
