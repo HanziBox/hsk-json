@@ -95,7 +95,8 @@
   },
   {
     "words": [
-      {"hanzi": "我爸爸", "pinyin": "wǒ bàba"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "爸爸", "pinyin": "bàba"},
       {"hanzi": "哪儿", "pinyin": "nǎr"},
       {"hanzi": "都", "pinyin": "dōu"},
       {"hanzi": "去过", "pinyin": "qùguò"}
