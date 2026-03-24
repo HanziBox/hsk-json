@@ -346,7 +346,8 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "从来", "pinyin": "cónglái"},
       {"hanzi": "没", "pinyin": "méi"},
-      {"hanzi": "去过", "pinyin": "qùguò"}
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "过", "pinyin": "guò"}
     ],
     "translation": "Nunca he ido a restaurantes caros.",
     "note": "📋NOTA: Usa la topicalización en este caso."
