@@ -2,16 +2,6 @@
   {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "想", "pinyin": "xiǎng"},
-      {"hanzi": "买", "pinyin": "mǎi"},
-      {"hanzi": "一些", "pinyin": "yīxiē"},
-      {"hanzi": "东西", "pinyin": "dōngxī"}
-    ],
-    "translation": "Quiero comprar algunas cosas."
-  },
-  {
-    "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "什么", "pinyin": "shénme"},
       {"hanzi": "都", "pinyin": "dōu"},
       {"hanzi": "吃", "pinyin": "chī"}
@@ -27,17 +17,6 @@
       {"hanzi": "什么", "pinyin": "shénme"}
     ],
     "translation": "¿Qué te gustaría comer?"
-  },
-  {
-    "words": [
-      {"hanzi": "她", "pinyin": "tā"},
-      {"hanzi": "昨天", "pinyin": "zuótiān"},
-      {"hanzi": "说", "pinyin": "shuō"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "一些", "pinyin": "yīxiē"},
-      {"hanzi": "事情", "pinyin": "shìqíng"}
-    ],
-    "translation": "Ella dijo algunas cosas ayer."
   },
   {
     "words": [
@@ -65,31 +44,10 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "什么", "pinyin": "shénme"},
       {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "忘了", "pinyin": "wàngle"}
+      {"hanzi": "忘", "pinyin": "wàng"},
+      {"hanzi": "了", "pinyin": "le"}
     ],
     "translation": "He olvidado todo."
-  },
-  {
-    "words": [
-      {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "昨天", "pinyin": "zuótiān"},
-      {"hanzi": "买", "pinyin": "mǎi"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "一些", "pinyin": "yīxiē"},
-      {"hanzi": "东西", "pinyin": "dōngxī"}
-    ],
-    "translation": "Él compró algunas cosas ayer."
-  },
-  {
-    "words": [
-      {"hanzi": "你", "pinyin": "nǐ"},
-      {"hanzi": "想", "pinyin": "xiǎng"},
-      {"hanzi": "说", "pinyin": "shuō"},
-      {"hanzi": "点", "pinyin": "diǎn"},
-      {"hanzi": "什么", "pinyin": "shénme"},
-      {"hanzi": "吗", "pinyin": "ma"}
-    ],
-    "translation": "¿Quieres decir algo?"
   },
   {
     "words": [
@@ -142,6 +100,17 @@
     "translation": "Mi papá ha estado en todas partes."
   },
   {
+  "words": [
+    {"hanzi": "明天", "pinyin": "míngtiān"},
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "有", "pinyin": "yǒu"},
+    {"hanzi": "事情", "pinyin": "shìqíng"},
+    {"hanzi": "要", "pinyin": "yào"},
+    {"hanzi": "做", "pinyin": "zuò"}
+  ],
+  "translation": "Mañana tengo cosas que hacer."
+},
+  {
     "words": [
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "今天", "pinyin": "jīntiān"},
@@ -169,26 +138,20 @@
       {"hanzi": "她", "pinyin": "tā"},
       {"hanzi": "什么", "pinyin": "shénme"},
       {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "没有", "pinyin": "méiyǒu"}
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "有", "pinyin": "yǒu"}
     ],
     "translation": "Ella no tiene nada."
   },
   {
     "words": [
       {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "什么人", "pinyin": "shénme rén"},
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "人", "pinyin": "rén"},
       {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "不喜欢", "pinyin": "bù xǐhuān"}
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"}
     ],
-    "translation": "Él no le gusta ninguna persona."
-  },
-  {
-    "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "什么东西", "pinyin": "shénme dōngxī"},
-      {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "吃", "pinyin": "chī"}
-    ],
-    "translation": "Yo como cualquier cosa."
+    "translation": "A él no le gusta ninguna persona."
   }
 ]
