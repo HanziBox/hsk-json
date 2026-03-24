@@ -133,7 +133,7 @@
       {"hanzi": "学会", "pinyin": "xuéhuì"},
       {"hanzi": "做", "pinyin": "zuò"},
       {"hanzi": "中国", "pinyin": "Zhōngguó"},
-      "hanzi": "菜", "pinyin": "cài"}
+      {"hanzi": "菜", "pinyin": "cài"}
     ],
     "translation": "Él siempre ha querido aprender a cocinar comida china."
   },
