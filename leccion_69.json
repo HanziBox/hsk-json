@@ -187,7 +187,8 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "每天", "pinyin": "měitiān"},
       {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "过来", "pinyin": "guòlái"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "来", "pinyin": "lái"},
       {"hanzi": "学习", "pinyin": "xuéxí"},
       {"hanzi": "中文", "pinyin": "Zhōngwén"}
     ],
