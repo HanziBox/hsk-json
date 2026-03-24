@@ -76,10 +76,12 @@
       {"hanzi": "我们", "pinyin": "wǒmen"},
       {"hanzi": "很少", "pinyin": "hěn shǎo"},
       {"hanzi": "去", "pinyin": "qù"},
-      {"hanzi": "那家", "pinyin": "nà jiā"},
+      {"hanzi": "那", "pinyin": "nà"},
+      {"hanzi": "家", "pinyin": "jiā"},
       {"hanzi": "饭店", "pinyin": "fàndiàn"}
     ],
-    "translation": "Rara vez vamos a ese restaurante."
+    "translation": "Rara vez vamos a ese restaurante.",
+     "note": "📋NOTA: jiā 家 aquí es el clasificador para establecimientos."
   },
   {
     "words": [
