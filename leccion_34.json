@@ -14,7 +14,8 @@
       {"hanzi": "想", "pinyin": "xiǎng"},
       {"hanzi": "吃", "pinyin": "chī"},
       {"hanzi": "点", "pinyin": "diǎn"},
-      {"hanzi": "什么", "pinyin": "shénme"}
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "吗", "pinyin": "ma"}
     ],
     "translation": "¿Te gustaría comer algo?"
   },
