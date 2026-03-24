@@ -99,7 +99,8 @@
       {"hanzi": "爸爸", "pinyin": "bàba"},
       {"hanzi": "哪儿", "pinyin": "nǎr"},
       {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "去过", "pinyin": "qùguò"}
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "过", "pinyin": "guò"}
     ],
     "translation": "Mi papá ha estado en todas partes."
   },
