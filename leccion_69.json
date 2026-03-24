@@ -222,7 +222,8 @@
       {"hanzi": "总是", "pinyin": "zǒng shì"},
       {"hanzi": "说", "pinyin": "shuō"},
       {"hanzi": "得", "pinyin": "de"},
-      {"hanzi": "很快", "pinyin": "hěn kuài"}
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "快", "pinyin": "kuài"}
     ],
     "translation": "Ella siempre habla muy rápido."
   },
