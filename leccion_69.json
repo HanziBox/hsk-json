@@ -252,7 +252,8 @@
       {"hanzi": "做饭", "pinyin": "zuòfàn"},
       {"hanzi": "做", "pinyin": "zuò"},
       {"hanzi": "得", "pinyin": "de"},
-      {"hanzi": "很好吃", "pinyin": "hěn hǎochī"}
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "好吃", "pinyin": "hǎochī"}
     ],
     "translation": "Mi mamá siempre cocina muy rico."
   },
