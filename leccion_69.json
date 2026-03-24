@@ -152,14 +152,16 @@
   },
   {
     "words": [
-      {"hanzi": "我爸爸", "pinyin": "wǒ bàba"},
+      {"hanzi": "爸爸", "pinyin": "bàba"},
       {"hanzi": "很少", "pinyin": "hěn shǎo"},
       {"hanzi": "让", "pinyin": "ràng"},
       {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "出去", "pinyin": "chūqù"},
+      {"hanzi": "出", "pinyin": "chū"},
+      {"hanzi": "去", "pinyin": "qù"},
       {"hanzi": "玩", "pinyin": "wán"}
     ],
-    "translation": "Mi papá rara vez me deja salir a jugar."
+    "translation": "Papá rara vez me deja salir a jugar.",
+    "note": "📋NOTA: Esta oracion usa un complemento direccional, adivina cuál."
   },
   {
     "words": [
