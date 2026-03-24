@@ -379,7 +379,8 @@
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "打", "pinyin": "dǎ"},
       {"hanzi": "电话", "pinyin": "diànhuà"},
-      {"hanzi": "的人", "pinyin": "de rén"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "人", "pinyin": "rén"},
       {"hanzi": "是", "pinyin": "shì"},
       {"hanzi": "谁", "pinyin": "shéi"}
     ],
