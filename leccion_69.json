@@ -452,9 +452,10 @@
       {"hanzi": "一直", "pinyin": "yīzhí"},
       {"hanzi": "很", "pinyin": "hěn"},
       {"hanzi": "喜欢", "pinyin": "xǐhuān"},
-      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"},
       {"hanzi": "地方", "pinyin": "dìfāng"}
     ],
-    "translation": "Ella siempre ha gustado mucho de este lugar."
+    "translation": "A ella siempre le ha gustado mucho de este lugar."
   }
 ]
