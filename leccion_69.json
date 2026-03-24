@@ -164,7 +164,8 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "从来", "pinyin": "cónglái"},
       {"hanzi": "没", "pinyin": "méi"},
-      {"hanzi": "见过", "pinyin": "jiànguò"},
+      {"hanzi": "见", "pinyin": "jiàn"},
+      {"hanzi": "过", "pinyin": "guò"},
       {"hanzi": "他", "pinyin": "tā"}
     ],
     "translation": "Nunca lo he visto."
