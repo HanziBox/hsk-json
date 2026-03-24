@@ -69,7 +69,8 @@
       {"hanzi": "她", "pinyin": "tā"},
       {"hanzi": "什么", "pinyin": "shénme"},
       {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "不知道", "pinyin": "bù zhīdào"}
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "知道", "pinyin": "zhīdào"}
     ],
     "translation": "Ella dijo que no sabe nada."
   },
