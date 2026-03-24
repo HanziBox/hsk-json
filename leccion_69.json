@@ -192,7 +192,8 @@
       {"hanzi": "学习", "pinyin": "xuéxí"},
       {"hanzi": "中文", "pinyin": "Zhōngwén"}
     ],
-    "translation": "Todos los días vengo a estudiar chino."
+    "translation": "Todos los días me acerco (vengo) a estudiar chino.",
+      "note": "📋NOTA: Esta oracion usa un complemento direccional, adivina cuál."
   },
   {
     "words": [
