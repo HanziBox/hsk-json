@@ -1,0 +1,183 @@
+[
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "总是", "pinyin": "zǒng shì"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "旁边", "pinyin": "pángbiān"}
+    ],
+    "translation": "Ella siempre se sienta a mi lado."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "常常", "pinyin": "chángcháng"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "你", "pinyin": "nǐ"}
+    ],
+    "translation": "A menudo pienso en ti."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一直", "pinyin": "yīzhí"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "你", "pinyin": "nǐ"}
+    ],
+    "translation": "Siempre te estoy esperando."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "以前", "pinyin": "yǐqián"},
+      {"hanzi": "常常", "pinyin": "chángcháng"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "地方", "pinyin": "dìfāng"}
+    ],
+    "translation": "Solía venir a este lugar con frecuencia."
+  },
+  {
+    "words": [
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "总是", "pinyin": "zǒng shì"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "很多", "pinyin": "hěn duō"},
+      {"hanzi": "作业", "pinyin": "zuòyè"}
+    ],
+    "translation": "El profesor siempre nos da muchos deberes."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一直", "pinyin": "yīzhí"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "这里", "pinyin": "zhèlǐ"}
+    ],
+    "translation": "Siempre he vivido aquí."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "每天", "pinyin": "měitiān"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "学校", "pinyin": "xuéxiào"},
+      {"hanzi": "见面", "pinyin": "jiànmiàn"}
+    ],
+    "translation": "Nos vemos todos los días en la escuela."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "很少", "pinyin": "hěn shǎo"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "那家", "pinyin": "nà jiā"},
+      {"hanzi": "饭店", "pinyin": "fàndiàn"}
+    ],
+    "translation": "Rara vez vamos a ese restaurante."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "每天", "pinyin": "měitiān"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "很多", "pinyin": "hěn duō"},
+      {"hanzi": "水", "pinyin": "shuǐ"}
+    ],
+    "translation": "Ella bebe mucha agua todos los días."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "有时", "pinyin": "yǒushí"},
+      {"hanzi": "下楼", "pinyin": "xiàlóu"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "和", "pinyin": "hé"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "聊天", "pinyin": "liáotiān"}
+    ],
+    "translation": "A veces bajo a charlar con él."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "常常", "pinyin": "chángcháng"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "那个", "pinyin": "nà gè"},
+      {"hanzi": "餐馆", "pinyin": "cānguǎn"},
+      {"hanzi": "吗", "pinyin": "ma"}
+    ],
+    "translation": "¿Vas a ese restaurante con frecuencia?"
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "从来", "pinyin": "cónglái"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "过", "pinyin": "guò"},
+      {"hanzi": "中国", "pinyin": "Zhōngguó"}
+    ],
+    "translation": "Él nunca ha ido a China."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "一直", "pinyin": "yīzhí"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "学会", "pinyin": "xuéhuì"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "中国菜", "pinyin": "Zhōngguó cài"}
+    ],
+    "translation": "Él siempre ha querido aprender a cocinar comida china."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "每天", "pinyin": "měitiān"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "妈妈", "pinyin": "māmā"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "电话", "pinyin": "diànhuà"}
+    ],
+    "translation": "Llamo a mi mamá todos los días."
+  },
+  {
+    "words": [
+      {"hanzi": "我爸爸", "pinyin": "wǒ bàba"},
+      {"hanzi": "很少", "pinyin": "hěn shǎo"},
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "出去", "pinyin": "chūqù"},
+      {"hanzi": "玩", "pinyin": "wán"}
+    ],
+    "translation": "Mi papá rara vez me deja salir a jugar."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "从来", "pinyin": "cónglái"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "见过", "pinyin": "jiànguò"},
+      {"hanzi": "他", "pinyin": "tā"}
+    ],
+    "translation": "Nunca lo he visto."
+  },
+  {
+    "words": [
+      {"hanzi": "从来", "pinyin": "cónglái"},
+      {"hanzi": "不要", "pinyin": "bú yào"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "不喜欢", "pinyin": "bù xǐhuān"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "菜", "pinyin": "cài"}
+    ],
+    "translation": "¡Nunca comas los platos que no te gustan!"
+  }
+]
