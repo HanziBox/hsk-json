@@ -323,7 +323,8 @@
       {"hanzi": "爸爸", "pinyin": "bàba"},
       {"hanzi": "从来", "pinyin": "cónglái"},
       {"hanzi": "不", "pinyin": "bù"},
-      {"hanzi": "让我", "pinyin": "ràng wǒ"},
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "去", "pinyin": "qù"},
       {"hanzi": "游泳", "pinyin": "yóuyǒng"}
     ],
