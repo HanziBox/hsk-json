@@ -153,5 +153,16 @@
       {"hanzi": "喜欢", "pinyin": "xǐhuān"}
     ],
     "translation": "A él no le gusta ninguna persona."
-  }
+  },
+  {
+  "words": [
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "昨天", "pinyin": "zuótiān"},
+    {"hanzi": "哪儿", "pinyin": "nǎr"},
+    {"hanzi": "都", "pinyin": "dōu"},
+    {"hanzi": "没", "pinyin": "méi"},
+    {"hanzi": "去", "pinyin": "qù"}
+  ],
+  "translation": "Ayer no fui a ningún lugar."
+}
 ]
