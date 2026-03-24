@@ -176,7 +176,8 @@
       {"hanzi": "不要", "pinyin": "bú yào"},
       {"hanzi": "吃", "pinyin": "chī"},
       {"hanzi": "你", "pinyin": "nǐ"},
-      {"hanzi": "不喜欢", "pinyin": "bù xǐhuān"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "菜", "pinyin": "cài"}
     ],
