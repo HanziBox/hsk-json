@@ -78,6 +78,18 @@
   {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "以为", "pinyin": "yǐwéi"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "四", "pinyin": "sì"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "岁", "pinyin": "suì"},
+      {"hanzi": "左右", "pinyin": "zuǒyòu"}
+    ],
+    "translation": "Pensé (erróneamente) que ella tenía alrededor de cuarenta años."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "大约", "pinyin": "dàyuē"},
       {"hanzi": "七", "pinyin": "qī"},
       {"hanzi": "点", "pinyin": "diǎn"},
