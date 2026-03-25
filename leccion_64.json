@@ -111,15 +111,6 @@
   },
   {
     "words": [
-      {"hanzi": "我们", "pinyin": "wǒmen"},
-      {"hanzi": "差不多", "pinyin": "chàbuduō"},
-      {"hanzi": "到", "pinyin": "dào"},
-      {"hanzi": "了", "pinyin": "le"}
-    ],
-    "translation": "Casi hemos llegado."
-  },
-  {
-    "words": [
       {"hanzi": "所有", "pinyin": "suǒyǒu"},
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "小孩", "pinyin": "xiǎohái"},
@@ -204,7 +195,8 @@
       {"hanzi": "平方米", "pinyin": "píngfāngmǐ"},
       {"hanzi": "左右", "pinyin": "zuǒyòu"}
     ],
-    "translation": "Esta casa tiene alrededor de cien metros cuadrados."
+    "translation": "Esta casa tiene alrededor de cien metros cuadrados.",
+    "note": "📋NOTA: píng fāng mǐ 平方米 significa metro cuadrado."
   },
   {
     "words": [
