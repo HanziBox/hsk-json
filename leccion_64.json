@@ -164,6 +164,19 @@
   },
   {
     "words": [
+      {"hanzi": "公司", "pinyin": "gōngsī"},
+      {"hanzi": "里", "pinyin": "lǐ"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "二", "pinyin": "èr"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "En la empresa hay unas veinte personas."
+  },
+  {
+    "words": [
       {"hanzi": "这个", "pinyin": "zhège"},
       {"hanzi": "工作", "pinyin": "gōngzuò"},
       {"hanzi": "大约", "pinyin": "dàyuē"},
