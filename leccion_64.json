@@ -11,6 +11,18 @@
   },
   {
     "words": [
+      {"hanzi": "柜子", "pinyin": "guìzi"},
+      {"hanzi": "里", "pinyin": "lǐ"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "四", "pinyin": "sì"},
+      {"hanzi": "五", "pinyin": "wǔ"},
+      {"hanzi": "件", "pinyin": "jiàn"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "En el armario hay cuatro o cinco prendas de ropa."
+  },
+  {
+    "words": [
       {"hanzi": "这", "pinyin": "zhè"},
       {"hanzi": "个", "pinyin": "gè"},
       {"hanzi": "月", "pinyin": "yuè"},
