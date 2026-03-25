@@ -11,6 +11,20 @@
   },
   {
     "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "五", "pinyin": "wǔ"},
+      {"hanzi": "百", "pinyin": "bǎi"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "块", "pinyin": "kuài"},
+      {"hanzi": "钱", "pinyin": "qián"}
+    ],
+    "translation": "Le di más de quinientos yuanes."
+  },
+  {
+    "words": [
       {"hanzi": "柜子", "pinyin": "guìzi"},
       {"hanzi": "里", "pinyin": "lǐ"},
       {"hanzi": "有", "pinyin": "yǒu"},
@@ -36,20 +50,6 @@
       {"hanzi": "书", "pinyin": "shū"}
     ],
     "translation": "Este mes ya he leído cinco o seis libros."
-  },
-  {
-    "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "给", "pinyin": "gěi"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "五", "pinyin": "wǔ"},
-      {"hanzi": "百", "pinyin": "bǎi"},
-      {"hanzi": "多", "pinyin": "duō"},
-      {"hanzi": "块", "pinyin": "kuài"},
-      {"hanzi": "钱", "pinyin": "qián"}
-    ],
-    "translation": "Le di más de quinientos yuanes."
   },
   {
     "words": [
