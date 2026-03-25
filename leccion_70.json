@@ -1,0 +1,414 @@
+[
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "英文", "pinyin": "Yīngwén"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "年", "pinyin": "nián"}
+    ],
+    "translation": "He estado estudiando inglés durante dos años."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "英文", "pinyin": "Yīngwén"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo llevas estudiando inglés?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "一个", "pinyin": "yí gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Te esperé durante una hora."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo lo esperaste?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "看书", "pinyin": "kàn shū"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "两个", "pinyin": "liǎng gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Ayer leí durante dos horas."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "每天", "pinyin": "měitiān"},
+      {"hanzi": "学习", "pinyin": "xuéxí"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo estudias cada día?"
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "年", "pinyin": "nián"}
+    ],
+    "translation": "Me hiciste esperar dos años."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "每天", "pinyin": "měitiān"},
+      {"hanzi": "睡", "pinyin": "shuì"},
+      {"hanzi": "八", "pinyin": "bā"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Duermo ocho horas todos los días."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "自己", "pinyin": "zìjǐ"},
+      {"hanzi": "开", "pinyin": "kāi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一个", "pinyin": "yí gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "车", "pinyin": "chē"}
+    ],
+    "translation": "Él condujo por sí mismo durante una hora."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "那儿", "pinyin": "nàr"},
+      {"hanzi": "待", "pinyin": "dāi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo estuviste allí?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "英文", "pinyin": "Yīngwén"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "年", "pinyin": "nián"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "He estado estudiando inglés durante dos años (y todavía sigo)."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "病", "pinyin": "bìng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "三", "pinyin": "sān"},
+      {"hanzi": "个月", "pinyin": "gè yuè"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Ella ha estado enferma durante tres meses."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "年", "pinyin": "nián"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "中文", "pinyin": "Zhōngwén"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él no ha estudiado chino durante dos años."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一个", "pinyin": "yí gè"},
+      {"hanzi": "星期", "pinyin": "xīngqī"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "运动", "pinyin": "yùndòng"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "No he hecho ejercicio durante una semana."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "只", "pinyin": "zhǐ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "几", "pinyin": "jǐ"},
+      {"hanzi": "分钟", "pinyin": "fēnzhōng"}
+    ],
+    "translation": "Él solo esperó unos minutos."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "睡", "pinyin": "shuì"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo dormiste ayer?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "很久", "pinyin": "hěn jiǔ"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "见", "pinyin": "jiàn"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Hace mucho que no lo veo."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "妈妈", "pinyin": "māmā"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "电话", "pinyin": "diànhuà"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo hace que no llamas a mamá?"
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "咖啡店", "pinyin": "kāfēi diàn"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "两个", "pinyin": "liǎng gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Nos sentamos en la cafetería durante dos horas."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "病", "pinyin": "bìng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo ha estado enferma ella?"
+  },
+  {
+    "words": [
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "三个", "pinyin": "sān gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "El profesor nos hizo estudiar durante tres horas."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "三个", "pinyin": "sān gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "路", "pinyin": "lù"}
+    ],
+    "translation": "Caminamos durante tres horas."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "很久", "pinyin": "hěn jiǔ"}
+    ],
+    "translation": "Te esperé durante mucho tiempo."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "跑步", "pinyin": "pǎobù"},
+      {"hanzi": "跑", "pinyin": "pǎo"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "半个", "pinyin": "bàn gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Él corrió durante media hora."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "跑", "pinyin": "pǎo"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo corriste?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "很久", "pinyin": "hěn jiǔ"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "电影", "pinyin": "diànyǐng"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Hace mucho que no veo una película."
+  },
+  {
+    "words": [
+      {"hanzi": "你们", "pinyin": "nǐmen"},
+      {"hanzi": "聊", "pinyin": "liáo"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo hablaron ustedes?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "一个", "pinyin": "yí gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Estudié durante una hora."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "工作", "pinyin": "gōngzuò"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Él trabajó durante diez horas."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "工作", "pinyin": "gōngzuò"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo trabajaste?"
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "很久", "pinyin": "hěn jiǔ"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "但是", "pinyin": "dànshì"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "来", "pinyin": "lái"}
+    ],
+    "translation": "Ella lo esperó mucho tiempo, pero él no vino."
+  },
+  {
+    "words": [
+      {"hanzi": "你们", "pinyin": "nǐmen"},
+      {"hanzi": "认识", "pinyin": "rènshi"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo se conocen ustedes?"
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "认识", "pinyin": "rènshi"},
+      {"hanzi": "三", "pinyin": "sān"},
+      {"hanzi": "年", "pinyin": "nián"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Nos conocemos desde hace tres años."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "本", "pinyin": "běn"},
+      {"hanzi": "书", "pinyin": "shū"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "多久", "pinyin": "duō jiǔ"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "?", "pinyin": "?"}
+    ],
+    "translation": "¿Cuánto tiempo llevas leyendo este libro?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "只", "pinyin": "zhǐ"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "半个", "pinyin": "bàn gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Solo estudié media hora."
+  },
+  {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "结婚", "pinyin": "jiéhūn"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "年", "pinyin": "nián"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Ellos han estado casados durante diez años."
+  }
+]
