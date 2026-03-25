@@ -200,17 +200,6 @@
   },
   {
     "words": [
-      {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "等", "pinyin": "děng"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "十", "pinyin": "shí"},
-      {"hanzi": "多", "pinyin": "duō"},
-      {"hanzi": "分钟", "pinyin": "fēnzhōng"}
-    ],
-    "translation": "Él esperó más de diez minutos."
-  },
-  {
-    "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "看", "pinyin": "kàn"},
       {"hanzi": "了", "pinyin": "le"},
@@ -274,17 +263,6 @@
       {"hanzi": "人", "pinyin": "rén"}
     ],
     "translation": "Creo que ellos son más de doscientas cincuenta personas."
-  },
-  {
-    "words": [
-      {"hanzi": "我们", "pinyin": "wǒmen"},
-      {"hanzi": "等", "pinyin": "děng"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "三十", "pinyin": "sānshí"},
-      {"hanzi": "分钟", "pinyin": "fēnzhōng"},
-      {"hanzi": "左右", "pinyin": "zuǒyòu"}
-    ],
-    "translation": "Esperamos unos treinta minutos aproximadamente."
   },
   {
     "words": [
