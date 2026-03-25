@@ -263,32 +263,5 @@
       {"hanzi": "人", "pinyin": "rén"}
     ],
     "translation": "Creo que ellos son más de doscientas cincuenta personas."
-  },
-  {
-    "words": [
-      {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "看", "pinyin": "kàn"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "两", "pinyin": "liǎng"},
-      {"hanzi": "个", "pinyin": "gè"},
-      {"hanzi": "多", "pinyin": "duō"},
-      {"hanzi": "小时", "pinyin": "xiǎoshí"},
-      {"hanzi": "的", "pinyin": "de"},
-      {"hanzi": "电视", "pinyin": "diànshì"}
-    ],
-    "translation": "Él vio la televisión por más de dos horas."
-  },
-  {
-    "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "等", "pinyin": "děng"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "她", "pinyin": "tā"},
-      {"hanzi": "差不多", "pinyin": "chàbuduō"},
-      {"hanzi": "一", "pinyin": "yī"},
-      {"hanzi": "个", "pinyin": "gè"},
-      {"hanzi": "小时", "pinyin": "xiǎoshí"}
-    ],
-    "translation": "La esperé casi una hora."
   }
 ]
