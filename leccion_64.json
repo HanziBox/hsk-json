@@ -124,7 +124,8 @@
       {"hanzi": "百", "pinyin": "bǎi"},
       {"hanzi": "页", "pinyin": "yè"}
     ],
-    "translation": "Este libro tiene aproximadamente trescientas páginas."
+    "translation": "Este libro tiene aproximadamente trescientas páginas.",
+    "note": "📋NOTA: yè 页 (página) no lleva clasificador, es un clasificador en sí mismmo."
   },
   {
     "words": [
