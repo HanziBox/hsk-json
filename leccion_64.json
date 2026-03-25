@@ -109,6 +109,20 @@
     ],
     "translation": "Él viene casi todos los días."
   },
+  [
+  {
+    "words": [
+      {"hanzi": "房子", "pinyin": "fángzi"},
+      {"hanzi": "后面", "pinyin": "hòumiàn"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "只", "pinyin": "zhī"},
+      {"hanzi": "猫", "pinyin": "māo"}
+    ],
+    "translation": "Detrás de la casa hay más de diez gatos."
+  }
+],
   {
     "words": [
       {"hanzi": "我们", "pinyin": "wǒmen"},
