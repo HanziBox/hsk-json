@@ -9,7 +9,7 @@
       {"hanzi": "两", "pinyin": "liǎng"},
       {"hanzi": "年", "pinyin": "nián"}
     ],
-    "translation": "He estado estudiando inglés durante dos años."
+    "translation": "He estudiado inglés durante dos años."
   },
   {
     "words": [
@@ -20,7 +20,7 @@
       {"hanzi": "英文", "pinyin": "Yīngwén"},
       {"hanzi": "?", "pinyin": "?"}
     ],
-    "translation": "¿Cuánto tiempo llevas estudiando inglés?"
+    "translation": "¿Cuánto tiempo estudiaste inglés?"
   },
   {
     "words": [
@@ -51,7 +51,8 @@
       {"hanzi": "看书", "pinyin": "kàn shū"},
       {"hanzi": "看", "pinyin": "kàn"},
       {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "两个", "pinyin": "liǎng gè"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "个", "pinyin": "gè"},
       {"hanzi": "小时", "pinyin": "xiǎoshí"}
     ],
     "translation": "Ayer leí durante dos horas."
@@ -100,7 +101,7 @@
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "车", "pinyin": "chē"}
     ],
-    "translation": "Él condujo por sí mismo durante una hora."
+    "translation": "Él mismo condujo durante una hora."
   },
   {
     "words": [
@@ -112,7 +113,7 @@
       {"hanzi": "多久", "pinyin": "duō jiǔ"},
       {"hanzi": "?", "pinyin": "?"}
     ],
-    "translation": "¿Cuánto tiempo estuviste allí?"
+    "translation": "¿Cuánto tiempo te quedaste allí?"
   },
   {
     "words": [
@@ -125,7 +126,7 @@
       {"hanzi": "年", "pinyin": "nián"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "He estado estudiando inglés durante dos años (y todavía sigo)."
+    "translation": "Llevo dos años estudiando inglés."
   },
   {
     "words": [
@@ -136,7 +137,7 @@
       {"hanzi": "个月", "pinyin": "gè yuè"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "Ella ha estado enferma durante tres meses."
+    "translation": "Lleva enferma tres meses."
   },
   {
     "words": [
@@ -148,7 +149,7 @@
       {"hanzi": "中文", "pinyin": "Zhōngwén"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "Él no ha estudiado chino durante dos años."
+    "translation": "Él lleva dos años sin estudiar chino."
   },
   {
     "words": [
@@ -159,7 +160,7 @@
       {"hanzi": "运动", "pinyin": "yùndòng"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "No he hecho ejercicio durante una semana."
+    "translation": "Llevo una semana sin hacer ejercicio."
   },
   {
     "words": [
@@ -206,7 +207,7 @@
       {"hanzi": "了", "pinyin": "le"},
       {"hanzi": "?", "pinyin": "?"}
     ],
-    "translation": "¿Cuánto tiempo hace que no llamas a mamá?"
+    "translation": "¿Cuánto tiempo llevas sin llamar a mamá?"
   },
   {
     "words": [
@@ -215,10 +216,11 @@
       {"hanzi": "咖啡店", "pinyin": "kāfēi diàn"},
       {"hanzi": "坐", "pinyin": "zuò"},
       {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "两个", "pinyin": "liǎng gè"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "个", "pinyin": "gè"},
       {"hanzi": "小时", "pinyin": "xiǎoshí"}
     ],
-    "translation": "Nos sentamos en la cafetería durante dos horas."
+    "translation": "Estuvimos sentados en la cafetería durante dos horas."
   },
   {
     "words": [
@@ -229,7 +231,7 @@
       {"hanzi": "了", "pinyin": "le"},
       {"hanzi": "?", "pinyin": "?"}
     ],
-    "translation": "¿Cuánto tiempo ha estado enferma ella?"
+    "translation": "¿Cuánto tiempo lleva enferma?"
   },
   {
     "words": [
@@ -241,7 +243,7 @@
       {"hanzi": "三个", "pinyin": "sān gè"},
       {"hanzi": "小时", "pinyin": "xiǎoshí"}
     ],
-    "translation": "El profesor nos hizo estudiar durante tres horas."
+    "translation": "El profesor nos hizo estudiar tres horas."
   },
   {
     "words": [
@@ -272,7 +274,8 @@
       {"hanzi": "跑步", "pinyin": "pǎobù"},
       {"hanzi": "跑", "pinyin": "pǎo"},
       {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "半个", "pinyin": "bàn gè"},
+      {"hanzi": "半", "pinyin": "bàn"},
+      {"hanzi": "个", "pinyin": "gè"},
       {"hanzi": "小时", "pinyin": "xiǎoshí"}
     ],
     "translation": "Él corrió durante media hora."
@@ -306,7 +309,7 @@
       {"hanzi": "多久", "pinyin": "duō jiǔ"},
       {"hanzi": "?", "pinyin": "?"}
     ],
-    "translation": "¿Cuánto tiempo hablaron ustedes?"
+    "translation": "¿Cuánto tiempo charlásteis?"
   },
   {
     "words": [
@@ -316,7 +319,7 @@
       {"hanzi": "一个", "pinyin": "yí gè"},
       {"hanzi": "小时", "pinyin": "xiǎoshí"}
     ],
-    "translation": "Estudié durante una hora."
+    "translation": "Estudié una hora."
   },
   {
     "words": [
@@ -362,7 +365,7 @@
       {"hanzi": "了", "pinyin": "le"},
       {"hanzi": "?", "pinyin": "?"}
     ],
-    "translation": "¿Cuánto tiempo se conocen ustedes?"
+    "translation": "¿Cuánto tiempo hace que os conocéis?"
   },
   {
     "words": [
@@ -395,7 +398,8 @@
       {"hanzi": "只", "pinyin": "zhǐ"},
       {"hanzi": "学", "pinyin": "xué"},
       {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "半个", "pinyin": "bàn gè"},
+      {"hanzi": "半", "pinyin": "bàn"},
+      {"hanzi": "个", "pinyin": "gè"},
       {"hanzi": "小时", "pinyin": "xiǎoshí"}
     ],
     "translation": "Solo estudié media hora."
@@ -409,6 +413,6 @@
       {"hanzi": "年", "pinyin": "nián"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "Ellos han estado casados durante diez años."
+    "translation": "Ellos llevan casados diez años."
   }
 ]
