@@ -1,0 +1,324 @@
+[
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "二", "pinyin": "èr"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "岁", "pinyin": "suì"},
+      {"hanzi": "左右", "pinyin": "zuǒyòu"}
+    ],
+    "translation": "Ella tiene alrededor de veinte años."
+  },
+  {
+    "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "月", "pinyin": "yuè"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "已经", "pinyin": "yǐjīng"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "五", "pinyin": "wǔ"},
+      {"hanzi": "六", "pinyin": "liù"},
+      {"hanzi": "本", "pinyin": "běn"},
+      {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "Este mes ya he leído cinco o seis libros."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "五", "pinyin": "wǔ"},
+      {"hanzi": "百", "pinyin": "bǎi"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "块", "pinyin": "kuài"},
+      {"hanzi": "钱", "pinyin": "qián"}
+    ],
+    "translation": "Le di más de quinientos yuanes."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "花", "pinyin": "huā"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "五", "pinyin": "wǔ"},
+      {"hanzi": "百", "pinyin": "bǎi"},
+      {"hanzi": "块", "pinyin": "kuài"},
+      {"hanzi": "钱", "pinyin": "qián"},
+      {"hanzi": "左右", "pinyin": "zuǒyòu"}
+    ],
+    "translation": "Él gastó alrededor de quinientos yuanes."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "哥哥", "pinyin": "gēge"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "米", "pinyin": "mǐ"},
+      {"hanzi": "九", "pinyin": "jiǔ"},
+      {"hanzi": "上下", "pinyin": "shàngxià"}
+    ],
+    "translation": "Mi hermano mayor mide un metro noventa aproximadamente."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "大约", "pinyin": "dàyuē"},
+      {"hanzi": "七", "pinyin": "qī"},
+      {"hanzi": "点", "pinyin": "diǎn"},
+      {"hanzi": "到", "pinyin": "dào"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Llegaré a casa aproximadamente a las siete."
+  },
+  {
+    "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "本", "pinyin": "běn"},
+      {"hanzi": "书", "pinyin": "shū"},
+      {"hanzi": "大约", "pinyin": "dàyuē"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "三", "pinyin": "sān"},
+      {"hanzi": "百", "pinyin": "bǎi"},
+      {"hanzi": "页", "pinyin": "yè"}
+    ],
+    "translation": "Este libro tiene aproximadamente trescientas páginas."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "差不多", "pinyin": "chàbuduō"},
+      {"hanzi": "每天", "pinyin": "měitiān"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "来", "pinyin": "lái"}
+    ],
+    "translation": "Él viene casi todos los días."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "五", "pinyin": "wǔ"},
+      {"hanzi": "六", "pinyin": "liù"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "地方", "pinyin": "dìfang"}
+    ],
+    "translation": "Fuimos a cinco o seis lugares."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "差不多", "pinyin": "chàbuduō"},
+      {"hanzi": "到", "pinyin": "dào"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Casi hemos llegado."
+  },
+  {
+    "words": [
+      {"hanzi": "所有", "pinyin": "suǒyǒu"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "小孩", "pinyin": "xiǎohái"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "二", "pinyin": "èr"},
+      {"hanzi": "岁", "pinyin": "suì"},
+      {"hanzi": "左右", "pinyin": "zuǒyòu"}
+    ],
+    "translation": "Todos los niños tienen alrededor de doce años."
+  },
+  {
+    "words": [
+      {"hanzi": "外面", "pinyin": "wàimiàn"},
+      {"hanzi": "大约", "pinyin": "dàyuē"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "二", "pinyin": "èr"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "人", "pinyin": "rén"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "等", "pinyin": "děng"}
+    ],
+    "translation": "Afuera hay aproximadamente veinte personas esperando."
+  },
+  {
+    "words": [
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "工作", "pinyin": "gōngzuò"},
+      {"hanzi": "大约", "pinyin": "dàyuē"},
+      {"hanzi": "需要", "pinyin": "xūyào"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Este trabajo requiere aproximadamente dos horas."
+  },
+  {
+    "words": [
+      {"hanzi": "楼", "pinyin": "lóu"},
+      {"hanzi": "上", "pinyin": "shàng"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "二", "pinyin": "èr"},
+      {"hanzi": "张", "pinyin": "zhāng"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "桌子", "pinyin": "zhuōzi"}
+    ],
+    "translation": "Arriba hay doce y pico de mesas."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "大约", "pinyin": "dàyuē"},
+      {"hanzi": "三", "pinyin": "sān"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "岁", "pinyin": "suì"}
+    ],
+    "translation": "Él tiene aproximadamente treinta años."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "学校", "pinyin": "xuéxiào"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "千", "pinyin": "qiān"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "学生", "pinyin": "xuésheng"}
+    ],
+    "translation": "Mi escuela tiene más de mil estudiantes."
+  },
+  {
+    "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "房子", "pinyin": "fángzi"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "百", "pinyin": "bǎi"},
+      {"hanzi": "平方米", "pinyin": "píngfāngmǐ"},
+      {"hanzi": "左右", "pinyin": "zuǒyòu"}
+    ],
+    "translation": "Esta casa tiene alrededor de cien metros cuadrados."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "分钟", "pinyin": "fēnzhōng"}
+    ],
+    "translation": "Él esperó más de diez minutos."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "三", "pinyin": "sān"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "页", "pinyin": "yè"},
+      {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "He leído más de treinta páginas del libro."
+  },
+  {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "百", "pinyin": "bǎi"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "Ellos son más de cien personas."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "大约", "pinyin": "dàyuē"},
+      {"hanzi": "八", "pinyin": "bā"},
+      {"hanzi": "点", "pinyin": "diǎn"},
+      {"hanzi": "开始", "pinyin": "kāishǐ"},
+      {"hanzi": "上课", "pinyin": "shàngkè"}
+    ],
+    "translation": "Empezamos las clases aproximadamente a las ocho."
+  },
+  {
+    "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "城市", "pinyin": "chéngshì"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "百", "pinyin": "bǎi"},
+      {"hanzi": "万", "pinyin": "wàn"},
+      {"hanzi": "人", "pinyin": "rén"},
+      {"hanzi": "左右", "pinyin": "zuǒyòu"}
+    ],
+    "translation": "Esta ciudad tiene alrededor de un millón de personas."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "二", "pinyin": "èr"},
+      {"hanzi": "百", "pinyin": "bǎi"},
+      {"hanzi": "五", "pinyin": "wǔ"},
+      {"hanzi": "十", "pinyin": "shí"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "Creo que ellos son más de doscientas cincuenta personas."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "三十", "pinyin": "sānshí"},
+      {"hanzi": "分钟", "pinyin": "fēnzhōng"},
+      {"hanzi": "左右", "pinyin": "zuǒyòu"}
+    ],
+    "translation": "Esperamos unos treinta minutos aproximadamente."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "电视", "pinyin": "diànshì"}
+    ],
+    "translation": "Él vio la televisión por más de dos horas."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "差不多", "pinyin": "chàbuduō"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "La esperé casi una hora."
+  }
+]
