@@ -66,6 +66,21 @@
   },
   {
     "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "辆", "pinyin": "liàng"},
+      {"hanzi": "车", "pinyin": "chē"},
+      {"hanzi": "只", "pinyin": "zhǐ"},
+      {"hanzi": "能", "pinyin": "néng"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "三", "pinyin": "sān"},
+      {"hanzi": "四", "pinyin": "sì"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "人", "pinyin": "rén"}
+    ],
+    "translation": "En este coche solo caben tres o cuatro personas."
+  },
+  {
+    "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "哥哥", "pinyin": "gēge"},
       {"hanzi": "一", "pinyin": "yī"},
