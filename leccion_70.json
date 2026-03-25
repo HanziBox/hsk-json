@@ -9,7 +9,30 @@
       {"hanzi": "两", "pinyin": "liǎng"},
       {"hanzi": "年", "pinyin": "nián"}
     ],
-    "translation": "He estudiado inglés durante dos años."
+    "translation": "Estudié inglés dos años."
+  },
+    {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "两", "pinyin": "liǎng"},
+      {"hanzi": "年", "pinyin": "nián"}
+    ],
+    "translation": "Me hiciste esperar dos años."
+  },
+    {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "每天", "pinyin": "měitiān"},
+      {"hanzi": "睡", "pinyin": "shuì"},
+      {"hanzi": "八", "pinyin": "bā"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "小时", "pinyin": "xiǎoshí"}
+    ],
+    "translation": "Duermo ocho horas todos los días."
   },
   {
     "words": [
@@ -67,29 +90,6 @@
       {"hanzi": "?", "pinyin": "?"}
     ],
     "translation": "¿Cuánto tiempo estudias cada día?"
-  },
-  {
-    "words": [
-      {"hanzi": "你", "pinyin": "nǐ"},
-      {"hanzi": "让", "pinyin": "ràng"},
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "等", "pinyin": "děng"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "两", "pinyin": "liǎng"},
-      {"hanzi": "年", "pinyin": "nián"}
-    ],
-    "translation": "Me hiciste esperar dos años."
-  },
-  {
-    "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "每天", "pinyin": "měitiān"},
-      {"hanzi": "睡", "pinyin": "shuì"},
-      {"hanzi": "八", "pinyin": "bā"},
-      {"hanzi": "个", "pinyin": "gè"},
-      {"hanzi": "小时", "pinyin": "xiǎoshí"}
-    ],
-    "translation": "Duermo ocho horas todos los días."
   },
   {
     "words": [
