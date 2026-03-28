@@ -1,0 +1,160 @@
+[
+  {
+    "words": [
+      {"hanzi": "火车", "pinyin": "huǒchē"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "El tren está a punto de llegar."
+  },
+  {
+    "words": [
+      {"hanzi": "今年", "pinyin": "jīnnián"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "热", "pinyin": "rè"}
+    ],
+    "translation": "Este año hará mucho calor."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Nos vamos ya."
+  },
+  {
+    "words": [
+      {"hanzi": "我的", "pinyin": "wǒ de"},
+      {"hanzi": "朋友", "pinyin": "péngyou"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Todos mis amigos irán."
+  },
+  {
+    "words": [
+      {"hanzi": "电影", "pinyin": "diànyǐng"},
+      {"hanzi": "快", "pinyin": "kuài"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "开始", "pinyin": "kāishǐ"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "La película está a punto de empezar."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "吃饭", "pinyin": "chīfàn"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Vamos a comer ya."
+  },
+  {
+    "words": [
+      {"hanzi": "爸爸", "pinyin": "bàba"},
+      {"hanzi": "快", "pinyin": "kuài"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "下班", "pinyin": "xiàbān"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Papá está a punto de salir del trabajo."
+  },
+  {
+    "words": [
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "忙", "pinyin": "máng"}
+    ],
+    "translation": "Mañana no estaré ocupado."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "回", "pinyin": "huí"},
+      {"hanzi": "家", "pinyin": "jiā"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Ella no volverá a casa."
+  },
+  {
+    "words": [
+      {"hanzi": "天", "pinyin": "tiān"},
+      {"hanzi": "快", "pinyin": "kuài"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "黑", "pinyin": "hēi"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Está a punto de anochecer."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "睡觉", "pinyin": "shuìjiào"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él se va a dormir."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "水果", "pinyin": "shuǐguǒ"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Voy a comprar fruta."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Iré a tu casa."
+  },
+  {
+    "words": [
+      {"hanzi": "你们", "pinyin": "nǐmen"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "这里", "pinyin": "zhèlǐ"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Os gustará este lugar."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "告诉", "pinyin": "gàosu"},
+      {"hanzi": "我们", "pinyin": "wǒmen"}
+    ],
+    "translation": "Él no nos lo dirá."
+  },
+  {
+    "words": [
+      {"hanzi": "我的", "pinyin": "wǒ de"},
+      {"hanzi": "朋友", "pinyin": "péngyou"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Todos mis amigos irán."
+  }
+]
