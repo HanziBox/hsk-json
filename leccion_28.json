@@ -64,7 +64,8 @@
       {"hanzi": "下班", "pinyin": "xiàbān"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "Papá está a punto de salir del trabajo."
+    "translation": "Papá está a punto de salir del trabajo.",
+    "note": "📋NOTA: xiàbān 下班 es 'salir de trabajar'. Memorízalo."
   },
   {
     "words": [
@@ -96,7 +97,7 @@
       {"hanzi": "了", "pinyin": "le"}
     ],
     "translation": "Está a punto de anochecer.",
-    "note": "📋NOTA: lLiteralmente 'el día se va a hacer negro'. hēi 黑 es negro."
+    "note": "📋NOTA: Literalmente 'el día se va a hacer negro'. hēi 黑 es negro."
   },
   {
     "words": [
@@ -115,7 +116,8 @@
       {"hanzi": "水果", "pinyin": "shuǐguǒ"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "Voy a comprar fruta."
+    "translation": "Voy a comprar fruta.",
+    "note": "📋NOTA: shuǐguǒ 水果 es fruta. Literalmente 'fruto de agua'"
   },
   {
     "words": [
@@ -135,7 +137,8 @@
       {"hanzi": "这里", "pinyin": "zhèlǐ"},
       {"hanzi": "的", "pinyin": "de"}
     ],
-    "translation": "Os gustará este lugar."
+    "translation": "Os gustará esto.",
+    "note": "📋NOTA: Literalmente 'Os gustará aquí/este lugar'"
   },
   {
     "words": [
