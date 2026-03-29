@@ -149,16 +149,5 @@
       {"hanzi": "我们", "pinyin": "wǒmen"}
     ],
     "translation": "Él no nos lo dirá."
-  },
-  {
-    "words": [
-      {"hanzi": "我的", "pinyin": "wǒ de"},
-      {"hanzi": "朋友", "pinyin": "péngyou"},
-      {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "会", "pinyin": "huì"},
-      {"hanzi": "去", "pinyin": "qù"},
-      {"hanzi": "的", "pinyin": "de"}
-    ],
-    "translation": "Todos mis amigos irán."
   }
 ]
