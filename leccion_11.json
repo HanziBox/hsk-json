@@ -77,6 +77,15 @@
         "translation": "Él es mi hijo."
     },
     {
+"words": [
+{"hanzi": "孩子", "pinyin": "háizi"},
+{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "我", "pinyin": "wǒ"},
+{"hanzi": "的", "pinyin": "de"}
+],
+"translation": "El niño es mío."
+},
+    {
         "words": [
             {"hanzi": "猫", "pinyin": "māo"},
             {"hanzi": "是", "pinyin": "shì"},
