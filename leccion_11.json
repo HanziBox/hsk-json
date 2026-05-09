@@ -112,6 +112,18 @@
         "translation": "El perro es de él."
     },
     {
+"words": [
+{"hanzi": "猫", "pinyin": "māo"},
+{"hanzi": "不", "pinyin": "bù"},
+{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "我", "pinyin": "wǒ"},
+{"hanzi": "的", "pinyin": "de"},
+{"hanzi": "老师", "pinyin": "lǎoshī"},
+{"hanzi": "的", "pinyin": "de"}
+],
+"translation": "El gato no es de mi profesor."
+},
+    {
         "words": [
             {"hanzi": "她", "pinyin": "tā"},
             {"hanzi": "是", "pinyin": "shì"},
