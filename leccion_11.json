@@ -57,6 +57,15 @@
         "translation": "Mi papá no es profesor."
     },
     {
+"words": [
+{"hanzi": "书", "pinyin": "shū"},
+{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "他们", "pinyin": "tāmen"},
+{"hanzi": "的", "pinyin": "de"}
+],
+"translation": "Los libros son de ellos."
+},
+    {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "妈妈", "pinyin": "māma"},
