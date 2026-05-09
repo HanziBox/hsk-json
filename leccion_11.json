@@ -131,6 +131,17 @@
     },
     {
 "words": [
+{"hanzi": "我", "pinyin": "wǒ"},
+{"hanzi": "的", "pinyin": "de"},
+{"hanzi": "老师", "pinyin": "lǎoshī"},
+{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "中国", "pinyin": "zhōngguó"},
+{"hanzi": "人", "pinyin": "rén"}
+],
+"translation": "Mis profesores son chinos."
+},
+    {
+"words": [
 {"hanzi": "猫", "pinyin": "māo"},
 {"hanzi": "不", "pinyin": "bù"},
 {"hanzi": "是", "pinyin": "shì"},
