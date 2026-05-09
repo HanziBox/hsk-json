@@ -120,6 +120,16 @@
         "translation": "Ella es española."
     },
     {
+"words": [
+{"hanzi": "猫", "pinyin": "māo"},
+{"hanzi": "不", "pinyin": "bù"},
+{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "她们", "pinyin": "tāmen"},
+{"hanzi": " de", "pinyin": "de"}
+],
+"translation": "El gato no es de ellas."
+},
+    {
         "words": [
             {"hanzi": "茶", "pinyin": "chá"},
             {"hanzi": "不", "pinyin": "bù"},
