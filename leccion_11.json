@@ -120,6 +120,17 @@
         "translation": "El té no es alcohol."
     },
     {
+"words": [
+{"hanzi": "他们", "pinyin": "tāmen"},
+{"hanzi": "不", "pinyin": "bù"},
+{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "我们", "pinyin": "wǒmen"},
+{"hanzi": " de", "pinyin": "de"},
+{"hanzi": "孩子", "pinyin": "háizi"}
+],
+"translation": "Ellos no son nuestros hijos."
+},
+    {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "不", "pinyin": "bù"},
