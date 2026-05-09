@@ -161,6 +161,16 @@
     },
     {
 "words": [
+{"hanzi": "票", "pinyin": "piào"},
+{"hanzi": "不", "pinyin": "bù"},
+{"hanzi": " partner", "pinyin": "shì"},
+{"hanzi": "你们", "pinyin": "nǐmen"},
+{"hanzi": " de", "pinyin": "de"}
+],
+"translation": "Los tickets no son vuestros."
+},
+    {
+"words": [
 {"hanzi": "他们", "pinyin": "tāmen"},
 {"hanzi": "不", "pinyin": "bù"},
 {"hanzi": "是", "pinyin": "shì"},
