@@ -58,6 +58,15 @@
     },
     {
 "words": [
+{"hanzi": "钱", "pinyin": "qián"},
+{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "你", "pinyin": "nǐ"},
+{"hanzi": "的", "pinyin": "de"}
+],
+"translation": "El dinero es tuyo."
+},
+    {
+"words": [
 {"hanzi": "书", "pinyin": "shū"},
 {"hanzi": "是", "pinyin": "shì"},
 {"hanzi": "他们", "pinyin": "tāmen"},
