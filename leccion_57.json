@@ -285,6 +285,7 @@
 {"hanzi": "学生们", "pinyin": "xuéshengmen"},
 {"hanzi": "讲课", "pinyin": "jiǎngkè"}
 ],
-"translation": "El profesor les da clase a los estudiantes con paciencia."
+"translation": "El profesor les da clase a los estudiantes con paciencia.",
+"note": "📋NOTA: jiǎngkè 讲课 es dar clases."  
 }
 ]
