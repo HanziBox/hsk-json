@@ -1,215 +1,284 @@
 [
-    {
-        "words": [
-            {"hanzi": "她", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "老师", "pinyin": "lǎoshī"}
-        ],
-        "translation": "Ella es mi profesora."
-    },
-    {
-        "words": [
-            {"hanzi": "他们", "pinyin": "tāmen"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "中国人", "pinyin": "zhōngguórén"}
-        ],
-        "translation": "Ellos son chinos."
-    },
-    {
-        "words": [
-            {"hanzi": "我们", "pinyin": "wǒmen"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "学生", "pinyin": "xuésheng"}
-        ],
-        "translation": "Nosotros no somos estudiantes."
-    },
-    {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "你", "pinyin": "nǐ"}
-        ],
-        "translation": "Yo no soy tú."
-    },
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "朋友", "pinyin": "péngyǒu"}
-        ],
-        "translation": "Él no es tu amigo."
-    },
-    {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "爸爸", "pinyin": "bàba"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "老师", "pinyin": "lǎoshī"}
-        ],
-        "translation": "Mi papá no es profesor."
-    },
-    {
+{
 "words": [
-{"hanzi": "钱", "pinyin": "qián"},
-{"hanzi": "是", "pinyin": "shì"},
-{"hanzi": "你", "pinyin": "nǐ"},
-{"hanzi": "的", "pinyin": "de"}
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "慢慢", "pinyin": "mànmàn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "打开", "pinyin": "dǎkāi"},
+{"hanzi": "那", "pinyin": "nà"},
+{"hanzi": "封", "pinyin": "fēng"},
+{"hanzi": "信", "pinyin": "xìn"}
 ],
-"translation": "El dinero es tuyo."
+"translation": "Él abrió esa carta lentamente."
 },
-    {
+{
 "words": [
-{"hanzi": "书", "pinyin": "shū"},
-{"hanzi": "是", "pinyin": "shì"},
-{"hanzi": "他们", "pinyin": "tāmen"},
-{"hanzi": "的", "pinyin": "de"}
+{"hanzi": "大家", "pinyin": "dàjiā"},
+{"hanzi": "都", "pinyin": "dōu"},
+{"hanzi": "安静", "pinyin": "ānjìng"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "坐着", "pinyin": "zuòzhe"}
 ],
-"translation": "Los libros son de ellos."
+"translation": "Todos están sentados tranquilamente."
 },
-    {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "妈妈", "pinyin": "māma"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "中国人", "pinyin": "zhōngguórén"}
-        ],
-        "translation": "Mi mamá no es china."
-    },
-    {
-        "words": [
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "孩子", "pinyin": "háizi"}
-        ],
-        "translation": "Él es mi hijo."
-    },
-    {
+{
 "words": [
+{"hanzi": "请", "pinyin": "qǐng"},
+{"hanzi": "轻轻", "pinyin": "qīngqīng"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "关门", "pinyin": "guānmén"}
+],
+"translation": "Por favor, cierra la puerta con suavidad."
+},
+{
+"words": [
+{"hanzi": "请", "pinyin": "qǐng"},
+{"hanzi": "安静", "pinyin": "ānjìng"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "看", "pinyin": "kàn"},
+{"hanzi": "电影", "pinyin": "diànyǐng"}
+],
+"translation": "Por favor, vean la película en silencio."
+},
+{
+"words": [
+{"hanzi": "她", "pinyin": "tā"},
+{"hanzi": "认真", "pinyin": "rènzhēn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "学习", "pinyin": "xuéxí"},
+{"hanzi": "汉语", "pinyin": "hànyǔ"}
+],
+"translation": "Ella estudia chino con esmero."
+},
+{
+"words": [
+{"hanzi": "她", "pinyin": "tā"},
+{"hanzi": "一直", "pinyin": "yìzhí"},
+{"hanzi": "努力", "pinyin": "nǔlì"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "学习", "pinyin": "xuéxí"},
+{"hanzi": "中文", "pinyin": "zhōngwén"}
+],
+"translation": "Ella siempre ha estudiado chino esforzadamente."
+},
+{
+"words": [
+{"hanzi": "别", "pinyin": "bié"},
+{"hanzi": "那么", "pinyin": "nàme"},
+{"hanzi": "大声", "pinyin": "dàshēng"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "说话", "pinyin": "shuōhuà"}
+],
+"translation": "¡No hables tan alto!"
+},
+{
+"words": [
+{"hanzi": "那个", "pinyin": "nàge"},
 {"hanzi": "孩子", "pinyin": "háizi"},
-{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "高兴", "pinyin": "gāoxìng"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "跳舞", "pinyin": "tiàowǔ"}
+],
+"translation": "Aquel niño baila felizmente."
+},
+{
+"words": [
+{"hanzi": "她", "pinyin": "tā"},
+{"hanzi": "开心", "pinyin": "kāixīn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "对", "pinyin": "duì"},
 {"hanzi": "我", "pinyin": "wǒ"},
-{"hanzi": "的", "pinyin": "de"}
+{"hanzi": "笑", "pinyin": "xiào"},
+{"hanzi": "了", "pinyin": "le"}
 ],
-"translation": "El niño es mío."
+"translation": "Ella me sonrió alegremente."
 },
-    {
-        "words": [
-            {"hanzi": "猫", "pinyin": "māo"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "El gato es mío."
-    },
-    {
-        "words": [
-            {"hanzi": "我们", "pinyin": "wǒmen"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "学生", "pinyin": "xuésheng"}
-        ],
-        "translation": "Nosotros somos estudiantes."
-    },
-    {
-        "words": [
-            {"hanzi": "狗", "pinyin": "gǒu"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "他", "pinyin": "tā"},
-            {"hanzi": "的", "pinyin": "de"}
-        ],
-        "translation": "El perro es de él."
-    },
-    {
+{
 "words": [
-{"hanzi": "我", "pinyin": "wǒ"},
-{"hanzi": "的", "pinyin": "de"},
-{"hanzi": "老师", "pinyin": "lǎoshī"},
-{"hanzi": "是", "pinyin": "shì"},
-{"hanzi": "中国", "pinyin": "zhōngguó"},
-{"hanzi": "人", "pinyin": "rén"}
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "聪明", "pinyin": "cōngmíng"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "回答", "pinyin": "huídá"},
+{"hanzi": "了", "pinyin": "le"},
+{"hanzi": "问题", "pinyin": "wèntí"}
 ],
-"translation": "Mis profesores son chinos."
+"translation": "Él respondió la pregunta inteligentemente."
 },
-    {
+{
 "words": [
-{"hanzi": "猫", "pinyin": "māo"},
-{"hanzi": "不", "pinyin": "bù"},
-{"hanzi": "是", "pinyin": "shì"},
-{"hanzi": "我", "pinyin": "wǒ"},
-{"hanzi": "的", "pinyin": "de"},
-{"hanzi": "老师", "pinyin": "lǎoshī"},
-{"hanzi": "的", "pinyin": "de"}
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "不好意思", "pinyin": "bù hǎoyìsi"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "低下", "pinyin": "dī xià"},
+{"hanzi": "了", "pinyin": "le"},
+{"hanzi": "头", "pinyin": "tóu"}
 ],
-"translation": "El gato no es de mi profesor."
+"translation": "Él agachó la cabeza avergonzado."
 },
-    {
-        "words": [
-            {"hanzi": "她", "pinyin": "tā"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "西班牙人", "pinyin": "xībānyárén"}
-        ],
-        "translation": "Ella es española."
-    },
-    {
+{
 "words": [
-{"hanzi": "猫", "pinyin": "māo"},
-{"hanzi": "不", "pinyin": "bù"},
-{"hanzi": "是", "pinyin": "shì"},
-{"hanzi": "她们", "pinyin": "tāmen"},
-{"hanzi": "的", "pinyin": "de"}
+{"hanzi": "她", "pinyin": "tā"},
+{"hanzi": "礼貌", "pinyin": "lǐmào"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "回答", "pinyin": "huídá"},
+{"hanzi": "了", "pinyin": "le"},
+{"hanzi": "问题", "pinyin": "wèntí"}
 ],
-"translation": "El gato no es de ellas."
+"translation": "Ella respondió la pregunta educadamente."
 },
-    {
-        "words": [
-            {"hanzi": "茶", "pinyin": "chá"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "酒", "pinyin": "jiǔ"}
-        ],
-        "translation": "El té no es alcohol."
-    },
-    {
+{
 "words": [
-{"hanzi": "票", "pinyin": "piào"},
-{"hanzi": "不", "pinyin": "bù"},
-{"hanzi": " partner", "pinyin": "shì"},
-{"hanzi": "你们", "pinyin": "nǐmen"},
-{"hanzi": " de", "pinyin": "de"}
+{"hanzi": "两个", "pinyin": "liǎng ge"},
+{"hanzi": "人", "pinyin": "rén"},
+{"hanzi": "默默", "pinyin": "mòmò"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "看着", "pinyin": "kànzhe"},
+{"hanzi": "对方", "pinyin": "duìfāng"}
 ],
-"translation": "Los tickets no son vuestros."
+"translation": "Las dos personas se miraron en silencio."
 },
-    {
+{
 "words": [
-{"hanzi": "他们", "pinyin": "tāmen"},
-{"hanzi": "不", "pinyin": "bù"},
-{"hanzi": "是", "pinyin": "shì"},
 {"hanzi": "我们", "pinyin": "wǒmen"},
-{"hanzi": " de", "pinyin": "de"},
-{"hanzi": "孩子", "pinyin": "háizi"}
+{"hanzi": "深深", "pinyin": "shēnshēn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "爱着", "pinyin": "àizhe"},
+{"hanzi": "这", "pinyin": "zhè"},
+{"hanzi": "座", "pinyin": "zuò"},
+{"hanzi": "城市", "pinyin": "chéngshì"}
 ],
-"translation": "Ellos no son nuestros hijos."
+"translation": "Amamos profundamente esta ciudad."
 },
-    {
-        "words": [
-            {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "不", "pinyin": "bù"},
-            {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "你", "pinyin": "nǐ"},
-            {"hanzi": "的", "pinyin": "de"},
-            {"hanzi": "老师", "pinyin": "lǎoshī"}
-        ],
-        "translation": "Yo no soy tu profesor."
-    }
-
+{
+"words": [
+{"hanzi": "我", "pinyin": "wǒ"},
+{"hanzi": "深深", "pinyin": "shēnshēn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "想念", "pinyin": "xiǎngniàn"},
+{"hanzi": "我", "pinyin": "wǒ"},
+{"hanzi": "的", "pinyin": "de"},
+{"hanzi": "朋友", "pinyin": "péngyou"}
+],
+"translation": "Extraño profundamente a mi amigo."
+},
+{
+"words": [
+{"hanzi": "老师", "pinyin": "lǎoshī"},
+{"hanzi": "清楚", "pinyin": "qīngchu"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "解释", "pinyin": "jiěshì"},
+{"hanzi": "了", "pinyin": "le"},
+{"hanzi": "这个", "pinyin": "zhège"},
+{"hanzi": "问题", "pinyin": "wèntí"}
+],
+"translation": "El profesor explicó este problema con claridad."
+},
+{
+"words": [
+{"hanzi": "没有人", "pinyin": "méiyǒu rén"},
+{"hanzi": "轻易", "pinyin": "qīngyì"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "相信", "pinyin": "xiāngxìn"},
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "说", "pinyin": "shuō"},
+{"hanzi": "的", "pinyin": "de"},
+{"hanzi": "话", "pinyin": "huà"}
+],
+"translation": "Nadie cree fácilmente lo que él dice."
+},
+{
+"words": [
+{"hanzi": "请", "pinyin": "qǐng"},
+{"hanzi": "大家", "pinyin": "dàjiā"},
+{"hanzi": "认真", "pinyin": "rènzhēn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "听", "pinyin": "tīng"},
+{"hanzi": "一下", "pinyin": "yíxià"}
+],
+"translation": "Por favor, escuchen todos con atención un momento."
+},
+{
+"words": [
+{"hanzi": "我", "pinyin": "wǒ"},
+{"hanzi": "没有", "pinyin": "méiyǒu"},
+{"hanzi": "认真", "pinyin": "rènzhēn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "看", "pinyin": "kàn"},
+{"hanzi": "那", "pinyin": "nà"},
+{"hanzi": "本", "pinyin": "běn"},
+{"hanzi": "书", "pinyin": "shū"}
+],
+"translation": "No leí ese libro con atención."
+},
+{
+"words": [
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "开心", "pinyin": "kāixīn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "跟", "pinyin": "gēn"},
+{"hanzi": "每一位", "pinyin": "měi yí wèi"},
+{"hanzi": "客人", "pinyin": "kèrén"},
+{"hanzi": "聊天", "pinyin": "liáotiān"}
+],
+"translation": "Él charla alegremente con cada uno de los invitados."
+},
+{
+"words": [
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "突然", "pinyin": "tūrán"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "问", "pinyin": "wèn"},
+{"hanzi": "了", "pinyin": "le"},
+{"hanzi": "一个", "pinyin": "yí ge"},
+{"hanzi": "奇怪", "pinyin": "qíguài"},
+{"hanzi": "的", "pinyin": "de"},
+{"hanzi": "问题", "pinyin": "wèntí"}
+],
+"translation": "Él hizo de repente una pregunta extraña."
+},
+{
+"words": [
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "难过", "pinyin": "nánguò"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "看着", "pinyin": "kànzhe"},
+{"hanzi": "那", "pinyin": "zhāng"},
+{"hanzi": "照片", "pinyin": "zhàopiàn"}
+],
+"translation": "Él miró la foto con tristeza."
+},
+{
+"words": [
+{"hanzi": "小王", "pinyin": "Xiǎo Wáng"},
+{"hanzi": "自然", "pinyin": "zìrán"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "用", "pinyin": "yòng"},
+{"hanzi": "中文", "pinyin": "zhōngwén"},
+{"hanzi": "聊天", "pinyin": "liáotiān"}
+],
+"translation": "Xiao Wang charla en chino con naturalidad."
+},
+{
+"words": [
+{"hanzi": "你", "pinyin": "nǐ"},
+{"hanzi": "为什么", "pinyin": "wèishénme"},
+{"hanzi": "突然", "pinyin": "tūrán"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "笑", "pinyin": "xiào"},
+{"hanzi": "了", "pinyin": "le"},
+{"hanzi": "？", "pinyin": "?"}
+],
+"translation": "¿Por qué te has reído de repente?"
+},
+{
+"words": [
+{"hanzi": "老师", "pinyin": "lǎoshī"},
+{"hanzi": "耐心", "pinyin": "nàixīn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "给", "pinyin": "gěi"},
+{"hanzi": "学生们", "pinyin": "xuéshengmen"},
+{"hanzi": "讲课", "pinyin": "jiǎngkè"}
+],
+"translation": "El profesor les da clase a los estudiantes con paciencia."
+}
 ]
