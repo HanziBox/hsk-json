@@ -1,18 +1,6 @@
 [
 {
 "words": [
-{"hanzi": "他", "pinyin": "tā"},
-{"hanzi": "慢慢", "pinyin": "mànmàn"},
-{"hanzi": "地", "pinyin": "de"},
-{"hanzi": "打开", "pinyin": "dǎkāi"},
-{"hanzi": "那", "pinyin": "nà"},
-{"hanzi": "封", "pinyin": "fēng"},
-{"hanzi": "信", "pinyin": "xìn"}
-],
-"translation": "Él abrió esa carta lentamente."
-},
-{
-"words": [
 {"hanzi": "大家", "pinyin": "dàjiā"},
 {"hanzi": "都", "pinyin": "dōu"},
 {"hanzi": "安静", "pinyin": "ānjìng"},
@@ -71,6 +59,18 @@
 {"hanzi": "说话", "pinyin": "shuōhuà"}
 ],
 "translation": "¡No hables tan alto!"
+},
+  {
+"words": [
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "慢慢", "pinyin": "mànmàn"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "打开", "pinyin": "dǎkāi"},
+{"hanzi": "那", "pinyin": "nà"},
+{"hanzi": "封", "pinyin": "fēng"},
+{"hanzi": "信", "pinyin": "xìn"}
+],
+"translation": "Él abrió esa carta lentamente."
 },
 {
 "words": [
