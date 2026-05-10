@@ -21,16 +21,6 @@
 },
 {
 "words": [
-{"hanzi": "请", "pinyin": "qǐng"},
-{"hanzi": "安静", "pinyin": "ānjìng"},
-{"hanzi": "地", "pinyin": "de"},
-{"hanzi": "看", "pinyin": "kàn"},
-{"hanzi": "电影", "pinyin": "diànyǐng"}
-],
-"translation": "Por favor, vean la película en silencio."
-},
-{
-"words": [
 {"hanzi": "她", "pinyin": "tā"},
 {"hanzi": "认真", "pinyin": "rènzhēn"},
 {"hanzi": "地", "pinyin": "de"},
@@ -38,6 +28,16 @@
 {"hanzi": "汉语", "pinyin": "hànyǔ"}
 ],
 "translation": "Ella estudia chino con esmero."
+},
+  {
+"words": [
+{"hanzi": "请", "pinyin": "qǐng"},
+{"hanzi": "安静", "pinyin": "ānjìng"},
+{"hanzi": "地", "pinyin": "de"},
+{"hanzi": "看", "pinyin": "kàn"},
+{"hanzi": "电影", "pinyin": "diànyǐng"}
+],
+"translation": "Por favor, vean la película en silencio."
 },
 {
 "words": [
