@@ -17,7 +17,8 @@
 {"hanzi": "都", "pinyin": "dōu"},
 {"hanzi": "安静", "pinyin": "ānjìng"},
 {"hanzi": "地", "pinyin": "de"},
-{"hanzi": "坐着", "pinyin": "zuòzhe"}
+{"hanzi": "坐", "pinyin": "zuò"},
+{"hanzi": "着", "pinyin": "zhe"}  
 ],
 "translation": "Todos están sentados tranquilamente."
 },
