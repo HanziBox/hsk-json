@@ -74,7 +74,8 @@
 },
 {
 "words": [
-{"hanzi": "那个", "pinyin": "nàge"},
+{"hanzi": "那", "pinyin": "nà"},
+  {"hanzi": "个", "pinyin": "ge"},
 {"hanzi": "孩子", "pinyin": "háizi"},
 {"hanzi": "高兴", "pinyin": "gāoxìng"},
 {"hanzi": "地", "pinyin": "de"},
