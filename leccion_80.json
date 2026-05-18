@@ -447,7 +447,8 @@
       {"hanzi": "开", "pinyin": "kāi"},
       {"hanzi": "吧", "pinyin": "ba"}
     ],
-    "translation": "Hace demasiado calor, enciende el aire acondicionado."
+    "translation": "Hace demasiado calor, enciende el aire acondicionado.",
+      "note": "NOTA: Aire acondicionado se dice kōngtiáo 空调."
   },
   {
     "words": [
