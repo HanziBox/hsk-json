@@ -1,0 +1,487 @@
+[
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "不要", "pinyin": "búyào"},
+      {"hanzi": "拿", "pinyin": "ná"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "Por favor, no te lleves mi café."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "书", "pinyin": "shū"},
+      {"hanzi": "带", "pinyin": "dài"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él se llevó mi libro."
+  },
+  {
+    "words": [
+      {"hanzi": "小偷", "pinyin": "xiǎotōu"},
+      {"hanzi": "偷", "pinyin": "tōu"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "钱", "pinyin": "qián"}
+    ],
+    "translation": "El ladrón se llevó (robó) su dinero."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "抓", "pinyin": "zhuā"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "手", "pinyin": "shǒu"}
+    ],
+    "translation": "Por favor, agarra mi mano."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "记", "pinyin": "jì"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "字", "pinyin": "zì"}
+    ],
+    "translation": "No puedo recordar este carácter."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "记", "pinyin": "jì"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "话", "pinyin": "huà"}
+    ],
+    "translation": "Tienes que recordar las palabras del profesor."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "抓", "pinyin": "zhuā"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "那个", "pinyin": "nàgè"},
+      {"hanzi": "球", "pinyin": "qiú"}
+    ],
+    "translation": "Él atrapó esa pelota."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "做饭", "pinyin": "zuòfàn"}
+    ],
+    "translation": "Aprendí a cocinar."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "开车", "pinyin": "kāichē"}
+    ],
+    "translation": "Ella aprendió a conducir."
+  },
+  {
+    "words": [
+      {"hanzi": "小孩子", "pinyin": "xiǎoháizi"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "游泳", "pinyin": "yóuyǒng"}
+    ],
+    "translation": "Los niños pequeños aún no han aprendido a nadar."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "晚", "pinyin": "wǎn"},
+      {"hanzi": "才", "pinyin": "cái"},
+      {"hanzi": "睡", "pinyin": "shuì"},
+      {"hanzi": "着", "pinyin": "zháo"}
+    ],
+    "translation": "Ayer me quedé dormido muy tarde."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "上课", "pinyin": "shàngkè"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "睡", "pinyin": "shuì"},
+      {"hanzi": "着", "pinyin": "zháo"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él se quedó dormido durante la clase."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "手机", "pinyin": "shǒujī"},
+      {"hanzi": "弄", "pinyin": "nòng"},
+      {"hanzi": "坏", "pinyin": "huài"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Estropeé el teléfono móvil."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "杯子", "pinyin": "bēizi"},
+      {"hanzi": "摔", "pinyin": "shuāi"},
+      {"hanzi": "坏", "pinyin": "huài"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Ella rompió el vaso al caerse."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "衣服", "pinyin": "yīfu"},
+      {"hanzi": "洗", "pinyin": "xǐ"},
+      {"hanzi": "干净", "pinyin": "gānjìng"}
+    ],
+    "translation": "Por favor, lava la ropa para que quede limpia."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "已经", "pinyin": "yǐjīng"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "桌子", "pinyin": "zhuōzi"},
+      {"hanzi": "擦", "pinyin": "cā"},
+      {"hanzi": "干净", "pinyin": "gānjìng"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Ya he limpiado la mesa."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "清楚", "pinyin": "qīngchu"}
+    ],
+    "translation": "No escuché con claridad."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "清楚", "pinyin": "qīngchu"},
+      {"hanzi": "一点", "pinyin": "yìdiǎn"}
+    ],
+    "translation": "Por favor, habla un poco más claro."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "旧", "pinyin": "jiù"},
+      {"hanzi": "衣服", "pinyin": "yīfu"},
+      {"hanzi": "扔", "pinyin": "rēng"},
+      {"hanzi": "掉", "pinyin": "diào"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él tiró la ropa vieja."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "灯", "pinyin": "dēng"},
+      {"hanzi": "关", "pinyin": "guān"},
+      {"hanzi": "掉", "pinyin": "diào"}
+    ],
+    "translation": "Por favor, apaga la luz."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "本", "pinyin": "běn"},
+      {"hanzi": "书", "pinyin": "shū"},
+      {"hanzi": "拿", "pinyin": "ná"},
+      {"hanzi": "走", "pinyin": "zǒu"}
+    ],
+    "translation": "Por favor, llévate este libro."
+  },
+  {
+    "words": [
+      {"hanzi": "弟弟", "pinyin": "dìdi"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "自行车", "pinyin": "zìxíngchē"},
+      {"hanzi": "骑", "pinyin": "qí"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Mi hermano menor se llevó mi bicicleta montándola."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "带", "pinyin": "dài"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "手机", "pinyin": "shǒujī"}
+    ],
+    "translation": "Él se llevó mi teléfono móvil."
+  },
+  {
+    "words": [
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "话", "pinyin": "huà"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "记", "pinyin": "jì"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "吗", "pinyin": "ma"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "Las palabras del profesor, ¿las recordaste?"
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "可以", "pinyin": "kěyǐ"},
+      {"hanzi": "抓", "pinyin": "zhuā"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "手", "pinyin": "shǒu"}
+    ],
+    "translation": "Puedes agarrar mi mano."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "站", "pinyin": "zhàn"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "跑", "pinyin": "pǎo"},
+      {"hanzi": "！", "pinyin": "!"}
+    ],
+    "translation": "¡Por favor, detente, no corras!"
+  },
+  {
+    "words": [
+      {"hanzi": "妹妹", "pinyin": "mèimei"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "开车", "pinyin": "kāichē"}
+    ],
+    "translation": "Mi hermana menor aprendió a conducir."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "已经", "pinyin": "yǐjīng"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "写", "pinyin": "xiě"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "汉字", "pinyin": "hànzì"}
+    ],
+    "translation": "Ya he aprendido a escribir este carácter chino."
+  },
+  {
+    "words": [
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "晚上", "pinyin": "wǎnshang"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一点", "pinyin": "yīdiǎn"},
+      {"hanzi": "才", "pinyin": "cái"},
+      {"hanzi": "睡", "pinyin": "shuì"},
+      {"hanzi": "着", "pinyin": "zháo"}
+    ],
+    "translation": "Anoche no me quedé dormido sino hasta la una."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "猫", "pinyin": "māo"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "找", "pinyin": "zhǎo"},
+      {"hanzi": "着", "pinyin": "zháo"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "吗", "pinyin": "ma"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "Tu gato, ¿lo encontraste?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不小心", "pinyin": "bù xiǎoxīn"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "杯子", "pinyin": "bēizi"},
+      {"hanzi": "弄", "pinyin": "nòng"},
+      {"hanzi": "坏", "pinyin": "huài"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Sin querer rompí el vaso."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "车", "pinyin": "chē"},
+      {"hanzi": "用", "pinyin": "yòng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "很多", "pinyin": "hěnduō"},
+      {"hanzi": "年", "pinyin": "nián"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "已经", "pinyin": "yǐjīng"},
+      {"hanzi": "开", "pinyin": "kāi"},
+      {"hanzi": "坏", "pinyin": "huài"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Su coche se usó durante muchos años, ya se estropeó de tanto conducirlo."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "房间", "pinyin": "fángjiān"},
+      {"hanzi": "打扫", "pinyin": "dǎsǎo"},
+      {"hanzi": "干净", "pinyin": "gānjìng"}
+    ],
+    "translation": "Por favor, limpia tu habitación."
+  },
+  {
+    "words": [
+      {"hanzi": "水果", "pinyin": "shuǐguǒ"},
+      {"hanzi": "已经", "pinyin": "yǐjīng"},
+      {"hanzi": "洗", "pinyin": "xǐ"},
+      {"hanzi": "干净", "pinyin": "gānjìng"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "La fruta ya está lavada y limpia, ¡come!"
+  },
+  {
+    "words": [
+      {"hanzi": "对不起", "pinyin": "duìbuqǐ"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "清楚", "pinyin": "qīngchu"}
+    ],
+    "translation": "Lo siento, no escuché con claridad."
+  },
+  {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "清楚", "pinyin": "qīngchu"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "这是", "pinyin": "zhèshì"},
+      {"hanzi": "三", "pinyin": "sān"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "不是", "pinyin": "búshì"},
+      {"hanzi": "二", "pinyin": "èr"}
+    ],
+    "translation": "Por favor, mira bien, esto es un tres, no un dos."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "过期", "pinyin": "guòqī"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "面包", "pinyin": "miànbāo"},
+      {"hanzi": "扔", "pinyin": "rēng"},
+      {"hanzi": "掉", "pinyin": "diào"},
+      {"hanzi": "了"}
+    ],
+    "translation": "Él tiró el pan caducado."
+  },
+  {
+    "words": [
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "热", "pinyin": "rè"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "空调", "pinyin": "kōngtiáo"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "开", "pinyin": "kāi"},
+      {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Hace demasiado calor, enciende el aire acondicionado."
+  },
+  {
+    "words": [
+      {"hanzi": "这里", "pinyin": "zhèlǐ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "汉字", "pinyin": "hànzì"},
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "记", "pinyin": "jì"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "住", "pinyin": "zhù"}
+    ],
+    "translation": "Hay demasiados caracteres chinos aquí, no puedo recordarlos."
+  },
+  {
+    "words": [
+      {"hanzi": "字", "pinyin": "zì"},
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "小", "pinyin": "xiǎo"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "得", "pinyin": "de"},
+      {"hanzi": "清楚", "pinyin": "qīngchu"},
+      {"hanzi": "吗", "pinyin": "ma"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "La letra es demasiado pequeña, ¿puedes verla con claridad?"
+  }
+]
