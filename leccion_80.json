@@ -331,7 +331,8 @@
       {"hanzi": "睡", "pinyin": "shuì"},
       {"hanzi": "着", "pinyin": "zháo"}
     ],
-    "translation": "Anoche no me quedé dormido sino hasta la una."
+    "translation": "Anoche no me quedé dormido sino hasta la una.",
+      "note": "NOTA: Recuerda que cái 才 es un adverbio y como tal, va delante del verbo."
   },
   {
     "words": [
