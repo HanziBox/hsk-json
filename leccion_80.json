@@ -1,16 +1,4 @@
 [
-  {
-    "words": [
-      {"hanzi": "请", "pinyin": "qǐng"},
-      {"hanzi": "不要", "pinyin": "búyào"},
-      {"hanzi": "拿", "pinyin": "ná"},
-      {"hanzi": "走", "pinyin": "zǒu"},
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "的", "pinyin": "de"},
-      {"hanzi": "咖啡", "pinyin": "kāfēi"}
-    ],
-    "translation": "Por favor, no te lleves mi café."
-  },
     {
     "words": [
       {"hanzi": "他", "pinyin": "tā"},
@@ -36,7 +24,7 @@
     ],
     "translation": "Él se llevó mi libro."
   },
-  {
+    {
     "words": [
       {"hanzi": "请", "pinyin": "qǐng"},
       {"hanzi": "抓", "pinyin": "zhuā"},
@@ -271,6 +259,18 @@
       {"hanzi": "？", "pinyin": "?"}
     ],
     "translation": "Las palabras del profesor, ¿las recordaste?"
+  },
+    {
+    "words": [
+      {"hanzi": "请", "pinyin": "qǐng"},
+      {"hanzi": "不要", "pinyin": "búyào"},
+      {"hanzi": "拿", "pinyin": "ná"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "Por favor, no te lleves mi café."
   },
   {
     "words": [
