@@ -67,7 +67,8 @@
       {"hanzi": "那个", "pinyin": "nàgè"},
       {"hanzi": "球", "pinyin": "qiú"}
     ],
-    "translation": "Él atrapó esa pelota."
+    "translation": "Él atrapó esa pelota."c,
+      "note": "NOTA: Pelota se dice qiú 球."
   },
   {
     "words": [
