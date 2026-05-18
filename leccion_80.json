@@ -438,7 +438,7 @@
       {"hanzi": "面包", "pinyin": "miànbāo"},
       {"hanzi": "扔", "pinyin": "rēng"},
       {"hanzi": "掉", "pinyin": "diào"},
-      {"hanzi": "了"}
+      {"hanzi": "了", "pinyin": "le"}
     ],
     "translation": "Él tiró el pan caducado.",
       "note": "NOTA: Caducado se dice guòqī 过期, (literalamente pasar fecha)."
