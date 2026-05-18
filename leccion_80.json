@@ -11,6 +11,18 @@
     ],
     "translation": "Por favor, no te lleves mi café."
   },
+    {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "旧", "pinyin": "jiù"},
+      {"hanzi": "衣服", "pinyin": "yīfu"},
+      {"hanzi": "扔", "pinyin": "rēng"},
+      {"hanzi": "掉", "pinyin": "diào"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él tiró la ropa vieja."
+  },
   {
     "words": [
       {"hanzi": "他", "pinyin": "tā"},
@@ -23,18 +35,6 @@
       {"hanzi": "了", "pinyin": "le"}
     ],
     "translation": "Él se llevó mi libro."
-  },
-  {
-    "words": [
-      {"hanzi": "小偷", "pinyin": "xiǎotōu"},
-      {"hanzi": "偷", "pinyin": "tōu"},
-      {"hanzi": "走", "pinyin": "zǒu"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "她", "pinyin": "tā"},
-      {"hanzi": "的", "pinyin": "de"},
-      {"hanzi": "钱", "pinyin": "qián"}
-    ],
-    "translation": "El ladrón se llevó (robó) su dinero."
   },
   {
     "words": [
@@ -198,17 +198,17 @@
     ],
     "translation": "Por favor, habla un poco más claro."
   },
-  {
+    {
     "words": [
-      {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "把", "pinyin": "bǎ"},
-      {"hanzi": "旧", "pinyin": "jiù"},
-      {"hanzi": "衣服", "pinyin": "yīfu"},
-      {"hanzi": "扔", "pinyin": "rēng"},
-      {"hanzi": "掉", "pinyin": "diào"},
-      {"hanzi": "了", "pinyin": "le"}
+      {"hanzi": "小偷", "pinyin": "xiǎotōu"},
+      {"hanzi": "偷", "pinyin": "tōu"},
+      {"hanzi": "走", "pinyin": "zǒu"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "钱", "pinyin": "qián"}
     ],
-    "translation": "Él tiró la ropa vieja."
+    "translation": "El ladrón se llevó (robó) su dinero."
   },
   {
     "words": [
