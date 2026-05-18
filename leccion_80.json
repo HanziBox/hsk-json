@@ -92,7 +92,8 @@
   },
   {
     "words": [
-      {"hanzi": "小孩子", "pinyin": "xiǎoháizi"},
+      {"hanzi": "小", "pinyin": "xiǎo"},
+      {"hanzi": "孩子", "pinyin": "háizi"},
       {"hanzi": "还", "pinyin": "hái"},
       {"hanzi": "没", "pinyin": "méi"},
       {"hanzi": "学", "pinyin": "xué"},
