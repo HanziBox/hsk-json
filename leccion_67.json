@@ -218,7 +218,8 @@
 "words": [
 {"hanzi": "出门", "pinyin": "chūmén"},
 {"hanzi": "以后，", "pinyin": "yǐhòu,"},
-{"hanzi": "向右", "pinyin": "xiàng yòu"},
+{"hanzi": "向", "pinyin": "xiàng"},
+  {"hanzi": "右", "pinyin": "yòu"},
 {"hanzi": "转", "pinyin": "zhuǎn"}
 ],
 "translation": "Después de salir de casa, gira a la derecha."
