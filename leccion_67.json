@@ -237,12 +237,13 @@
 },
 {
 "words": [
-{"hanzi": "三天", "pinyin": "sān tiān"},
+{"hanzi": "三", "pinyin": "sān"},
+  {"hanzi": "天", "pinyin": "tiān"},
 {"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "我", "pinyin": "wǒ"},
 {"hanzi": "要", "pinyin": "yào"},
 {"hanzi": "还", "pinyin": "huán"},
-{"hanzi": "these", "pinyin": "zhèxiē"},
+{"hanzi": "这些", "pinyin": "zhèxiē"},
 {"hanzi": "书", "pinyin": "shū"}
 ],
 "translation": "Dentro de tres días tengo que devolver estos libros."
