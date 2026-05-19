@@ -250,7 +250,9 @@
 {"hanzi": "你", "pinyin": "nǐ"},
 {"hanzi": "来", "pinyin": "lái"},
 {"hanzi": "以前，", "pinyin": "yǐqián,"},
-{"hanzi": "做得完", "pinyin": "zuòdewán"},
+{"hanzi": "做", "pinyin": "zuò"},
+  {"hanzi": "得", "pinyin": "de"},
+  {"hanzi": "完", "pinyin": "wán"},
 {"hanzi": "作业", "pinyin": "zuòyè"},
 {"hanzi": "吗", "pinyin": "ma"},
 {"hanzi": "？", "pinyin": "?"}
