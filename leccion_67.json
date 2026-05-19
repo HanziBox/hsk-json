@@ -70,9 +70,12 @@
 "words": [
 {"hanzi": "吃饭", "pinyin": "chīfàn"},
 {"hanzi": "以前，", "pinyin": "yǐqián,"},
-{"hanzi": "洗个澡", "pinyin": "xǐ ge zǎo"}
+{"hanzi": "洗", "pinyin": "xǐ"},
+  {"hanzi": "个", "pinyin": "ge"}.
+  {"hanzi": "澡", "pinyin": "zǎo"}
 ],
-"translation": "Antes de comer, date un baño."
+"translation": "Antes de comer, date un baño.",
+  "note": "NOTA: xǐzǎo 洗澡, bañarse, es un verbo separable."
 },
 {
 "words": [
