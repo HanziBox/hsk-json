@@ -108,10 +108,12 @@
 },
 {
 "words": [
-{"hanzi": "过马路", "pinyin": "guò mǎlù"},
+{"hanzi": "过", "pinyin": "guò"},
+  {"hanzi": "马路", "pinyin": "mǎlù"},
 {"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "先", "pinyin": "xiān"},
-{"hanzi": "向左", "pinyin": "xiàng zuǒ"},
+{"hanzi": "向", "pinyin": "xiàng"},
+  {"hanzi": "左", "pinyin": "zuǒ"},
 {"hanzi": "看", "pinyin": "kàn"}
 ],
 "translation": "Antes de cruzar la calle, mira primero a la izquierda."
