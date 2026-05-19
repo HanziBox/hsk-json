@@ -301,7 +301,8 @@
 {"hanzi": "一起", "pinyin": "yìqǐ"},
 {"hanzi": "读", "pinyin": "dú"}
 ],
-"translation": "Después de haberlo entendido, por favor lean todos juntos."
+"translation": "Después de haberlo entendido, por favor lean todos juntos.",
+"note": "NOTA: dú 读 es leer en voz alta o con el sentido de estudiar."
 },
 {
 "words": [
