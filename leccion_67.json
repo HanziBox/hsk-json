@@ -1,13 +1,11 @@
 [
-  {
+{
 "words": [
 {"hanzi": "睡觉", "pinyin": "shuìjiào"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "别", "pinyin": "bié"},
 {"hanzi": "看", "pinyin": "kàn"},
-{"hanzi": "手机", "pinyin": "shǒujī"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "手机", "pinyin": "shǒujī"}
 ],
 "translation": "Antes de dormir, no mires el móvil."
 },
@@ -15,37 +13,32 @@
 "words": [
 {"hanzi": "去", "pinyin": "qù"},
 {"hanzi": "中国", "pinyin": "Zhōngguó"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "你", "pinyin": "nǐ"},
 {"hanzi": "学过", "pinyin": "xuéguò"},
 {"hanzi": "汉语", "pinyin": "hànyǔ"},
 {"hanzi": "吗", "pinyin": "ma"},
-{"hanzi": "？", "pinyin": ""}
+{"hanzi": "？", "pinyin": "?"}
 ],
 "translation": "Antes de ir a China, ¿habías estudiado chino?"
 },
 {
 "words": [
 {"hanzi": "下雨", "pinyin": "xiàyǔ"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "他", "pinyin": "tā"},
 {"hanzi": "跑", "pinyin": "pǎo"},
 {"hanzi": "进来", "pinyin": "jìnlái"},
-{"hanzi": "了", "pinyin": "le"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "了", "pinyin": "le"}
 ],
 "translation": "Antes de que lloviera, él entró corriendo."
 },
 {
 "words": [
 {"hanzi": "进门", "pinyin": "jìnmén"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "请", "pinyin": "qǐng"},
-{"hanzi": "关门", "pinyin": "guānmén"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "关门", "pinyin": "guānmén"}
 ],
 "translation": "Después de entrar, por favor cierra la puerta."
 },
@@ -53,36 +46,30 @@
 "words": [
 {"hanzi": "下午", "pinyin": "xiàwǔ"},
 {"hanzi": "六点", "pinyin": "liù diǎn"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "你", "pinyin": "nǐ"},
 {"hanzi": "得", "pinyin": "děi"},
-{"hanzi": "来", "pinyin": "lái"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "来", "pinyin": "lái"}
 ],
 "translation": "Tienes que venir antes de las seis de la tarde."
 },
 {
 "words": [
 {"hanzi": "两年", "pinyin": "liǎng nián"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "他", "pinyin": "tā"},
 {"hanzi": "没有", "pinyin": "méiyǒu"},
 {"hanzi": "我", "pinyin": "wǒ"},
 {"hanzi": "这么", "pinyin": "zhème"},
-{"hanzi": "高", "pinyin": "gāo"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "高", "pinyin": "gāo"}
 ],
 "translation": "Hace dos años, él no era tan alto como yo."
 },
 {
 "words": [
 {"hanzi": "吃饭", "pinyin": "chīfàn"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
-{"hanzi": "洗个澡", "pinyin": "xǐ ge zǎo"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
+{"hanzi": "洗个澡", "pinyin": "xǐ ge zǎo"}
 ],
 "translation": "Antes de comer, date un baño."
 },
@@ -90,74 +77,63 @@
 "words": [
 {"hanzi": "半个", "pinyin": "bàn ge"},
 {"hanzi": "小时", "pinyin": "xiǎoshí"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "谁", "pinyin": "shéi"},
 {"hanzi": "出去", "pinyin": "chūqù"},
 {"hanzi": "了", "pinyin": "le"},
-{"hanzi": "？", "pinyin": ""}
+{"hanzi": "？", "pinyin": "?"}
 ],
 "translation": "¿Quién salió hace media hora?"
 },
 {
 "words": [
 {"hanzi": "买车", "pinyin": "mǎi chē"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "他", "pinyin": "tā"},
 {"hanzi": "只有", "pinyin": "zhǐyǒu"},
 {"hanzi": "一辆", "pinyin": "yí liàng"},
-{"hanzi": "自行车", "pinyin": "zìxíngchē"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "自行车", "pinyin": "zìxíngchē"}
 ],
 "translation": "Antes de comprar el coche, él solo tenía una bicicleta."
 },
 {
 "words": [
 {"hanzi": "上课", "pinyin": "shàngkè"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "老师", "pinyin": "lǎoshī"},
 {"hanzi": "还没", "pinyin": "hái méi"},
-{"hanzi": "来", "pinyin": "lái"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "来", "pinyin": "lái"}
 ],
 "translation": "Antes de empezar la clase, el profesor aún no había llegado."
 },
 {
 "words": [
 {"hanzi": "过马路", "pinyin": "guò mǎlù"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "先", "pinyin": "xiān"},
 {"hanzi": "向左", "pinyin": "xiàng zuǒ"},
-{"hanzi": "看", "pinyin": "kàn"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "看", "pinyin": "kàn"}
 ],
 "translation": "Antes de cruzar la calle, mira primero a la izquierda."
 },
 {
 "words": [
 {"hanzi": "生病", "pinyin": "shēngbìng"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "他", "pinyin": "tā"},
 {"hanzi": "比", "pinyin": "bǐ"},
 {"hanzi": "现在", "pinyin": "xiànzài"},
 {"hanzi": "胖", "pinyin": "pàng"},
-{"hanzi": "一点儿", "pinyin": "yìdiǎnr"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "一点儿", "pinyin": "yìdiǎnr"}
 ],
 "translation": "Antes de enfermarse, él estaba un poco más gordo que ahora."
 },
 {
 "words": [
 {"hanzi": "下车", "pinyin": "xiàchē"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "一直", "pinyin": "yìzhí"},
-{"hanzi": "走", "pinyin": "zǒu"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "走", "pinyin": "zǒu"}
 ],
 "translation": "Después de bajar del coche, sigue todo recto."
 },
@@ -168,22 +144,20 @@
 {"hanzi": "以后", "pinyin": "yǐhòu"},
 {"hanzi": "一定", "pinyin": "yídìng"},
 {"hanzi": "会", "pinyin": "huì"},
-{"hanzi": "回家", "pinyin": "huíjiā"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "回家", "pinyin": "huíjiā"}
 ],
 "translation": "Él definitivamente volverá a casa dentro de unos meses."
 },
 {
 "words": [
 {"hanzi": "毕业", "pinyin": "bìyè"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "你", "pinyin": "nǐ"},
 {"hanzi": "打算", "pinyin": "dǎsuàn"},
 {"hanzi": "回国", "pinyin": "huíguó"},
 {"hanzi": "去", "pinyin": "qù"},
 {"hanzi": "吗", "pinyin": "ma"},
-{"hanzi": "？", "pinyin": ""}
+{"hanzi": "？", "pinyin": "?"}
 ],
 "translation": "Después de graduarte, ¿tienes pensado regresar a tu país?"
 },
@@ -192,12 +166,10 @@
 {"hanzi": "跑", "pinyin": "pǎo"},
 {"hanzi": "了", "pinyin": "le"},
 {"hanzi": "一个多小时", "pinyin": "yí ge duō xiǎoshí"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "他", "pinyin": "tā"},
 {"hanzi": "累死", "pinyin": "lèisǐ"},
-{"hanzi": "了", "pinyin": "le"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "了", "pinyin": "le"}
 ],
 "translation": "Después de correr más de una hora, él estaba cansadísimo."
 },
@@ -206,14 +178,12 @@
 {"hanzi": "喝", "pinyin": "hē"},
 {"hanzi": "了", "pinyin": "le"},
 {"hanzi": "药", "pinyin": "yào"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "头", "pinyin": "tóu"},
 {"hanzi": "就", "pinyin": "jiù"},
 {"hanzi": "不", "pinyin": "bù"},
 {"hanzi": "疼", "pinyin": "téng"},
-{"hanzi": "了", "pinyin": "le"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "了", "pinyin": "le"}
 ],
 "translation": "Después de tomar la medicina, ya no me duele la cabeza."
 },
@@ -221,50 +191,43 @@
 "words": [
 {"hanzi": "找到", "pinyin": "zhǎodào"},
 {"hanzi": "手机", "pinyin": "shǒujī"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "给", "pinyin": "gěi"},
 {"hanzi": "我", "pinyin": "wǒ"},
 {"hanzi": "打", "pinyin": "dǎ"},
-{"hanzi": "电话", "pinyin": "diànhuà"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "电话", "pinyin": "diànhuà"}
 ],
 "translation": "Cuando encuentres el móvil, llámame."
 },
 {
 "words": [
 {"hanzi": "下课", "pinyin": "xiàkè"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "你", "pinyin": "nǐ"},
 {"hanzi": "怎么", "pinyin": "zěnme"},
 {"hanzi": "回家", "pinyin": "huíjiā"},
-{"hanzi": "？", "pinyin": ""}
+{"hanzi": "？", "pinyin": "?"}
 ],
 "translation": "Después de clase, ¿cómo vuelves a casa?"
 },
 {
 "words": [
 {"hanzi": "出门", "pinyin": "chūmén"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "向右", "pinyin": "xiàng yòu"},
-{"hanzi": "转", "pinyin": "zhuǎn"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "转", "pinyin": "zhuǎn"}
 ],
 "translation": "Después de salir de casa, gira a la derecha."
 },
 {
 "words": [
 {"hanzi": "三天", "pinyin": "sān tiān"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "我", "pinyin": "wǒ"},
 {"hanzi": "要", "pinyin": "yào"},
 {"hanzi": "还", "pinyin": "huán"},
-{"hanzi": "这些", "pinyin": "zhèxiē"},
-{"hanzi": "书", "pinyin": "shū"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "these", "pinyin": "zhèxiē"},
+{"hanzi": "书", "pinyin": "shū"}
 ],
 "translation": "Dentro de tres días tengo que devolver estos libros."
 },
@@ -274,13 +237,11 @@
 {"hanzi": "下班", "pinyin": "xiàbān"},
 {"hanzi": "以后", "pinyin": "yǐhòu"},
 {"hanzi": "你", "pinyin": "nǐ"},
-{"hanzi": "没事", "pinyin": "méishì"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "没事，", "pinyin": "méishì,"},
 {"hanzi": "我们", "pinyin": "wǒmen"},
 {"hanzi": "去", "pinyin": "qù"},
 {"hanzi": "喝茶", "pinyin": "hēchá"},
-{"hanzi": "吧", "pinyin": "ba"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "吧", "pinyin": "ba"}
 ],
 "translation": "Si no tienes nada que hacer después de salir de trabajar, vamos a tomar un té."
 },
@@ -288,12 +249,11 @@
 "words": [
 {"hanzi": "你", "pinyin": "nǐ"},
 {"hanzi": "来", "pinyin": "lái"},
-{"hanzi": "以前", "pinyin": "yǐqián"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "做得完", "pinyin": "zuòdewán"},
 {"hanzi": "作业", "pinyin": "zuòyè"},
 {"hanzi": "吗", "pinyin": "ma"},
-{"hanzi": "？", "pinyin": ""}
+{"hanzi": "？", "pinyin": "?"}
 ],
 "translation": "Antes de que vengas, ¿puedes terminar los deberes?"
 },
@@ -301,26 +261,23 @@
 "words": [
 {"hanzi": "吃饱", "pinyin": "chībǎo"},
 {"hanzi": "了", "pinyin": "le"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "一句话", "pinyin": "yí jù huà"},
 {"hanzi": "也", "pinyin": "yě"},
 {"hanzi": "不想", "pinyin": "bù xiǎng"},
-{"hanzi": "说", "pinyin": "shuō"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "说", "pinyin": "shuō"}
 ],
 "translation": "Después de quedar lleno, no quiero decir ni una sola palabra."
 },
 {
 "words": [
 {"hanzi": "下课", "pinyin": "xiàkè"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后,", "pinyin": "xiàkè yǐhòu,"},
 {"hanzi": "谁", "pinyin": "shéi"},
 {"hanzi": "想", "pinyin": "xiǎng"},
 {"hanzi": "去", "pinyin": "qù"},
 {"hanzi": "跑步", "pinyin": "pǎobù"},
-{"hanzi": "？", "pinyin": ""}
+{"hanzi": "？", "pinyin": "?"}
 ],
 "translation": "Después de clase, ¿quién quiere ir a correr?"
 },
@@ -330,8 +287,7 @@
 {"hanzi": "以前", "pinyin": "yǐqián"},
 {"hanzi": "很", "pinyin": "hěn"},
 {"hanzi": "喜欢", "pinyin": "xǐhuan"},
-{"hanzi": "吃肉", "pinyin": "chī ròu"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "吃肉", "pinyin": "chī ròu"}
 ],
 "translation": "Antes me gustaba mucho comer carne."
 },
@@ -339,26 +295,22 @@
 "words": [
 {"hanzi": "听懂", "pinyin": "tīngdǒng"},
 {"hanzi": "了", "pinyin": "le"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "请", "pinyin": "qǐng"},
 {"hanzi": "大家", "pinyin": "dàjiā"},
 {"hanzi": "一起", "pinyin": "yìqǐ"},
-{"hanzi": "读", "pinyin": "dú"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "读", "pinyin": "dú"}
 ],
 "translation": "Después de haberlo entendido, por favor lean todos juntos."
 },
 {
 "words": [
 {"hanzi": "见面", "pinyin": "jiànmiàn"},
-{"hanzi": "以后", "pinyin": "yǐhòu"},
-{"hanzi": "，", "pinyin": ""},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "大家", "pinyin": "dàjiā"},
 {"hanzi": "都", "pinyin": "dōu"},
 {"hanzi": "很", "pinyin": "hěn"},
-{"hanzi": "高兴", "pinyin": "gāoxìng"},
-{"hanzi": "。", "pinyin": ""}
+{"hanzi": "高兴", "pinyin": "gāoxìng"}
 ],
 "translation": "Después de encontrarse, todos se pusieron muy contentos."
 }
