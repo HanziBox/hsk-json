@@ -296,7 +296,8 @@
 {"hanzi": "以前", "pinyin": "yǐqián"},
 {"hanzi": "很", "pinyin": "hěn"},
 {"hanzi": "喜欢", "pinyin": "xǐhuan"},
-{"hanzi": "吃肉", "pinyin": "chī ròu"}
+{"hanzi": "吃", "pinyin": "chī"},
+  {"hanzi": "肉", "pinyin": "ròu"}
 ],
 "translation": "Antes me gustaba mucho comer carne."
 },
