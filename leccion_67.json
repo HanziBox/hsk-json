@@ -200,7 +200,8 @@
 {"hanzi": "疼", "pinyin": "téng"},
 {"hanzi": "了", "pinyin": "le"}
 ],
-"translation": "Después de tomar la medicina, ya no me duele la cabeza."
+"translation": "Después de tomar la medicina, ya no me duele la cabeza.",
+  "note": "NOTA: yào 药 es medicina."
 },
 {
 "words": [
