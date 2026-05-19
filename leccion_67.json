@@ -165,13 +165,17 @@
 "words": [
 {"hanzi": "跑", "pinyin": "pǎo"},
 {"hanzi": "了", "pinyin": "le"},
-{"hanzi": "一个多小时", "pinyin": "yí ge duō xiǎoshí"},
+  {"hanzi": "一", "pinyin": "yí"},
+  {"hanzi": "个, "pinyin": "ge"},
+  {"hanzi": "多", "pinyin": "duō"},
+  {"hanzi": "小时", "pinyin": "xiǎoshí"},
 {"hanzi": "以后，", "pinyin": "yǐhòu,"},
 {"hanzi": "他", "pinyin": "tā"},
-{"hanzi": "累死", "pinyin": "lèisǐ"},
+{"hanzi": "累", "pinyin": "lèi"},
+  {"hanzi": "死", "pinyin": "sǐ"},
 {"hanzi": "了", "pinyin": "le"}
 ],
-"translation": "Después de correr más de una hora, él estaba cansadísimo."
+"translation": "Después de correr más de una hora, él estaba muerto de cansancio."
 },
 {
 "words": [
