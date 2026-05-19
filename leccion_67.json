@@ -142,6 +142,21 @@
 },
 {
 "words": [
+{"hanzi": "买", "pinyin": "mǎi"},
+{"hanzi": "完", "pinyin": "wán"},
+{"hanzi": "东西", "pinyin": "dōngxi"},
+{"hanzi": "以后，", "pinyin": "yǐhòu,"},
+{"hanzi": "他", "pinyin": "tā"},
+{"hanzi": "只有", "pinyin": "zhǐyǒu"},
+{"hanzi": "十", "pinyin": "shí"},
+{"hanzi": "块", "pinyin": "kuài"},
+{"hanzi": "钱", "pinyin": "qián"}
+],
+"translation": "Después de comprar las cosas, él solo tiene diez yuanes.",
+  "note": "NOTA: kuài 块 es el clasificador que se usa para el dinero (lit: pieza de dinero)."
+}
+{
+"words": [
 {"hanzi": "他", "pinyin": "tā"},
 {"hanzi": "几个月", "pinyin": "jǐ ge yuè"},
 {"hanzi": "以后", "pinyin": "yǐhòu"},
