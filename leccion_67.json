@@ -101,7 +101,8 @@
 {"hanzi": "上课", "pinyin": "shàngkè"},
 {"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "老师", "pinyin": "lǎoshī"},
-{"hanzi": "还没", "pinyin": "hái méi"},
+{"hanzi": "还", "pinyin": "hái"},
+  {"hanzi": "没", "pinyin": "méi"},
 {"hanzi": "来", "pinyin": "lái"}
 ],
 "translation": "Antes de empezar la clase, el profesor aún no había llegado."
