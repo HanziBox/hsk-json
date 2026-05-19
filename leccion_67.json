@@ -95,10 +95,12 @@
 {"hanzi": "以前，", "pinyin": "yǐqián,"},
 {"hanzi": "他", "pinyin": "tā"},
 {"hanzi": "只有", "pinyin": "zhǐyǒu"},
-{"hanzi": "一辆", "pinyin": "yí liàng"},
+{"hanzi": "一", "pinyin": "yí"},
+  {"hanzi": "辆", "pinyin": "liàng"},
 {"hanzi": "自行车", "pinyin": "zìxíngchē"}
 ],
-"translation": "Antes de comprar el coche, él solo tenía una bicicleta."
+"translation": "Antes de comprar el coche, él solo tenía una bicicleta.",
+  "note": "NOTA: liàng 辆 es el clasificador para vehículos."
 },
 {
 "words": [
