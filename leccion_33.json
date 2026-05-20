@@ -162,6 +162,16 @@
         "translation": "¿Cuántos libros tienes?"
     },
     {
+"words": [
+{"hanzi": "为什么", "pinyin": "wèishénme"},
+{"hanzi": "是", "pinyin": "shì"},
+{"hanzi": "空", "pinyin": "kōng"},
+{"hanzi": "的", "pinyin": "de"},
+{"hanzi": "？", "pinyin": "?"}
+],
+"translation": "¿Por qué está vacío?"
+},
+    {
         "words": [
             {
                 "hanzi": "这",
