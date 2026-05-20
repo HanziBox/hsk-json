@@ -147,7 +147,8 @@
 {"hanzi": "的", "pinyin": "de"},
 {"hanzi": "？", "pinyin": "?"}
 ],
-"translation": "¿Cómo fue engañada esa gente?"
+"translation": "¿Cómo es que fue engañada esa gente?",
+    "note": "📋NOTA: Usa el patrón 是...的 para enfatizar el cómo"
 },
 {
 "words": [
@@ -215,7 +216,7 @@
 {"hanzi": "走", "pinyin": "zǒu"},
 {"hanzi": "的", "pinyin": "de"}
 ],
-"translation": "Me robaron el dinero después de clase.",
+"translation": "Fue después de clase cuando me robaron el dinero.",
 "note": "📋NOTA: Usa el complemento de resultado zǒu 走 (marcharse) y el patrón 是...的"
 }
 ]
