@@ -98,7 +98,8 @@
 {"hanzi": "的", "pinyin": "de"},
 {"hanzi": "名字", "pinyin": "míngzi"},
 {"hanzi": "被", "pinyin": "bèi"},
-{"hanzi": "写错", "pinyin": "xiěcuò"},
+{"hanzi": "写", "pinyin": "xiě"},
+    {"hanzi": "错", "pinyin": "cuò"},
 {"hanzi": "了", "pinyin": "le"}
 ],
 "translation": "Su nombre se escribió mal.",
