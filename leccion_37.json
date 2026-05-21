@@ -1,27 +1,24 @@
 [
-  {
+    {
     "words": [
-      {"hanzi": "上", "pinyin": "shàng"},
-      {"hanzi": "个", "pinyin": "gè"},
-      {"hanzi": "星期", "pinyin": "xīngqī"},
-      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
       {"hanzi": "又", "pinyin": "yòu"},
-      {"hanzi": "去", "pinyin": "qù"},
-      {"hanzi": "中国", "pinyin": "zhōngguó"},
+      {"hanzi": "下雨", "pinyin": "xiàyǔ"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "La semana pasada fui otra vez a China."
+    "translation": "Ayer volvió a llover."
   },
-  {
+    {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
       {"hanzi": "再", "pinyin": "zài"},
-      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "跟", "pinyin": "gēn"},
       {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "家", "pinyin": "jiā"}
+      {"hanzi": "说话", "pinyin": "shuōhuà"}
     ],
-    "translation": "Mañana iré otra vez a su casa."
+    "translation": "No quiero volver a hablar con él."
   },
   {
     "words": [
@@ -46,6 +43,17 @@
       {"hanzi": "手机", "pinyin": "shǒujī"}
     ],
     "translation": "El próximo mes compraré otra vez un teléfono móvil."
+  },
+    {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "再", "pinyin": "zài"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Mañana iré otra vez a su casa."
   },
   {
     "words": [
@@ -95,18 +103,6 @@
     ],
     "translation": "¿Quieres ver otra vez esa película?"
   },
-  {
-    "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "不", "pinyin": "bù"},
-        {"hanzi": "想", "pinyin": "xiǎng"},
-      {"hanzi": "再", "pinyin": "zài"},
-      {"hanzi": "跟", "pinyin": "gēn"},
-      {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "说话", "pinyin": "shuōhuà"}
-    ],
-    "translation": "No quiero volver a hablar con él."
-  },
 {
     "words": [
         {"hanzi": "今天", "pinyin": "jīntiān"},
@@ -120,6 +116,19 @@
     ],
     "translation": "Hoy no quiso comer fruta de nuevo."
 },
+    {
+    "words": [
+      {"hanzi": "上", "pinyin": "shàng"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "星期", "pinyin": "xīngqī"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "又", "pinyin": "yòu"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "中国", "pinyin": "zhōngguó"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "La semana pasada fui otra vez a China."
+  },
   {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
@@ -129,15 +138,6 @@
       {"hanzi": "米饭", "pinyin": "mǐfàn"}
     ],
     "translation": "Mañana volveré a comer arroz."
-  },
-  {
-    "words": [
-      {"hanzi": "昨天", "pinyin": "zuótiān"},
-      {"hanzi": "又", "pinyin": "yòu"},
-      {"hanzi": "下雨", "pinyin": "xiàyǔ"},
-      {"hanzi": "了", "pinyin": "le"}
-    ],
-    "translation": "Ayer volvió a llover."
   },
   {
     "words": [
