@@ -108,13 +108,11 @@
         {"hanzi": "今天", "pinyin": "jīntiān"},
         {"hanzi": "他", "pinyin": "tā"},
         {"hanzi": "又", "pinyin": "yòu"},
-        {"hanzi": "不", "pinyin": "bù"},
-        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "没", "pinyin": "méi"},
         {"hanzi": "吃", "pinyin": "chī"},
-        {"hanzi": "水果", "pinyin": "shuǐguǒ"},
-        {"hanzi": "了", "pinyin": "le"}
+        {"hanzi": "水果", "pinyin": "shuǐguǒ"}
     ],
-    "translation": "Hoy no quiso comer fruta de nuevo."
+    "translation": "Hoy no comió fruta de nuevo."
 },
     {
     "words": [
