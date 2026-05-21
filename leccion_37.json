@@ -107,7 +107,7 @@
     ],
     "translation": "No quiero volver a hablar con él."
   },
-  {
+{
     "words": [
         {"hanzi": "今天", "pinyin": "jīntiān"},
         {"hanzi": "他", "pinyin": "tā"},
@@ -118,8 +118,8 @@
         {"hanzi": "水果", "pinyin": "shuǐguǒ"},
         {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": ""Hoy no quiso comer fruta de nuevo."
-},
+    "translation": "Hoy no quiso comer fruta de nuevo."
+}
   {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
