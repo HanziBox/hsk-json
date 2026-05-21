@@ -66,6 +66,16 @@
     ],
     "translation": "El gatito está llorando otra vez."
   },
+    {
+    "words": [
+        {"hanzi": "今天", "pinyin": "jīntiān"},
+        {"hanzi": "妈妈", "pinyin": "māma"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "没", "pinyin": "méi"},
+        {"hanzi": "做饭", "pinyin": "zuòfàn"}
+    ],
+    "translation": "Hoy mamá otra vez no ha hecho de comer."
+},
   {
     "words": [
       {"hanzi": "你", "pinyin": "nǐ"},
