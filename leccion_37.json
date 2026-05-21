@@ -276,6 +276,7 @@
       {"hanzi": "菜", "pinyin": "cài"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "Ya nadie quiere comer más este plato."
+    "translation": "Ya nadie quiere comer más este plato.",
+    "note": "📋NOTA: Ojo con la posición de le 了, aquí indica cambio de estado."
   }
 ]
