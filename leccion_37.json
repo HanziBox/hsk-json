@@ -22,8 +22,8 @@
   },
   {
     "words": [
-      {"hanzi": "明天", "pinyin": "míngtiān"},
       {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
       {"hanzi": "再", "pinyin": "zài"},
       {"hanzi": "去", "pinyin": "qù"}
     ],
