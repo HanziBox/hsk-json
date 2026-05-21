@@ -10,7 +10,8 @@
             {"hanzi": "问题", "pinyin": "wèntí"},
             {"hanzi": "吗", "pinyin": "ma"}
         ],
-        "translation": "¿Puedo hacerte una pregunta?"
+        "translation": "¿Puedo hacerte una pregunta?",
+        "note": "📋NOTA: wèn 问 es preguntar y wèntí 问题, pregunta. Recuérdalas."
     },
     {
         "words": [
