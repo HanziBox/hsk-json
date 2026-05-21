@@ -112,7 +112,8 @@
         {"hanzi": "吃", "pinyin": "chī"},
         {"hanzi": "水果", "pinyin": "shuǐguǒ"}
     ],
-    "translation": "Hoy no comió fruta de nuevo."
+    "translation": "Hoy no comió fruta de nuevo.",
+    "note": "📋NOTA: Fruta se dice shuǐguǒ 水果 (lit: fruto de agua)"
 },
     {
     "words": [
