@@ -113,18 +113,6 @@
     ],
     "translation": "¿Quieres ver otra vez esa película?"
   },
-{
-    "words": [
-        {"hanzi": "今天", "pinyin": "jīntiān"},
-        {"hanzi": "他", "pinyin": "tā"},
-        {"hanzi": "又", "pinyin": "yòu"},
-        {"hanzi": "没", "pinyin": "méi"},
-        {"hanzi": "吃", "pinyin": "chī"},
-        {"hanzi": "水果", "pinyin": "shuǐguǒ"}
-    ],
-    "translation": "Hoy no comió fruta de nuevo.",
-    "note": "📋NOTA: Fruta se dice shuǐguǒ 水果 (lit: fruto de agua)"
-},
     {
     "words": [
       {"hanzi": "上", "pinyin": "shàng"},
