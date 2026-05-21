@@ -25,18 +25,6 @@
   },
   {
     "words": [
-      {"hanzi": "昨天", "pinyin": "zuótiān"},
-      {"hanzi": "他", "pinyin": "tā"},
-      {"hanzi": "又", "pinyin": "yòu"},
-      {"hanzi": "不", "pinyin": "bù"},
-      {"hanzi": "喜欢", "pinyin": "xǐhuan"},
-      {"hanzi": "这个", "pinyin": "zhège"},
-      {"hanzi": "菜", "pinyin": "cài"}
-    ],
-    "translation": "Ayer otra vez no le gustó este plato."
-  },
-  {
-    "words": [
       {"hanzi": "明天", "pinyin": "míngtiān"},
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "再", "pinyin": "zài"},
@@ -119,6 +107,19 @@
     ],
     "translation": "No quiero volver a hablar con él."
   },
+  {
+    "words": [
+        {"hanzi": "今天", "pinyin": "jīntiān"},
+        {"hanzi": "他", "pinyin": "tā"},
+        {"hanzi": "又", "pinyin": "yòu"},
+        {"hanzi": "不", "pinyin": "bù"},
+        {"hanzi": "想", "pinyin": "xiǎng"},
+        {"hanzi": "吃", "pinyin": "chī"},
+        {"hanzi": "水果", "pinyin": "shuǐguǒ"},
+        {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": ""Hoy no quiso comer fruta de nuevo"
+}
   {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
