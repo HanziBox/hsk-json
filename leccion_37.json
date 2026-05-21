@@ -83,10 +83,10 @@
       {"hanzi": "她", "pinyin": "tā"},
       {"hanzi": "又", "pinyin": "yòu"},
       {"hanzi": "买", "pinyin": "mǎi"},
+        {"hanzi": "了", "pinyin": "le"},
       {"hanzi": "那", "pinyin": "nà"},
       {"hanzi": "件", "pinyin": "jiàn"},
-      {"hanzi": "衣服", "pinyin": "yīfú"},
-      {"hanzi": "了", "pinyin": "le"}
+      {"hanzi": "衣服", "pinyin": "yīfú"}
     ],
     "translation": "Ella compró otra vez ese vestido."
   },
