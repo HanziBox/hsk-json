@@ -203,17 +203,6 @@
   },
   {
     "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "不能", "pinyin": "bùnéng"},
-      {"hanzi": "再", "pinyin": "zài"},
-      {"hanzi": "喝", "pinyin": "hē"},
-      {"hanzi": "茶", "pinyin": "chá"},
-      {"hanzi": "了", "pinyin": "le"}
-    ],
-    "translation": "Ya no puedo seguir bebiendo té."
-  },
-  {
-    "words": [
       {"hanzi": "今天", "pinyin": "jīntiān"},
       {"hanzi": "晚上", "pinyin": "wǎnshang"},
       {"hanzi": "我", "pinyin": "wǒ"},
