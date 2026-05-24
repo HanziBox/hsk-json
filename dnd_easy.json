@@ -664,7 +664,8 @@
         {
             "words": [
                 { "hanzi": "这", "pinyin": "zhè" },
-                { "hanzi": "不是", "pinyin": "bú shì" },
+                { "hanzi": "不", "pinyin": "bú" },
+                { "hanzi": "是", "pinyin": "shì" },
                 { "hanzi": "你的", "pinyin": "nǐ de" },
                 { "hanzi": "错", "pinyin": "cuò" }
             ],
