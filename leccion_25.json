@@ -8,11 +8,7 @@
       {"hanzi": "吃饭", "pinyin": "chīfàn"}
     ],
     "translation": "Ella come en la escuela los martes."
-  },
-    {
-    "words": [
-      {"hanzi": "他们", "pinyin": "tāmen"},
-      {"hanzi": "今天", "pinyin": "jīntiān"},
+    
       {"hanzi": "在", "pinyin": "zài"},
       {"hanzi": "公园", "pinyin": "gōngyuán"},
       {"hanzi": "看书", "pinyin": "kànshū"}
@@ -28,7 +24,8 @@
       {"hanzi": "买", "pinyin": "mǎi"},
       {"hanzi": "衣服", "pinyin": "yīfu"}
     ],
-    "translation": "Ella compra ropa en la tienda esta tarde."
+    "translation": "Ella compra ropa en la tienda esta tarde.",
+    "note": "📋NOTA: Tienda se dice shāngdiàn 商店."
   },
   {
     "words": [
