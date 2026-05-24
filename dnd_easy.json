@@ -298,7 +298,7 @@
             {"hanzi": "区别", "pinyin": "qūbié"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "什么", "pinyin": "shénme"},
-            {"hanzi": "?"}
+            {"hanzi": "？", "pinyin": "?"}
         ],
         "translation": "¿Cuál es la diferencia?"
     },
