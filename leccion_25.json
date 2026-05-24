@@ -1,0 +1,139 @@
+[
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "星期二", "pinyin": "xīngqī'èr"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "学校", "pinyin": "xuéxiào"},
+      {"hanzi": "吃饭", "pinyin": "chīfàn"}
+    ],
+    "translation": "Ella come en la escuela los martes."
+  },
+    {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "公园", "pinyin": "gōngyuán"},
+      {"hanzi": "看书", "pinyin": "kànshū"}
+    ],
+    "translation": "Ellos leen hoy en el parque."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "下午", "pinyin": "xiàwǔ"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "商店", "pinyin": "shāngdiàn"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Ella compra ropa en la tienda esta tarde."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "下", "pinyin": "xià"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "星期六", "pinyin": "xīngqīliù"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "家", "pinyin": "jiā"},
+      {"hanzi": "吃饭", "pinyin": "chīfàn"}
+    ],
+    "translation": "Comeré en casa el próximo sábado."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "晚上", "pinyin": "wǎnshang"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "家里", "pinyin": "jiālǐ"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "Quiero tomar café en casa esta noche."
+  },
+    {
+    "words": [
+      {"hanzi": "我的", "pinyin": "wǒde"},
+      {"hanzi": "朋友", "pinyin": "péngyou"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "饭馆", "pinyin": "fànguǎn"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "肉", "pinyin": "ròu"}
+    ],
+    "translation": "Mi amigo come carne hoy en el restaurante."
+  },
+  {
+    "words": [
+      {"hanzi": "孩子们", "pinyin": "háizimen"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "不想", "pinyin": "bùxiǎng"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "学校", "pinyin": "xuéxiào"},
+      {"hanzi": "吃饭", "pinyin": "chīfàn"}
+    ],
+    "translation": "Los niños no quieren comer hoy en la escuela."
+  },
+  {
+    "words": [
+      {"hanzi": "妈妈", "pinyin": "māma"},
+      {"hanzi": "下午", "pinyin": "xiàwǔ"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "商店", "pinyin": "shāngdiàn"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "些", "pinyin": "xiē"},
+      {"hanzi": "苹果", "pinyin": "píngguǒ"}
+    ],
+    "translation": "Mamá va a comprar algunas manzanas en la tienda esta tarde."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "学校", "pinyin": "xuéxiào"},
+      {"hanzi": "和", "pinyin": "hé"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "一起", "pinyin": "yīqǐ"},
+      {"hanzi": "看书", "pinyin": "kànshū"}
+    ],
+    "translation": "Mañana leeré con ella en la escuela."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "下午", "pinyin": "xiàwǔ"},
+      {"hanzi": "在家", "pinyin": "zàijiā"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "电视", "pinyin": "diànshì"}
+    ],
+    "translation": "Esta tarde estamos viendo la televisión en casa."
+  },
+  {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "明年", "pinyin": "míngnián"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "中国", "pinyin": "zhōngguó"},
+      {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "Ellos trabajarán en China el próximo año."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "晚上", "pinyin": "wǎnshang"},
+      {"hanzi": "不在", "pinyin": "bùzài"},
+      {"hanzi": "家", "pinyin": "jiā"},
+      {"hanzi": "做饭", "pinyin": "zuòfàn"}
+    ],
+    "translation": "Él no cocinará en casa esta noche."
+  }
+]
