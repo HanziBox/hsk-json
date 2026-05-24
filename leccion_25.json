@@ -69,7 +69,8 @@
     "words": [
       {"hanzi": "孩子们", "pinyin": "háizimen"},
       {"hanzi": "今天", "pinyin": "jīntiān"},
-      {"hanzi": "不想", "pinyin": "bùxiǎng"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
       {"hanzi": "在", "pinyin": "zài"},
       {"hanzi": "学校", "pinyin": "xuéxiào"},
       {"hanzi": "吃饭", "pinyin": "chīfàn"}
@@ -121,7 +122,8 @@
       {"hanzi": "我们", "pinyin": "wǒmen"},
       {"hanzi": "今天", "pinyin": "jīntiān"},
       {"hanzi": "下午", "pinyin": "xiàwǔ"},
-      {"hanzi": "在家", "pinyin": "zàijiā"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "家", "pinyin": "jiā"},
       {"hanzi": "看", "pinyin": "kàn"},
       {"hanzi": "电视", "pinyin": "diànshì"}
     ],
@@ -142,7 +144,8 @@
       {"hanzi": "他", "pinyin": "tā"},
       {"hanzi": "今天", "pinyin": "jīntiān"},
       {"hanzi": "晚上", "pinyin": "wǎnshang"},
-      {"hanzi": "不在", "pinyin": "bùzài"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "在", "pinyin": "zài"},
       {"hanzi": "家", "pinyin": "jiā"},
       {"hanzi": "做饭", "pinyin": "zuòfàn"}
     ],
