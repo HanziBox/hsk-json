@@ -80,6 +80,20 @@
   },
   {
     "words": [
+        {"hanzi": "这", "pinyin": "zhè"},
+        {"hanzi": "只", "pinyin": "zhī"},
+        {"hanzi": "黑", "pinyin": "hēi"},
+        {"hanzi": "猫", "pinyin": "māo"},
+        {"hanzi": "今天", "pinyin": "jīntiān"},
+        {"hanzi": "晚上", "pinyin": "wǎnshang"},
+        {"hanzi": "在", "pinyin": "zài"},
+        {"hanzi": "公园", "pinyin": "gōngyuán"},
+        {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "Este gato negro duerme en el parque esta noche."
+}
+  {
+    "words": [
       {"hanzi": "妈妈", "pinyin": "māma"},
       {"hanzi": "下午", "pinyin": "xiàwǔ"},
       {"hanzi": "要", "pinyin": "yào"},
