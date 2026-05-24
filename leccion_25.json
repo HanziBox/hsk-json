@@ -62,7 +62,8 @@
       {"hanzi": "吃", "pinyin": "chī"},
       {"hanzi": "肉", "pinyin": "ròu"}
     ],
-    "translation": "Mi amigo come carne hoy en el restaurante."
+    "translation": "Mi amigo come carne hoy en el restaurante.",
+      "note": "📋NOTA: Restaurante se dice fànguǎn 饭馆."
   },
   {
     "words": [
