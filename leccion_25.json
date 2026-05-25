@@ -155,6 +155,7 @@
       {"hanzi": "家", "pinyin": "jiā"},
       {"hanzi": "做饭", "pinyin": "zuòfàn"}
     ],
-    "translation": "Él no cocina en casa esta noche."
+    "translation": "Él no cocina en casa esta noche.",
+      "note": "📋NOTA: Ojo, no se dice que no cocine, sino que no cocina EN CASA."
   }
 ]
