@@ -3,7 +3,8 @@
     "words": [
       {"hanzi": "别", "pinyin": "bié"},
       {"hanzi": "吃", "pinyin": "chī"},
-      {"hanzi": "太多", "pinyin": "tài duō"},
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "多", "pinyin": "duō"},
       {"hanzi": "肉", "pinyin": "ròu"}
     ],
     "translation": "No comas demasiada carne."
