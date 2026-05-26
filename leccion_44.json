@@ -83,24 +83,8 @@
   },
   {
     "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "和", "pinyin": "hé"},
-      {"hanzi": "他", "pinyin": "tā"},
       {"hanzi": "今天", "pinyin": "jīntiān"},
-      {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "在", "pinyin": "zài"},
-      {"hanzi": "家", "pinyin": "jiā"},
-      {"hanzi": "，", "pinyin": ","},
-      {"hanzi": "你", "pinyin": "nǐ"},
-      {"hanzi": "别", "pinyin": "bié"},
-      {"hanzi": "来", "pinyin": "lái"},
-      {"hanzi": "了", "pinyin": "le"}
-    ],
-    "translation": "Él y yo estamos en casa hoy, no vengas."
-  },
-  {
-    "words": [
-      {"hanzi": "今天晚上", "pinyin": "jīntiān wǎnshang"},
+      {"hanzi": "晚上", "pinyin": "wǎnshang"},
       {"hanzi": "别", "pinyin": "bié"},
       {"hanzi": "在", "pinyin": "zài"},
       {"hanzi": "公园", "pinyin": "gōngyuán"},
@@ -119,7 +103,7 @@
       {"hanzi": "睡觉", "pinyin": "shuìjiào"},
       {"hanzi": "吧", "pinyin": "ba"}
     ],
-    "translation": "Deja de mirar el móvil, vete a dormir ya."
+    "translation": "Deja de mirar el móvil y acuéstate pronto."
   },
   {
     "words": [
@@ -129,7 +113,8 @@
       {"hanzi": "筷子", "pinyin": "kuàizi"},
       {"hanzi": "吃饭", "pinyin": "chīfàn"}
     ],
-    "translation": "Esta noche no comas con palillos."
+    "translation": "Esta noche no comas con palillos.",
+    "note": "📋NOTA: jīnwǎn 今晚 es la abreviatura de jīntiān wǎnshàng 今天晚上."
   },
   {
     "words": [
@@ -137,7 +122,8 @@
       {"hanzi": "给", "pinyin": "gěi"},
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "送", "pinyin": "sòng"},
-      {"hanzi": "太贵", "pinyin": "tài guì"},
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "贵", "pinyin": "guì"},
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "东西", "pinyin": "dōngxi"}
     ],
@@ -168,7 +154,8 @@
       {"hanzi": "这", "pinyin": "zhè"},
       {"hanzi": "把", "pinyin": "bǎ"},
       {"hanzi": "钥匙", "pinyin": "yàoshi"},
-      {"hanzi": "开门", "pinyin": "kāimén"}
+      {"hanzi": "开", "pinyin": "kāi"},
+      {"hanzi": "门", "pinyin": "mén"}
     ],
     "translation": "No abras la puerta con esta llave."
   },
@@ -180,7 +167,7 @@
       {"hanzi": "的", "pinyin": "de"},
       {"hanzi": "东西", "pinyin": "dōngxi"}
     ],
-    "translation": "No comas mis cosas."
+    "translation": "No te comas mis cosas."
   },
   {
     "words": [
@@ -208,7 +195,8 @@
       {"hanzi": "那么", "pinyin": "nàme"},
       {"hanzi": "客气", "pinyin": "kèqi"}
     ],
-    "translation": "No seas tan formal con él."
+    "translation": "No seas tan cumplido con él.",
+    "note": "📋NOTA: kèqi 客气 es correcto, educado, cortés."
   },
   {
     "words": [
@@ -259,7 +247,8 @@
       {"hanzi": "件", "pinyin": "jiàn"},
       {"hanzi": "事", "pinyin": "shì"}
     ],
-    "translation": "No hagas esto por él."
+    "translation": "No hagas esto por él.",
+    "note": "📋NOTA: shì 事 es cosa o asunto y jiàn 件 su clasificador."
   },
   {
     "words": [
@@ -303,7 +292,8 @@
       {"hanzi": "累", "pinyin": "lèi"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "No te esfuerces demasiado."
+    "translation": "No te esfuerces demasiado.",
+    "note": "📋NOTA: lèi 累 es cansado o cansarse."
   },
   {
     "words": [
@@ -312,9 +302,10 @@
       {"hanzi": "这些", "pinyin": "zhèxiē"},
       {"hanzi": "水果", "pinyin": "shuǐguǒ"},
       {"hanzi": "，", "pinyin": ","},
-      {"hanzi": "不好吃", "pinyin": "bù hǎochī"}
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "好吃", "pinyin": "hǎochī"}
     ],
-    "translation": "No compres estas frutas, no están buenas."
+    "translation": "No compres esta fruta, no está buena."
   },
   {
     "words": [
@@ -325,7 +316,7 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "很好", "pinyin": "hěn hǎo"}
     ],
-    "translation": "No llores, estoy bien."
+    "translation": "Deja de llorar, estoy bien."
   },
   {
     "words": [
@@ -335,6 +326,7 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "！", "pinyin": "!"}
     ],
-    "translation": "¡No hables así de mí!"
+    "translation": "¡No hables así de mí!",
+    "note": "📋NOTA: zhème 这么 es así, de esta forma."
   }
 ]
