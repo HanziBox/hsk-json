@@ -8,19 +8,34 @@
       {"hanzi": "肉", "pinyin": "ròu"}
     ],
     "translation": "No comas demasiada carne."
-  },
-  {
+  },.
+    {
     "words": [
       {"hanzi": "别", "pinyin": "bié"},
-      {"hanzi": "看", "pinyin": "kàn"},
-      {"hanzi": "手机", "pinyin": "shǒujī"},
-      {"hanzi": "了", "pinyin": "le"},
-      {"hanzi": "，", "pinyin": ","},
-      {"hanzi": "快", "pinyin": "kuài"},
-      {"hanzi": "睡觉", "pinyin": "shuìjiào"},
-      {"hanzi": "吧", "pinyin": "ba"}
+      {"hanzi": "对", "pinyin": "duì"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "不好", "pinyin": "bù hǎo"}
     ],
-    "translation": "Deja de mirar el móvil, vete a dormir ya."
+    "translation": "No seas malo con ella."
+  },
+    {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "告诉", "pinyin": "gàosu"},
+      {"hanzi": "她", "pinyin": "tā"}
+    ],
+    "translation": "No le cuentes todo."
+  },
+    {
+    "words": [
+      {"hanzi": "不要", "pinyin": "bùyào"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Deja de beber café."
   },
   {
     "words": [
@@ -36,29 +51,10 @@
   {
     "words": [
       {"hanzi": "别", "pinyin": "bié"},
-      {"hanzi": "什么", "pinyin": "shénme"},
-      {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "告诉", "pinyin": "gàosu"},
-      {"hanzi": "她", "pinyin": "tā"}
-    ],
-    "translation": "No le cuentes todo."
-  },
-  {
-    "words": [
-      {"hanzi": "别", "pinyin": "bié"},
       {"hanzi": "太", "pinyin": "tài"},
       {"hanzi": "担心", "pinyin": "dānxīn"}
     ],
     "translation": "No te preocupes demasiado."
-  },
-  {
-    "words": [
-      {"hanzi": "别", "pinyin": "bié"},
-      {"hanzi": "对", "pinyin": "duì"},
-      {"hanzi": "她", "pinyin": "tā"},
-      {"hanzi": "不好", "pinyin": "bù hǎo"}
-    ],
-    "translation": "No seas malo con ella."
   },
   {
     "words": [
@@ -111,14 +107,18 @@
     ],
     "translation": "No duermas en el parque esta noche."
   },
-  {
+    {
     "words": [
-      {"hanzi": "不要", "pinyin": "bùyào"},
-      {"hanzi": "喝", "pinyin": "hē"},
-      {"hanzi": "咖啡", "pinyin": "kāfēi"},
-      {"hanzi": "了", "pinyin": "le"}
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "手机", "pinyin": "shǒujī"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "快", "pinyin": "kuài"},
+      {"hanzi": "睡觉", "pinyin": "shuìjiào"},
+      {"hanzi": "吧", "pinyin": "ba"}
     ],
-    "translation": "Deja de beber café."
+    "translation": "Deja de mirar el móvil, vete a dormir ya."
   },
   {
     "words": [
