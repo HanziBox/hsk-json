@@ -1,0 +1,338 @@
+[
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "太多", "pinyin": "tài duō"},
+      {"hanzi": "肉", "pinyin": "ròu"}
+    ],
+    "translation": "No comas demasiada carne."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "手机", "pinyin": "shǒujī"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "快", "pinyin": "kuài"},
+      {"hanzi": "睡觉", "pinyin": "shuìjiào"},
+      {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Deja de mirar el móvil, vete a dormir ya."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "告诉", "pinyin": "gàosu"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "名字", "pinyin": "míngzi"}
+    ],
+    "translation": "No le digas tu nombre."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "告诉", "pinyin": "gàosu"},
+      {"hanzi": "她", "pinyin": "tā"}
+    ],
+    "translation": "No le cuentes todo."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "担心", "pinyin": "dānxīn"}
+    ],
+    "translation": "No te preocupes demasiado."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "对", "pinyin": "duì"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "不好", "pinyin": "bù hǎo"}
+    ],
+    "translation": "No seas malo con ella."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "担心", "pinyin": "dānxīn"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "快要", "pinyin": "kuàiyào"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "No te preocupes, él está a punto de llegar."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "再", "pinyin": "zài"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "件", "pinyin": "jiàn"},
+      {"hanzi": "事", "pinyin": "shì"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Deja de hacer esto."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "和", "pinyin": "hé"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "家", "pinyin": "jiā"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Él y yo estamos en casa hoy, no vengas."
+  },
+  {
+    "words": [
+      {"hanzi": "今天晚上", "pinyin": "jīntiān wǎnshang"},
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "公园", "pinyin": "gōngyuán"},
+      {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "No duermas en el parque esta noche."
+  },
+  {
+    "words": [
+      {"hanzi": "不要", "pinyin": "bùyào"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Deja de beber café."
+  },
+  {
+    "words": [
+      {"hanzi": "今晚", "pinyin": "jīnwǎn"},
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "用", "pinyin": "yòng"},
+      {"hanzi": "筷子", "pinyin": "kuàizi"},
+      {"hanzi": "吃饭", "pinyin": "chīfàn"}
+    ],
+    "translation": "Esta noche no comas con palillos."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "送", "pinyin": "sòng"},
+      {"hanzi": "太贵", "pinyin": "tài guì"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "东西", "pinyin": "dōngxi"}
+    ],
+    "translation": "No me regales cosas demasiado caras."
+  },
+  {
+    "words": [
+      {"hanzi": "大家", "pinyin": "dàjiā"},
+      {"hanzi": "不要", "pinyin": "bùyào"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Dejad de hablar, todos."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "问", "pinyin": "wèn"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "问题", "pinyin": "wèntí"}
+    ],
+    "translation": "No hagas esta pregunta."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "用", "pinyin": "yòng"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "把", "pinyin": "bǎ"},
+      {"hanzi": "钥匙", "pinyin": "yàoshi"},
+      {"hanzi": "开门", "pinyin": "kāimén"}
+    ],
+    "translation": "No abras la puerta con esta llave."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "东西", "pinyin": "dōngxi"}
+    ],
+    "translation": "No comas mis cosas."
+  },
+  {
+    "words": [
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "火车", "pinyin": "huǒchē"},
+      {"hanzi": "来", "pinyin": "lái"}
+    ],
+    "translation": "No vengas en tren mañana."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "他们", "pinyin": "tāmen"}
+    ],
+    "translation": "No los mires."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "对", "pinyin": "duì"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "那么", "pinyin": "nàme"},
+      {"hanzi": "客气", "pinyin": "kèqi"}
+    ],
+    "translation": "No seas tan formal con él."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "跟", "pinyin": "gēn"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "No vayas con él."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "只", "pinyin": "zhǐ"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "自己", "pinyin": "zìjǐ"},
+      {"hanzi": "做饭", "pinyin": "zuòfàn"}
+    ],
+    "translation": "No cocines solo para ti."
+  },
+  {
+    "words": [
+      {"hanzi": "告诉", "pinyin": "gàosu"},
+      {"hanzi": "大家", "pinyin": "dàjiā"},
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "来", "pinyin": "lái"}
+    ],
+    "translation": "Dile a todos que no vengan."
+  },
+  {
+    "words": [
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "你们", "pinyin": "nǐmen"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "不要", "pinyin": "bùyào"},
+      {"hanzi": "来", "pinyin": "lái"}
+    ],
+    "translation": "Que no venga ninguno de vosotros mañana."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "为", "pinyin": "wèi"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "件", "pinyin": "jiàn"},
+      {"hanzi": "事", "pinyin": "shì"}
+    ],
+    "translation": "No hagas esto por él."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "再", "pinyin": "zài"},
+      {"hanzi": "跟", "pinyin": "gēn"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "！", "pinyin": "!"}
+    ],
+    "translation": "¡No me hables más!"
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "跟", "pinyin": "gēn"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "一起", "pinyin": "yīqǐ"},
+      {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "No trabajes con él."
+  },
+  {
+    "words": [
+      {"hanzi": "水", "pinyin": "shuǐ"},
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "热", "pinyin": "rè"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "喝", "pinyin": "hē"}
+    ],
+    "translation": "El agua está muy caliente, no la bebas."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "累", "pinyin": "lèi"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "No te esfuerces demasiado."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "这些", "pinyin": "zhèxiē"},
+      {"hanzi": "水果", "pinyin": "shuǐguǒ"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "不好吃", "pinyin": "bù hǎochī"}
+    ],
+    "translation": "No compres estas frutas, no están buenas."
+  },
+  {
+    "words": [
+      {"hanzi": "别", "pinyin": "bié"},
+      {"hanzi": "哭", "pinyin": "kū"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "很好", "pinyin": "hěn hǎo"}
+    ],
+    "translation": "No llores, estoy bien."
+  },
+  {
+    "words": [
+      {"hanzi": "不要", "pinyin": "bùyào"},
+      {"hanzi": "这么", "pinyin": "zhème"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "！", "pinyin": "!"}
+    ],
+    "translation": "¡No hables así de mí!"
+  }
+]
