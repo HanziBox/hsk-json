@@ -1,0 +1,147 @@
+[
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "下雨", "pinyin": "xiàyǔ"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "公园", "pinyin": "gōngyuán"}
+    ],
+    "translation": "Si no llueve, iremos al parque."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "累", "pinyin": "lèi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "休息", "pinyin": "xiūxi"},
+      {"hanzi": "一下", "pinyin": "yīxià"}
+    ],
+    "translation": "Si estás cansado, descansa un poco."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "时间", "pinyin": "shíjiān"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "电话", "pinyin": "diànhuà"}
+    ],
+    "translation": "Si tienes tiempo, llámame por teléfono."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Si te gusta, cómpralo."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "天气", "pinyin": "tiānqì"},
+      {"hanzi": "好", "pinyin": "hǎo"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "游泳", "pinyin": "yóuyǒng"}
+    ],
+    "translation": "Si mañana hace buen tiempo, iremos a nadar."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "一起", "pinyin": "yīqǐ"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Si quieres ir, vamos juntos."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "不会", "pinyin": "bù huì"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "问", "pinyin": "wèn"},
+      {"hanzi": "老师", "pinyin": "lǎoshī"}
+    ],
+    "translation": "Si no sabes cómo hacerlo, pregúntale al profesor."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "没有", "pinyin": "méi yǒu"},
+      {"hanzi": "钱", "pinyin": "qián"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "买", "pinyin": "mǎi"}
+    ],
+    "translation": "Si no tienes dinero, no lo compres."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "饿", "pinyin": "è"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "点", "pinyin": "diǎn"},
+      {"hanzi": "东西", "pinyin": "dōngxi"}
+    ],
+    "translation": "Si tienes hambre, come algo."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "准备", "pinyin": "zhǔnbèi"},
+      {"hanzi": "好", "pinyin": "hǎo"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "出发", "pinyin": "chūfā"},
+      {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Si estás listo, partamos.",
+    "note": "📋NOTA: chūfā 出发 es partir o salir de viaje."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "可以", "pinyin": "kěyǐ"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "一点", "pinyin": "yīdiǎn"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "给", "pinyin": "gěi"}
+    ],
+    "translation": "Si puedes dar un poco más, da un poco más."
+  }
+]
