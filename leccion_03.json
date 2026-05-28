@@ -1,0 +1,163 @@
+[
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "爸爸", "pinyin": "bàba"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "朋友", "pinyin": "péngyou"}
+    ],
+    "translation": "El amigo de mi papá."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "朋友", "pinyin": "péngyou"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "La casa de mi amigo."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "书", "pinyin": "shū"}
+    ],
+    "translation": "Nuestros libros."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "El mío / La mía / Los míos / Las mías."
+  },
+  {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "La casa de ellos."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "朋友们", "pinyin": "péngyoumen"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "猫", "pinyin": "māo"}
+    ],
+    "translation": "El gato de mis amigos."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "爸爸", "pinyin": "bàba"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "手机", "pinyin": "shǒujī"}
+    ],
+    "translation": "El móvil de mi papá."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "学校", "pinyin": "xuéxiào"}
+    ],
+    "translation": "Nuestra escuela."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Nuestro."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "朋友", "pinyin": "péngyou"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "猫", "pinyin": "māo"}
+    ],
+    "translation": "El gato de nuestro amigo."
+  },
+  {
+    "words": [
+      {"hanzi": "她们", "pinyin": "tāmen"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "手机", "pinyin": "shǒujī"}
+    ],
+    "translation": "El móvil de ellas."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "爸爸", "pinyin": "bàba"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "La casa del papá de ella."
+  },
+  {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "El de ellos / La de ellos / Los de ellos / Las de ellos."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "猫", "pinyin": "māo"}
+    ],
+    "translation": "Mi gato."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Tu casa."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "房子", "pinyin": "fángzi"}
+    ],
+    "translation": "La casa de mi profesor."
+  },
+  {
+    "words": [
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "Del profesor."
+  },
+  {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "妈妈", "pinyin": "māma"}
+    ],
+    "translation": "La mamá de ellos."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "妈妈", "pinyin": "māma"}
+    ],
+    "translation": "Mi mamá."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "的", "pinyin": "de"}
+    ],
+    "translation": "De él."
+  }
+]
