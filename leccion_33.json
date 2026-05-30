@@ -182,6 +182,21 @@
 "note": "📋NOTA: kōng 空 es vacío, en este caso es un adjetivo absoluto."
 },
     {
+  "words": [
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+    {"hanzi": "这", "pinyin": "zhè"},
+    {"hanzi": "个", "pinyin": "gè"},
+    {"hanzi": "，", "pinyin": ","},
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "最", "pinyin": "zuì"},
+    {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+    {"hanzi": "哪", "pinyin": "nǎ"},
+    {"hanzi": "个", "pinyin": "gè"}
+  ],
+  "translation": "Me gusta este, ¿cuál es el que más te gusta a ti?"
+},
+    {
         "words": [
             {
                 "hanzi": "这",
