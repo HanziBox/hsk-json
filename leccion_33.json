@@ -79,6 +79,16 @@
         "translation": "¿A quién le gusta comer carne?"
     },
     {
+  "words": [
+    {"hanzi": "他们", "pinyin": "tāmen"},
+    {"hanzi": "昨天", "pinyin": "zuótiān"},
+    {"hanzi": "为什么", "pinyin": "wèishénme"},
+    {"hanzi": "没", "pinyin": "méi"},
+    {"hanzi": "来", "pinyin": "lái"}
+  ],
+  "translation": "¿Por qué no vinieron ayer?"
+},
+    {
         "words": [
             {
                 "hanzi": "你",
