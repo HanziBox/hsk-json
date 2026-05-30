@@ -850,6 +850,18 @@
         "translation": "¿Qué preguntas tienes?"
     },
     {
+  "words": [
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "爸爸", "pinyin": "bàba"},
+    {"hanzi": "有", "pinyin": "yǒu"},
+    {"hanzi": "几", "pinyin": "jǐ"},
+    {"hanzi": "份", "pinyin": "fèn"},
+    {"hanzi": "工作", "pinyin": "gōngzuò"}
+  ],
+  "translation": "¿Cuántos trabajos tiene tu padre?",
+  "note": "📋NOTA: fèn 份 es el clasificador para referirse a un trabajo."
+},
+    {
         "words": [
             {
                 "hanzi": "谁",
