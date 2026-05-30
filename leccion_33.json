@@ -162,6 +162,15 @@
         "translation": "¿Cuántos libros tienes?"
     },
     {
+  "words": [
+    {"hanzi": "谁", "pinyin": "shéi"},
+    {"hanzi": "今天", "pinyin": "jīntiān"},
+    {"hanzi": "下午", "pinyin": "xiàwǔ"},
+    {"hanzi": "去", "pinyin": "qù"}
+  ],
+  "translation": "¿Quién va esta tarde?"
+},
+    {
 "words": [
 {"hanzi": "为什么", "pinyin": "wèishénme"},
 {"hanzi": "是", "pinyin": "shì"},
