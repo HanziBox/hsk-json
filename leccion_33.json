@@ -444,6 +444,18 @@
                 ],
                 "translation": "Cuánto cuesta por noche?"
             },
+    {
+  "words": [
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "爸爸", "pinyin": "bàba"},
+    {"hanzi": "的", "pinyin": "de"},
+    {"hanzi": "手机", "pinyin": "shǒujī"},
+    {"hanzi": "是", "pinyin": "shì"},
+    {"hanzi": "哪", "pinyin": "nǎ"},
+      {"hanzi": "个", "pinyin": "ge"}
+  ],
+  "translation": "¿Cuál es el móvil de tu papá?"
+},
             {
                 "words": [
                     {
