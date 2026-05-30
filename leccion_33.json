@@ -226,6 +226,16 @@
         "translation": "¿Cuánto cuesta esta ropa?"
     },
     {
+  "words": [
+    {"hanzi": "哪", "pinyin": "nǎ"},
+    {"hanzi": "个", "pinyin": "gè"},
+    {"hanzi": "是", "pinyin": "shì"},
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "老师", "pinyin": "lǎoshī"}
+  ],
+  "translation": "¿Cuál (de ellos) es tu profesor?"
+},
+    {
         "words": [
             {
                 "hanzi": "你",
