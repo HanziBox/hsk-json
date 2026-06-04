@@ -15,6 +15,33 @@
     "translation": "Como tengo cosas que hacer hoy, no puedo ir.",
     "note": "📋NOTA: 有事 es tener cosas que hacer o asuntos que atender."
   },
+    {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "票", "pinyin": "piào"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "进", "pinyin": "jìn"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Como no tengo entrada, no puedo entrar.",
+    "note": "📋NOTA: Aquí 'no poder entrar' usa el complemento potencial."
+  },
+    {
+    "words": [
+      {"hanzi": "连", "pinyin": "lián"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "妈妈", "pinyin": "māma"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "用", "pinyin": "yòng"},
+      {"hanzi": "电脑", "pinyin": "diànnǎo"}
+    ],
+    "translation": "Hasta mi mamá sabe usar el ordenador."
+  },
   {
     "words": [
       {"hanzi": "因为", "pinyin": "yīnwèi"},
@@ -103,18 +130,6 @@
       {"hanzi": "睡觉", "pinyin": "shuìjiào"}
     ],
     "translation": "Como estoy muy cansado, quiero dormir."
-  },
-  {
-    "words": [
-      {"hanzi": "连", "pinyin": "lián"},
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "妈妈", "pinyin": "māma"},
-      {"hanzi": "都", "pinyin": "dōu"},
-      {"hanzi": "会", "pinyin": "huì"},
-      {"hanzi": "用", "pinyin": "yòng"},
-      {"hanzi": "电脑", "pinyin": "diànnǎo"}
-    ],
-    "translation": "Hasta mi mamá sabe usar el ordenador."
   },
   {
     "words": [
@@ -453,20 +468,5 @@
     ],
     "translation": "Como hay demasiada tarea, no puedo terminarla hoy.",
     "note": "📋NOTA: Aquí 'no poder acabar' usa el complemento potencial."
-  },
-  {
-    "words": [
-      {"hanzi": "因为", "pinyin": "yīnwèi"},
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "没有", "pinyin": "méiyǒu"},
-      {"hanzi": "票", "pinyin": "piào"},
-      {"hanzi": "，", "pinyin": ","},
-      {"hanzi": "所以", "pinyin": "suǒyǐ"},
-      {"hanzi": "进", "pinyin": "jìn"},
-      {"hanzi": "不", "pinyin": "bù"},
-      {"hanzi": "去", "pinyin": "qù"}
-    ],
-    "translation": "Como no tengo entrada, no puedo entrar.",
-    "note": "📋NOTA: Aquí 'no poder entrar' usa el complemento potencial."
   }
 ]
