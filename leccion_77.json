@@ -1,0 +1,471 @@
+[
+  {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "有事", "pinyin": "yǒushì"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "能", "pinyin": "néng"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Como tengo cosas que hacer hoy, no puedo ir."
+  },
+  {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "下雨", "pinyin": "xiàyǔ"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "跑步", "pinyin": "pǎobù"}
+    ],
+    "translation": "Como ayer llovió, no fuimos a correr."
+  },
+  {
+    "words": [
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "只", "pinyin": "zhǐ"},
+      {"hanzi": "能", "pinyin": "néng"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "茶", "pinyin": "chá"}
+    ],
+    "translation": "Ya no queda café, así que solo puedes beber té."
+  },
+  {
+    "words": [
+      {"hanzi": "虽然", "pinyin": "suīrán"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "道", "pinyin": "dào"},
+      {"hanzi": "菜", "pinyin": "cài"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "难看", "pinyin": "nánkàn"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "但是", "pinyin": "dànshì"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "好吃", "pinyin": "hǎochī"}
+    ],
+    "translation": "Aunque este plato es feo, está muy rico."
+  },
+  {
+    "words": [
+      {"hanzi": "虽然", "pinyin": "suīrán"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "钱", "pinyin": "qián"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "但是", "pinyin": "dànshì"},
+      {"hanzi": "不想", "pinyin": "bùxiǎng"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "辆", "pinyin": "liàng"},
+      {"hanzi": "车", "pinyin": "chē"}
+    ],
+    "translation": "Aunque tengo dinero, no quiero comprar este coche."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "虽然", "pinyin": "suīrán"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "很多", "pinyin": "hěnduō"},
+      {"hanzi": "朋友", "pinyin": "péngyou"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "但是", "pinyin": "dànshì"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "快乐", "pinyin": "kuàilè"}
+    ],
+    "translation": "Aunque ella tiene muchos amigos, no es feliz."
+  },
+  {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "累", "pinyin": "lèi"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "Como estoy muy cansado, quiero dormir."
+  },
+  {
+    "words": [
+      {"hanzi": "连", "pinyin": "lián"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "妈妈", "pinyin": "māma"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "用", "pinyin": "yòng"},
+      {"hanzi": "电脑", "pinyin": "diànnǎo"}
+    ],
+    "translation": "Hasta mi mamá sabe usar el ordenador."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "时间", "pinyin": "shíjiān"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "家", "pinyin": "jiā"},
+      {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Si tienes tiempo, ven a mi casa."
+  },
+  {
+    "words": [
+      {"hanzi": "只要", "pinyin": "zhǐyào"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "网络", "pinyin": "wǎngluò"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "能", "pinyin": "néng"},
+      {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "Siempre que haya Internet, puedo trabajar.",
+    "note": "📋NOTA: Internet se dcie wǎngluò 网络."
+  },
+  {
+    "words": [
+      {"hanzi": "无论", "pinyin": "wúlùn"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "哪里", "pinyin": "nǎli"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "跟", "pinyin": "gēn"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "一起", "pinyin": "yīqǐ"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Adondequiera que vayas, quiero ir contigo."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "回家", "pinyin": "huíjiā"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "Tan pronto como llego a casa, me voy a dormir."
+  },
+  {
+    "words": [
+      {"hanzi": "虽然", "pinyin": "suīrán"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "忙", "pinyin": "máng"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "但是", "pinyin": "dànshì"},
+      {"hanzi": "每天", "pinyin": "měitiān"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "学习", "pinyin": "xuéxí"},
+      {"hanzi": "汉语", "pinyin": "hànyǔ"}
+    ],
+    "translation": "Aunque está muy ocupado, estudia chino todos los días."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "起床", "pinyin": "qǐchuáng"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "水", "pinyin": "shuǐ"}
+    ],
+    "translation": "En cuanto me levanto, bebo agua."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "看见", "pinyin": "kànjiàn"},
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "你好", "pinyin": "nǐhǎo"}
+    ],
+    "translation": "Tan pronto como veo al profesor, digo 'hola'."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不但", "pinyin": "bùdàn"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "而且", "pinyin": "érqiě"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "茶", "pinyin": "chá"}
+    ],
+    "translation": "No solo me gusta el café, (sino) también el té."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "不但", "pinyin": "bùdàn"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "唱歌", "pinyin": "chànggē"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "而且", "pinyin": "érqiě"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "跳舞", "pinyin": "tiàowǔ"}
+    ],
+    "translation": "Ella no solo sabe cantar, (sino que) también sabe bailar.",
+    "note": "📋NOTA: Recuerda que saber (hacer algo) se dice huì 会."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "完饭", "pinyin": "wánfàn"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "给", "pinyin": "gěi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "打", "pinyin": "dǎ"},
+      {"hanzi": "电话", "pinyin": "diànhuà"}
+    ],
+    "translation": "En cuanto termino de comer, te llamo."
+  },
+  {
+    "words": [
+      {"hanzi": "只要", "pinyin": "zhǐyào"},
+      {"hanzi": "时间", "pinyin": "shíjiān"},
+      {"hanzi": "够", "pinyin": "gòu"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "问题", "pinyin": "wèntí"}
+    ],
+    "translation": "Suficiente o bastante se dice gòu 够."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "鱼", "pinyin": "yú"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "只", "pinyin": "zhǐ"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "蔬菜", "pinyin": "shūcài"}
+    ],
+    "translation": "No me gusta el pescado, por eso solo como verduras."
+  },
+  {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "钱", "pinyin": "qián"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "能", "pinyin": "néng"},
+      {"hanzi": "买", "pinyin": "mǎi"},
+      {"hanzi": "电脑", "pinyin": "diànnǎo"}
+    ],
+    "translation": "Como no tiene dinero, no puede comprar un ordenador."
+  },
+  {
+    "words": [
+      {"hanzi": "虽然", "pinyin": "suīrán"},
+      {"hanzi": "天气", "pinyin": "tiānqì"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "冷", "pinyin": "lěng"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "但是", "pinyin": "dànshì"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "出去", "pinyin": "chūqù"}
+    ],
+    "translation": "Aunque hace mucho frío, quiero salir."
+  },
+  {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "昨天", "pinyin": "zuótiān"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "睡好", "pinyin": "shuìhǎo"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "累", "pinyin": "lèi"}
+    ],
+    "translation": "Como ayer no dormí bien, hoy estoy muy cansado."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "看到", "pinyin": "kàndào"},
+      {"hanzi": "妈妈", "pinyin": "māma"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "笑", "pinyin": "xiào"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "En cuanto vio a su mamá, sonrió."
+  },
+  {
+    "words": [
+      {"hanzi": "如果", "pinyin": "rúguǒ"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "有空", "pinyin": "yǒukòng"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "一起", "pinyin": "yīqǐ"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "电影", "pinyin": "diànyǐng"},
+      {"hanzi": "吧", "pinyin": "ba"}
+    ],
+    "translation": "Si mañana estás libre, vamos juntos a ver una película."
+  },
+  {
+    "words": [
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"},
+      {"hanzi": "城市", "pinyin": "chéngshì"},
+      {"hanzi": "不但", "pinyin": "bùdàn"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "漂亮", "pinyin": "piàoliang"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "而且", "pinyin": "érqiě"},
+      {"hanzi": "非常", "pinyin": "fēicháng"},
+      {"hanzi": "大", "pinyin": "dà"}
+    ],
+    "translation": "Esta ciudad no solo es (muy) bonita, sino también muy grande."
+  },
+  {
+    "words": [
+      {"hanzi": "只有", "pinyin": "zhǐyǒu"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "护照", "pinyin": "hùzhào"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "才", "pinyin": "cái"},
+      {"hanzi": "能", "pinyin": "néng"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "飞机", "pinyin": "fēijī"}
+    ],
+    "translation": "Solo si tienes pasaporte, puedes subirte al avión."
+  },
+  {
+    "words": [
+      {"hanzi": "无论", "pinyin": "wúlùn"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "相信", "pinyin": "xiāngxìn"}
+    ],
+    "translation": "Diga lo que diga ella, no le creo.",
+    "note": "📋NOTA: Creer, en este contexto, se dice xiāngxìn 相信."
+  },
+  {
+    "words": [
+      {"hanzi": "无论", "pinyin": "wúlùn"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "电影院", "pinyin": "diànyǐngyuàn"}
+    ],
+    "translation": "Vengas o no vengas, yo voy a ir al cine.",
+    "note": "📋NOTA: Recuerda la posición de dōu 都, siempre entre el sujeto y el verbo."
+  },
+  {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "得", "pinyin": "de"},
+      {"hanzi": "太", "pinyin": "tài"},
+      {"hanzi": "快", "pinyin": "kuài"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "不懂", "pinyin": "bùdǒng"}
+    ],
+    "translation": "Como habla demasiado rápido, no lo entiendo.",
+    "note": "📋NOTA: Aquí 了 forma parte de la expresión hecha 太...了."
+  },
+  {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "作业", "pinyin": "zuòyè"},
+      {"hanzi": "太多", "pinyin": "tài duō"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "完", "pinyin": "wán"}
+    ],
+    "translation": "Como hay demasiada tarea, no puedo terminarla hoy.",
+    "note": "📋NOTA: Aquí 'no poder acabar' usa el complemento potencial."
+  },
+  {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "票", "pinyin": "piào"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "进", "pinyin": "jìn"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Como no tengo entrada, no puedo entrar.",
+    "note": "📋NOTA: Aquí 'no poder entrar' usa el complemento potencial."
+  }
+]
