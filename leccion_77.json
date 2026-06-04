@@ -17,18 +17,15 @@
   },
     {
     "words": [
-      {"hanzi": "因为", "pinyin": "yīnwèi"},
       {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "没有", "pinyin": "méiyǒu"},
-      {"hanzi": "票", "pinyin": "piào"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "起床", "pinyin": "qǐchuáng"},
       {"hanzi": "，", "pinyin": ","},
-      {"hanzi": "所以", "pinyin": "suǒyǐ"},
-      {"hanzi": "进", "pinyin": "jìn"},
-      {"hanzi": "不", "pinyin": "bù"},
-      {"hanzi": "去", "pinyin": "qù"}
+      {"hanzi": "就", "pinyin": "jiù"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "水", "pinyin": "shuǐ"}
     ],
-    "translation": "Como no tengo entrada, no puedo entrar.",
-    "note": "📋NOTA: Aquí 'no poder entrar' usa el complemento potencial."
+    "translation": "En cuanto me levanto, bebo agua."
   },
     {
     "words": [
@@ -160,6 +157,21 @@
     "translation": "Siempre que haya Internet, puedo trabajar.",
     "note": "📋NOTA: Internet se dcie wǎngluò 网络."
   },
+      {
+    "words": [
+      {"hanzi": "因为", "pinyin": "yīnwèi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没有", "pinyin": "méiyǒu"},
+      {"hanzi": "票", "pinyin": "piào"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "所以", "pinyin": "suǒyǐ"},
+      {"hanzi": "进", "pinyin": "jìn"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Como no tengo entrada, no puedo entrar.",
+    "note": "📋NOTA: Aquí 'no poder entrar' usa el complemento potencial."
+  },
   {
     "words": [
       {"hanzi": "无论", "pinyin": "wúlùn"},
@@ -203,18 +215,6 @@
       {"hanzi": "汉语", "pinyin": "hànyǔ"}
     ],
     "translation": "Aunque está muy ocupado, estudia chino todos los días."
-  },
-  {
-    "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "一", "pinyin": "yī"},
-      {"hanzi": "起床", "pinyin": "qǐchuáng"},
-      {"hanzi": "，", "pinyin": ","},
-      {"hanzi": "就", "pinyin": "jiù"},
-      {"hanzi": "喝", "pinyin": "hē"},
-      {"hanzi": "水", "pinyin": "shuǐ"}
-    ],
-    "translation": "En cuanto me levanto, bebo agua."
   },
   {
     "words": [
