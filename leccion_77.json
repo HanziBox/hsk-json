@@ -296,7 +296,8 @@
       {"hanzi": "吃", "pinyin": "chī"},
       {"hanzi": "蔬菜", "pinyin": "shūcài"}
     ],
-    "translation": "No me gusta el pescado, por eso solo como verduras."
+    "translation": "No me gusta el pescado, por eso solo como verduras.",
+    "note": "📋NOTA: En este ejemplo hemos omitido yīnwèi 因为 en la primera parte."
   },
   {
     "words": [
