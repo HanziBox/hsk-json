@@ -372,7 +372,8 @@
       {"hanzi": "电影", "pinyin": "diànyǐng"},
       {"hanzi": "吧", "pinyin": "ba"}
     ],
-    "translation": "Si mañana estás libre, vamos juntos a ver una película."
+    "translation": "Si mañana estás libre, vamos juntos a ver una película.",
+    "note": "📋NOTA: yǒukòng 有空, literalmente 'tener vacío', significa tener tiempo libre, estar libre."
   },
   {
     "words": [
