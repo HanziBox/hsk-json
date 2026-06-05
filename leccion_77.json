@@ -67,7 +67,8 @@
       {"hanzi": "喝", "pinyin": "hē"},
       {"hanzi": "茶", "pinyin": "chá"}
     ],
-    "translation": "Ya no queda café, así que solo puedes beber té."
+    "translation": "Ya no queda café, así que solo puedes beber té.",
+    "note": "📋NOTA: En este ejemplo hemos omitido yīnwèi 因为 en la primera parte."
   },
   {
     "words": [
