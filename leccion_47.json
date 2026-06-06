@@ -85,6 +85,16 @@
     "translation": "¿Crees que ella vendrá mañana a nuestra casa?"
   },
   {
+  "words": [
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "觉得", "pinyin": "juéde"},
+    {"hanzi": "她", "pinyin": "tā"},
+    {"hanzi": "不", "pinyin": "bù"},
+    {"hanzi": "开心", "pinyin": "kāixīn"}
+  ],
+  "translation": "Me parece que ella no está feliz."
+},
+  {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "觉得", "pinyin": "juéde"},
