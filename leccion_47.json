@@ -10,6 +10,17 @@
     ],
     "translation": "Creo que mañana también lloverá."
   },
+    {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "位", "pinyin": "wèi"},
+      {"hanzi": "医生", "pinyin": "yīshēng"},
+      {"hanzi": "很好", "pinyin": "hěn hǎo"}
+    ],
+    "translation": "Opinamos que este doctor es muy bueno."
+  },
   {
   "words": [
     {"hanzi": "我", "pinyin": "wǒ"},
@@ -110,16 +121,6 @@
       {"hanzi": "这个", "pinyin": "zhège"}
     ],
     "translation": "Considero que todos debemos hacer esto."
-  },
-  {
-    "words": [
-      {"hanzi": "我们", "pinyin": "wǒmen"},
-      {"hanzi": "认为", "pinyin": "rènwéi"},
-      {"hanzi": "这位", "pinyin": "zhèwèi"},
-      {"hanzi": "医生", "pinyin": "yīshēng"},
-      {"hanzi": "很好", "pinyin": "hěn hǎo"}
-    ],
-    "translation": "Opinamos que este doctor es muy bueno."
   },
   {
     "words": [
