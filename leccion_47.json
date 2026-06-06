@@ -5,13 +5,9 @@
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "想", "pinyin": "xiǎng"},
       {"hanzi": "一", "pinyin": "yī"},
-      {"hanzi": "想", "pinyin": "xiǎng"},
-      {"hanzi": "，", "pinyin": ","},
-      {"hanzi": "好", "pinyin": "hǎo"},
-      {"hanzi": "吗", "pinyin": "ma"},
-      {"hanzi": "？", "pinyin": "?"}
+      {"hanzi": "想", "pinyin": "xiǎng"}
     ],
-    "translation": "Déjame pensarlo, ¿vale?"
+    "translation": "Déjame pensarlo."
   },
   {
     "words": [
