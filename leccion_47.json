@@ -312,7 +312,8 @@
       {"hanzi": "以为", "pinyin": "yǐwéi"},
       {"hanzi": "我们", "pinyin": "wǒmen"},
       {"hanzi": "一起", "pinyin": "yīqǐ"},
-      {"hanzi": "去了", "pinyin": "qùle"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "了", "pinyin": "le"},
       {"hanzi": "商店", "pinyin": "shāngdiàn"}
     ],
     "translation": "Ella pensaba que habíamos ido juntos a la tienda."
