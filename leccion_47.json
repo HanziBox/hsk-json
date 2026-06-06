@@ -10,6 +10,17 @@
     ],
     "translation": "Creo que mañana también lloverá."
   },
+  {
+  "words": [
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "觉得", "pinyin": "juéde"},
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "帅", "pinyin": "shuài"},
+    {"hanzi": "吗", "pinyin": "ma"},
+    {"hanzi": "？", "pinyin": "?"}
+  ],
+  "translation": "¿Crees que soy guapo?"
+},
     {
     "words": [
       {"hanzi": "我们", "pinyin": "wǒmen"},
