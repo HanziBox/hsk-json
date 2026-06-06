@@ -252,7 +252,7 @@
       {"hanzi": "很", "pinyin": "hěn"},
       {"hanzi": "好", "pinyin": "hǎo"}
     ],
-    "translation": "Me parece que aquí se está muy bien (este lugar es muy bueno)."
+    "translation": "Me parece que aquí se está muy bien (lit: aquí muy bueno)."
   },
   {
     "words": [
@@ -295,7 +295,8 @@
       {"hanzi": "以为", "pinyin": "yǐwéi"},
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "已经", "pinyin": "yǐjīng"},
-      {"hanzi": "来过", "pinyin": "láiguò"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "过", "pinyin": "guò"},
       {"hanzi": "这里", "pinyin": "zhèlǐ"},
       {"hanzi": "了", "pinyin": "le"}
     ],
