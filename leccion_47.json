@@ -17,9 +17,11 @@
       {"hanzi": "这", "pinyin": "zhè"},
       {"hanzi": "位", "pinyin": "wèi"},
       {"hanzi": "医生", "pinyin": "yīshēng"},
-      {"hanzi": "很好", "pinyin": "hěn hǎo"}
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "好", "pinyin": "hǎo"}
     ],
-    "translation": "Opinamos que este doctor es muy bueno."
+    "translation": "Opinamos que este doctor es muy bueno.",
+    "note": "📋NOTA: 位 es un clasificador, algo más formal, para personas"
   },
   {
   "words": [
