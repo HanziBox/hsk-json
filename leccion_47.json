@@ -147,6 +147,17 @@
     "translation": "Considero que todos debemos hacer esto."
   },
   {
+  "words": [
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "觉得", "pinyin": "juéde"},
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "在", "pinyin": "zài"},
+    {"hanzi": "说谎", "pinyin": "shuōhuǎng"}
+  ],
+  "translation": "Creo que estás mintiendo.",
+    "note": "📋NOTA: Mentir se dice en chino shuōhuǎng 说谎."
+},
+  {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "认为", "pinyin": "rènwéi"},
