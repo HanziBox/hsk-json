@@ -278,7 +278,8 @@
       {"hanzi": "以为", "pinyin": "yǐwéi"},
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "有", "pinyin": "yǒu"},
-      {"hanzi": "一辆", "pinyin": "yī liàng"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "辆", "pinyin": "liàng"},
       {"hanzi": "车", "pinyin": "chē"}
     ],
     "translation": "Pensaba que tenías un coche."
