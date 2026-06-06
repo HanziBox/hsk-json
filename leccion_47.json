@@ -167,16 +167,16 @@
     "translation": "No me parece que esto sea muy caro."
   }
 ],
-  {
+{
   "words": [
     {"hanzi": "我们", "pinyin": "wǒmen"},
     {"hanzi": "觉得", "pinyin": "juéde"},
     {"hanzi": "你", "pinyin": "nǐ"},
     {"hanzi": "可以", "pinyin": "kěyǐ"},
-    {"hanzi": "自己", "pinyin": "zìjǐ"},
+    {"hanzi": "一个人", "pinyin": "yī gè rén"},
     {"hanzi": "去", "pinyin": "qù"}
   ],
-  "translation": "Creemos que puedes ir tú mismo/a."
+  "translation": "Creemos que puedes ir tú solo/a."
 },
   {
     "words": [
