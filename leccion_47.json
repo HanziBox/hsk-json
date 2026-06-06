@@ -266,6 +266,18 @@
     "translation": "Pensaba que no te gustaba comer carne."
   },
   {
+  "words": [
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "以为", "pinyin": "yǐwéi"},
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "不", "pinyin": "bù"},
+    {"hanzi": "知道", "pinyin": "zhīdao"},
+    {"hanzi": "吗", "pinyin": "ma"},
+    {"hanzi": "？", "pinyin": "?"}
+  ],
+  "translation": "¿Crees que no lo sé?"
+},
+  {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "觉得", "pinyin": "juéde"},
