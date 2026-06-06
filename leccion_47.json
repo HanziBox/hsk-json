@@ -94,7 +94,8 @@
       {"hanzi": "很", "pinyin": "hěn"},
       {"hanzi": "难写", "pinyin": "nánxiě"}
     ],
-    "translation": "Él cree que los caracteres chinos son difíciles de escribir."
+    "translation": "Él cree que los caracteres chinos son difíciles de escribir.",
+    "note": "📋NOTA: nánxiě 难写 significa, literalmente, difícil de escribir."
   },
   {
     "words": [
