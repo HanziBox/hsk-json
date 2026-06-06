@@ -108,6 +108,17 @@
     "translation": "Me parece que a mi padre no le gusta beber café."
   },
   {
+  "words": [
+    {"hanzi": "我们", "pinyin": "wǒmen"},
+    {"hanzi": "觉得", "pinyin": "juéde"},
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "可以", "pinyin": "kěyǐ"},
+    {"hanzi": "自己", "pinyin": "zìjǐ"},
+    {"hanzi": "去", "pinyin": "qù"}
+  ],
+  "translation": "Creemos que puedes ir tú mismo/a."
+},
+  {
     "words": [
       {"hanzi": "他", "pinyin": "tā"},
       {"hanzi": "觉得", "pinyin": "juéde"},
