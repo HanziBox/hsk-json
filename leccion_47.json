@@ -107,6 +107,66 @@
     ],
     "translation": "Me parece que a mi padre no le gusta beber café."
   },
+  [
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想要", "pinyin": "xiǎngyào"},
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Qué crees que quiero?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "对", "pinyin": "duì"}
+    ],
+    "translation": "Creo que lo que dices no es correcto."
+  },
+  {
+    "words": [
+      {"hanzi": "您", "pinyin": "nín"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Qué piensa usted que hará ella?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "问题", "pinyin": "wèntí"}
+    ],
+    "translation": "No creo que él tenga problemas."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "贵", "pinyin": "guì"}
+    ],
+    "translation": "No me parece que esto sea muy caro."
+  }
+],
   {
   "words": [
     {"hanzi": "我们", "pinyin": "wǒmen"},
