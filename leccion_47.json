@@ -1,0 +1,370 @@
+[
+  {
+    "words": [
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "好", "pinyin": "hǎo"},
+      {"hanzi": "吗", "pinyin": "ma"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "Déjame pensarlo, ¿vale?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "也", "pinyin": "yě"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "下雨", "pinyin": "xiàyǔ"}
+    ],
+    "translation": "Creo que mañana también lloverá."
+  },
+  {
+  "words": [
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "觉得", "pinyin": "juéde"},
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "应该", "pinyin": "yīnggāi"},
+    {"hanzi": "让", "pinyin": "ràng"},
+    {"hanzi": "她", "pinyin": "tā"},
+    {"hanzi": "去", "pinyin": "qù"}
+  ],
+  "translation": "Creo que deberías dejarla ir."
+},
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "周末", "pinyin": "zhōumò"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "没空", "pinyin": "méikòng"}
+    ],
+    "translation": "Creo que él no estará libre este fin de semana."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "已经", "pinyin": "yǐjīng"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "学校", "pinyin": "xuéxiào"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Creo que ellos ya se han ido a la escuela."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "家", "pinyin": "jiā"},
+      {"hanzi": "吗", "pinyin": "ma"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Crees que ella vendrá mañana a nuestra casa?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "爸爸", "pinyin": "bàba"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "Me parece que a mi padre no le gusta beber café."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "汉字", "pinyin": "hànzì"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "难写", "pinyin": "nánxiě"}
+    ],
+    "translation": "Él cree que los caracteres chinos son difíciles de escribir."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "部", "pinyin": "bù"},
+      {"hanzi": "电影", "pinyin": "diànyǐng"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "有趣", "pinyin": "yǒuqù"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "呢", "pinyin": "ne"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "Me parece que esta película es muy interesante, ¿y a ti?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "该", "pinyin": "gāi"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "这个", "pinyin": "zhège"}
+    ],
+    "translation": "Considero que todos debemos hacer esto."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "这位", "pinyin": "zhèwèi"},
+      {"hanzi": "医生", "pinyin": "yīshēng"},
+      {"hanzi": "很好", "pinyin": "hěn hǎo"}
+    ],
+    "translation": "Opinamos que este doctor es muy bueno."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "个", "pinyin": "gè"},
+      {"hanzi": "好", "pinyin": "hǎo"},
+      {"hanzi": "老师", "pinyin": "lǎoshī"}
+    ],
+    "translation": "Opino que él es un buen profesor."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "已经", "pinyin": "yǐjīng"},
+      {"hanzi": "回家", "pinyin": "huíjiā"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Opino que ella ya ha vuelto a casa."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "下雨", "pinyin": "xiàyǔ"}
+    ],
+    "translation": "Opino que mañana lloverá."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "应该", "pinyin": "yīnggāi"},
+      {"hanzi": "休息", "pinyin": "xiūxi"}
+    ],
+    "translation": "Opino que deberías descansar."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "应该", "pinyin": "yīnggāi"},
+      {"hanzi": "多", "pinyin": "duō"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "水", "pinyin": "shuǐ"}
+    ],
+    "translation": "Opino que deberías beber más agua."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "怎么样", "pinyin": "zěnmeyàng"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Qué opinas de esto?"
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "谁", "pinyin": "shéi"},
+      {"hanzi": "最好", "pinyin": "zuìhǎo"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Quién crees que es el mejor?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "现在", "pinyin": "xiànzài"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Creo que ella está en casa ahora."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "你的", "pinyin": "nǐde"}
+    ],
+    "translation": "Creo que esto no es tuyo."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "以为", "pinyin": "yǐwéi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Pensaba que estabas en casa."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "以为", "pinyin": "yǐwéi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "不喜欢", "pinyin": "bù xǐhuān"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "肉", "pinyin": "ròu"}
+    ],
+    "translation": "Pensaba que no te gustaba comer carne."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "这里", "pinyin": "zhèlǐ"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "好", "pinyin": "hǎo"}
+    ],
+    "translation": "Me parece que aquí se está muy bien (este lugar es muy bueno)."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "爸爸", "pinyin": "bàba"},
+      {"hanzi": "认为", "pinyin": "rènwéi"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "应该", "pinyin": "yīnggāi"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "手机", "pinyin": "shǒujī"}
+    ],
+    "translation": "Mi papá cree que yo no debería tener teléfono móvil."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "以为", "pinyin": "yǐwéi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "一辆", "pinyin": "yī liàng"},
+      {"hanzi": "车", "pinyin": "chē"}
+    ],
+    "translation": "Pensaba que tenías un coche."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "以为", "pinyin": "yǐwéi"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "是", "pinyin": "shì"},
+      {"hanzi": "星期六", "pinyin": "xīngqīliù"}
+    ],
+    "translation": "Pensaba que hoy era sábado."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "以为", "pinyin": "yǐwéi"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "已经", "pinyin": "yǐjīng"},
+      {"hanzi": "来过", "pinyin": "láiguò"},
+      {"hanzi": "这里", "pinyin": "zhèlǐ"},
+      {"hanzi": "了", "pinyin": "le"}
+    ],
+    "translation": "Pensaba que ya habías estado aquí."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "以为", "pinyin": "yǐwéi"},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "一起", "pinyin": "yīqǐ"},
+      {"hanzi": "去了", "pinyin": "qùle"},
+      {"hanzi": "商店", "pinyin": "shāngdiàn"}
+    ],
+    "translation": "Ella pensaba que habíamos ido juntos a la tienda."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "手机", "pinyin": "shǒujī"},
+      {"hanzi": "有", "pinyin": "yǒu"},
+      {"hanzi": "一点儿", "pinyin": "yīdiǎnr"},
+      {"hanzi": "贵", "pinyin": "guì"}
+    ],
+    "translation": "Me parece que este móvil es un poco caro."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "今天", "pinyin": "jīntiān"},
+      {"hanzi": "不想", "pinyin": "bùxiǎng"},
+      {"hanzi": "上班", "pinyin": "shàngbān"}
+    ],
+    "translation": "Me parece que ella no quiere trabajar hoy."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "明天", "pinyin": "míngtiān"},
+      {"hanzi": "一定", "pinyin": "yīdìng"},
+      {"hanzi": "会", "pinyin": "huì"},
+      {"hanzi": "来", "pinyin": "lái"}
+    ],
+    "translation": "Creo que él seguro vendrá mañana."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "一定", "pinyin": "yīdìng"},
+      {"hanzi": "要", "pinyin": "yào"},
+      {"hanzi": "去看", "pinyin": "qùkàn"},
+      {"hanzi": "医生", "pinyin": "yīshēng"}
+    ],
+    "translation": "Creo que debes ir al médico sin falta."
+  }
+]
