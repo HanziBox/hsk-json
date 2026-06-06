@@ -184,7 +184,8 @@
     "words": [
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "认为", "pinyin": "rènwéi"},
-      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"},
       {"hanzi": "怎么样", "pinyin": "zěnmeyàng"},
       {"hanzi": "？", "pinyin": "?"}
     ],
