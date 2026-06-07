@@ -1,0 +1,233 @@
+[
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "学习", "pinyin": "xuéxí"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "音乐", "pinyin": "yīnyuè"}
+    ],
+    "translation": "Cuando estudio escucho música."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "聊天", "pinyin": "liáotiān"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "咖啡", "pinyin": "kāfēi"}
+    ],
+    "translation": "Charlamos mientras bebemos café."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "小", "pinyin": "xiǎo"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "胖", "pinyin": "pàng"},
+      {"hanzi": "吗", "pinyin": "ma"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Eras gordo cuando eras pequeño?"
+  },
+  {
+    "words": [
+      {"hanzi": "爸爸", "pinyin": "bàba"},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "做饭", "pinyin": "zuòfàn"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "唱歌", "pinyin": "chànggē"}
+    ],
+    "translation": "Papá canta mientras cocina."
+  },
+  {
+    "words": [
+      {"hanzi": "老师", "pinyin": "lǎoshī"},
+      {"hanzi": "说话", "pinyin": "shuōhuà"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "听", "pinyin": "tīng"}
+    ],
+    "translation": "Escuchamos cuando el profesor habla."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "地铁", "pinyin": "dìtiě"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "看书", "pinyin": "kànshū"}
+    ],
+    "translation": "Cuando voy en metro leo."
+  },
+  {
+    "words": [
+      {"hanzi": "朋友", "pinyin": "péngyǒu"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "高兴", "pinyin": "gāoxìng"}
+    ],
+    "translation": "Estoy muy feliz cuando vienen mis amigos."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "做饭", "pinyin": "zuòfàn"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "音乐", "pinyin": "yīnyuè"}
+    ],
+    "translation": "Cuando cocino me gusta escuchar música."
+  },
+  {
+    "words": [
+      {"hanzi": "考试", "pinyin": "kǎoshì"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "能", "pinyin": "néng"},
+      {"hanzi": "说话", "pinyin": "shuōhuà"}
+    ],
+    "translation": "No se puede hablar durante el examen."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "走路", "pinyin": "zǒulù"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "音乐", "pinyin": "yīnyuè"}
+    ],
+    "translation": "Camino mientras escucho música."
+  },
+  {
+    "words": [
+      {"hanzi": "下去", "pinyin": "xiàqù"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "小心", "pinyin": "xiǎoxīn"},
+      {"hanzi": "一点儿", "pinyin": "yīdiǎnr"}
+    ],
+    "translation": "Ten (un poco de) cuidado al bajar."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "十八", "pinyin": "shíbā"},
+      {"hanzi": "岁", "pinyin": "suì"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "离开", "pinyin": "líkāi"},
+      {"hanzi": "了", "pinyin": "le"},
+      {"hanzi": "家", "pinyin": "jiā"}
+    ],
+    "translation": "Me fui de casa cuando tenía 18 años."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "小", "pinyin": "xiǎo"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "以为", "pinyin": "yǐwéi"},
+      {"hanzi": "说", "pinyin": "shuō"},
+      {"hanzi": "汉语", "pinyin": "hànyǔ"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "容易", "pinyin": "róngyì"}
+    ],
+    "translation": "Cuando era pequeño pensaba que hablar chino era fácil."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "不", "pinyin": "bù"},
+      {"hanzi": "忙", "pinyin": "máng"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Qué te gusta hacer cuando no estás ocupado?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "等", "pinyin": "děng"},
+      {"hanzi": "公交车", "pinyin": "gōngjiāochē"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "音乐", "pinyin": "yīnyuè"}
+    ],
+    "translation": "Escucho música cuando espero al autobús.",
+    "note": "📋NOTA: gōngjiāochē 公交车 es autobús público."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "喜欢", "pinyin": "xǐhuān"},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "洗澡", "pinyin": "xǐzǎo"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "唱歌", "pinyin": "chànggē"}
+    ],
+    "translation": "A él le gusta mucho cantar mientras se ducha."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "抽烟", "pinyin": "chōuyān"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "一边", "pinyin": "yībiān"},
+      {"hanzi": "看着", "pinyin": "kànzhe"},
+      {"hanzi": "我", "pinyin": "wǒ"}
+    ],
+    "translation": "Él me mira mientras fuma."
+  },
+  {
+    "words": [
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "难过", "pinyin": "nánguò"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "做", "pinyin": "zuò"},
+      {"hanzi": "什么", "pinyin": "shénme"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "¿Qué haces cuando estás triste?"
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "住", "pinyin": "zhù"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "中国", "pinyin": "zhōngguó"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "时候", "pinyin": "shíhou"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "开心", "pinyin": "kāixīn"}
+    ],
+    "translation": "Estaba muy feliz cuando vivía en China.",
+    "note": "📋NOTA: Recuerda que zài 在 va detrás del verbo zhù 住 (lección 14)."
+  }
+]
