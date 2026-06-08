@@ -9,6 +9,17 @@
     "translation": "Estoy comiendo."
   },
   {
+  "words": [
+    {"hanzi": "她", "pinyin": "tā"},
+    {"hanzi": "穿", "pinyin": "chuān"},
+    {"hanzi": "着", "pinyin": "zhe"},
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "的", "pinyin": "de"},
+    {"hanzi": "衣服", "pinyin": "yīfu"}
+  ],
+  "translation": "Ella lleva puesta tu ropa."
+},
+  {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "弟弟", "pinyin": "dìdi"},
@@ -227,16 +238,5 @@
   ],
   "translation": "La tienda de mi madre está abierta.",
     "note": "📋NOTA: De forma coloquial abreviar shāngdiàn 商店 (tienda) a solo diàn 店."
-},
-{
-  "words": [
-    {"hanzi": "她", "pinyin": "tā"},
-    {"hanzi": "穿", "pinyin": "chuān"},
-    {"hanzi": "着", "pinyin": "zhe"},
-    {"hanzi": "你", "pinyin": "nǐ"},
-    {"hanzi": "的", "pinyin": "de"},
-    {"hanzi": "衣服", "pinyin": "yīfu"}
-  ],
-  "translation": "Ella lleva puesta tu ropa."
 }
 ]
