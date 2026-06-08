@@ -54,6 +54,17 @@
     ],
     "translation": "Dormí dos días enteros."
 },
+    {
+  "words": [
+    {"hanzi": "所有", "pinyin": "suǒyǒu"},
+    {"hanzi": "的", "pinyin": "de"},
+    {"hanzi": "灯", "pinyin": "dēng"},
+    {"hanzi": "都", "pinyin": "dōu"},
+    {"hanzi": "关", "pinyin": "guān"},
+    {"hanzi": "着", "pinyin": "zhe"}
+  ],
+  "translation": "Todas las luces están apagadas."
+},
 {
     "words": [
         {"hanzi": "大家", "pinyin": "dàjiā"},
