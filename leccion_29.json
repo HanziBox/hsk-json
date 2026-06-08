@@ -1,0 +1,241 @@
+[
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "吃饭", "pinyin": "chīfàn"},
+      {"hanzi": "呢", "pinyin": "ne"}
+    ],
+    "translation": "Estoy comiendo."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "弟弟", "pinyin": "dìdi"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "Mi hermano menor todavía está durmiendo."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "和", "pinyin": "hé"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "喝", "pinyin": "hē"},
+      {"hanzi": "啤酒", "pinyin": "píjiǔ"},
+      {"hanzi": "呢", "pinyin": "ne"}
+    ],
+    "translation": "Ella y yo estamos bebiendo cerveza."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "爸爸", "pinyin": "bàba"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "工作", "pinyin": "gōngzuò"},
+      {"hanzi": "呢", "pinyin": "ne"}
+    ],
+    "translation": "Mi papá todavía está trabajando."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "穿", "pinyin": "chuān"},
+      {"hanzi": "着", "pinyin": "zhe"},
+      {"hanzi": "红", "pinyin": "hóng"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Ella lleva puesta ropa roja."
+  },
+  {
+    "words": [
+      {"hanzi": "小狗", "pinyin": "xiǎogǒu"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "着", "pinyin": "zhe"}
+    ],
+    "translation": "El perrito está sentado."
+  },
+  {
+    "words": [
+      {"hanzi": "那", "pinyin": "nà"},
+      {"hanzi": "只", "pinyin": "zhī"},
+      {"hanzi": "黑色", "pinyin": "hēisè"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "小", "pinyin": "xiǎo"},
+      {"hanzi": "猫", "pinyin": "māo"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "吃", "pinyin": "chī"},
+      {"hanzi": "鱼", "pinyin": "yú"}
+    ],
+    "translation": "Ese gatito negro está comiendo pescado."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "着", "pinyin": "zhe"},
+      {"hanzi": "看书", "pinyin": "kànshū"}
+    ],
+    "translation": "Estoy leyendo sentado."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "躺", "pinyin": "tǎng"},
+      {"hanzi": "着", "pinyin": "zhe"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "音乐", "pinyin": "yīnyuè"}
+    ],
+    "translation": "Ella está escuchando música acostada."
+  },
+  {
+    "words": [
+      {"hanzi": "我们", "pinyin": "wǒmen"},
+      {"hanzi": "坐", "pinyin": "zuò"},
+      {"hanzi": "着", "pinyin": "zhe"},
+      {"hanzi": "聊天", "pinyin": "liáotiān"}
+    ],
+    "translation": "Estamos charlando sentados."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "电视", "pinyin": "diànshì"}
+    ],
+    "translation": "Estoy viendo la televisión."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "和", "pinyin": "hé"},
+      {"hanzi": "朋友", "pinyin": "péngyǒu"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "跳舞", "pinyin": "tiàowǔ"}
+    ],
+    "translation": "Mis amigos y yo estamos bailando."
+  },
+  {
+    "words": [
+      {"hanzi": "他们", "pinyin": "tāmen"},
+      {"hanzi": "都", "pinyin": "dōu"},
+      {"hanzi": "穿", "pinyin": "chuān"},
+      {"hanzi": "着", "pinyin": "zhe"},
+      {"hanzi": "黑色", "pinyin": "hēisè"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Todos ellos llevan ropa negra."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "做饭", "pinyin": "zuòfàn"},
+      {"hanzi": "呢", "pinyin": "ne"}
+    ],
+    "translation": "Ella está cocinando."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "听", "pinyin": "tīng"},
+      {"hanzi": "音乐", "pinyin": "yīnyuè"}
+    ],
+    "translation": "Él está escuchando música."
+  },
+  {
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "工作", "pinyin": "gōngzuò"}
+    ],
+    "translation": "No estoy trabajando."
+  },
+  {
+    "words": [
+      {"hanzi": "他", "pinyin": "tā"},
+      {"hanzi": "现在", "pinyin": "xiànzài"},
+      {"hanzi": "没", "pinyin": "méi"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "学", "pinyin": "xué"},
+      {"hanzi": "汉语", "pinyin": "hànyǔ"}
+    ],
+    "translation": "Él no está estudiando chino ahora."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "还", "pinyin": "hái"},
+      {"hanzi": "在", "pinyin": "zài"},
+      {"hanzi": "睡觉", "pinyin": "shuìjiào"}
+    ],
+    "translation": "Ella todavía está durmiendo."
+  },
+  {
+    "words": [
+      {"hanzi": "那", "pinyin": "nà"},
+      {"hanzi": "个", "pinyin": "ge"},
+      {"hanzi": "男人", "pinyin": "nánrén"},
+      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "着", "pinyin": "zhe"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "呢", "pinyin": "ne"}
+    ],
+    "translation": "Ese hombre te está mirando."
+  },
+  {
+    "words": [
+      {"hanzi": "那", "pinyin": "nà"},
+      {"hanzi": "家", "pinyin": "jiā"},
+      {"hanzi": "小", "pinyin": "xiǎo"},
+      {"hanzi": "商店", "pinyin": "shāngdiàn"},
+      {"hanzi": "关", "pinyin": "guān"},
+      {"hanzi": "着", "pinyin": "zhe"}
+    ],
+    "translation": "Esa pequeña tienda está cerrada."
+  },
+  {
+    "words": [
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "穿", "pinyin": "chuān"},
+      {"hanzi": "着", "pinyin": "zhe"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "件", "pinyin": "jiàn"},
+      {"hanzi": "很", "pinyin": "hěn"},
+      {"hanzi": "漂亮", "pinyin": "piàoliang"},
+      {"hanzi": "的", "pinyin": "de"},
+      {"hanzi": "衣服", "pinyin": "yīfu"}
+    ],
+    "translation": "Ella lleva puesta una ropa muy bonita."
+  },
+  {
+  "words": [
+    {"hanzi": "我", "pinyin": "wǒ"},
+    {"hanzi": "妈妈", "pinyin": "māma"},
+    {"hanzi": "的", "pinyin": "de"},
+    {"hanzi": "店", "pinyin": "diàn"},
+    {"hanzi": "开", "pinyin": "kāi"},
+    {"hanzi": "着", "pinyin": "zhe"}
+  ],
+  "translation": "La tienda de mi madre está abierta."
+},
+{
+  "words": [
+    {"hanzi": "她", "pinyin": "tā"},
+    {"hanzi": "穿", "pinyin": "chuān"},
+    {"hanzi": "着", "pinyin": "zhe"},
+    {"hanzi": "你", "pinyin": "nǐ"},
+    {"hanzi": "的", "pinyin": "de"},
+    {"hanzi": "衣服", "pinyin": "yīfu"}
+  ],
+  "translation": "Ella lleva puesta tu ropa."
+}
+]
