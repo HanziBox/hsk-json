@@ -225,7 +225,8 @@
     {"hanzi": "开", "pinyin": "kāi"},
     {"hanzi": "着", "pinyin": "zhe"}
   ],
-  "translation": "La tienda de mi madre está abierta."
+  "translation": "La tienda de mi madre está abierta.",
+    "note": "📋NOTA: De forma coloquial abreviar shāngdiàn 商店 (tienda) a solo diàn 店."
 },
 {
   "words": [
