@@ -20,7 +20,7 @@
     {"hzId": "仪", "hzPinyin": "yí", "hzTrad": "Ceremonia", "hzHsk": 5},
     {"hzId": "优", "hzPinyin": "yōu", "hzTrad": "Excelente", "hzHsk": 5},
     {"hzId": "儒", "hzPinyin": "rú", "hzTrad": "Confuciano", "hzHsk": 6}
-  ]
+  ],
   "口": [
     { "hzId": "吃", "hzPinyin": "chī", "hzTrad": "Comer", "hzHsk": 1 },
     { "hzId": "叫", "hzPinyin": "jiào", "hzTrad": "Llamar", "hzHsk": 1 }
