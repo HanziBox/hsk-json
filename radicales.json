@@ -1,100 +1,46 @@
 {
-"人-亻": [
-    {"hzId": "你", "hzPinyin": "nǐ", "hzTrad": "Tú", "hzHsk": 1},
-    {"hzId": "他", "hzPinyin": "tā", "hzTrad": "Él", "hzHsk": 1},
-    {"hzId": "们", "hzPinyin": "men", "hzTrad": "Plural", "hzHsk": 1},
-    {"hzId": "个", "hzPinyin": "gè", "hzTrad": "Clasificador", "hzHsk": 1},
-    {"hzId": "做", "hzPinyin": "zuò", "hzTrad": "Hacer", "hzHsk": 1},
-    {"hzId": "休", "hzPinyin": "xiū", "hzTrad": "Descansar", "hzHsk": 2},
-    {"hzId": "位", "hzPinyin": "wèi", "hzTrad": "Señor / Posición", "hzHsk": 2},
-    {"hzId": "借", "hzPinyin": "jiè", "hzTrad": "Prestar", "hzHsk": 2},
-    {"hzId": "件", "hzPinyin": "jiàn", "hzTrad": "Pieza / Asunto", "hzHsk": 2},
-    {"hzId": "便", "hzPinyin": "biàn", "hzTrad": "Conveniente", "hzHsk": 3},
-    {"hzId": "但", "hzPinyin": "dàn", "hzTrad": "Pero", "hzHsk": 3},
-    {"hzId": "似", "hzPinyin": "sì", "hzTrad": "Parecer", "hzHsk": 3},
-    {"hzId": "值", "hzPinyin": "zhí", "hzTrad": "Valor / Turno", "hzHsk": 3},
-    {"hzId": "伟", "hzPinyin": "wěi", "hzTrad": "Grandioso", "hzHsk": 4},
-    {"hzId": "传", "hzPinyin": "chuán", "hzTrad": "Transmitir", "hzHsk": 4},
-    {"hzId": "保", "hzPinyin": "bǎo", "hzTrad": "Proteger", "hzHsk": 4},
-    {"hzId": "像", "hzPinyin": "xiàng", "hzTrad": "Imagen / Parecerse", "hzHsk": 4},
-    {"hzId": "仪", "hzPinyin": "yí", "hzTrad": "Ceremonia", "hzHsk": 5},
-    {"hzId": "优", "hzPinyin": "yōu", "hzTrad": "Excelente", "hzHsk": 5},
-    {"hzId": "儒", "hzPinyin": "rú", "hzTrad": "Confuciano", "hzHsk": 6}
-  ],
-  "口": [
-    { "hzId": "吃", "hzPinyin": "chī", "hzTrad": "Comer", "hzHsk": 1 },
-    { "hzId": "叫", "hzPinyin": "jiào", "hzTrad": "Llamar", "hzHsk": 1 }
-  ],
-  "女": [
-    { "hzId": "妈", "hzPinyin": "mā", "hzTrad": "Madre", "hzHsk": 1 },
-    { "hzId": "好", "hzPinyin": "hǎo", "hzTrad": "Bueno", "hzHsk": 1 }
-  ],
-  "子": [
-    { "hzId": "孩", "hzPinyin": "hái", "hzTrad": "Niño", "hzHsk": 2 },
-    { "hzId": "学", "hzPinyin": "xué", "hzTrad": "Estudiar", "hzHsk": 1 }
-  ],
-  "心-忄": [
-    { "hzId": "想", "hzPinyin": "xiǎng", "hzTrad": "Pensar", "hzHsk": 1 },
-    { "hzId": "忙", "hzPinyin": "máng", "hzTrad": "Ocupado", "hzHsk": 1 }
-  ],
-  "手-         ": [
-    { "hzId": "打", "hzPinyin": "dǎ", "hzTrad": "Golpear", "hzHsk": 1 },
-    { "hzId": "拿", "hzPinyin": "ná", "hzTrad": "Tomar", "hzHsk": 2 }
-  ],
-  "水-氵": [
-    { "hzId": "海", "hzPinyin": "hǎi", "hzTrad": "Mar", "hzHsk": 2 },
-    { "hzId": "河", "hzPinyin": "hé", "hzTrad": "Río", "hzHsk": 2 }
-  ],
-  "火-灬": [
-    { "hzId": "灯", "hzPinyin": "dēng", "hzTrad": "Lámpara", "hzHsk": 2 },
-    { "hzId": "热", "hzPinyin": "rè", "hzTrad": "Calor", "hzHsk": 1 }
-  ],
-  "木": [
-    { "hzId": "本", "hzPinyin": "běn", "hzTrad": "Origen", "hzHsk": 1 },
-    { "hzId": "机", "hzPinyin": "jī", "hzTrad": "Máquina", "hzHsk": 1 }
-  ],
-  "艹": [
-    { "hzId": "茶", "hzPinyin": "chá", "hzTrad": "Té", "hzHsk": 1 },
-    { "hzId": "菜", "hzPinyin": "cài", "hzTrad": "Plato", "hzHsk": 1 }
-  ],
-  "土": [
-    { "hzId": "地", "hzPinyin": "dì", "hzTrad": "Tierra", "hzHsk": 2 },
-    { "hzId": "坏", "hzPinyin": "huài", "hzTrad": "Malo", "hzHsk": 2 }
-  ],
-  "日": [
-    { "hzId": "明", "hzPinyin": "míng", "hzTrad": "Claro", "hzHsk": 1 },
-    { "hzId": "时", "hzPinyin": "shí", "hzTrad": "Tiempo", "hzHsk": 1 }
-  ],
-  "月": [
-    { "hzId": "朋", "hzPinyin": "péng", "hzTrad": "Amigo", "hzHsk": 1 },
-    { "hzId": "脸", "hzPinyin": "liǎn", "hzTrad": "Cara", "hzHsk": 2 }
-  ],
-  "金-钅": [
-    { "hzId": "钱", "hzPinyin": "qián", "hzTrad": "Dinero", "hzHsk": 1 },
-    { "hzId": "错", "hzPinyin": "cuò", "hzTrad": "Error", "hzHsk": 2 }
-  ],
-  "言-讠": [
-    { "hzId": "说", "hzPinyin": "shuō", "hzTrad": "Hablar", "hzHsk": 1 },
-    { "hzId": "语", "hzPinyin": "yǔ", "hzTrad": "Idioma", "hzHsk": 1 }
-  ],
-  "宀": [
-    { "hzId": "家", "hzPinyin": "jiā", "hzTrad": "Casa", "hzHsk": 1 },
-    { "hzId": "字", "hzPinyin": "zì", "hzTrad": "Carácter", "hzHsk": 1 }
-  ],
-  "门": [
-    { "hzId": "闭", "hzPinyin": "bì", "hzTrad": "Cerrar", "hzHsk": 3 },
-    { "hzId": "问", "hzPinyin": "wèn", "hzTrad": "Preguntar", "hzHsk": 1 }
-  ],
-  "衣-衤": [
-    { "hzId": "衬", "hzPinyin": "chèn", "hzTrad": "Camisa", "hzHsk": 3 },
-    { "hzId": "裤", "hzPinyin": "kù", "hzTrad": "Pantalón", "hzHsk": 3 }
-  ],
-  "贝": [
-    { "hzId": "贵", "hzPinyin": "guì", "hzTrad": "Caro", "hzHsk": 2 },
-    { "hzId": "员", "hzPinyin": "yuán", "hzTrad": "Empleado", "hzHsk": 2 }
-  ],
-  "辶": [
-    { "hzId": "进", "hzPinyin": "jìn", "hzTrad": "Entrar", "hzHsk": 1 },
-    { "hzId": "远", "yuǎn": "yuǎn", "hzTrad": "Lejos", "hzHsk": 2 }
-  ]
+  "人-亻": {
+    "hzSignificado": "Persona",
+    "datos": [
+      {"hzId": "你", "hzPinyin": "nǐ", "hzTrad": "Tú", "hzHsk": 1},
+      {"hzId": "他", "hzPinyin": "tā", "hzTrad": "Él", "hzHsk": 1},
+      {"hzId": "们", "hzPinyin": "men", "hzTrad": "Plural", "hzHsk": 1},
+      {"hzId": "个", "hzPinyin": "gè", "hzTrad": "Clasificador", "hzHsk": 1},
+      {"hzId": "做", "hzPinyin": "zuò", "hzTrad": "Hacer", "hzHsk": 1},
+      {"hzId": "休", "hzPinyin": "xiū", "hzTrad": "Descansar", "hzHsk": 2},
+      {"hzId": "位", "hzPinyin": "wèi", "hzTrad": "Señor / Posición", "hzHsk": 2},
+      {"hzId": "借", "hzPinyin": "jiè", "hzTrad": "Prestar", "hzHsk": 2},
+      {"hzId": "件", "hzPinyin": "jiàn", "hzTrad": "Pieza / Asunto", "hzHsk": 2},
+      {"hzId": "便", "hzPinyin": "biàn", "hzTrad": "Conveniente", "hzHsk": 3},
+      {"hzId": "但", "hzPinyin": "dàn", "hzTrad": "Pero", "hzHsk": 3},
+      {"hzId": "似", "hzPinyin": "sì", "hzTrad": "Parecer", "hzHsk": 3},
+      {"hzId": "值", "hzPinyin": "zhí", "hzTrad": "Valor / Turno", "hzHsk": 3},
+      {"hzId": "伟", "hzPinyin": "wěi", "hzTrad": "Grandioso", "hzHsk": 4},
+      {"hzId": "传", "hzPinyin": "chuán", "hzTrad": "Transmitir", "hzHsk": 4},
+      {"hzId": "保", "hzPinyin": "bǎo", "hzTrad": "Proteger", "hzHsk": 4},
+      {"hzId": "像", "hzPinyin": "xiàng", "hzTrad": "Imagen / Parecerse", "hzHsk": 4},
+      {"hzId": "仪", "hzPinyin": "yí", "hzTrad": "Ceremonia", "hzHsk": 5},
+      {"hzId": "优", "hzPinyin": "yōu", "hzTrad": "Excelente", "hzHsk": 5},
+      {"hzId": "儒", "hzPinyin": "rú", "hzTrad": "Confuciano", "hzHsk": 6}
+    ]
+  },
+  "口": { "hzSignificado": "Boca", "datos": [ { "hzId": "吃", "hzPinyin": "chī", "hzTrad": "Comer", "hzHsk": 1 }, { "hzId": "叫", "hzPinyin": "jiào", "hzTrad": "Llamar", "hzHsk": 1 } ] },
+  "女": { "hzSignificado": "Mujer", "datos": [ { "hzId": "妈", "hzPinyin": "mā", "hzTrad": "Madre", "hzHsk": 1 }, { "hzId": "好", "hzPinyin": "hǎo", "hzTrad": "Bueno", "hzHsk": 1 } ] },
+  "子": { "hzSignificado": "Niño", "datos": [ { "hzId": "孩", "hzPinyin": "hái", "hzTrad": "Niño", "hzHsk": 2 }, { "hzId": "学", "hzPinyin": "xué", "hzTrad": "Estudiar", "hzHsk": 1 } ] },
+  "心-忄": { "hzSignificado": "Corazón", "datos": [ { "hzId": "想", "hzPinyin": "xiǎng", "hzTrad": "Pensar", "hzHsk": 1 }, { "hzId": "忙", "hzPinyin": "máng", "hzTrad": "Ocupado", "hzHsk": 1 } ] },
+  "手-扌": { "hzSignificado": "Mano", "datos": [ { "hzId": "打", "hzPinyin": "dǎ", "hzTrad": "Golpear", "hzHsk": 1 }, { "hzId": "拿", "hzPinyin": "ná", "hzTrad": "Tomar", "hzHsk": 2 } ] },
+  "水-氵": { "hzSignificado": "Agua", "datos": [ { "hzId": "海", "hzPinyin": "hǎi", "hzTrad": "Mar", "hzHsk": 2 }, { "hzId": "河", "hzPinyin": "hé", "hzTrad": "Río", "hzHsk": 2 } ] },
+  "火-灬": { "hzSignificado": "Fuego", "datos": [ { "hzId": "灯", "hzPinyin": "dēng", "hzTrad": "Lámpara", "hzHsk": 2 }, { "hzId": "热", "hzPinyin": "rè", "hzTrad": "Calor", "hzHsk": 1 } ] },
+  "木": { "hzSignificado": "Árbol", "datos": [ { "hzId": "本", "hzPinyin": "běn", "hzTrad": "Origen", "hzHsk": 1 }, { "hzId": "机", "hzPinyin": "jī", "hzTrad": "Máquina", "hzHsk": 1 } ] },
+  "艹": { "hzSignificado": "Hierba", "datos": [ { "hzId": "茶", "hzPinyin": "chá", "hzTrad": "Té", "hzHsk": 1 }, { "hzId": "菜", "hzPinyin": "cài", "hzTrad": "Plato", "hzHsk": 1 } ] },
+  "土": { "hzSignificado": "Tierra", "datos": [ { "hzId": "地", "hzPinyin": "dì", "hzTrad": "Tierra", "hzHsk": 2 }, { "hzId": "坏", "hzPinyin": "huài", "hzTrad": "Malo", "hzHsk": 2 } ] },
+  "日": { "hzSignificado": "Sol", "datos": [ { "hzId": "明", "hzPinyin": "míng", "hzTrad": "Claro", "hzHsk": 1 }, { "hzId": "时", "hzPinyin": "shí", "hzTrad": "Tiempo", "hzHsk": 1 } ] },
+  "月": { "hzSignificado": "Luna", "datos": [ { "hzId": "朋", "hzPinyin": "péng", "hzTrad": "Amigo", "hzHsk": 1 }, { "hzId": "脸", "hzPinyin": "liǎn", "hzTrad": "Cara", "hzHsk": 2 } ] },
+  "金-钅": { "hzSignificado": "Metal", "datos": [ { "hzId": "钱", "hzPinyin": "qián", "hzTrad": "Dinero", "hzHsk": 1 }, { "hzId": "错", "hzPinyin": "cuò", "hzTrad": "Error", "hzHsk": 2 } ] },
+  "言-讠": { "hzSignificado": "Hablar", "datos": [ { "hzId": "说", "hzPinyin": "shuō", "hzTrad": "Hablar", "hzHsk": 1 }, { "hzId": "语", "hzPinyin": "yǔ", "hzTrad": "Idioma", "hzHsk": 1 } ] },
+  "宀": { "hzSignificado": "Techo", "datos": [ { "hzId": "家", "hzPinyin": "jiā", "hzTrad": "Casa", "hzHsk": 1 }, { "hzId": "字", "hzPinyin": "zì", "hzTrad": "Carácter", "hzHsk": 1 } ] },
+  "门": { "hzSignificado": "Puerta", "datos": [ { "hzId": "闭", "hzPinyin": "bì", "hzTrad": "Cerrar", "hzHsk": 3 }, { "hzId": "问", "hzPinyin": "wèn", "hzTrad": "Preguntar", "hzHsk": 1 } ] },
+  "衣-衤": { "hzSignificado": "Ropa", "datos": [ { "hzId": "衬", "hzPinyin": "chèn", "hzTrad": "Camisa", "hzHsk": 3 }, { "hzId": "裤", "hzPinyin": "kù", "hzTrad": "Pantalón", "hzHsk": 3 } ] },
+  "贝": { "hzSignificado": "Concha", "datos": [ { "hzId": "贵", "hzPinyin": "guì", "hzTrad": "Caro", "hzHsk": 2 }, { "hzId": "员", "hzPinyin": "yuán", "hzTrad": "Empleado", "hzHsk": 2 } ] },
+  "辶": { "hzSignificado": "Caminar", "datos": [ { "hzId": "进", "hzPinyin": "jìn", "hzTrad": "Entrar", "hzHsk": 1 }, { "hzId": "远", "hzPinyin": "yuǎn", "hzTrad": "Lejos", "hzHsk": 2 } ] }
 }
