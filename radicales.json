@@ -1,0 +1,35 @@
+{
+  "女": [
+    { "hzId": "好", "hzPinyin": "hǎo", "hzTrad": "Bueno", "hzHsk": 1 },
+    { "hzId": "如", "hzPinyin": "rú", "hzTrad": "Como", "hzHsk": 3 },
+    { "hzId": "安", "hzPinyin": "ān", "hzTrad": "Paz", "hzHsk": 2 }
+  ],
+  "𧾷": [
+    { "hzId": "跑", "hzPinyin": "pǎo", "hzTrad": "Correr", "hzHsk": 2 },
+    { "hzId": "路", "hzPinyin": "lù", "hzTrad": "Camino", "hzHsk": 2 }
+  ],
+  "人": [
+    { "hzId": "从", "hzPinyin": "cóng", "hzTrad": "Desde", "hzHsk": 2 },
+    { "hzId": "众", "hzPinyin": "zhòng", "hzTrad": "Multitud", "hzHsk": 3 }
+  ],
+  "口": [
+    { "hzId": "吃", "hzPinyin": "chī", "hzTrad": "Comer", "hzHsk": 1 },
+    { "hzId": "听", "hzPinyin": "tīng", "hzTrad": "Escuchar", "hzHsk": 1 }
+  ],
+  "日": [
+    { "hzId": "明", "hzPinyin": "míng", "hzTrad": "Claro", "hzHsk": 1 },
+    { "hzId": "时", "hzPinyin": "shí", "hzTrad": "Tiempo", "hzHsk": 1 }
+  ],
+  "木": [
+    { "hzId": "林", "hzPinyin": "lín", "hzTrad": "Bosque", "hzHsk": 2 },
+    { "hzId": "森", "hzPinyin": "sēn", "hzTrad": "Selva", "hzHsk": 3 }
+  ],
+  "水": [
+    { "hzId": "江", "hzPinyin": "jiāng", "hzTrad": "Río", "hzHsk": 2 },
+    { "hzId": "海", "hzPinyin": "hǎi", "hzTrad": "Mar", "hzHsk": 2 }
+  ],
+  "火": [
+    { "hzId": "灯", "hzPinyin": "dēng", "hzTrad": "Lámpara", "hzHsk": 2 },
+    { "hzId": "灭", "hzPinyin": "miè", "hzTrad": "Apagar", "hzHsk": 3 }
+  ]
+}
