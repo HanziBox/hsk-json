@@ -1,8 +1,26 @@
 {
-  "人-亻": [
-    { "hzId": "从", "hzPinyin": "cóng", "hzTrad": "Desde", "hzHsk": 1 },
-    { "hzId": "众", "hzPinyin": "zhòng", "hzTrad": "Multitud", "hzHsk": 3 }
-  ],
+"人-亻": [
+    {"hzId": "你", "hzPinyin": "nǐ", "hzTrad": "Tú", "hzHsk": 1},
+    {"hzId": "他", "hzPinyin": "tā", "hzTrad": "Él", "hzHsk": 1},
+    {"hzId": "们", "hzPinyin": "men", "hzTrad": "Plural", "hzHsk": 1},
+    {"hzId": "个", "hzPinyin": "gè", "hzTrad": "Clasificador", "hzHsk": 1},
+    {"hzId": "做", "hzPinyin": "zuò", "hzTrad": "Hacer", "hzHsk": 1},
+    {"hzId": "休", "hzPinyin": "xiū", "hzTrad": "Descansar", "hzHsk": 2},
+    {"hzId": "位", "hzPinyin": "wèi", "hzTrad": "Señor / Posición", "hzHsk": 2},
+    {"hzId": "借", "hzPinyin": "jiè", "hzTrad": "Prestar", "hzHsk": 2},
+    {"hzId": "件", "hzPinyin": "jiàn", "hzTrad": "Pieza / Asunto", "hzHsk": 2},
+    {"hzId": "便", "hzPinyin": "biàn", "hzTrad": "Conveniente", "hzHsk": 3},
+    {"hzId": "但", "hzPinyin": "dàn", "hzTrad": "Pero", "hzHsk": 3},
+    {"hzId": "似", "hzPinyin": "sì", "hzTrad": "Parecer", "hzHsk": 3},
+    {"hzId": "值", "hzPinyin": "zhí", "hzTrad": "Valor / Turno", "hzHsk": 3},
+    {"hzId": "伟", "hzPinyin": "wěi", "hzTrad": "Grandioso", "hzHsk": 4},
+    {"hzId": "传", "hzPinyin": "chuán", "hzTrad": "Transmitir", "hzHsk": 4},
+    {"hzId": "保", "hzPinyin": "bǎo", "hzTrad": "Proteger", "hzHsk": 4},
+    {"hzId": "像", "hzPinyin": "xiàng", "hzTrad": "Imagen / Parecerse", "hzHsk": 4},
+    {"hzId": "仪", "hzPinyin": "yí", "hzTrad": "Ceremonia", "hzHsk": 5},
+    {"hzId": "优", "hzPinyin": "yōu", "hzTrad": "Excelente", "hzHsk": 5},
+    {"hzId": "儒", "hzPinyin": "rú", "hzTrad": "Confuciano", "hzHsk": 6}
+  ]
   "口": [
     { "hzId": "吃", "hzPinyin": "chī", "hzTrad": "Comer", "hzHsk": 1 },
     { "hzId": "叫", "hzPinyin": "jiào", "hzTrad": "Llamar", "hzHsk": 1 }
