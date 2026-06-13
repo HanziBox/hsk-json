@@ -209,7 +209,8 @@
       {"hzId": "嫩", "hzPinyin": "nèn", "hzTrad": "Tierno", "hzHsk": 6},
       {"hzId": "嫡", "hzPinyin": "dí", "hzTrad": "Legítimo", "hzHsk": 6},
       {"hzId": "嫣", "hzPinyin": "yān", "hzTrad": "Hermoso", "hzHsk": 6}
-    ],
+    ]
+    },
   "子": { "hzSignificado": "Niño", "datos": [ { "hzId": "孩", "hzPinyin": "hái", "hzTrad": "Niño", "hzHsk": 2 }, { "hzId": "学", "hzPinyin": "xué", "hzTrad": "Estudiar", "hzHsk": 1 } ] },
   "心-忄": { "hzSignificado": "Corazón", "datos": [ { "hzId": "想", "hzPinyin": "xiǎng", "hzTrad": "Pensar", "hzHsk": 1 }, { "hzId": "忙", "hzPinyin": "máng", "hzTrad": "Ocupado", "hzHsk": 1 } ] },
   "手-扌": { "hzSignificado": "Mano", "datos": [ { "hzId": "打", "hzPinyin": "dǎ", "hzTrad": "Golpear", "hzHsk": 1 }, { "hzId": "拿", "hzPinyin": "ná", "hzTrad": "Tomar", "hzHsk": 2 } ] },
