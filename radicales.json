@@ -456,7 +456,7 @@
     ]
   },
   "艹": {
-    "hzSignificado": "Hierba / Planta",
+    "hzSignificado": "Hierba",
     "datos": [
       {"hzId": "花", "hzPinyin": "huā", "hzTrad": "Flor", "hzHsk": 1},
       {"hzId": "草", "hzPinyin": "cǎo", "hzTrad": "Hierba", "hzHsk": 1},
