@@ -211,7 +211,33 @@
       {"hzId": "嫣", "hzPinyin": "yān", "hzTrad": "Hermoso", "hzHsk": 6}
     ]
     },
-  "子": { "hzSignificado": "Niño", "datos": [ { "hzId": "孩", "hzPinyin": "hái", "hzTrad": "Niño", "hzHsk": 2 }, { "hzId": "学", "hzPinyin": "xué", "hzTrad": "Estudiar", "hzHsk": 1 } ] },
+"子-": {
+"hzSignificado": "Hijo",
+"datos": [
+{"hzId": "子", "hzPinyin": "zǐ", "hzTrad": "Hijo", "hzHsk": 1},
+{"hzId": "学", "hzPinyin": "xué", "hzTrad": "Estudiar", "hzHsk": 1},
+{"hzId": "孔", "hzPinyin": "kǒng", "hzTrad": "Agujero", "hzHsk": 2},
+{"hzId": "字", "hzPinyin": "zì", "hzTrad": "Carácter", "hzHsk": 2},
+{"hzId": "孙", "hzPinyin": "sūn", "hzTrad": "Nieto", "hzHsk": 2},
+{"hzId": "孩", "hzPinyin": "hái", "hzTrad": "Niño", "hzHsk": 2},
+{"hzId": "存", "hzPinyin": "cún", "hzTrad": "Existir", "hzHsk": 3},
+{"hzId": "季", "hzPinyin": "jì", "hzTrad": "Estación", "hzHsk": 3},
+{"hzId": "孤", "hzPinyin": "gū", "hzTrad": "Solitario", "hzHsk": 3},
+{"hzId": "孟", "hzPinyin": "mèng", "hzTrad": "Primero", "hzHsk": 3},
+{"hzId": "孕", "hzPinyin": "yùn", "hzTrad": "Embarazada", "hzHsk": 4},
+{"hzId": "孝", "hzPinyin": "xiào", "hzTrad": "Filial", "hzHsk": 4},
+{"hzId": "孚", "hzPinyin": "fú", "hzTrad": "Confianza", "hzHsk": 4},
+{"hzId": "孜", "hzPinyin": "zī", "hzTrad": "Diligente", "hzHsk": 4},
+{"hzId": "孰", "hzPinyin": "shú", "hzTrad": "Cuál", "hzHsk": 5},
+{"hzId": "孱", "hzPinyin": "cán", "hzTrad": "Débil", "hzHsk": 5},
+{"hzId": "孳", "hzPinyin": "zī", "hzTrad": "Reproducir", "hzHsk": 5},
+{"hzId": "孵", "hzPinyin": "fū", "hzTrad": "Incubar", "hzHsk": 5},
+{"hzId": "孥", "hzPinyin": "nú", "hzTrad": "Hijos", "hzHsk": 6},
+{"hzId": "孪", "hzPinyin": "luán", "hzTrad": "Gemelo", "hzHsk": 6},
+{"hzId": "孽", "hzPinyin": "niè", "hzTrad": "Pecado", "hzHsk": 6},
+{"hzId": "孺", "hzPinyin": "rú", "hzTrad": "Niño", "hzHsk": 6}
+    ]
+    },
   "心-忄": { "hzSignificado": "Corazón", "datos": [ { "hzId": "想", "hzPinyin": "xiǎng", "hzTrad": "Pensar", "hzHsk": 1 }, { "hzId": "忙", "hzPinyin": "máng", "hzTrad": "Ocupado", "hzHsk": 1 } ] },
   "手-扌": { "hzSignificado": "Mano", "datos": [ { "hzId": "打", "hzPinyin": "dǎ", "hzTrad": "Golpear", "hzHsk": 1 }, { "hzId": "拿", "hzPinyin": "ná", "hzTrad": "Tomar", "hzHsk": 2 } ] },
   "水-氵": { "hzSignificado": "Agua", "datos": [ { "hzId": "海", "hzPinyin": "hǎi", "hzTrad": "Mar", "hzHsk": 2 }, { "hzId": "河", "hzPinyin": "hé", "hzTrad": "Río", "hzHsk": 2 } ] },
