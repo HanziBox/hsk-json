@@ -401,7 +401,7 @@
 ]
 },
   "木-": {
-    "hzSignificado": "Madera / Árbol",
+    "hzSignificado": "Madera",
     "datos": [
       {"hzId": "木", "hzPinyin": "mù", "hzTrad": "Madera", "hzHsk": 1},
       {"hzId": "本", "hzPinyin": "běn", "hzTrad": "Raíz / Libro", "hzHsk": 1},
