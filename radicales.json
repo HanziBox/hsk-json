@@ -598,7 +598,22 @@
       {"hzId": "曙", "hzPinyin": "shǔ", "hzTrad": "Alba", "hzHsk": 6}
     ]
   },
-  "月": { "hzSignificado": "Luna", "datos": [ { "hzId": "朋", "hzPinyin": "péng", "hzTrad": "Amigo", "hzHsk": 1 }, { "hzId": "脸", "hzPinyin": "liǎn", "hzTrad": "Cara", "hzHsk": 2 } ] },
+  "月": {
+"hzSignificado": "Luna / Mes",
+"datos": [
+{"hzId": "月", "hzPinyin": "yuè", "hzTrad": "Luna", "hzHsk": 1},
+{"hzId": "有", "hzPinyin": "yǒu", "hzTrad": "Tener", "hzHsk": 1},
+{"hzId": "朋", "hzPinyin": "péng", "hzTrad": "Amigo", "hzHsk": 1},
+{"hzId": "服", "hzPinyin": "fú", "hzTrad": "Ropa", "hzHsk": 2},
+{"hzId": "期", "hzPinyin": "qī", "hzTrad": "Período", "hzHsk": 2},
+{"hzId": "朗", "hzPinyin": "lǎng", "hzTrad": "Claro", "hzHsk": 2},
+{"hzId": "望", "hzPinyin": "wàng", "hzTrad": "Esperar", "hzHsk": 2},
+{"hzId": "朝", "hzPinyin": "zhāo", "hzTrad": "Mañana", "hzHsk": 2},
+{"hzId": "朦", "hzPinyin": "méng", "hzTrad": "Nebuloso", "hzHsk": 5},
+{"hzId": "朔", "hzPinyin": "shuò", "hzTrad": "Luna nueva", "hzHsk": 6},
+{"hzId": "朕", "hzPinyin": "zhèn", "hzTrad": "Yo (imperial)", "hzHsk": 6}
+]
+},
   "金-钅": { "hzSignificado": "Metal", "datos": [ { "hzId": "钱", "hzPinyin": "qián", "hzTrad": "Dinero", "hzHsk": 1 }, { "hzId": "错", "hzPinyin": "cuò", "hzTrad": "Error", "hzHsk": 2 } ] },
   "言-讠": { "hzSignificado": "Hablar", "datos": [ { "hzId": "说", "hzPinyin": "shuō", "hzTrad": "Hablar", "hzHsk": 1 }, { "hzId": "语", "hzPinyin": "yǔ", "hzTrad": "Idioma", "hzHsk": 1 } ] },
   "宀": { "hzSignificado": "Techo", "datos": [ { "hzId": "家", "hzPinyin": "jiā", "hzTrad": "Casa", "hzHsk": 1 }, { "hzId": "字", "hzPinyin": "zì", "hzTrad": "Carácter", "hzHsk": 1 } ] },
