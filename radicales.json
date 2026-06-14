@@ -181,5 +181,38 @@
     {"hzId": "典", "hzPinyin": "diǎn", "hzTrad": "Clásico", "hzHsk": 4},
     {"hzId": "养", "hzPinyin": "yǎng", "hzTrad": "Criar", "hzHsk": 5}
   ]
+},
+  "冂": {
+  "hzSignificado": "Recinto",
+  "datos": [
+    {"hzId": "内", "hzPinyin": "nèi", "hzTrad": "Dentro", "hzHsk": 2},
+    {"hzId": "再", "hzPinyin": "zài", "hzTrad": "Otra vez", "hzHsk": 2},
+    {"hzId": "冒", "hzPinyin": "mào", "hzTrad": "Arriesgar", "hzHsk": 4},
+    {"hzId": "冈", "hzPinyin": "gāng", "hzTrad": "Cresta", "hzHsk": 6},
+    {"hzId": "册", "hzPinyin": "cè", "hzTrad": "Volumen", "hzHsk": 6}
+  ]
+},
+"冖": {
+  "hzSignificado": "Cubierta",
+  "datos": [
+    {"hzId": "军", "hzPinyin": "jūn", "hzTrad": "Ejército", "hzHsk": 2},
+    {"hzId": "写", "hzPinyin": "xiě", "hzTrad": "Escribir", "hzHsk": 2},
+    {"hzId": "冠", "hzPinyin": "guān", "hzTrad": "Corona", "hzHsk": 5},
+    {"hzId": "冤", "hzPinyin": "yuān", "hzTrad": "Injusticia", "hzHsk": 6}
+  ]
+},
+"冫": {
+  "hzSignificado": "Hielo",
+  "datos": [
+    {"hzId": "冬", "hzPinyin": "dōng", "hzTrad": "Invierno", "hzHsk": 1},
+    {"hzId": "冷", "hzPinyin": "lěng", "hzTrad": "Frío", "hzHsk": 1},
+    {"hzId": "准", "hzPinyin": "zhǔn", "hzTrad": "Estándar", "hzHsk": 3},
+    {"hzId": "凉", "hzPinyin": "liáng", "hzTrad": "Fresco", "hzHsk": 4},
+    {"hzId": "减", "hzPinyin": "jiǎn", "hzTrad": "Restar", "hzHsk": 4},
+    {"hzId": "况", "hzPinyin": "kuàng", "hzTrad": "Situación", "hzHsk": 4},
+    {"hzId": "净", "hzPinyin": "jìng", "hzTrad": "Limpio", "hzHsk": 5},
+    {"hzId": "凌", "hzPinyin": "líng", "hzTrad": "Hielo", "hzHsk": 6},
+    {"hzId": "冻", "hzPinyin": "dòng", "hzTrad": "Congelar", "hzHsk": 6}
+  ]
 }
 }
