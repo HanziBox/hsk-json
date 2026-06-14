@@ -825,5 +825,14 @@
 {"hzId": "巫", "hzPinyin": "wū", "hzTrad": "Chamán", "hzHsk": 6},
 {"hzId": "差", "hzPinyin": "chà", "hzTrad": "Diferencia", "hzHsk": 3}
 ]
+},
+    "己": {
+"hzSignificado": "Uno mismo",
+"datos": [
+{"hzId": "己", "hzPinyin": "jǐ", "hzTrad": "Uno mismo", "hzHsk": 3},
+{"hzId": "已", "hzPinyin": "yǐ", "hzTrad": "Ya", "hzHsk": 2},
+{"hzId": "巴", "hzPinyin": "bā", "hzTrad": "Esperar", "hzHsk": 5},
+{"hzId": "巷", "hzPinyin": "xiàng", "hzTrad": "Callejón", "hzHsk": 6}
+]
 }
 }
