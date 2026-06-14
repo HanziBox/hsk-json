@@ -195,7 +195,6 @@
       {"hzId":"冤","hzPinyin":"yuān","hzTrad":"Injusticia","hzHsk":6}
     ]
   },
-{
   "冫": {
     "hzSignificado": "Hielo",
     "datos": [
@@ -335,5 +334,4 @@
       {"hzId": "卓", "hzPinyin": "zhuó", "hzTrad": "Excelente", "hzHsk": 5}
     ]
   }
-}
 }
