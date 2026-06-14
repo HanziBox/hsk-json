@@ -617,5 +617,26 @@
       {"hzId":"妥","hzPinyin":"tuǒ","hzTrad":"Apropiado","hzHsk":6},
       {"hzId":"娃","hzPinyin":"wá","hzTrad":"Bebé","hzHsk":6}
     ]
+  },
+      "子": {
+    "hzSignificado": "Hijo",
+    "datos": [
+      {"hzId":"子","hzPinyin":"zǐ","hzTrad":"Hijo","hzHsk":1},
+      {"hzId":"字","hzPinyin":"zì","hzTrad":"Carácter","hzHsk":1},
+      {"hzId":"学","hzPinyin":"xué","hzTrad":"Estudiar","hzHsk":1},
+
+      {"hzId":"孩","hzPinyin":"hái","hzTrad":"Niño","hzHsk":2},
+
+      {"hzId":"季","hzPinyin":"jì","hzTrad":"Estación","hzHsk":3},
+
+      {"hzId":"存","hzPinyin":"cún","hzTrad":"Guardar","hzHsk":4},
+      {"hzId":"孙","hzPinyin":"sūn","hzTrad":"Nieto","hzHsk":4},
+
+      {"hzId":"孕","hzPinyin":"yùn","hzTrad":"Embarazada","hzHsk":5},
+      {"hzId":"孝","hzPinyin":"xiào","hzTrad":"Piedad filial","hzHsk":5},
+
+      {"hzId":"孔","hzPinyin":"kǒng","hzTrad":"Agujero","hzHsk":6},
+      {"hzId":"孤","hzPinyin":"gū","hzTrad":"Solitario","hzHsk":6}
+    ]
   }
 }
