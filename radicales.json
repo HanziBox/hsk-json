@@ -20,7 +20,6 @@
       {"hzId": "丛", "hzPinyin": "cóng", "hzTrad": "Matorral", "hzHsk": 6}
     ]
   },
-
   "丨": {
     "hzSignificado": "Línea",
     "datos": [
@@ -30,7 +29,6 @@
       {"hzId": "临", "hzPinyin": "lín", "hzTrad": "Llegar", "hzHsk": 5}
     ]
   },
-
   "丶": {
     "hzSignificado": "Punto",
     "datos": [
@@ -42,7 +40,6 @@
       {"hzId": "求", "hzPinyin": "qiú", "hzTrad": "Buscar", "hzHsk": 3}
     ]
   },
-
   "丿": {
     "hzSignificado": "Trazo",
     "datos": [
@@ -52,7 +49,6 @@
       {"hzId": "乖", "hzPinyin": "guāi", "hzTrad": "Obediente", "hzHsk": 5}
     ]
   },
-
   "乙": {
     "hzSignificado": "Segundo",
     "datos": [
@@ -63,7 +59,6 @@
       {"hzId": "乞", "hzPinyin": "qǐ", "hzTrad": "Pedir", "hzHsk": 6}
     ]
   },
-
   "亅": {
     "hzSignificado": "Gancho",
     "datos": [
@@ -73,7 +68,6 @@
       {"hzId": "予", "hzPinyin": "yǔ", "hzTrad": "Dar", "hzHsk": 6}
     ]
   },
-
   "二": {
     "hzSignificado": "Dos",
     "datos": [
