@@ -334,21 +334,18 @@
       {"hzId": "卓", "hzPinyin": "zhuó", "hzTrad": "Excelente", "hzHsk": 5}
     ]
   },
-    "占": {
-"hzSignificado": "Ocupar",
+"卜": {
+"hzSignificado": "Adivinación",
 "datos": [
-{"hzId": "占", "hzPinyin": "zhàn", "hzTrad": "Ocupar/Adivinar", "hzHsk": 5}
-]
-},
-"卡": {
-"hzSignificado": "Tarjeta",
-"datos": [
-{"hzId": "卡", "hzPinyin": "kǎ", "hzTrad": "Tarjeta/Atrapado", "hzHsk": 3}
-]
-},
-"臣": {
-"hzSignificado": "Ministro/Súbdito",
-"datos": [
+{"hzId": "卜", "hzPinyin": "bǔ", "hzTrad": "Adivinación", "hzHsk": 6},
+{"hzId": "卞", "hzPinyin": "biàn", "hzTrad": "Apellido/Impaciente", "hzHsk": 6},
+{"hzId": "卟", "hzPinyin": "bo", "hzTrad": "Onomatopeya", "hzHsk": 6},
+{"hzId": "占", "hzPinyin": "zhàn", "hzTrad": "Ocupar", "hzHsk": 5},
+{"hzId": "卡", "hzPinyin": "kǎ", "hzTrad": "Tarjeta", "hzHsk": 3},
+{"hzId": "卢", "hzPinyin": "lú", "hzTrad": "Apellido", "hzHsk": 5},
+{"hzId": "卣", "hzPinyin": "yǒu", "hzTrad": "Recipiente antiguo", "hzHsk": 6},
+{"hzId": "卤", "hzPinyin": "lǔ", "hzTrad": "Sal", "hzHsk": 6},
+{"hzId": "卦", "hzPinyin": "guà", "hzTrad": "Trigrama", "hzHsk": 6},
 {"hzId": "卧", "hzPinyin": "wò", "hzTrad": "Tumbarse", "hzHsk": 5}
 ]
 }
