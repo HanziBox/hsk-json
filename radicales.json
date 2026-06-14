@@ -149,7 +149,7 @@
     {"hzId": "仲", "hzPinyin": "zhòng", "hzTrad": "Segundo", "hzHsk": 6}
   ]
 },
-  "儿": {
+"儿": {
   "hzSignificado": "Niño",
   "datos": [
     {"hzId": "儿", "hzPinyin": "ér", "hzTrad": "Niño", "hzHsk": 1},
@@ -164,9 +164,7 @@
   "hzSignificado": "Entrar",
   "datos": [
     {"hzId": "入", "hzPinyin": "rù", "hzTrad": "Entrar", "hzHsk": 1},
-    {"hzId": "全", "hzPinyin": "quán", "hzTrad": "Todo", "hzHsk": 1},
-    {"hzId": "两", "hzPinyin": "liǎng", "hzTrad": "Dos", "hzHsk": 1},
-    {"hzId": "公", "hzPinyin": "gōng", "hzTrad": "Público", "hzHsk": 2}
+    {"hzId": "全", "hzPinyin": "quán", "hzTrad": "Todo", "hzHsk": 1}
   ]
 },
 "八": {
