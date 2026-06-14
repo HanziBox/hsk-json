@@ -552,5 +552,29 @@
 {"hzId": "夜", "hzPinyin": "yè", "hzTrad": "Noche", "hzHsk": 5},
 {"hzId": "夕", "hzPinyin": "xī", "hzTrad": "Tarde", "hzHsk": 5}
 ]
+},
+    "大": {
+"hzSignificado": "Grande",
+"datos": [
+{"hzId": "大", "hzPinyin": "dà", "hzTrad": "Grande", "hzHsk": 1},
+{"hzId": "天", "hzPinyin": "tiān", "hzTrad": "Cielo", "hzHsk": 1},
+{"hzId": "太", "hzPinyin": "tài", "hzTrad": "Demasiado", "hzHsk": 1},
+{"hzId": "夫", "hzPinyin": "fū", "hzTrad": "Marido", "hzHsk": 2},
+{"hzId": "头", "hzPinyin": "tóu", "hzTrad": "Cabeza", "hzHsk": 3},
+{"hzId": "奇", "hzPinyin": "qí", "hzTrad": "Raro", "hzHsk": 3},
+{"hzId": "夺", "hzPinyin": "duó", "hzTrad": "Arrebatar", "hzHsk": 6},
+{"hzId": "失", "hzPinyin": "shī", "hzTrad": "Perder", "hzHsk": 4},
+{"hzId": "奋", "hzPinyin": "fèn", "hzTrad": "Luchar", "hzHsk": 4},
+{"hzId": "奉", "hzPinyin": "fèng", "hzTrad": "Ofrecer", "hzHsk": 6},
+{"hzId": "奔", "hzPinyin": "bēn", "hzTrad": "Correr", "hzHsk": 5},
+{"hzId": "奖", "hzPinyin": "jiǎng", "hzTrad": "Premio", "hzHsk": 5},
+{"hzId": "套", "hzPinyin": "tào", "hzTrad": "Conjunto", "hzHsk": 5},
+{"hzId": "夸", "hzPinyin": "kuā", "hzTrad": "Presumir", "hzHsk": 5},
+{"hzId": "央", "hzPinyin": "yāng", "hzTrad": "Centro", "hzHsk": 6},
+{"hzId": "奥", "hzPinyin": "ào", "hzTrad": "Profundo", "hzHsk": 6},
+{"hzId": "奢", "hzPinyin": "shē", "hzTrad": "Lujoso", "hzHsk": 6},
+{"hzId": "奠", "hzPinyin": "diàn", "hzTrad": "Establecer", "hzHsk": 6},
+{"hzId": "奏", "hzPinyin": "zòu", "hzTrad": "Tocar", "hzHsk": 6}
+]
 }
 }
