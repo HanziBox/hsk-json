@@ -342,16 +342,30 @@
 {"hzId": "卧", "hzPinyin": "wò", "hzTrad": "Tumbarse", "hzHsk": 5}
 ]
 },
-    "卩": {
-"hzSignificado": "Sello",
-"datos": [
-{"hzId": "卫", "hzPinyin": "wèi", "hzTrad": "Defender", "hzHsk": 4},
-{"hzId": "印", "hzPinyin": "yìn", "hzTrad": "Sello", "hzHsk": 3},
-{"hzId": "危", "hzPinyin": "wēi", "hzTrad": "Peligro", "hzHsk": 4},
-{"hzId": "即", "hzPinyin": "jí", "hzTrad": "Inmediatamente", "hzHsk": 5},
-{"hzId": "却", "hzPinyin": "què", "hzTrad": "Pero", "hzHsk": 4},
-{"hzId": "卷", "hzPinyin": "juǎn", "hzTrad": "Enrollar", "hzHsk": 5},
-{"hzId": "卸", "hzPinyin": "xiè", "hzTrad": "Descargar", "hzHsk": 6}
-]
+"卩": {
+  "hzSignificado": "Sello",
+  "datos": [
+    {"hzId": "卫", "hzPinyin": "wèi", "hzTrad": "Defender", "hzHsk": 4},
+    {"hzId": "印", "hzPinyin": "yìn", "hzTrad": "Sello", "hzHsk": 3},
+    {"hzId": "危", "hzPinyin": "wēi", "hzTrad": "Peligro", "hzHsk": 4},
+    {"hzId": "即", "hzPinyin": "jí", "hzTrad": "Inmediatamente", "hzHsk": 4},
+    {"hzId": "却", "hzPinyin": "què", "hzTrad": "Pero", "hzHsk": 4},
+    {"hzId": "卷", "hzPinyin": "juǎn", "hzTrad": "Enrollar", "hzHsk": 5},
+    {"hzId": "卸", "hzPinyin": "xiè", "hzTrad": "Descargar", "hzHsk": 6}
+  ]
+},
+"厂": {
+  "hzSignificado": "Fábrica",
+  "datos": [
+    {"hzId": "厅", "hzPinyin": "tīng", "hzTrad": "Salón", "hzHsk": 4},
+    {"hzId": "历", "hzPinyin": "lì", "hzTrad": "Calendario", "hzHsk": 3},
+    {"hzId": "压", "hzPinyin": "yā", "hzTrad": "Presionar", "hzHsk": 4},
+    {"hzId": "厌", "hzPinyin": "yàn", "hzTrad": "Odiar", "hzHsk": 4},
+    {"hzId": "厕", "hzPinyin": "cè", "hzTrad": "Baño", "hzHsk": 4},
+    {"hzId": "厚", "hzPinyin": "hòu", "hzTrad": "Grueso", "hzHsk": 4},
+    {"hzId": "原", "hzPinyin": "yuán", "hzTrad": "Original", "hzHsk": 4},
+    {"hzId": "厦", "hzPinyin": "shà", "hzTrad": "Mansión", "hzHsk": 5},
+    {"hzId": "厨", "hzPinyin": "chú", "hzTrad": "Cocina", "hzHsk": 4}
+  ]
 }
 }
