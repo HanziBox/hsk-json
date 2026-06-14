@@ -719,5 +719,32 @@
 {"hzId": "就", "hzPinyin": "jiù", "hzTrad": "Entonces", "hzHsk": 2},
 {"hzId": "尴", "hzPinyin": "gān", "hzTrad": "Incómodo", "hzHsk": 5}
 ]
+},
+    "尸": {
+"hzSignificado": "Cadáver",
+"datos": [
+{"hzId": "尹", "hzPinyin": "yǐn", "hzTrad": "Gobernador", "hzHsk": 6},
+{"hzId": "尺", "hzPinyin": "chǐ", "hzTrad": "Regla", "hzHsk": 5},
+{"hzId": "尼", "hzPinyin": "ní", "hzTrad": "Monja", "hzHsk": 6},
+{"hzId": "尽", "hzPinyin": "jǐn", "hzTrad": "Agotar", "hzHsk": 4},
+{"hzId": "尾", "hzPinyin": "wěi", "hzTrad": "Cola", "hzHsk": 5},
+{"hzId": "尿", "hzPinyin": "niào", "hzTrad": "Orinar", "hzHsk": 6},
+{"hzId": "局", "hzPinyin": "jú", "hzTrad": "Oficina", "hzHsk": 4},
+{"hzId": "屁", "hzPinyin": "pì", "hzTrad": "Pedo", "hzHsk": 6},
+{"hzId": "层", "hzPinyin": "céng", "hzTrad": "Capa", "hzHsk": 3},
+{"hzId": "居", "hzPinyin": "jū", "hzTrad": "Residir", "hzHsk": 3},
+{"hzId": "屈", "hzPinyin": "qū", "hzTrad": "Doblar", "hzHsk": 5},
+{"hzId": "屉", "hzPinyin": "tì", "hzTrad": "Cajón", "hzHsk": 5},
+{"hzId": "届", "hzPinyin": "jiè", "hzTrad": "Sesión", "hzHsk": 5},
+{"hzId": "屋", "hzPinyin": "wū", "hzTrad": "Casa", "hzHsk": 5},
+{"hzId": "屎", "hzPinyin": "shǐ", "hzTrad": "Excremento", "hzHsk": 6},
+{"hzId": "屏", "hzPinyin": "píng", "hzTrad": "Pantalla", "hzHsk": 6},
+{"hzId": "屑", "hzPinyin": "xiè", "hzTrad": "Migajas", "hzHsk": 6},
+{"hzId": "展", "hzPinyin": "zhǎn", "hzTrad": "Desplegar", "hzHsk": 4},
+{"hzId": "属", "hzPinyin": "shǔ", "hzTrad": "Pertenecer", "hzHsk": 5},
+{"hzId": "屠", "hzPinyin": "tú", "hzTrad": "Matar", "hzHsk": 6},
+{"hzId": "屡", "hzPinyin": "lǚ", "hzTrad": "Frecuentemente", "hzHsk": 6},
+{"hzId": "履", "hzPinyin": "lǚ", "hzTrad": "Zapatos", "hzHsk": 6}
+]
 }
 }
