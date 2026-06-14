@@ -542,5 +542,15 @@
 {"hzId": "夏", "hzPinyin": "xià", "hzTrad": "Verano", "hzHsk": 4},
 {"hzId": "备", "hzPinyin": "bèi", "hzTrad": "Preparar", "hzHsk": 2}
 ]
+},
+    "夕": {
+"hzSignificado": "Tarde",
+"datos": [
+{"hzId": "多", "hzPinyin": "duō", "hzTrad": "Mucho", "hzHsk": 1},
+{"hzId": "外", "hzPinyin": "wài", "hzTrad": "Fuera", "hzHsk": 2},
+{"hzId": "够", "hzPinyin": "gòu", "hzTrad": "Suficiente", "hzHsk": 4},
+{"hzId": "夜", "hzPinyin": "yè", "hzTrad": "Noche", "hzHsk": 5},
+{"hzId": "夕", "hzPinyin": "xī", "hzTrad": "Tarde", "hzHsk": 5}
+]
 }
 }
