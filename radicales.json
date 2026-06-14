@@ -746,5 +746,11 @@
 {"hzId": "屡", "hzPinyin": "lǚ", "hzTrad": "Frecuentemente", "hzHsk": 6},
 {"hzId": "履", "hzPinyin": "lǚ", "hzTrad": "Zapatos", "hzHsk": 6}
 ]
+},
+    "屮": {
+"hzSignificado": "Brote",
+"datos": [
+{"hzId": "屯", "hzPinyin": "tún", "hzTrad": "Estacionar / Acumular", "hzHsk": 6}
+]
 }
 }
