@@ -870,5 +870,14 @@
 {"hzId": "并", "hzPinyin": "bìng", "hzTrad": "Y", "hzHsk": 4},
 {"hzId": "幸", "hzPinyin": "xìng", "hzTrad": "Afortunado", "hzHsk": 5}
 ]
+},
+    "幺": {
+"hzSignificado": "Pequeño",
+"datos": [
+{"hzId": "乡", "hzPinyin": "xiāng", "hzTrad": "Pueblo", "hzHsk": 5},
+{"hzId": "幻", "hzPinyin": "huàn", "hzTrad": "Fantasía", "hzHsk": 5},
+{"hzId": "幼", "hzPinyin": "yòu", "hzTrad": "Joven", "hzHsk": 5},
+{"hzId": "幽", "hzPinyin": "yōu", "hzTrad": "Escondido", "hzHsk": 4}
+]
 }
 }
