@@ -913,7 +913,7 @@
 "hzSignificado": "Dos manos",
 "datos": [
 {"hzId": "开", "hzPinyin": "kāi", "hzTrad": "Abrir", "hzHsk": 1},
-{"hzId": "异", "hzPinyin": "yì", "hzTrad": "Diferente, "hzHsk": 6},
+{"hzId": "异", "hzPinyin": "yì", "hzTrad": "Diferente", "hzHsk": 6},
 {"hzId": "弃", "hzPinyin": "qì", "hzTrad": "Abandonar", "hzHsk": 4},
 {"hzId": "弄", "hzPinyin": "nòng", "hzTrad": "Hacer", "hzHsk": 4},
 {"hzId": "弊", "hzPinyin": "bì", "hzTrad": "Male", "hzHsk": 6}
