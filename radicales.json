@@ -367,5 +367,13 @@
     {"hzId": "厦", "hzPinyin": "shà", "hzTrad": "Mansión", "hzHsk": 5},
     {"hzId": "厨", "hzPinyin": "chú", "hzTrad": "Cocina", "hzHsk": 4}
   ]
+},
+    "厶": {
+"hzSignificado": "Privado",
+"datos": [
+{"hzId": "去", "hzPinyin": "qù", "hzTrad": "Ir", "hzHsk": 1},
+{"hzId": "县", "hzPinyin": "xiàn", "hzTrad": "Condado", "hzHsk": 5},
+{"hzId": "参", "hzPinyin": "cān", "hzTrad": "Participar", "hzHsk": 3}
+]
 }
 }
