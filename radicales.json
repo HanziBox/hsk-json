@@ -227,5 +227,52 @@
     {"hzId": "冼", "hzPinyin": "xiǎn", "hzTrad": "Lavar", "hzHsk": 6},
     {"hzId": "凇", "hzPinyin": "sōng", "hzTrad": "Escarcha", "hzHsk": 6}
   ]
+},
+  "几": {
+  "hzSignificado": "Mesa pequeña",
+  "datos": [
+    {"hzId": "几", "hzPinyin": "jǐ", "hzTrad": "Cuánto", "hzHsk": 1},
+    {"hzId": "凡", "hzPinyin": "fán", "hzTrad": "Común", "hzHsk": 4},
+    {"hzId": "凤", "hzPinyin": "fèng", "hzTrad": "Fénix", "hzHsk": 5},
+    {"hzId": "凯", "hzPinyin": "kǎi", "hzTrad": "Triunfante", "hzHsk": 6},
+    {"hzId": "凳", "hzPinyin": "dèng", "hzTrad": "Taburete", "hzHsk": 6}
+  ]
+},
+"凵": {
+  "hzSignificado": "Contenedor",
+  "datos": [
+    {"hzId": "凶", "hzPinyin": "xiōng", "hzTrad": "Terrible", "hzHsk": 4},
+    {"hzId": "出", "hzPinyin": "chū", "hzTrad": "Salir", "hzHsk": 1},
+    {"hzId": "函", "hzPinyin": "hán", "hzTrad": "Sobre/Caja", "hzHsk": 6},
+    {"hzId": "凿", "hzPinyin": "záo", "hzTrad": "Cincelar", "hzHsk": 6}
+  ]
+},
+"刀": {
+  "hzSignificado": "Cuchillo",
+  "datos": [
+    {"hzId": "刀", "hzPinyin": "dāo", "hzTrad": "Cuchillo", "hzHsk": 3},
+    {"hzId": "力", "hzPinyin": "lì", "hzTrad": "Fuerza", "hzHsk": 1},
+    {"hzId": "分", "hzPinyin": "fēn", "hzTrad": "Dividir", "hzHsk": 1},
+    {"hzId": "切", "hzPinyin": "qiē", "hzTrad": "Cortar", "hzHsk": 2},
+    {"hzId": "刊", "hzPinyin": "kān", "hzTrad": "Publicar", "hzHsk": 3},
+    {"hzId": "列", "hzPinyin": "liè", "hzTrad": "Fila", "hzHsk": 3},
+    {"hzId": "初", "hzPinyin": "chū", "hzTrad": "Principio", "hzHsk": 3},
+    {"hzId": "别", "hzPinyin": "bié", "hzTrad": "Separar", "hzHsk": 1},
+    {"hzId": "制", "hzPinyin": "zhì", "hzTrad": "Sistema", "hzHsk": 2},
+    {"hzId": "刷", "hzPinyin": "shuā", "hzTrad": "Cepillar", "hzHsk": 2},
+    {"hzId": "到", "hzPinyin": "dào", "hzTrad": "Llegar", "hzHsk": 1},
+    {"hzId": "则", "hzPinyin": "zé", "hzTrad": "Regla", "hzHsk": 3},
+    {"hzId": "剂", "hzPinyin": "jì", "hzTrad": "Dosis", "hzHsk": 4},
+    {"hzId": "前", "hzPinyin": "qián", "hzTrad": "Delante", "hzHsk": 1},
+    {"hzId": "剑", "hzPinyin": "jiàn", "hzTrad": "Espada", "hzHsk": 5},
+    {"hzId": "剧", "hzPinyin": "jù", "hzTrad": "Teatro", "hzHsk": 2},
+    {"hzId": "副", "hzPinyin": "fù", "hzTrad": "Vice", "hzHsk": 3},
+    {"hzId": "割", "hzPinyin": "gē", "hzTrad": "Cortar", "hzHsk": 5},
+    {"hzId": "创", "hzPinyin": "chuàng", "hzTrad": "Crear", "hzHsk": 3},
+    {"hzId": "剩", "hzPinyin": "shèng", "hzTrad": "Sobrante", "hzHsk": 4},
+    {"hzId": "剪", "hzPinyin": "jiǎn", "hzTrad": "Tijeras", "hzHsk": 4},
+    {"hzId": "副", "hzPinyin": "fù", "hzTrad": "Segundo", "hzHsk": 3},
+    {"hzId": "剖", "hzPinyin": "pōu", "hzTrad": "Disecar", "hzHsk": 6}
+  ]
 }
 }
