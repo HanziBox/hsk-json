@@ -341,5 +341,17 @@
 {"hzId": "卡", "hzPinyin": "kǎ", "hzTrad": "Tarjeta", "hzHsk": 3},
 {"hzId": "卧", "hzPinyin": "wò", "hzTrad": "Tumbarse", "hzHsk": 5}
 ]
+},
+    "卩": {
+"hzSignificado": "Sello",
+"datos": [
+{"hzId": "卫", "hzPinyin": "wèi", "hzTrad": "Defender", "hzHsk": 4},
+{"hzId": "印", "hzPinyin": "yìn", "hzTrad": "Sello", "hzHsk": 3},
+{"hzId": "危", "hzPinyin": "wēi", "hzTrad": "Peligro", "hzHsk": 4},
+{"hzId": "即", "hzPinyin": "jí", "hzTrad": "Inmediatamente", "hzHsk": 5},
+{"hzId": "却", "hzPinyin": "què", "hzTrad": "Pero", "hzHsk": 4},
+{"hzId": "卷", "hzPinyin": "juǎn", "hzTrad": "Enrollar", "hzHsk": 5},
+{"hzId": "卸", "hzPinyin": "xiè", "hzTrad": "Descargar", "hzHsk": 6}
+]
 }
 }
