@@ -533,5 +533,14 @@
 {"hzId": "壮", "hzPinyin": "zhuàng", "hzTrad": "Fuerte", "hzHsk": 6},
 {"hzId": "壶", "hzPinyin": "hú", "hzTrad": "Tetera", "hzHsk": 6}
 ]
+},
+    "夂": {
+"hzSignificado": "Caminar",
+"datos": [
+{"hzId": "处", "hzPinyin": "chǔ", "hzTrad": "Lugar", "hzHsk": 4},
+{"hzId": "复", "hzPinyin": "fù", "hzTrad": "Repetir", "hzHsk": 3},
+{"hzId": "夏", "hzPinyin": "xià", "hzTrad": "Verano", "hzHsk": 4},
+{"hzId": "备", "hzPinyin": "bèi", "hzTrad": "Preparar", "hzHsk": 2}
+]
 }
 }
