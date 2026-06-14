@@ -375,5 +375,23 @@
 {"hzId": "县", "hzPinyin": "xiàn", "hzTrad": "Condado", "hzHsk": 5},
 {"hzId": "参", "hzPinyin": "cān", "hzTrad": "Participar", "hzHsk": 3}
 ]
+},
+    "又": {
+"hzSignificado": "De nuevo",
+"datos": [
+{"hzId": "及", "hzPinyin": "jí", "hzTrad": "Y", "hzHsk": 4},
+{"hzId": "友", "hzPinyin": "yǒu", "hzTrad": "Amigo", "hzHsk": 1},
+{"hzId": "双", "hzPinyin": "shuāng", "hzTrad": "Doble", "hzHsk": 3},
+{"hzId": "反", "hzPinyin": "fǎn", "hzTrad": "Opuesto", "hzHsk": 4},
+{"hzId": "发", "hzPinyin": "fā", "hzTrad": "Enviar", "hzHsk": 3},
+{"hzId": "叔", "hzPinyin": "shū", "hzTrad": "Tío", "hzHsk": 3},
+{"hzId": "取", "hzPinyin": "qǔ", "hzTrad": "Tomar", "hzHsk": 4},
+{"hzId": "受", "hzPinyin": "shòu", "hzTrad": "Recibir", "hzHsk": 4},
+{"hzId": "变", "hzPinyin": "biàn", "hzTrad": "Cambiar", "hzHsk": 3},
+{"hzId": "叙", "hzPinyin": "xù", "hzTrad": "Narrar", "hzHsk": 5},
+{"hzId": "叛", "hzPinyin": "pàn", "hzTrad": "Traicionar", "hzHsk": 6},
+{"hzId": "叠", "hzPinyin": "dié", "hzTrad": "Apilar", "hzHsk": 6},
+{"hzId": "叉", "hzPinyin": "chā", "hzTrad": "Horquilla", "hzHsk": 5}
+]
 }
 }
