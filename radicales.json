@@ -940,5 +940,13 @@
 {"hzId": "弹", "hzPinyin": "tán", "hzTrad": "Disparar", "hzHsk": 4},
 {"hzId": "强", "hzPinyin": "qiáng", "hzTrad": "Fuerte", "hzHsk": 5}
 ]
+},
+    "彐": {
+"hzSignificado": "Morro cerdo",
+"datos": [
+{"hzId": "归", "hzPinyin": "guī", "hzTrad": "Regresar", "hzHsk": 5},
+{"hzId": "当", "hzPinyin": "dāng", "hzTrad": "Deber", "hzHsk": 3},
+{"hzId": "录", "hzPinyin": "lù", "hzTrad": "Registrar", "hzHsk": 5}
+]
 }
 }
