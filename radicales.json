@@ -710,5 +710,14 @@
 {"hzId": "尚", "hzPinyin": "shàng", "hzTrad": "Todavía / Preferir", "hzHsk": 5},
 {"hzId": "尝", "hzPinyin": "cháng", "hzTrad": "Probar", "hzHsk": 5}
 ]
+},
+    "尢": {
+"hzSignificado": "Pierna coja / Cojo",
+"datos": [
+{"hzId": "尤", "hzPinyin": "yóu", "hzTrad": "Especialmente", "hzHsk": 4},
+{"hzId": "尬", "hzPinyin": "gà", "hzTrad": "Incómodo", "hzHsk": 5},
+{"hzId": "就", "hzPinyin": "jiù", "hzTrad": "Entonces", "hzHsk": 2},
+{"hzId": "尴", "hzPinyin": "gān", "hzTrad": "Incómodo", "hzHsk": 5}
+]
 }
 }
