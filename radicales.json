@@ -458,5 +458,22 @@
     {"hzId": "嘴", "hzPinyin": "zuǐ", "hzTrad": "Boca", "hzHsk": 3},
     {"hzId": "器", "hzPinyin": "qì", "hzTrad": "Instrumento", "hzHsk": 5}
   ]
+},
+    "囗": {
+"hzSignificado": "Recinto",
+"datos": [
+{"hzId": "四", "hzPinyin": "sì", "hzTrad": "Cuatro", "hzHsk": 1},
+{"hzId": "回", "hzPinyin": "huí", "hzTrad": "Regresar", "hzHsk": 1},
+{"hzId": "国", "hzPinyin": "guó", "hzTrad": "País", "hzHsk": 1},
+{"hzId": "因", "hzPinyin": "yīn", "hzTrad": "Causa", "hzHsk": 2},
+{"hzId": "图", "hzPinyin": "tú", "hzTrad": "Imagen", "hzHsk": 2},
+{"hzId": "圆", "hzPinyin": "yuán", "hzTrad": "Círculo", "hzHsk": 3},
+{"hzId": "圈", "hzPinyin": "quān", "hzTrad": "Círculo", "hzHsk": 3},
+{"hzId": "困", "hzPinyin": "kùn", "hzTrad": "Atrapado", "hzHsk": 4},
+{"hzId": "围", "hzPinyin": "wéi", "hzTrad": "Rodear", "hzHsk": 4},
+{"hzId": "固", "hzPinyin": "gù", "hzTrad": "Firme", "hzHsk": 4},
+{"hzId": "团", "hzPinyin": "tuán", "hzTrad": "Grupo", "hzHsk": 5},
+{"hzId": "囚", "hzPinyin": "qiú", "hzTrad": "Prisionero", "hzHsk": 6}
+]
 }
 }
