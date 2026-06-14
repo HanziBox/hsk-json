@@ -638,5 +638,50 @@
       {"hzId":"孔","hzPinyin":"kǒng","hzTrad":"Agujero","hzHsk":6},
       {"hzId":"孤","hzPinyin":"gū","hzTrad":"Solitario","hzHsk":6}
     ]
-  }
+  },
+    "宀": {
+"hzSignificado": "Techo",
+"datos": [
+{"hzId": "宁", "hzPinyin": "níng", "hzTrad": "Pacífico", "hzHsk": 5},
+{"hzId": "它", "hzPinyin": "tā", "hzTrad": "Eso", "hzHsk": 2},
+{"hzId": "宅", "hzPinyin": "zhái", "hzTrad": "Residencia", "hzHsk": 5},
+{"hzId": "宇", "hzPinyin": "yǔ", "hzTrad": "Universo", "hzHsk": 6},
+{"hzId": "守", "hzPinyin": "shǒu", "hzTrad": "Defender", "hzHsk": 5},
+{"hzId": "安", "hzPinyin": "ān", "hzTrad": "Paz", "hzHsk": 3},
+{"hzId": "宋", "hzPinyin": "sòng", "hzTrad": "Dinastía", "hzHsk": 6},
+{"hzId": "完", "hzPinyin": "wán", "hzTrad": "Terminar", "hzHsk": 2},
+{"hzId": "宏", "hzPinyin": "hóng", "hzTrad": "Vasto", "hzHsk": 6},
+{"hzId": "宗", "hzPinyin": "zōng", "hzTrad": "Escuela", "hzHsk": 6},
+{"hzId": "官", "hzPinyin": "guān", "hzTrad": "Oficial", "hzHsk": 5},
+{"hzId": "宙", "hzPinyin": "zhòu", "hzTrad": "Tiempo", "hzHsk": 6},
+{"hzId": "定", "hzPinyin": "dìng", "hzTrad": "Decidir", "hzHsk": 3},
+{"hzId": "宜", "hzPinyin": "yí", "hzTrad": "Adecuado", "hzHsk": 2},
+{"hzId": "宝", "hzPinyin": "bǎo", "hzTrad": "Tesoro", "hzHsk": 5},
+{"hzId": "实", "hzPinyin": "shí", "hzTrad": "Real", "hzHsk": 3},
+{"hzId": "宠", "hzPinyin": "chǒng", "hzTrad": "Mimar", "hzHsk": 5},
+{"hzId": "审", "hzPinyin": "shěn", "hzTrad": "Juzgar", "hzHsk": 6},
+{"hzId": "客", "hzPinyin": "kè", "hzTrad": "Invitado", "hzHsk": 1},
+{"hzId": "宣", "hzPinyin": "xuān", "hzTrad": "Declarar", "hzHsk": 6},
+{"hzId": "室", "hzPinyin": "shì", "hzTrad": "Habitación", "hzHsk": 2},
+{"hzId": "宪", "hzPinyin": "xiàn", "hzTrad": "Constitución", "hzHsk": 6},
+{"hzId": "宫", "hzPinyin": "gōng", "hzTrad": "Palacio", "hzHsk": 6},
+{"hzId": "宰", "hzPinyin": "zǎi", "hzTrad": "Gobernar", "hzHsk": 6},
+{"hzId": "害", "hzPinyin": "hài", "hzTrad": "Dañar", "hzHsk": 3},
+{"hzId": "宴", "hzPinyin": "yàn", "hzTrad": "Banquete", "hzHsk": 6},
+{"hzId": "宵", "hzPinyin": "xiāo", "hzTrad": "Noche", "hzHsk": 6},
+{"hzId": "家", "hzPinyin": "jiā", "hzTrad": "Hogar", "hzHsk": 1},
+{"hzId": "容", "hzPinyin": "róng", "hzTrad": "Contener", "hzHsk": 3},
+{"hzId": "宽", "hzPinyin": "kuān", "hzTrad": "Ancho", "hzHsk": 5},
+{"hzId": "宾", "hzPinyin": "bīn", "hzTrad": "Invitado", "hzHsk": 2},
+{"hzId": "宿", "hzPinyin": "sù", "hzTrad": "Alojarse", "hzHsk": 5},
+{"hzId": "寂", "hzPinyin": "jì", "hzTrad": "Silencioso", "hzHsk": 5},
+{"hzId": "寄", "hzPinyin": "jì", "hzTrad": "Enviar", "hzHsk": 5},
+{"hzId": "密", "hzPinyin": "mì", "hzTrad": "Secreto", "hzHsk": 5},
+{"hzId": "寇", "hzPinyin": "kòu", "hzTrad": "Bandido", "hzHsk": 6},
+{"hzId": "富", "hzPinyin": "fù", "hzTrad": "Rico", "hzHsk": 4},
+{"hzId": "寒", "hzPinyin": "hán", "hzTrad": "Frío", "hzHsk": 4},
+{"hzId": "寞", "hzPinyin": "mò", "hzTrad": "Solitario", "hzHsk": 5},
+{"hzId": "察", "hzPinyin": "chá", "hzTrad": "Examinar", "hzHsk": 4}
+]
+}
 }
