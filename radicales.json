@@ -333,5 +333,23 @@
       {"hzId": "卒", "hzPinyin": "zú", "hzTrad": "Soldado/Morir", "hzHsk": 6},
       {"hzId": "卓", "hzPinyin": "zhuó", "hzTrad": "Excelente", "hzHsk": 5}
     ]
-  }
+  },
+    "占": {
+"hzSignificado": "Ocupar",
+"datos": [
+{"hzId": "占", "hzPinyin": "zhàn", "hzTrad": "Ocupar/Adivinar", "hzHsk": 5}
+]
+},
+"卡": {
+"hzSignificado": "Tarjeta",
+"datos": [
+{"hzId": "卡", "hzPinyin": "kǎ", "hzTrad": "Tarjeta/Atrapado", "hzHsk": 3}
+]
+},
+"臣": {
+"hzSignificado": "Ministro/Súbdito",
+"datos": [
+{"hzId": "卧", "hzPinyin": "wò", "hzTrad": "Tumbarse", "hzHsk": 5}
+]
+}
 }
