@@ -860,5 +860,15 @@
 {"hzId": "幕", "hzPinyin": "mù", "hzTrad": "Cortina", "hzHsk": 5},
 {"hzId": "幢", "hzPinyin": "zhuàng", "hzTrad": "Edificio", "hzHsk": 6}
 ]
+},
+    "干": {
+"hzSignificado": "Seco / Trabajar",
+"datos": [
+{"hzId": "干", "hzPinyin": "gān", "hzTrad": "Seco", "hzHsk": 4},
+{"hzId": "平", "hzPinyin": "píng", "hzTrad": "Plano", "hzHsk": 3},
+{"hzId": "年", "hzPinyin": "nián", "hzTrad": "Año", "hzHsk": 1},
+{"hzId": "并", "hzPinyin": "bìng", "hzTrad": "Y", "hzHsk": 4},
+{"hzId": "幸", "hzPinyin": "xìng", "hzTrad": "Afortunado", "hzHsk": 5}
+]
 }
 }
