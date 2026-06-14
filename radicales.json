@@ -785,5 +785,24 @@
 {"hzId": "嵩", "hzPinyin": "sōng", "hzTrad": "Alto", "hzHsk": 6},
 {"hzId": "巍", "hzPinyin": "wēi", "hzTrad": "Imponente", "hzHsk": 6}
 ]
+},
+    "山": {
+"hzSignificado": "Montaña",
+"datos": [
+{"hzId": "山", "hzPinyin": "shān", "hzTrad": "Montaña", "hzHsk": 3},
+{"hzId": "岁", "hzPinyin": "suì", "hzTrad": "Edad", "hzHsk": 1},
+{"hzId": "岂", "hzPinyin": "qǐ", "hzTrad": "Acaso", "hzHsk": 6},
+{"hzId": "岗", "hzPinyin": "gǎng", "hzTrad": "Montículo", "hzHsk": 5},
+{"hzId": "岚", "hzPinyin": "lán", "hzTrad": "Bruma", "hzHsk": 6},
+{"hzId": "岛", "hzPinyin": "dǎo", "hzTrad": "Isla", "hzHsk": 4},
+{"hzId": "岭", "hzPinyin": "lǐng", "hzTrad": "Cordillera", "hzHsk": 5},
+{"hzId": "岳", "hzPinyin": "yuè", "hzTrad": "Montaña alta", "hzHsk": 6},
+{"hzId": "岸", "hzPinyin": "àn", "hzTrad": "Orilla", "hzHsk": 3},
+{"hzId": "峡", "hzPinyin": "xiá", "hzTrad": "Garganta", "hzHsk": 6},
+{"hzId": "峰", "hzPinyin": "fēng", "hzTrad": "Pico", "hzHsk": 6},
+{"hzId": "崇", "hzPinyin": "chóng", "hzTrad": "Adorar", "hzHsk": 6},
+{"hzId": "崩", "hzPinyin": "bēng", "hzTrad": "Colapsar", "hzHsk": 5},
+{"hzId": "嵩", "hzPinyin": "sōng", "hzTrad": "Alto", "hzHsk": 6}
+]
 }
 }
