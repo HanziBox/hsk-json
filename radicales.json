@@ -206,13 +206,26 @@
   "datos": [
     {"hzId": "冬", "hzPinyin": "dōng", "hzTrad": "Invierno", "hzHsk": 1},
     {"hzId": "冷", "hzPinyin": "lěng", "hzTrad": "Frío", "hzHsk": 1},
+    {"hzId": "冲", "hzPinyin": "chōng", "hzTrad": "Arremeter", "hzHsk": 3},
+    {"hzId": "决", "hzPinyin": "jué", "hzTrad": "Decidir", "hzHsk": 3},
     {"hzId": "准", "hzPinyin": "zhǔn", "hzTrad": "Estándar", "hzHsk": 3},
+    {"hzId": "况", "hzPinyin": "kuàng", "hzTrad": "Situación", "hzHsk": 4},
     {"hzId": "凉", "hzPinyin": "liáng", "hzTrad": "Fresco", "hzHsk": 4},
     {"hzId": "减", "hzPinyin": "jiǎn", "hzTrad": "Restar", "hzHsk": 4},
-    {"hzId": "况", "hzPinyin": "kuàng", "hzTrad": "Situación", "hzHsk": 4},
+    {"hzId": "凑", "hzPinyin": "còu", "hzTrad": "Juntar", "hzHsk": 5},
     {"hzId": "净", "hzPinyin": "jìng", "hzTrad": "Limpio", "hzHsk": 5},
+    {"hzId": "凄", "hzPinyin": "qī", "hzTrad": "Triste", "hzHsk": 5},
+    {"hzId": "冶", "hzPinyin": "yě", "hzTrad": "Fundir", "hzHsk": 6},
+    {"hzId": "冰", "hzPinyin": "bīng", "hzTrad": "Hielo", "hzHsk": 6},
+    {"hzId": "凋", "hzPinyin": "diāo", "hzTrad": "Marchitar", "hzHsk": 6},
+    {"hzId": "冻", "hzPinyin": "dòng", "hzTrad": "Congelar", "hzHsk": 6},
     {"hzId": "凌", "hzPinyin": "líng", "hzTrad": "Hielo", "hzHsk": 6},
-    {"hzId": "冻", "hzPinyin": "dòng", "hzTrad": "Congelar", "hzHsk": 6}
+    {"hzId": "凛", "hzPinyin": "lǐn", "hzTrad": "Gélido", "hzHsk": 6},
+    {"hzId": "凝", "hzPinyin": "níng", "hzTrad": "Solidificar", "hzHsk": 6},
+    {"hzId": "冽", "hzPinyin": "liè", "hzTrad": "Helado", "hzHsk": 6},
+    {"hzId": "冱", "hzPinyin": "hù", "hzTrad": "Congelado", "hzHsk": 6},
+    {"hzId": "冼", "hzPinyin": "xiǎn", "hzTrad": "Lavar", "hzHsk": 6},
+    {"hzId": "凇", "hzPinyin": "sōng", "hzTrad": "Escarcha", "hzHsk": 6}
   ]
 }
 }
