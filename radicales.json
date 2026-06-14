@@ -148,5 +148,40 @@
     {"hzId": "伶", "hzPinyin": "líng", "hzTrad": "Actor", "hzHsk": 6},
     {"hzId": "仲", "hzPinyin": "zhòng", "hzTrad": "Segundo", "hzHsk": 6}
   ]
+},
+  "儿": {
+  "hzSignificado": "Niño",
+  "datos": [
+    {"hzId": "儿", "hzPinyin": "ér", "hzTrad": "Niño", "hzHsk": 1},
+    {"hzId": "兄", "hzPinyin": "xiōng", "hzTrad": "Hermano", "hzHsk": 1},
+    {"hzId": "先", "hzPinyin": "xiān", "hzTrad": "Primero", "hzHsk": 2},
+    {"hzId": "光", "hzPinyin": "guāng", "hzTrad": "Luz", "hzHsk": 2},
+    {"hzId": "充", "hzPinyin": "chōng", "hzTrad": "Llenar", "hzHsk": 4},
+    {"hzId": "免", "hzPinyin": "miǎn", "hzTrad": "Evitar", "hzHsk": 4}
+  ]
+},
+"入": {
+  "hzSignificado": "Entrar",
+  "datos": [
+    {"hzId": "入", "hzPinyin": "rù", "hzTrad": "Entrar", "hzHsk": 1},
+    {"hzId": "全", "hzPinyin": "quán", "hzTrad": "Todo", "hzHsk": 1},
+    {"hzId": "两", "hzPinyin": "liǎng", "hzTrad": "Dos", "hzHsk": 1},
+    {"hzId": "公", "hzPinyin": "gōng", "hzTrad": "Público", "hzHsk": 2}
+  ]
+},
+"八": {
+  "hzSignificado": "Ocho",
+  "datos": [
+    {"hzId": "八", "hzPinyin": "bā", "hzTrad": "Ocho", "hzHsk": 1},
+    {"hzId": "分", "hzPinyin": "fēn", "hzTrad": "Minuto", "hzHsk": 1},
+    {"hzId": "公", "hzPinyin": "gōng", "hzTrad": "Público", "hzHsk": 2},
+    {"hzId": "共", "hzPinyin": "gòng", "hzTrad": "Común", "hzHsk": 2},
+    {"hzId": "兴", "hzPinyin": "xìng", "hzTrad": "Interés", "hzHsk": 2},
+    {"hzId": "兵", "hzPinyin": "bīng", "hzTrad": "Soldado", "hzHsk": 3},
+    {"hzId": "其", "hzPinyin": "qí", "hzTrad": "Eso", "hzHsk": 4},
+    {"hzId": "具", "hzPinyin": "jù", "hzTrad": "Herramienta", "hzHsk": 4},
+    {"hzId": "典", "hzPinyin": "diǎn", "hzTrad": "Clásico", "hzHsk": 4},
+    {"hzId": "养", "hzPinyin": "yǎng", "hzTrad": "Criar", "hzHsk": 5}
+  ]
 }
 }
