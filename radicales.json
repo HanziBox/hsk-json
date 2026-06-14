@@ -576,5 +576,46 @@
 {"hzId": "奠", "hzPinyin": "diàn", "hzTrad": "Establecer", "hzHsk": 6},
 {"hzId": "奏", "hzPinyin": "zòu", "hzTrad": "Tocar", "hzHsk": 6}
 ]
-}
+},
+      "女": {
+    "hzSignificado": "Mujer",
+    "datos": [
+      {"hzId":"女","hzPinyin":"nǚ","hzTrad":"Mujer","hzHsk":1},
+      {"hzId":"她","hzPinyin":"tā","hzTrad":"Ella","hzHsk":1},
+      {"hzId":"好","hzPinyin":"hǎo","hzTrad":"Bueno","hzHsk":1},
+      {"hzId":"妈","hzPinyin":"mā","hzTrad":"Madre","hzHsk":1},
+      {"hzId":"姓","hzPinyin":"xìng","hzTrad":"Apellido","hzHsk":1},
+
+      {"hzId":"妹","hzPinyin":"mèi","hzTrad":"Hermana menor","hzHsk":2},
+      {"hzId":"姐","hzPinyin":"jiě","hzTrad":"Hermana mayor","hzHsk":2},
+      {"hzId":"妻","hzPinyin":"qī","hzTrad":"Esposa","hzHsk":2},
+
+      {"hzId":"娘","hzPinyin":"niáng","hzTrad":"Señora / madre","hzHsk":5},
+
+      {"hzId":"奶","hzPinyin":"nǎi","hzTrad":"Leche / abuela","hzHsk":3},
+      {"hzId":"妇","hzPinyin":"fù","hzTrad":"Mujer casada","hzHsk":3},
+      {"hzId":"婚","hzPinyin":"hūn","hzTrad":"Matrimonio","hzHsk":3},
+      {"hzId":"姨","hzPinyin":"yí","hzTrad":"Tía materna","hzHsk":3},
+      {"hzId":"如","hzPinyin":"rú","hzTrad":"Como / si","hzHsk":3},
+
+      {"hzId":"嫁","hzPinyin":"jià","hzTrad":"Casarse","hzHsk":5},
+      {"hzId":"婆","hzPinyin":"pó","hzTrad":"Mujer mayor / abuela","hzHsk":5},
+      {"hzId":"姿","hzPinyin":"zī","hzTrad":"Apariencia","hzHsk":5},
+      {"hzId":"妙","hzPinyin":"miào","hzTrad":"Maravilloso","hzHsk":5},
+      {"hzId":"妮","hzPinyin":"nī","hzTrad":"Chica","hzHsk":5},
+      {"hzId":"姑","hzPinyin":"gū","hzTrad":"Tía paterna","hzHsk":5},
+      {"hzId":"姥","hzPinyin":"lǎo","hzTrad":"Abuela","hzHsk":5},
+      {"hzId":"娱","hzPinyin":"yú","hzTrad":"Entretenimiento","hzHsk":5},
+      {"hzId":"娶","hzPinyin":"qǔ","hzTrad":"Casarse (hombre)","hzHsk":5},
+      {"hzId":"媒","hzPinyin":"méi","hzTrad":"Casamentero","hzHsk":5},
+      {"hzId":"媚","hzPinyin":"mèi","hzTrad":"Encanto","hzHsk":5},
+      {"hzId":"媳","hzPinyin":"xí","hzTrad":"Nuera","hzHsk":5},
+      {"hzId":"嫂","hzPinyin":"sǎo","hzTrad":"Cuñada","hzHsk":5},
+      {"hzId":"嫌","hzPinyin":"xián","hzTrad":"Disgustar / sospechar","hzHsk":5},
+
+      {"hzId":"奴","hzPinyin":"nú","hzTrad":"Esclavo","hzHsk":6},
+      {"hzId":"妥","hzPinyin":"tuǒ","hzTrad":"Apropiado","hzHsk":6},
+      {"hzId":"娃","hzPinyin":"wá","hzTrad":"Bebé","hzHsk":6}
+    ]
+  }
 }
