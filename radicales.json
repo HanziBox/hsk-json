@@ -698,5 +698,17 @@
 {"hzId": "将", "hzPinyin": "jiāng", "hzTrad": "Futuro", "hzHsk": 4},
 {"hzId": "尊", "hzPinyin": "zūn", "hzTrad": "Respetar", "hzHsk": 4}
 ]
+},
+    "小": {
+"hzSignificado": "Pequeño",
+"datos": [
+{"hzId": "小", "hzPinyin": "xiǎo", "hzTrad": "Pequeño", "hzHsk": 1},
+{"hzId": "少", "hzPinyin": "shǎo", "hzTrad": "Poco", "hzHsk": 1},
+{"hzId": "尔", "hzPinyin": "ěr", "hzTrad": "Tú / Así", "hzHsk": 4},
+{"hzId": "尖", "hzPinyin": "jiān", "hzTrad": "Punta", "hzHsk": 6},
+{"hzId": "尘", "hzPinyin": "chén", "hzTrad": "Polvo", "hzHsk": 5},
+{"hzId": "尚", "hzPinyin": "shàng", "hzTrad": "Todavía / Preferir", "hzHsk": 5},
+{"hzId": "尝", "hzPinyin": "cháng", "hzTrad": "Probar", "hzHsk": 5}
+]
 }
 }
