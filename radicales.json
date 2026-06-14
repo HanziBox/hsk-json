@@ -337,7 +337,7 @@
 "卜": {
 "hzSignificado": "Adivinación",
 "datos": [
-{"hzId": "占", "hzPinyin": "zhàn", "hzTrad": "Ocupar", "hzHsk": 5},
+{"hzId": "占", "hzPinyin": "zhàn", "hzTrad": "Ocupar", "hzHsk": 4},
 {"hzId": "卡", "hzPinyin": "kǎ", "hzTrad": "Tarjeta", "hzHsk": 3},
 {"hzId": "卧", "hzPinyin": "wò", "hzTrad": "Tumbarse", "hzHsk": 5}
 ]
