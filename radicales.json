@@ -948,5 +948,39 @@
 {"hzId": "当", "hzPinyin": "dāng", "hzTrad": "Deber", "hzHsk": 3},
 {"hzId": "录", "hzPinyin": "lù", "hzTrad": "Registrar", "hzHsk": 5}
 ]
+},
+    "彡": {
+"hzSignificado": "Cerdas",
+"datos": [
+{"hzId": "形", "hzPinyin": "xíng", "hzTrad": "Forma", "hzHsk": 5},
+{"hzId": "彩", "hzPinyin": "cǎi", "hzTrad": "Color", "hzHsk": 4},
+{"hzId": "彭", "hzPinyin": "péng", "hzTrad": "Apellido", "hzHsk": 6},
+{"hzId": "影", "hzPinyin": "yǐng", "hzTrad": "Sombra", "hzHsk": 1}
+]
+},
+    "彳": {
+"hzSignificado": "Paso pequeño",
+"datos": [
+{"hzId": "役", "hzPinyin": "yì", "hzTrad": "Servicio", "hzHsk": 6},
+{"hzId": "彻", "hzPinyin": "chè", "hzTrad": "Penetrar", "hzHsk": 5},
+{"hzId": "彼", "hzPinyin": "bǐ", "hzTrad": "Aquel", "hzHsk": 5},
+{"hzId": "往", "hzPinyin": "wǎng", "hzTrad": "Ir", "hzHsk": 2},
+{"hzId": "征", "hzPinyin": "zhēng", "hzTrad": "Expedición", "hzHsk": 5},
+{"hzId": "径", "hzPinyin": "jìng", "hzTrad": "Sendero", "hzHsk": 6},
+{"hzId": "待", "hzPinyin": "dài", "hzTrad": "Esperar", "hzHsk": 5},
+{"hzId": "很", "hzPinyin": "hěn", "hzTrad": "Muy", "hzHsk": 1},
+{"hzId": "徊", "hzPinyin": "huái", "hzTrad": "Vagar", "hzHsk": 6},
+{"hzId": "律", "hzPinyin": "lǜ", "hzTrad": "Ley", "hzHsk": 4},
+{"hzId": "徐", "hzPinyin": "xú", "hzTrad": "Despacio", "hzHsk": 6},
+{"hzId": "徒", "hzPinyin": "tú", "hzTrad": "Discípulo", "hzHsk": 6},
+{"hzId": "得", "hzPinyin": "dé", "hzTrad": "Obtener", "hzHsk": 2},
+{"hzId": "徘", "hzPinyin": "pái", "hzTrad": "Vagar", "hzHsk": 6},
+{"hzId": "徙", "hzPinyin": "xǐ", "hzTrad": "Mudar", "hzHsk": 6},
+{"hzId": "御", "hzPinyin": "yù", "hzTrad": "Conducir", "hzHsk": 6},
+{"hzId": "循", "hzPinyin": "xún", "hzTrad": "Seguir", "hzHsk": 6},
+{"hzId": "微", "hzPinyin": "wēi", "hzTrad": "Pequeño", "hzHsk": 4},
+{"hzId": "徵", "hzPinyin": "zhēng", "hzTrad": "Evidencia", "hzHsk": 6},
+{"hzId": "德", "hzPinyin": "dé", "hzTrad": "Virtud", "hzHsk": 5}
+]
 }
 }
