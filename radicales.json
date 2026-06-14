@@ -924,5 +924,21 @@
 "datos": [
 {"hzId": "式", "hzPinyin": "shì", "hzTrad": "Estilo", "hzHsk": 4}
 ]
+},
+    "弓": {
+"hzSignificado": "Arco",
+"datos": [
+{"hzId": "引", "hzPinyin": "yǐn", "hzTrad": "Guiar", "hzHsk": 4},
+{"hzId": "弟", "hzPinyin": "dì", "hzTrad": "Hermano", "hzHsk": 2},
+{"hzId": "张", "hzPinyin": "zhāng", "hzTrad": "Abrir", "hzHsk": 3},
+{"hzId": "弥", "hzPinyin": "mí", "hzTrad": "Llenar", "hzHsk": 6},
+{"hzId": "弦", "hzPinyin": "xián", "hzTrad": "Cuerda", "hzHsk": 6},
+{"hzId": "弧", "hzPinyin": "hú", "hzTrad": "Arco", "hzHsk": 6},
+{"hzId": "弩", "hzPinyin": "nǔ", "hzTrad": "Ballesta", "hzHsk": 6},
+{"hzId": "弯", "hzPinyin": "wān", "hzTrad": "Curvar", "hzHsk": 5},
+{"hzId": "弱", "hzPinyin": "ruò", "hzTrad": "Débil", "hzHsk": 5},
+{"hzId": "弹", "hzPinyin": "tán", "hzTrad": "Disparar", "hzHsk": 4},
+{"hzId": "强", "hzPinyin": "qiáng", "hzTrad": "Fuerte", "hzHsk": 5}
+]
 }
 }
