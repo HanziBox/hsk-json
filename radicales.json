@@ -879,5 +879,34 @@
 {"hzId": "幼", "hzPinyin": "yòu", "hzTrad": "Joven", "hzHsk": 5},
 {"hzId": "幽", "hzPinyin": "yōu", "hzTrad": "Escondido", "hzHsk": 4}
 ]
+},
+    "广": {
+"hzSignificado": "Ancho",
+"datos": [
+{"hzId": "广", "hzPinyin": "guǎng", "hzTrad": "Ancho", "hzHsk":4},
+{"hzId": "庄", "hzPinyin": "zhuāng", "hzTrad": "Villa", "hzHsk": 6},
+{"hzId": "庆", "hzPinyin": "qìng", "hzTrad": "Celebrar", "hzHsk": 4},
+{"hzId": "床", "hzPinyin": "chuáng", "hzTrad": "Cama", "hzHsk": 2},
+{"hzId": "序", "hzPinyin": "xù", "hzTrad": "Orden", "hzHsk": 3},
+{"hzId": "库", "hzPinyin": "kù", "hzTrad": "Almacén", "hzHsk": 3},
+{"hzId": "店", "hzPinyin": "diàn", "hzTrad": "Tienda", "hzHsk": 1},
+{"hzId": "庙", "hzPinyin": "miào", "hzTrad": "Templo", "hzHsk": 4},
+{"hzId": "府", "hzPinyin": "fǔ", "hzTrad": "Gobierno", "hzHsk": 4},
+{"hzId": "废", "hzPinyin": "fèi", "hzTrad": "Desperdicio", "hzHsk": 4},
+{"hzId": "度", "hzPinyin": "dù", "hzTrad": "Grado", "hzHsk": 1},
+{"hzId": "座", "hzPinyin": "zuò", "hzTrad": "Asiento", "hzHsk": 3},
+{"hzId": "庭", "hzPinyin": "tíng", "hzTrad": "Patio", "hzHsk": 3},
+{"hzId": "康", "hzPinyin": "kāng", "hzTrad": "Salud", "hzHsk": 3},
+{"hzId": "廉", "hzPinyin": "lián", "hzTrad": "Honesto", "hzHsk": 5},
+{"hzId": "廊", "hzPinyin": "láng", "hzTrad": "Pasillo", "hzHsk": 5}
+]
+},
+    "廴": {
+"hzSignificado": "Caminar",
+"datos": [
+{"hzId": "延", "hzPinyin": "yán", "hzTrad": "Extender", "hzHsk": 5},
+{"hzId": "廷", "hzPinyin": "tíng", "hzTrad": "Corte", "hzHsk": 6},
+{"hzId": "建", "hzPinyin": "jiàn", "hzTrad": "Construir", "hzHsk": 4}
+]
 }
 }
