@@ -813,5 +813,18 @@
 {"hzId": "巡", "hzPinyin": "xún", "hzTrad": "Patrullar", "hzHsk": 6},
 {"hzId": "巢", "hzPinyin": "cháo", "hzTrad": "Nido", "hzHsk": 6}
 ]
+},
+    "工": {
+"hzSignificado": "Trabajo",
+"datos": [
+{"hzId": "工", "hzPinyin": "gōng", "hzTrad": "Trabajo", "hzHsk": 1},
+{"hzId": "左", "hzPinyin": "zuǒ", "hzTrad": "Izquierda", "hzHsk": 2},
+{"hzId": "巧", "hzPinyin": "qiǎo", "hzTrad": "Hábil", "hzHsk": 5},
+{"hzId": "巨", "hzPinyin": "jù", "hzTrad": "Gigante", "hzHsk": 5},
+{"hzId": "巩", "hzPinyin": "gǒng", "hzTrad": "Consolidar", "hzHsk": 6},
+{"hzId": "巫", "hzPinyin": "wū", "hzTrad": "Chamán", "hzHsk": 6},
+{"hzId": "差", "hzPinyin": "chà", "hzTrad": "Diferencia", "hzHsk": 3},
+{"hzId": "巯", "hzPinyin": "qiú", "hzTrad": "Mercapto", "hzHsk": 6}
+]
 }
 }
