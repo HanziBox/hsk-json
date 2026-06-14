@@ -11,13 +11,13 @@
 {"hzId": "专", "hzPinyin": "zhuān", "hzTrad": "Especial", "hzHsk": 4},
 {"hzId": "业", "hzPinyin": "yè", "hzTrad": "Profesión", "hzHsk": 3},
 {"hzId": "世", "hzPinyin": "shì", "hzTrad": "Mundo", "hzHsk": 3},
-{"hzId": "且", "hzPinyin": "qiě", "hzTrad": "Además", "hzHsk": 4},
+{"hzId": "且", "hzPinyin": "qiě", "hzTrad": "Además", "hzHsk": 3},
 {"hzId": "与", "hzPinyin": "yǔ", "hzTrad": "Con", "hzHsk": 4},
 {"hzId": "严", "hzPinyin": "yán", "hzTrad": "Estricto", "hzHsk": 4},
 {"hzId": "丧", "hzPinyin": "sàng", "hzTrad": "Perder", "hzHsk": 6},
 {"hzId": "丘", "hzPinyin": "qiū", "hzTrad": "Colina", "hzHsk": 6},
 {"hzId": "丙", "hzPinyin": "bǐng", "hzTrad": "Tercero", "hzHsk": 6},
-{"hzId": "丛", "hzPinyin": "cóng", "hzTrad": "Matorral", "hzHsk": 5},
+{"hzId": "丛", "hzPinyin": "cóng", "hzTrad": "Matorral", "hzHsk": 6},
 {"hzId": "丞", "hzPinyin": "chéng", "hzTrad": "Ayudante", "hzHsk": 6}
 ]
 },
@@ -25,9 +25,9 @@
 "hzSignificado": "Línea",
 "datos": [
 {"hzId": "中", "hzPinyin": "zhōng", "hzTrad": "Centro", "hzHsk": 1},
-{"hzId": "丰", "hzPinyin": "fēng", "hzTrad": "Abundante", "hzHsk": 5},
+{"hzId": "丰", "hzPinyin": "fēng", "hzTrad": "Abundante", "hzHsk": 6},
 {"hzId": "串", "hzPinyin": "chuàn", "hzTrad": "Ensartar", "hzHsk": 6},
-{"hzId": "临", "hzPinyin": "lín", "hzTrad": "Llegar", "hzHsk": 3}
+{"hzId": "临", "hzPinyin": "lín", "hzTrad": "Llegar", "hzHsk": 5}
 ]
 },
 "丶": {
@@ -35,7 +35,7 @@
 "datos": [
 {"hzId": "丸", "hzPinyin": "wán", "hzTrad": "Pastilla", "hzHsk": 6},
 {"hzId": "主", "hzPinyin": "zhǔ", "hzTrad": "Dueño", "hzHsk": 3},
-{"hzId": "为", "hzPinyin": "wéi", "hzTrad": "Hacer", "hzHsk": 3},
+{"hzId": "为", "hzPinyin": "wéi", "hzTrad": "Hacer", "hzHsk": 2},
 {"hzId": "必", "hzPinyin": "bì", "hzTrad": "Necesario", "hzHsk": 3},
 {"hzId": "永", "hzPinyin": "yǒng", "hzTrad": "Eterno", "hzHsk": 4},
 {"hzId": "求", "hzPinyin": "qiú", "hzTrad": "Buscar", "hzHsk": 3},
@@ -46,11 +46,11 @@
 "hzSignificado": "Trazo",
 "datos": [
 {"hzId": "乐", "hzPinyin": "lè", "hzTrad": "Felicidad", "hzHsk": 2},
-{"hzId": "乎", "hzPinyin": "hū", "hzTrad": "Partícula", "hzHsk": 6},
-{"hzId": "乏", "hzPinyin": "fá", "hzTrad": "Escaso", "hzHsk": 6},
+{"hzId": "乎", "hzPinyin": "hū", "hzTrad": "Partícula", "hzHsk": 3},
+{"hzId": "乏", "hzPinyin": "fá", "hzTrad": "Escaso", "hzHsk": 5},
 {"hzId": "乘", "hzPinyin": "chéng", "hzTrad": "Multiplicar", "hzHsk": 4},
 {"hzId": "乖", "hzPinyin": "guāi", "hzTrad": "Obediente", "hzHsk": 6},
-{"hzId": "乔", "hzPinyin": "qiáo", "hzTrad": "Alto", "hzHsk": 5}
+{"hzId": "乔", "hzPinyin": "qiáo", "hzTrad": "Alto", "hzHsk": 6}
 ]
 },
 "乙": {
@@ -67,7 +67,7 @@
 "hzSignificado": "Gancho",
 "datos": [
 {"hzId": "了", "hzPinyin": "le", "hzTrad": "Partícula", "hzHsk": 1},
-{"hzId": "事", "hzPinyin": "shì", "hzTrad": "Asunto", "hzHsk": 1},
+{"hzId": "事", "hzPinyin": "shì", "hzTrad": "Asunto", "hzHsk": 2},
 {"hzId": "争", "hzPinyin": "zhēng", "hzTrad": "Disputar", "hzHsk": 4},
 {"hzId": "予", "hzPinyin": "yǔ", "hzTrad": "Dar", "hzHsk": 6}
 ]
@@ -77,24 +77,24 @@
 "datos": [
 {"hzId": "二", "hzPinyin": "èr", "hzTrad": "Dos", "hzHsk": 1},
 {"hzId": "五", "hzPinyin": "wǔ", "hzTrad": "Cinco", "hzHsk": 1},
-{"hzId": "云", "hzPinyin": "yún", "hzTrad": "Nube", "hzHsk": 2},
-{"hzId": "互", "hzPinyin": "hù", "hzTrad": "Mutuo", "hzHsk": 3},
+{"hzId": "云", "hzPinyin": "yún", "hzTrad": "Nube", "hzHsk": 1},
+{"hzId": "互", "hzPinyin": "hù", "hzTrad": "Mutuo", "hzHsk": 4},
 {"hzId": "于", "hzPinyin": "yú", "hzTrad": "En", "hzHsk": 3},
-{"hzId": "亚", "hzPinyin": "yà", "hzTrad": "Asia", "hzHsk": 3},
-{"hzId": "井", "hzPinyin": "jǐng", "hzTrad": "Pozo", "hzHsk": 4},
+{"hzId": "亚", "hzPinyin": "yà", "hzTrad": "Asia", "hzHsk": 4},
+{"hzId": "井", "hzPinyin": "jǐng", "hzTrad": "Pozo", "hzHsk": 6},
 {"hzId": "亏", "hzPinyin": "kuī", "hzTrad": "Déficit", "hzHsk": 5}
 ]
 },
 "亠": {
 "hzSignificado": "Tapa",
 "datos": [
-{"hzId": "亡", "hzPinyin": "wáng", "hzTrad": "Morir", "hzHsk": 3},
-{"hzId": "交", "hzPinyin": "jiāo", "hzTrad": "Entregar", "hzHsk": 2},
-{"hzId": "亮", "hzPinyin": "liàng", "hzTrad": "Brillante", "hzHsk": 2},
-{"hzId": "京", "hzPinyin": "jīng", "hzTrad": "Capital", "hzHsk": 2},
-{"hzId": "亭", "hzPinyin": "tíng", "hzTrad": "Pabellón", "hzHsk": 4},
-{"hzId": "享", "hzPinyin": "xiǎng", "hzTrad": "Disfrutar", "hzHsk": 4},
-{"hzId": "亦", "hzPinyin": "yì", "hzTrad": "También", "hzHsk": 5},
+{"hzId": "亡", "hzPinyin": "wáng", "hzTrad": "Morir", "hzHsk": 6},
+{"hzId": "交", "hzPinyin": "jiāo", "hzTrad": "Entregar", "hzHsk": 1},
+{"hzId": "亮", "hzPinyin": "liàng", "hzTrad": "Brillante", "hzHsk": 1},
+{"hzId": "京", "hzPinyin": "jīng", "hzTrad": "Capital", "hzHsk": 1},
+{"hzId": "亭", "hzPinyin": "tíng", "hzTrad": "Pabellón", "hzHsk": 6},
+{"hzId": "享", "hzPinyin": "xiǎng", "hzTrad": "Disfrutar", "hzHsk": 5},
+{"hzId": "亦", "hzPinyin": "yì", "hzTrad": "También", "hzHsk": 6},
 {"hzId": "亥", "hzPinyin": "hài", "hzTrad": "Cerdo", "hzHsk": 6}
 ]
 },
@@ -104,38 +104,38 @@
 {"hzId": "人", "hzPinyin": "rén", "hzTrad": "Persona", "hzHsk": 1},
 {"hzId": "个", "hzPinyin": "gè", "hzTrad": "Clasificador", "hzHsk": 1},
 {"hzId": "什", "hzPinyin": "shén", "hzTrad": "Qué", "hzHsk": 1},
-{"hzId": "休", "hzPinyin": "xiū", "hzTrad": "Descansar", "hzHsk": 1},
+{"hzId": "休", "hzPinyin": "xiū", "hzTrad": "Descansar", "hzHsk": 4},
 {"hzId": "会", "hzPinyin": "huì", "hzTrad": "Reunión", "hzHsk": 1},
 {"hzId": "住", "hzPinyin": "zhù", "hzTrad": "Vivir", "hzHsk": 1},
-{"hzId": "体", "hzPinyin": "tǐ", "hzTrad": "Cuerpo", "hzHsk": 1},
+{"hzId": "体", "hzPinyin": "tǐ", "hzTrad": "Cuerpo", "hzHsk": 2},
 {"hzId": "作", "hzPinyin": "zuò", "hzTrad": "Hacer", "hzHsk": 1},
 {"hzId": "你", "hzPinyin": "nǐ", "hzTrad": "Tú", "hzHsk": 1},
-{"hzId": "件", "hzPinyin": "jiàn", "hzTrad": "Asunto", "hzHsk": 1},
-{"hzId": "份", "hzPinyin": "fèn", "hzTrad": "Parte", "hzHsk": 2},
-{"hzId": "低", "hzPinyin": "dī", "hzTrad": "Bajo", "hzHsk": 2},
-{"hzId": "付", "hzPinyin": "fù", "hzTrad": "Pagar", "hzHsk": 2},
-{"hzId": "代", "hzPinyin": "dài", "hzTrad": "Generación", "hzHsk": 2},
+{"hzId": "件", "hzPinyin": "jiàn", "hzTrad": "Asunto", "hzHsk": 2},
+{"hzId": "份", "hzPinyin": "fèn", "hzTrad": "Parte", "hzHsk": 4},
+{"hzId": "低", "hzPinyin": "dī", "hzTrad": "Bajo", "hzHsk": 4},
+{"hzId": "付", "hzPinyin": "fù", "hzTrad": "Pagar", "hzHsk": 4},
+{"hzId": "代", "hzPinyin": "dài", "hzTrad": "Generación", "hzHsk": 5},
 {"hzId": "以", "hzPinyin": "yǐ", "hzTrad": "Usar", "hzHsk": 2},
-{"hzId": "位", "hzPinyin": "wèi", "hzTrad": "Posición", "hzHsk": 2},
-{"hzId": "何", "hzPinyin": "hé", "hzTrad": "Qué", "hzHsk": 2},
+{"hzId": "位", "hzPinyin": "wèi", "hzTrad": "Posición", "hzHsk": 3},
+{"hzId": "何", "hzPinyin": "hé", "hzTrad": "Qué", "hzHsk": 4},
 {"hzId": "但", "hzPinyin": "dàn", "hzTrad": "Pero", "hzHsk": 2},
-{"hzId": "使", "hzPinyin": "shǐ", "hzTrad": "Usar", "hzHsk": 2},
+{"hzId": "使", "hzPinyin": "shǐ", "hzTrad": "Usar", "hzHsk": 4},
 {"hzId": "从", "hzPinyin": "cóng", "hzTrad": "Desde", "hzHsk": 2},
-{"hzId": "企", "hzPinyin": "qǐ", "hzTrad": "Empresa", "hzHsk": 3},
-{"hzId": "似", "hzPinyin": "sì", "hzTrad": "Parecer", "hzHsk": 3},
-{"hzId": "优", "hzPinyin": "yōu", "hzTrad": "Excelente", "hzHsk": 3},
-{"hzId": "众", "hzPinyin": "zhòng", "hzTrad": "Multitud", "hzHsk": 3},
-{"hzId": "任", "hzPinyin": "rèn", "hzTrad": "Cargo", "hzHsk": 3},
-{"hzId": "令", "hzPinyin": "lìng", "hzTrad": "Ordenar", "hzHsk": 3},
-{"hzId": "伴", "hzPinyin": "bàn", "hzTrad": "Acompañar", "hzHsk": 4},
-{"hzId": "伯", "hzPinyin": "bó", "hzTrad": "Tío", "hzHsk": 4},
-{"hzId": "伸", "hzPinyin": "shēn", "hzTrad": "Estirar", "hzHsk": 4},
-{"hzId": "仿", "hzPinyin": "fǎng", "hzTrad": "Imitar", "hzHsk": 4},
-{"hzId": "余", "hzPinyin": "yú", "hzTrad": "Sobrante", "hzHsk": 4},
-{"hzId": "佳", "hzPinyin": "jiā", "hzTrad": "Excelente", "hzHsk": 4},
-{"hzId": "仁", "hzPinyin": "rén", "hzTrad": "Benevolencia", "hzHsk": 5},
-{"hzId": "仇", "hzPinyin": "chóu", "hzTrad": "Enemigo", "hzHsk": 5},
-{"hzId": "仰", "hzPinyin": "yǎng", "hzTrad": "Admirar", "hzHsk": 5},
+{"hzId": "企", "hzPinyin": "qǐ", "hzTrad": "Empresa", "hzHsk": 5},
+{"hzId": "似", "hzPinyin": "sì", "hzTrad": "Parecer", "hzHsk": 5},
+{"hzId": "优", "hzPinyin": "yōu", "hzTrad": "Excelente", "hzHsk": 4},
+{"hzId": "众", "hzPinyin": "zhòng", "hzTrad": "Multitud", "hzHsk": 4},
+{"hzId": "任", "hzPinyin": "rèn", "hzTrad": "Cargo", "hzHsk": 4},
+{"hzId": "令", "hzPinyin": "lìng", "hzTrad": "Ordenar", "hzHsk": 5},
+{"hzId": "伴", "hzPinyin": "bàn", "hzTrad": "Acompañar", "hzHsk": 5},
+{"hzId": "伯", "hzPinyin": "bó", "hzTrad": "Tío", "hzHsk": 6},
+{"hzId": "伸", "hzPinyin": "shēn", "hzTrad": "Estirar", "hzHsk": 5},
+{"hzId": "仿", "hzPinyin": "fǎng", "hzTrad": "Imitar", "hzHsk": 5},
+{"hzId": "余", "hzPinyin": "yú", "hzTrad": "Sobrante", "hzHsk": 5},
+{"hzId": "佳", "hzPinyin": "jiā", "hzTrad": "Excelente", "hzHsk": 6},
+{"hzId": "仁", "hzPinyin": "rén", "hzTrad": "Benevolencia", "hzHsk": 6},
+{"hzId": "仇", "hzPinyin": "chóu", "hzTrad": "Enemigo", "hzHsk": 6},
+{"hzId": "仰", "hzPinyin": "yǎng", "hzTrad": "Admirar", "hzHsk": 6},
 {"hzId": "佩", "hzPinyin": "pèi", "hzTrad": "Admirar", "hzHsk": 5},
 {"hzId": "佛", "hzPinyin": "fó", "hzTrad": "Buda", "hzHsk": 5},
 {"hzId": "佐", "hzPinyin": "zuǒ", "hzTrad": "Ayudar", "hzHsk": 6},
@@ -152,9 +152,9 @@
 "datos": [
 {"hzId": "儿", "hzPinyin": "ér", "hzTrad": "Niño", "hzHsk": 1},
 {"hzId": "兄", "hzPinyin": "xiōng", "hzTrad": "Hermano", "hzHsk": 1},
-{"hzId": "先", "hzPinyin": "xiān", "hzTrad": "Primero", "hzHsk": 2},
-{"hzId": "光", "hzPinyin": "guāng", "hzTrad": "Luz", "hzHsk": 2},
-{"hzId": "充", "hzPinyin": "chōng", "hzTrad": "Llenar", "hzHsk": 4},
+{"hzId": "先", "hzPinyin": "xiān", "hzTrad": "Primero", "hzHsk": 1},
+{"hzId": "光", "hzPinyin": "guāng", "hzTrad": "Luz", "hzHsk": 1},
+{"hzId": "充", "hzPinyin": "chōng", "hzTrad": "Llenar", "hzHsk": 5},
 {"hzId": "免", "hzPinyin": "miǎn", "hzTrad": "Evitar", "hzHsk": 4}
 ]
 },
