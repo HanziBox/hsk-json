@@ -804,5 +804,14 @@
 {"hzId": "崩", "hzPinyin": "bēng", "hzTrad": "Colapsar", "hzHsk": 5},
 {"hzId": "嵩", "hzPinyin": "sōng", "hzTrad": "Alto", "hzHsk": 6}
 ]
+},
+    "巛": {
+"hzSignificado": "Río",
+"datos": [
+{"hzId": "川", "hzPinyin": "chuān", "hzTrad": "Río", "hzHsk": 6},
+{"hzId": "州", "hzPinyin": "zhōu", "hzTrad": "Provincia / Región", "hzHsk": 6},
+{"hzId": "巡", "hzPinyin": "xún", "hzTrad": "Patrullar", "hzHsk": 6},
+{"hzId": "巢", "hzPinyin": "cháo", "hzTrad": "Nido", "hzHsk": 6}
+]
 }
 }
