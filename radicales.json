@@ -683,5 +683,20 @@
 {"hzId": "寞", "hzPinyin": "mò", "hzTrad": "Solitario", "hzHsk": 5},
 {"hzId": "察", "hzPinyin": "chá", "hzTrad": "Examinar", "hzHsk": 4}
 ]
+},
+    "寸": {
+"hzSignificado": "Pulgada",
+"datos": [
+{"hzId": "寸", "hzPinyin": "cùn", "hzTrad": "Pulgada", "hzHsk": 5},
+{"hzId": "对", "hzPinyin": "duì", "hzTrad": "Correcto", "hzHsk": 1},
+{"hzId": "寺", "hzPinyin": "sì", "hzTrad": "Templo", "hzHsk": 6},
+{"hzId": "寻", "hzPinyin": "xún", "hzTrad": "Buscar", "hzHsk": 5},
+{"hzId": "导", "hzPinyin": "dǎo", "hzTrad": "Guiar", "hzHsk": 4},
+{"hzId": "寿", "hzPinyin": "shòu", "hzTrad": "Vida", "hzHsk": 5},
+{"hzId": "封", "hzPinyin": "fēng", "hzTrad": "Sellar", "hzHsk": 4},
+{"hzId": "射", "hzPinyin": "shè", "hzTrad": "Disparar", "hzHsk": 5},
+{"hzId": "将", "hzPinyin": "jiāng", "hzTrad": "Futuro", "hzHsk": 4},
+{"hzId": "尊", "hzPinyin": "zūn", "hzTrad": "Respetar", "hzHsk": 4}
+]
 }
 }
