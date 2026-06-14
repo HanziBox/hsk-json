@@ -834,5 +834,31 @@
 {"hzId": "巴", "hzPinyin": "bā", "hzTrad": "Esperar", "hzHsk": 5},
 {"hzId": "巷", "hzPinyin": "xiàng", "hzTrad": "Callejón", "hzHsk": 6}
 ]
+},
+    "巾": {
+"hzSignificado": "Toalla",
+"datos": [
+{"hzId": "巾", "hzPinyin": "jīn", "hzTrad": "Toalla", "hzHsk": 4},
+{"hzId": "币", "hzPinyin": "bì", "hzTrad": "Moneda", "hzHsk": 5},
+{"hzId": "市", "hzPinyin": "shì", "hzTrad": "Mercado", "hzHsk": 3},
+{"hzId": "布", "hzPinyin": "bù", "hzTrad": "Tela", "hzHsk": 5},
+{"hzId": "帅", "hzPinyin": "shuài", "hzTrad": "Guapo", "hzHsk": 4},
+{"hzId": "帆", "hzPinyin": "fān", "hzTrad": "Vela", "hzHsk": 6},
+{"hzId": "师", "hzPinyin": "shī", "hzTrad": "Maestro", "hzHsk": 1},
+{"hzId": "希", "hzPinyin": "xī", "hzTrad": "Esperar", "hzHsk": 2},
+{"hzId": "帐", "hzPinyin": "zhàng", "hzTrad": "Tienda", "hzHsk": 5},
+{"hzId": "帖", "hzPinyin": "tiě", "hzTrad": "Nota", "hzHsk": 6},
+{"hzId": "帘", "hzPinyin": "lián", "hzTrad": "Cortina", "hzHsk": 5},
+{"hzId": "帜", "hzPinyin": "zhì", "hzTrad": "Bandera", "hzHsk": 6},
+{"hzId": "帝", "hzPinyin": "dì", "hzTrad": "Emperador", "hzHsk": 6},
+{"hzId": "带", "hzPinyin": "dài", "hzTrad": "Cinturón", "hzHsk": 3},
+{"hzId": "席", "hzPinyin": "xí", "hzTrad": "Asiento", "hzHsk": 5},
+{"hzId": "帮", "hzPinyin": "bāng", "hzTrad": "Ayudar", "hzHsk": 2},
+{"hzId": "常", "hzPinyin": "cháng", "hzTrad": "Frecuente", "hzHsk": 2},
+{"hzId": "帽", "hzPinyin": "mào", "hzTrad": "Sombrero", "hzHsk": 3},
+{"hzId": "幅", "hzPinyin": "fú", "hzTrad": "Ancho", "hzHsk": 5},
+{"hzId": "幕", "hzPinyin": "mù", "hzTrad": "Cortina", "hzHsk": 5},
+{"hzId": "幢", "hzPinyin": "zhuàng", "hzTrad": "Edificio", "hzHsk": 6}
+]
 }
 }
