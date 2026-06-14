@@ -523,5 +523,15 @@
 {"hzId": "墨", "hzPinyin": "mò", "hzTrad": "Tinta", "hzHsk": 6},
 {"hzId": "壤", "hzPinyin": "rǎng", "hzTrad": "Suelo", "hzHsk": 6}
 ]
+},
+    "士": {
+"hzSignificado": "Erudito",
+"datos": [
+{"hzId": "声", "hzPinyin": "shēng", "hzTrad": "Sonido", "hzHsk": 2},
+{"hzId": "士", "hzPinyin": "shì", "hzTrad": "Erudito", "hzHsk": 5},
+{"hzId": "壳", "hzPinyin": "ké", "hzTrad": "Cáscara", "hzHsk": 5},
+{"hzId": "壮", "hzPinyin": "zhuàng", "hzTrad": "Fuerte", "hzHsk": 6},
+{"hzId": "壶", "hzPinyin": "hú", "hzTrad": "Tetera", "hzHsk": 6}
+]
 }
 }
