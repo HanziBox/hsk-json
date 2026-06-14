@@ -309,5 +309,35 @@
     {"hzId": "化", "hzPinyin": "huà", "hzTrad": "Transformar", "hzHsk": 2},
     {"hzId": "匙", "hzPinyin": "chí", "hzTrad": "Cuchara", "hzHsk": 4}
   ]
+},
+  "匚": {
+  "hzSignificado": "Caja",
+  "datos": [
+    {"hzId": "区", "hzPinyin": "qū", "hzTrad": "Zona", "hzHsk": 2},
+    {"hzId": "医", "hzPinyin": "yī", "hzTrad": "Médico", "hzHsk": 2},
+    {"hzId": "匹", "hzPinyin": "pǐ", "hzTrad": "Clasificador", "hzHsk": 5},
+    {"hzId": "匠", "hzPinyin": "jiàng", "hzTrad": "Artesano", "hzHsk": 6}
+  ]
+},
+"匸": {
+  "hzSignificado": "Escondite",
+  "datos": [
+    {"hzId": "匹", "hzPinyin": "pǐ", "hzTrad": "Clasificador", "hzHsk": 5}
+  ]
+},
+"十": {
+  "hzSignificado": "Diez",
+  "datos": [
+    {"hzId": "十", "hzPinyin": "shí", "hzTrad": "Diez", "hzHsk": 1},
+    {"hzId": "半", "hzPinyin": "bàn", "hzTrad": "Mitad", "hzHsk": 1},
+    {"hzId": "午", "hzPinyin": "wǔ", "hzTrad": "Mediodía", "hzHsk": 1},
+    {"hzId": "升", "hzPinyin": "shēng", "hzTrad": "Elevar/Litro", "hzHsk": 2},
+    {"hzId": "华", "hzPinyin": "huá", "hzTrad": "Magnífico/China", "hzHsk": 2},
+    {"hzId": "南", "hzPinyin": "nán", "hzTrad": "Sur", "hzHsk": 3},
+    {"hzId": "协", "hzPinyin": "xié", "hzTrad": "Cooperar", "hzHsk": 3},
+    {"hzId": "博", "hzPinyin": "bó", "hzTrad": "Amplio/Doctor", "hzHsk": 3},
+    {"hzId": "卒", "hzPinyin": "zú", "hzTrad": "Soldado/Morir", "hzHsk": 5},
+    {"hzId": "卓", "hzPinyin": "zhuó", "hzTrad": "Excelente", "hzHsk": 6}
+  ]
 }
 }
