@@ -8943,5 +8943,11 @@
       { "hzId": "搭", "hzPinyin": "dā", "hzTrad": "Construir", "hzHsk": 6 },
       { "hzId": "携", "hzPinyin": "xié", "hzTrad": "Llevar", "hzHsk": 6 }
     ]
-  }
+  },
+  "支": {
+  "hzSignificado": "Rama",
+  "datos": [
+    { "hzId": "支", "hzPinyin": "zhī", "hzTrad": "Sostener", "hzHsk": 4 }
+  ]
+}
 }
