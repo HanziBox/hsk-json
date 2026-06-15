@@ -8872,5 +8872,15 @@
       { "hzId": "戒", "hzPinyin": "jiè", "hzTrad": "Advertir", "hzHsk": 5 },
       { "hzId": "截", "hzPinyin": "jié", "hzTrad": "Cortar", "hzHsk": 6 }
     ]
+  },
+  "户": {
+    "hzSignificado": "Puerta",
+    "datos": [
+      { "hzId": "所", "hzPinyin": "suǒ", "hzTrad": "Lugar", "hzHsk": 2 },
+      { "hzId": "房", "hzPinyin": "fáng", "hzTrad": "Habitación", "hzHsk": 2 },
+      { "hzId": "户", "hzPinyin": "hù", "hzTrad": "Hogar", "hzHsk": 4 },
+      { "hzId": "扇", "hzPinyin": "shàn", "hzTrad": "Abanico", "hzHsk": 5 },
+      { "hzId": "扁", "hzPinyin": "biǎn", "hzTrad": "Plano", "hzHsk": 6 }
+    ]
   }
 }
