@@ -8949,5 +8949,28 @@
   "datos": [
     { "hzId": "支", "hzPinyin": "zhī", "hzTrad": "Sostener", "hzHsk": 4 }
   ]
+},
+  "攴-攵": {
+  "hzSignificado": "Golpear",
+  "datos": [
+    { "hzId": "教", "hzPinyin": "jiào", "hzTrad": "Enseñar", "hzHsk": 2 },
+    { "hzId": "放", "hzPinyin": "fàng", "hzTrad": "Soltar", "hzHsk": 3 },
+    { "hzId": "故", "hzPinyin": "gù", "hzTrad": "Causa", "hzHsk": 3 },
+    { "hzId": "数", "hzPinyin": "shù", "hzTrad": "Número", "hzHsk": 3 },
+    { "hzId": "改", "hzPinyin": "gǎi", "hzTrad": "Cambiar", "hzHsk": 4 },
+    { "hzId": "敢", "hzPinyin": "gǎn", "hzTrad": "Atreverse", "hzHsk": 4 },
+    { "hzId": "效", "hzPinyin": "xiào", "hzTrad": "Efecto", "hzHsk": 4 },
+    { "hzId": "整", "hzPinyin": "zhěng", "hzTrad": "Completo", "hzHsk": 4 },
+    { "hzId": "散", "hzPinyin": "sàn", "hzTrad": "Dispersar", "hzHsk": 4 },
+    { "hzId": "收", "hzPinyin": "shōu", "hzTrad": "Recibir", "hzHsk": 4 },
+    { "hzId": "敬", "hzPinyin": "jìng", "hzTrad": "Respetar", "hzHsk": 5 },
+    { "hzId": "敌", "hzPinyin": "dí", "hzTrad": "Enemigo", "hzHsk": 5 },
+    { "hzId": "政", "hzPinyin": "zhèng", "hzTrad": "Gobierno", "hzHsk": 5 },
+    { "hzId": "敏", "hzPinyin": "mǐn", "hzTrad": "Sensible", "hzHsk": 5 },
+    { "hzId": "救", "hzPinyin": "jiù", "hzTrad": "Salvar", "hzHsk": 5 },
+    { "hzId": "敞", "hzPinyin": "chǎng", "hzTrad": "Abierto", "hzHsk": 6 },
+    { "hzId": "敷", "hzPinyin": "fū", "hzTrad": "Aplicar", "hzHsk": 6 },
+    { "hzId": "攻", "hzPinyin": "gōng", "hzTrad": "Atacar", "hzHsk": 6 }
+  ]
 }
 }
