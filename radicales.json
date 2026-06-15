@@ -9148,5 +9148,54 @@
     { "hzId": "杰", "hzPinyin": "jié", "hzTrad": "Destacado", "hzHsk": 6 },
     { "hzId": "栏", "hzPinyin": "lán", "hzTrad": "Barra", "hzHsk": 6 }
   ]
+},
+  "欠": {
+  "hzSignificado": "Bostezar / Deber",
+  "datos": [
+    { "hzId": "欢", "hzPinyin": "huān", "hzTrad": "Alegre", "hzHsk": 1 },
+    { "hzId": "歌", "hzPinyin": "gē", "hzTrad": "Canción", "hzHsk": 2 },
+    { "hzId": "次", "hzPinyin": "cì", "hzTrad": "Vez", "hzHsk": 2 },
+    { "hzId": "歉", "hzPinyin": "qiàn", "hzTrad": "Disculpa", "hzHsk": 4 },
+    { "hzId": "款", "hzPinyin": "kuǎn", "hzTrad": "Fondo / Dinero", "hzHsk": 4 },
+    { "hzId": "歇", "hzPinyin": "xiē", "hzTrad": "Descansar", "hzHsk": 5 },
+    { "hzId": "欠", "hzPinyin": "qiàn", "hzTrad": "Deber", "hzHsk": 5 },
+    { "hzId": "欧", "hzPinyin": "ōu", "hzTrad": "Europa", "hzHsk": 5 },
+    { "hzId": "欣", "hzPinyin": "xīn", "hzTrad": "Apreciar", "hzHsk": 5 },
+    { "hzId": "欲", "hzPinyin": "yù", "hzTrad": "Deseo", "hzHsk": 6 },
+    { "hzId": "欺", "hzPinyin": "qī", "hzTrad": "Engañar", "hzHsk": 6 }
+  ]
+},
+  "止": {
+  "hzSignificado": "Detenerse",
+  "datos": [
+    { "hzId": "步", "hzPinyin": "bù", "hzTrad": "Paso", "hzHsk": 2 },
+    { "hzId": "正", "hzPinyin": "zhèng", "hzTrad": "Correcto", "hzHsk": 2 },
+    { "hzId": "此", "hzPinyin": "cǐ", "hzTrad": "Este", "hzHsk": 4 },
+    { "hzId": "止", "hzPinyin": "zhǐ", "hzTrad": "Detener", "hzHsk": 4 },
+    { "hzId": "武", "hzPinyin": "wǔ", "hzTrad": "Marcial", "hzHsk": 5 },
+    { "hzId": "歪", "hzPinyin": "wāi", "hzTrad": "Torcido", "hzHsk": 5 },
+    { "hzId": "歧", "hzPinyin": "qí", "hzTrad": "Divergente", "hzHsk": 6 }
+  ]
+},
+  "歹": {
+  "hzSignificado": "Muerte",
+  "datos": [
+    { "hzId": "死", "hzPinyin": "sǐ", "hzTrad": "Morir", "hzHsk": 4 },
+    { "hzId": "殊", "hzPinyin": "shū", "hzTrad": "Especial", "hzHsk": 5 },
+    { "hzId": "残", "hzPinyin": "cán", "hzTrad": "Incompleto", "hzHsk": 6 },
+    { "hzId": "殖", "hzPinyin": "zhí", "hzTrad": "Reproducirse", "hzHsk": 6 },
+    { "hzId": "歹", "hzPinyin": "dǎi", "hzTrad": "Malvado", "hzHsk": 6 },
+    { "hzId": "殃", "hzPinyin": "yāng", "hzTrad": "Calamidad", "hzHsk": 6 }
+  ]
+},
+  "殳": {
+  "hzSignificado": "Lanza / Arma",
+  "datos": [
+    { "hzId": "段", "hzPinyin": "duàn", "hzTrad": "Tramo", "hzHsk": 3 },
+    { "hzId": "毁", "hzPinyin": "huǐ", "hzTrad": "Destruir", "hzHsk": 6 },
+    { "hzId": "殿", "hzPinyin": "diàn", "hzTrad": "Palacio", "hzHsk": 6 },
+    { "hzId": "毅", "hzPinyin": "yì", "hzTrad": "Firmeza", "hzHsk": 6 },
+    { "hzId": "殴", "hzPinyin": "ōu", "hzTrad": "Golpear", "hzHsk": 6 }
+  ]
 }
 }
