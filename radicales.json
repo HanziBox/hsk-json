@@ -9221,12 +9221,81 @@
     { "hzId": "毯", "hzPinyin": "tǎn", "hzTrad": "Manta / Alfombra", "hzHsk": 5 }
   ]
 },
-  "毛": {
-  "hzSignificado": "Pelo / Pluma",
+"毛": {
+  "hzSignificado": "Pelo",
   "datos": [
     { "hzId": "毛", "hzPinyin": "máo", "hzTrad": "Pelo", "hzHsk": 4 },
-    { "hzId": "毫", "hzPinyin": "háo", "hzTrad": "Milímetro / Nada", "hzHsk": 5 },
-    { "hzId": "毯", "hzPinyin": "tǎn", "hzTrad": "Manta / Alfombra", "hzHsk": 5 }
+    { "hzId": "毫", "hzPinyin": "háo", "hzTrad": "Milímetro", "hzHsk": 5 },
+    { "hzId": "毯", "hzPinyin": "tǎn", "hzTrad": "Manta", "hzHsk": 5 }
+  ]
+},
+  "氏": {
+  "hzSignificado": "Clan",
+  "datos": [
+    { "hzId": "民", "hzPinyin": "mín", "hzTrad": "Pueblo", "hzHsk": 4 },
+    { "hzId": "氓", "hzPinyin": "máng", "hzTrad": "Vagabundo", "hzHsk": 6 },
+    { "hzId": "氏", "hzPinyin": "shì", "hzTrad": "Apellido", "hzHsk": 6 }
+  ]
+},
+  "气": {
+  "hzSignificado": "Gas",
+  "datos": [
+    { "hzId": "气", "hzPinyin": "qì", "hzTrad": "Aire", "hzHsk": 1 },
+    { "hzId": "氛", "hzPinyin": "fēn", "hzTrad": "Atmósfera", "hzHsk": 5 },
+    { "hzId": "氧", "hzPinyin": "yǎng", "hzTrad": "Oxígeno", "hzHsk": 6 }
+  ]
+},
+  "水": {
+  "hzSignificado": "Agua",
+  "datos": [
+    { "hzId": "没", "hzPinyin": "méi", "hzTrad": "No tener", "hzHsk": 1 },
+    { "hzId": "水", "hzPinyin": "shuǐ", "hzTrad": "Agua", "hzHsk": 1 },
+    { "hzId": "漂", "hzPinyin": "piào", "hzTrad": "Hermoso", "hzHsk": 1 },
+    { "hzId": "汉", "hzPinyin": "hàn", "hzTrad": "Chino", "hzHsk": 1 },
+    { "hzId": "游", "hzPinyin": "yóu", "hzTrad": "Nadar", "hzHsk": 2 },
+    { "hzId": "泳", "hzPinyin": "yǒng", "hzTrad": "Natación", "hzHsk": 2 },
+    { "hzId": "洗", "hzPinyin": "xǐ", "hzTrad": "Lavar", "hzHsk": 2 },
+    { "hzId": "汽", "hzPinyin": "qì", "hzTrad": "Vapor", "hzHsk": 2 },
+    { "hzId": "河", "hzPinyin": "hé", "hzTrad": "Río", "hzHsk": 3 },
+    { "hzId": "求", "hzPinyin": "qiú", "hzTrad": "Pedir", "hzHsk": 3 },
+    { "hzId": "法", "hzPinyin": "fǎ", "hzTrad": "Método", "hzHsk": 3 },
+    { "hzId": "清", "hzPinyin": "qīng", "hzTrad": "Limpio", "hzHsk": 3 },
+    { "hzId": "渴", "hzPinyin": "kě", "hzTrad": "Sediento", "hzHsk": 3 },
+    { "hzId": "满", "hzPinyin": "mǎn", "hzTrad": "Lleno", "hzHsk": 3 },
+    { "hzId": "活", "hzPinyin": "huó", "hzTrad": "Vivir", "hzHsk": 4 },
+    { "hzId": "海", "hzPinyin": "hǎi", "hzTrad": "Mar", "hzHsk": 4 },
+    { "hzId": "温", "hzPinyin": "wēn", "hzTrad": "Temperatura", "hzHsk": 4 },
+    { "hzId": "永", "hzPinyin": "yǒng", "hzTrad": "Eterno", "hzHsk": 4 },
+    { "hzId": "流", "hzPinyin": "liú", "hzTrad": "Fluir", "hzHsk": 4 },
+    { "hzId": "油", "hzPinyin": "yóu", "hzTrad": "Aceite", "hzHsk": 4 },
+    { "hzId": "演", "hzPinyin": "yǎn", "hzTrad": "Actuar", "hzHsk": 4 },
+    { "hzId": "济", "hzPinyin": "jì", "hzTrad": "Ayudar", "hzHsk": 4 },
+    { "hzId": "深", "hzPinyin": "shēn", "hzTrad": "Profundo", "hzHsk": 4 },
+    { "hzId": "消", "hzPinyin": "xiāo", "hzTrad": "Desaparecer", "hzHsk": 4 },
+    { "hzId": "滩", "hzPinyin": "tān", "hzTrad": "Playa", "hzHsk": 5 },
+    { "hzId": "淡", "hzPinyin": "dàn", "hzTrad": "Insípido", "hzHsk": 5 },
+    { "hzId": "浅", "hzPinyin": "qiǎn", "hzTrad": "Superficial", "hzHsk": 5 },
+    { "hzId": "沉", "hzPinyin": "chén", "hzTrad": "Hundirse", "hzHsk": 5 },
+    { "hzId": "测", "hzPinyin": "cè", "hzTrad": "Medir", "hzHsk": 5 },
+    { "hzId": "漠", "hzPinyin": "mò", "hzTrad": "Desierto", "hzHsk": 5 },
+    { "hzId": "源", "hzPinyin": "yuán", "hzTrad": "Origen", "hzHsk": 5 },
+    { "hzId": "浓", "hzPinyin": "nóng", "hzTrad": "Denso", "hzHsk": 5 },
+    { "hzId": "润", "hzPinyin": "rùn", "hzTrad": "Húmedo", "hzHsk": 5 },
+    { "hzId": "滑", "hzPinyin": "huá", "hzTrad": "Resbaladizo", "hzHsk": 5 },
+    { "hzId": "渐", "hzPinyin": "jiàn", "hzTrad": "Gradualmente", "hzHsk": 5 },
+    { "hzId": "潮", "hzPinyin": "cháo", "hzTrad": "Marea", "hzHsk": 5 },
+    { "hzId": "浸", "hzPinyin": "jìn", "hzTrad": "Sumergir", "hzHsk": 6 },
+    { "hzId": "潜", "hzPinyin": "qián", "hzTrad": "Oculto", "hzHsk": 6 },
+    { "hzId": "渡", "hzPinyin": "dù", "hzTrad": "Cruzar", "hzHsk": 6 },
+    { "hzId": "泥", "hzPinyin": "ní", "hzTrad": "Barro", "hzHsk": 6 },
+    { "hzId": "浮", "hzPinyin": "fú", "hzTrad": "Flotar", "hzHsk": 6 },
+    { "hzId": "漆", "hzPinyin": "qī", "hzTrad": "Pintura", "hzHsk": 6 },
+    { "hzId": "涌", "hzPinyin": "yǒng", "hzTrad": "Brotar", "hzHsk": 6 },
+    { "hzId": "淹", "hzPinyin": "yān", "hzTrad": "Inundar", "hzHsk": 6 },
+    { "hzId": "泽", "hzPinyin": "zé", "hzTrad": "Estanque", "hzHsk": 6 },
+    { "hzId": "湖", "hzPinyin": "hú", "hzTrad": "Lago", "hzHsk": 6 },
+    { "hzId": "港", "hzPinyin": "gǎng", "hzTrad": "Puerto", "hzHsk": 6 },
+    { "hzId": "波", "hzPinyin": "bō", "hzTrad": "Ola", "hzHsk": 6 }
   ]
 }
 }
