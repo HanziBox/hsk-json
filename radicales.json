@@ -8859,5 +8859,18 @@
           "hzHsk": 6
         }
       ]
-    }
+    },
+  "戈": {
+    "hzSignificado": "Alabarda",
+    "datos": [
+      { "hzId": "我", "hzPinyin": "wǒ", "hzTrad": "Yo", "hzHsk": 1 },
+      { "hzId": "或", "hzPinyin": "huò", "hzTrad": "O", "hzHsk": 3 },
+      { "hzId": "戏", "hzPinyin": "xì", "hzTrad": "Teatro", "hzHsk": 3 },
+      { "hzId": "成", "hzPinyin": "chéng", "hzTrad": "Llegar a ser", "hzHsk": 3 },
+      { "hzId": "戚", "hzPinyin": "qī", "hzTrad": "Pariente", "hzHsk": 4 },
+      { "hzId": "战", "hzPinyin": "zhàn", "hzTrad": "Guerra", "hzHsk": 5 },
+      { "hzId": "戒", "hzPinyin": "jiè", "hzTrad": "Advertir", "hzHsk": 5 },
+      { "hzId": "截", "hzPinyin": "jié", "hzTrad": "Cortar", "hzHsk": 6 }
+    ]
+  }
 }
