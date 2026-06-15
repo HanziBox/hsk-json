@@ -9197,5 +9197,36 @@
     { "hzId": "毅", "hzPinyin": "yì", "hzTrad": "Firmeza", "hzHsk": 6 },
     { "hzId": "殴", "hzPinyin": "ōu", "hzTrad": "Golpear", "hzHsk": 6 }
   ]
+},
+  "毋": {
+  "hzSignificado": "No",
+  "datos": [
+    { "hzId": "每", "hzPinyin": "měi", "hzTrad": "Cada", "hzHsk": 2 },
+    { "hzId": "母", "hzPinyin": "mǔ", "hzTrad": "Madre", "hzHsk": 4 },
+    { "hzId": "毒", "hzPinyin": "dú", "hzTrad": "Veneno", "hzHsk": 5 }
+  ]
+},
+  "比": {
+  "hzSignificado": "Comparar",
+  "datos": [
+    { "hzId": "比", "hzPinyin": "bǐ", "hzTrad": "Comparar", "hzHsk": 2 },
+    { "hzId": "毕", "hzPinyin": "bì", "hzTrad": "Terminar", "hzHsk": 4 }
+  ]
+},
+  "毛": {
+  "hzSignificado": "Pelo / Pluma",
+  "datos": [
+    { "hzId": "毛", "hzPinyin": "máo", "hzTrad": "Pelo", "hzHsk": 4 },
+    { "hzId": "毫", "hzPinyin": "háo", "hzTrad": "Milímetro / Nada", "hzHsk": 5 },
+    { "hzId": "毯", "hzPinyin": "tǎn", "hzTrad": "Manta / Alfombra", "hzHsk": 5 }
+  ]
+},
+  "毛": {
+  "hzSignificado": "Pelo / Pluma",
+  "datos": [
+    { "hzId": "毛", "hzPinyin": "máo", "hzTrad": "Pelo", "hzHsk": 4 },
+    { "hzId": "毫", "hzPinyin": "háo", "hzTrad": "Milímetro / Nada", "hzHsk": 5 },
+    { "hzId": "毯", "hzPinyin": "tǎn", "hzTrad": "Manta / Alfombra", "hzHsk": 5 }
+  ]
 }
 }
