@@ -8979,5 +8979,87 @@
     { "hzId": "文", "hzPinyin": "wén", "hzTrad": "Cultura", "hzHsk": 3 },
     { "hzId": "斑", "hzPinyin": "bān", "hzTrad": "Mancha", "hzHsk": 6 }
   ]
+},
+  "斗": {
+  "hzSignificado": "Cazo",
+  "datos": [
+    { "hzId": "斗", "hzPinyin": "dòu", "hzTrad": "Luchar", "hzHsk": 5 },
+    { "hzId": "斟", "hzPinyin": "zhēn", "hzTrad": "Verter", "hzHsk": 6 }
+  ]
+},
+  "斤": {
+  "hzSignificado": "Hacha",
+  "datos": [
+    { "hzId": "新", "hzPinyin": "xīn", "hzTrad": "Nuevo", "hzHsk": 2 },
+    { "hzId": "斤", "hzPinyin": "jīn", "hzTrad": "Medio kilo", "hzHsk": 3 },
+    { "hzId": "断", "hzPinyin": "duàn", "hzTrad": "Romper", "hzHsk": 4 },
+    { "hzId": "斥", "hzPinyin": "chì", "hzTrad": "Reprochar", "hzHsk": 6 },
+    { "hzId": "斯", "hzPinyin": "sī", "hzTrad": "Este", "hzHsk": 6 },
+    { "hzId": "斩", "hzPinyin": "zhǎn", "hzTrad": "Decapitar", "hzHsk": 6 }
+  ]
+},
+  "方": {
+  "hzSignificado": "Dirección",
+  "datos": [
+    { "hzId": "旅", "hzPinyin": "lǚ", "hzTrad": "Viajar", "hzHsk": 2 },
+    { "hzId": "旁", "hzPinyin": "páng", "hzTrad": "Lado", "hzHsk": 2 },
+    { "hzId": "方", "hzPinyin": "fāng", "hzTrad": "Dirección", "hzHsk": 3 },
+    { "hzId": "族", "hzPinyin": "zú", "hzTrad": "Etnia", "hzHsk": 4 },
+    { "hzId": "施", "hzPinyin": "shī", "hzTrad": "Ejecutar", "hzHsk": 5 },
+    { "hzId": "旋", "hzPinyin": "xuán", "hzTrad": "Girar", "hzHsk": 6 },
+    { "hzId": "旗", "hzPinyin": "qí", "hzTrad": "Bandera", "hzHsk": 6 }
+  ]
+},
+  "无-旡": {
+  "hzSignificado": "No tener",
+  "datos": [
+    { "hzId": "无", "hzPinyin": "wú", "hzTrad": "No tener", "hzHsk": 4 },
+    { "hzId": "既", "hzPinyin": "jì", "hzTrad": "Ya", "hzHsk": 4 }
+  ]
+},
+  "日": {
+  "hzSignificado": "Sol",
+  "datos": [
+    { "hzId": "是", "hzPinyin": "shì", "hzTrad": "Ser", "hzHsk": 1 },
+    { "hzId": "星", "hzPinyin": "xīng", "hzTrad": "Estrella", "hzHsk": 1 },
+    { "hzId": "明", "hzPinyin": "míng", "hzTrad": "Brillante", "hzHsk": 1 },
+    { "hzId": "时", "hzPinyin": "shí", "hzTrad": "Tiempo", "hzHsk": 1 },
+    { "hzId": "昨", "hzPinyin": "zuó", "hzTrad": "Ayer", "hzHsk": 1 },
+    { "hzId": "晴", "hzPinyin": "qíng", "hzTrad": "Despejado", "hzHsk": 2 },
+    { "hzId": "日", "hzPinyin": "rì", "hzTrad": "Día", "hzHsk": 2 },
+    { "hzId": "晚", "hzPinyin": "wǎn", "hzTrad": "Tarde", "hzHsk": 2 },
+    { "hzId": "早", "hzPinyin": "zǎo", "hzTrad": "Temprano", "hzHsk": 2 },
+    { "hzId": "最", "hzPinyin": "zuì", "hzTrad": "El más", "hzHsk": 2 },
+    { "hzId": "春", "hzPinyin": "chūn", "hzTrad": "Primavera", "hzHsk": 3 },
+    { "hzId": "更", "hzPinyin": "gèng", "hzTrad": "Más", "hzHsk": 3 },
+    { "hzId": "易", "hzPinyin": "yì", "hzTrad": "Fácil", "hzHsk": 3 },
+    { "hzId": "旧", "hzPinyin": "jiù", "hzTrad": "Viejo", "hzHsk": 3 },
+    { "hzId": "暑", "hzPinyin": "shǔ", "hzTrad": "Calor", "hzHsk": 4 },
+    { "hzId": "景", "hzPinyin": "jǐng", "hzTrad": "Paisaje", "hzHsk": 4 },
+    { "hzId": "普", "hzPinyin": "pǔ", "hzTrad": "General", "hzHsk": 4 },
+    { "hzId": "替", "hzPinyin": "tì", "hzTrad": "Sustituir", "hzHsk": 5 },
+    { "hzId": "智", "hzPinyin": "zhì", "hzTrad": "Sabiduría", "hzHsk": 5 },
+    { "hzId": "暗", "hzPinyin": "àn", "hzTrad": "Oscuro", "hzHsk": 5 },
+    { "hzId": "旦", "hzPinyin": "dàn", "hzTrad": "Amanecer", "hzHsk": 5 },
+    { "hzId": "旬", "hzPinyin": "xún", "hzTrad": "Diez días", "hzHsk": 5 },
+    { "hzId": "曾", "hzPinyin": "céng", "hzTrad": "Antes", "hzHsk": 5 },
+    { "hzId": "显", "hzPinyin": "xiǎn", "hzTrad": "Mostrar", "hzHsk": 5 },
+    { "hzId": "映", "hzPinyin": "yìng", "hzTrad": "Reflejar", "hzHsk": 5 },
+    { "hzId": "晒", "hzPinyin": "shài", "hzTrad": "Tomar el sol", "hzHsk": 5 },
+    { "hzId": "晕", "hzPinyin": "yūn", "hzTrad": "Mareado", "hzHsk": 5 },
+    { "hzId": "晃", "hzPinyin": "huàng", "hzTrad": "Sacudir", "hzHsk": 6 },
+    { "hzId": "曲", "hzPinyin": "qū", "hzTrad": "Curvado", "hzHsk": 6 },
+    { "hzId": "晨", "hzPinyin": "chén", "hzTrad": "Mañana", "hzHsk": 6 },
+    { "hzId": "晓", "hzPinyin": "xiǎo", "hzTrad": "Amanecer", "hzHsk": 6 },
+    { "hzId": "暴", "hzPinyin": "bào", "hzTrad": "Violento", "hzHsk": 6 },
+    { "hzId": "旨", "hzPinyin": "zhǐ", "hzTrad": "Propósito", "hzHsk": 6 },
+    { "hzId": "昼", "hzPinyin": "zhòu", "hzTrad": "Día", "hzHsk": 6 },
+    { "hzId": "旷", "hzPinyin": "kuàng", "hzTrad": "Vasto", "hzHsk": 6 },
+    { "hzId": "晾", "hzPinyin": "liàng", "hzTrad": "Secar al aire", "hzHsk": 6 },
+    { "hzId": "旱", "hzPinyin": "hàn", "hzTrad": "Sequía", "hzHsk": 6 },
+    { "hzId": "晰", "hzPinyin": "xī", "hzTrad": "Claro", "hzHsk": 6 },
+    { "hzId": "旺", "hzPinyin": "wàng", "hzTrad": "Próspero", "hzHsk": 6 },
+    { "hzId": "昏", "hzPinyin": "hūn", "hzTrad": "Anochecer", "hzHsk": 6 }
+  ]
 }
 }
