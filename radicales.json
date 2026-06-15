@@ -9245,7 +9245,7 @@
     { "hzId": "氧", "hzPinyin": "yǎng", "hzTrad": "Oxígeno", "hzHsk": 6 }
   ]
 },
-  "水": {
+  "水-氵": {
   "hzSignificado": "Agua",
   "datos": [
     { "hzId": "没", "hzPinyin": "méi", "hzTrad": "No tener", "hzHsk": 1 },
