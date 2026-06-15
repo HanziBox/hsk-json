@@ -8972,5 +8972,12 @@
     { "hzId": "敷", "hzPinyin": "fū", "hzTrad": "Aplicar", "hzHsk": 6 },
     { "hzId": "攻", "hzPinyin": "gōng", "hzTrad": "Atacar", "hzHsk": 6 }
   ]
+},
+  "文": {
+  "hzSignificado": "Cultura",
+  "datos": [
+    { "hzId": "文", "hzPinyin": "wén", "hzTrad": "Cultura", "hzHsk": 3 },
+    { "hzId": "斑", "hzPinyin": "bān", "hzTrad": "Mancha", "hzHsk": 6 }
+  ]
 }
 }
