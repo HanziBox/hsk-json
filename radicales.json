@@ -9343,7 +9343,7 @@
     { "hzId": "爆", "hzPinyin": "bào", "hzTrad": "Explotar", "hzHsk": 6 }
   ]
 },
-  "爪": {
+  "爪-爫": {
   "hzSignificado": "Garra",
   "datos": [
     { "hzId": "爱", "hzPinyin": "ài", "hzTrad": "Amar", "hzHsk": 1 },
@@ -9372,7 +9372,7 @@
     { "hzId": "牙", "hzPinyin": "yá", "hzTrad": "Diente", "hzHsk": 3 }
   ]
 },
-  "牛": {
+  "牛-牜": {
   "hzSignificado": "Vaca",
   "datos": [
     { "hzId": "牛", "hzPinyin": "niú", "hzTrad": "Vaca", "hzHsk": 2 },
