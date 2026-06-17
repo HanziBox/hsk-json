@@ -9525,5 +9525,153 @@
     { "hzId": "瘩", "hzPinyin": "da", "hzTrad": "Hinchazón", "hzHsk": 6 },
     { "hzId": "疾", "hzPinyin": "jí", "hzTrad": "Dolencia", "hzHsk": 6 }
   ]
+},
+  "癶": {
+  "hzSignificado": "Pasos",
+  "datos": [
+    { "hzId": "登", "hzPinyin": "dēng", "hzTrad": "Ascender", "hzHsk": 4 }
+  ]
+},
+  "白": {
+  "hzSignificado": "Blanco",
+  "datos": [
+    { "hzId": "的", "hzPinyin": "de", "hzTrad": "De", "hzHsk": 1 },
+    { "hzId": "白", "hzPinyin": "bái", "hzTrad": "Blanco", "hzHsk": 2 },
+    { "hzId": "百", "hzPinyin": "bǎi", "hzTrad": "Cien", "hzHsk": 2 },
+    { "hzId": "皂", "hzPinyin": "zào", "hzTrad": "Jabón", "hzHsk": 5 },
+    { "hzId": "皇", "hzPinyin": "huáng", "hzTrad": "Emperador", "hzHsk": 6 },
+    { "hzId": "皆", "hzPinyin": "jiē", "hzTrad": "Todos", "hzHsk": 6 }
+  ]
+},
+  "皮": {
+  "hzSignificado": "Piel",
+  "datos": [
+    { "hzId": "皮", "hzPinyin": "pí", "hzTrad": "Piel", "hzHsk": 3 },
+    { "hzId": "皱", "hzPinyin": "zhòu", "hzTrad": "Arruga", "hzHsk": 6 }
+  ]
+},
+  "皿": {
+  "hzSignificado": "Utensilio",
+  "datos": [
+    { "hzId": "盘", "hzPinyin": "pán", "hzTrad": "Plato", "hzHsk": 3 },
+    { "hzId": "盆", "hzPinyin": "pén", "hzTrad": "Cofre", "hzHsk": 5 },
+    { "hzId": "益", "hzPinyin": "yì", "hzTrad": "Beneficio", "hzHsk": 5 },
+    { "hzId": "盖", "hzPinyin": "gài", "hzTrad": "Tapa", "hzHsk": 5 },
+    { "hzId": "盈", "hzPinyin": "yíng", "hzTrad": "Llenar", "hzHsk": 6 },
+    { "hzId": "盟", "hzPinyin": "méng", "hzTrad": "Alianza", "hzHsk": 6 },
+    { "hzId": "监", "hzPinyin": "jiān", "hzTrad": "Vigilar", "hzHsk": 6 },
+    { "hzId": "盛", "hzPinyin": "shèng", "hzTrad": "Próspero", "hzHsk": 6 },
+    { "hzId": "盗", "hzPinyin": "dào", "hzTrad": "Robar", "hzHsk": 6 }
+  ]
+},
+  "目": {
+  "hzSignificado": "Ojo",
+  "datos": [
+    { "hzId": "睡", "hzPinyin": "shuì", "hzTrad": "Dormir", "hzHsk": 1 },
+    { "hzId": "看", "hzPinyin": "kàn", "hzTrad": "Mirar", "hzHsk": 1 },
+    { "hzId": "着", "hzPinyin": "zhe", "hzTrad": "[Partícula]", "hzHsk": 2 },
+    { "hzId": "真", "hzPinyin": "zhēn", "hzTrad": "Verdadero", "hzHsk": 2 },
+    { "hzId": "眼", "hzPinyin": "yǎn", "hzTrad": "Ojo", "hzHsk": 2 },
+    { "hzId": "睛", "hzPinyin": "jīng", "hzTrad": "Ojo", "hzHsk": 2 },
+    { "hzId": "直", "hzPinyin": "zhí", "hzTrad": "Recto", "hzHsk": 3 },
+    { "hzId": "相", "hzPinyin": "xiāng", "hzTrad": "Mutuamente", "hzHsk": 3 },
+    { "hzId": "目", "hzPinyin": "mù", "hzTrad": "Ojo", "hzHsk": 3 },
+    { "hzId": "省", "hzPinyin": "shěng", "hzTrad": "Provincia", "hzHsk": 4 },
+    { "hzId": "盾", "hzPinyin": "dùn", "hzTrad": "Escudo", "hzHsk": 5 },
+    { "hzId": "眠", "hzPinyin": "mián", "hzTrad": "Dormir", "hzHsk": 5 },
+    { "hzId": "眉", "hzPinyin": "méi", "hzTrad": "Ceja", "hzHsk": 5 },
+    { "hzId": "瞎", "hzPinyin": "xiā", "hzTrad": "Ciego", "hzHsk": 5 },
+    { "hzId": "盼", "hzPinyin": "pàn", "hzTrad": "Anhelar", "hzHsk": 5 },
+    { "hzId": "瞧", "hzPinyin": "qiáo", "hzTrad": "Mirar", "hzHsk": 5 },
+    { "hzId": "睁", "hzPinyin": "zhēng", "hzTrad": "Abrir (ojos)", "hzHsk": 5 },
+    { "hzId": "眯", "hzPinyin": "mī", "hzTrad": "Entrecerrar (ojos)", "hzHsk": 6 },
+    { "hzId": "瞬", "hzPinyin": "shùn", "hzTrad": "Instante", "hzHsk": 6 },
+    { "hzId": "督", "hzPinyin": "dū", "hzTrad": "Supervisar", "hzHsk": 6 },
+    { "hzId": "睬", "hzPinyin": "cǎi", "hzTrad": "Prestar atención", "hzHsk": 6 },
+    { "hzId": "睹", "hzPinyin": "dǔ", "hzTrad": "Observar", "hzHsk": 6 },
+    { "hzId": "睦", "hzPinyin": "mù", "hzTrad": "Armonioso", "hzHsk": 6 },
+    { "hzId": "瞩", "hzPinyin": "zhǔ", "hzTrad": "Fijar la vista", "hzHsk": 6 },
+    { "hzId": "瞪", "hzPinyin": "dèng", "hzTrad": "Mirar fijamente", "hzHsk": 6 },
+    { "hzId": "眶", "hzPinyin": "kuàng", "hzTrad": "Órbita ocular", "hzHsk": 6 },
+    { "hzId": "瞻", "hzPinyin": "zhān", "hzTrad": "Mirar hacia adelante", "hzHsk": 6 },
+    { "hzId": "瞒", "hzPinyin": "mán", "hzTrad": "Ocultar", "hzHsk": 6 },
+    { "hzId": "眨", "hzPinyin": "zhǎ", "hzTrad": "Parpadear", "hzHsk": 6 },
+    { "hzId": "盲", "hzPinyin": "máng", "hzTrad": "Ciego", "hzHsk": 6 },
+    { "hzId": "盯", "hzPinyin": "dīng", "hzTrad": "Clavar la vista", "hzHsk": 6 },
+    { "hzId": "瞄", "hzPinyin": "miáo", "hzTrad": "Apunta", "hzHsk": 6 }
+  ]
+},
+  "矛": {
+  "hzSignificado": "Lanza",
+  "datos": [
+    { "hzId": "矜", "hzPinyin": "jīn", "hzTrad": "Presumir", "hzHsk": 4 },
+    { "hzId": "矛", "hzPinyin": "máo", "hzTrad": "Lanza", "hzHsk": 5 }
+  ]
+},
+  "矢": {
+  "hzSignificado": "Flecha",
+  "datos": [
+    { "hzId": "知", "hzPinyin": "zhī", "hzTrad": "Saber", "hzHsk": 2 },
+    { "hzId": "短", "hzPinyin": "duǎn", "hzTrad": "Corto", "hzHsk": 3 },
+    { "hzId": "矮", "hzPinyin": "ǎi", "hzTrad": "Bajo", "hzHsk": 3 },
+    { "hzId": "矩", "hzPinyin": "jǔ", "hzTrad": "Regla", "hzHsk": 5 }
+  ]
+},
+  "石": {
+  "hzSignificado": "Piedra",
+  "datos": [
+    { "hzId": "碗", "hzPinyin": "wǎn", "hzTrad": "Cuenco", "hzHsk": 3 },
+    { "hzId": "确", "hzPinyin": "què", "hzTrad": "Seguro", "hzHsk": 4 },
+    { "hzId": "破", "hzPinyin": "pò", "hzTrad": "Romper", "hzHsk": 4 },
+    { "hzId": "础", "hzPinyin": "chǔ", "hzTrad": "Base", "hzHsk": 4 },
+    { "hzId": "研", "hzPinyin": "yán", "hzTrad": "Investigar", "hzHsk": 4 },
+    { "hzId": "硕", "hzPinyin": "shuò", "hzTrad": "Grande", "hzHsk": 4 },
+    { "hzId": "砍", "hzPinyin": "kǎn", "hzTrad": "Cortar", "hzHsk": 5 },
+    { "hzId": "碎", "hzPinyin": "suì", "hzTrad": "Pedazos", "hzHsk": 5 },
+    { "hzId": "硬", "hzPinyin": "yìng", "hzTrad": "Duro", "hzHsk": 5 },
+    { "hzId": "碍", "hzPinyin": "ài", "hzTrad": "Estorbar", "hzHsk": 5 },
+    { "hzId": "石", "hzPinyin": "shí", "hzTrad": "Piedra", "hzHsk": 5 },
+    { "hzId": "碰", "hzPinyin": "pèng", "hzTrad": "Chocar", "hzHsk": 5 },
+    { "hzId": "磋", "hzPinyin": "cuō", "hzTrad": "Deliberar", "hzHsk": 6 },
+    { "hzId": "磁", "hzPinyin": "cí", "hzTrad": "Magnético", "hzHsk": 6 },
+    { "hzId": "碳", "hzPinyin": "tàn", "hzTrad": "Carbono", "hzHsk": 6 },
+    { "hzId": "砸", "hzPinyin": "zá", "hzTrad": "Aplastarse", "hzHsk": 6 },
+    { "hzId": "碑", "hzPinyin": "bēi", "hzTrad": "Monumento", "hzHsk": 6 },
+    { "hzId": "碌", "hzPinyin": "lù", "hzTrad": "Ocupado", "hzHsk": 6 },
+    { "hzId": "磨", "hzPinyin": "mó", "hzTrad": "Afilar", "hzHsk": 6 },
+    { "hzId": "磕", "hzPinyin": "kē", "hzTrad": "Golpear", "hzHsk": 6 },
+    { "hzId": "磅", "hzPinyin": "bàng", "hzTrad": "Libra", "hzHsk": 6 },
+    { "hzId": "砖", "hzPinyin": "zhuān", "hzTrad": "Ladrillo", "hzHsk": 6 }
+  ]
+},
+  "示": {
+  "hzSignificado": "Mostrar",
+  "datos": [
+    { "hzId": "票", "hzPinyin": "piào", "hzTrad": "Billete", "hzHsk": 2 },
+    { "hzId": "礼", "hzPinyin": "lǐ", "hzTrad": "Regalo", "hzHsk": 3 },
+    { "hzId": "示", "hzPinyin": "shì", "hzTrad": "Mostrar", "hzHsk": 4 },
+    { "hzId": "社", "hzPinyin": "shè", "hzTrad": "Sociedad", "hzHsk": 4 },
+    { "hzId": "禁", "hzPinyin": "jìn", "hzTrad": "Prohibir", "hzHsk": 4 },
+    { "hzId": "福", "hzPinyin": "fú", "hzTrad": "Felicidad", "hzHsk": 4 },
+    { "hzId": "神", "hzPinyin": "shén", "hzTrad": "Dios", "hzHsk": 5 },
+    { "hzId": "祸", "hzPinyin": "huò", "hzTrad": "Desgracia", "hzHsk": 6 },
+    { "hzId": "祥", "hzPinyin": "xiáng", "hzTrad": "Afortunado", "hzHsk": 6 },
+    { "hzId": "祖", "hzPinyin": "zǔ", "hzTrad": "Antepasado", "hzHsk": 6 }
+  ]
+},
+  "示": {
+  "hzSignificado": "Mostrar",
+  "datos": [
+    { "hzId": "票", "hzPinyin": "piào", "hzTrad": "Billete", "hzHsk": 2 },
+    { "hzId": "礼", "hzPinyin": "lǐ", "hzTrad": "Ceremonia", "hzHsk": 3 },
+    { "hzId": "示", "hzPinyin": "shì", "hzTrad": "Mostrar", "hzHsk": 4 },
+    { "hzId": "社", "hzPinyin": "shè", "hzTrad": "Sociedad", "hzHsk": 4 },
+    { "hzId": "禁", "hzPinyin": "jìn", "hzTrad": "Prohibir", "hzHsk": 4 },
+    { "hzId": "福", "hzPinyin": "fú", "hzTrad": "Felicidad", "hzHsk": 4 },
+    { "hzId": "神", "hzPinyin": "shén", "hzTrad": "Espíritu", "hzHsk": 5 },
+    { "hzId": "祸", "hzPinyin": "huò", "hzTrad": "Desgracia", "hzHsk": 6 },
+    { "hzId": "祥", "hzPinyin": "xiáng", "hzTrad": "Auspicioso", "hzHsk": 6 },
+    { "hzId": "祖", "hzPinyin": "zǔ", "hzTrad": "Antepasado", "hzHsk": 6 }
+  ]
 }
 }
