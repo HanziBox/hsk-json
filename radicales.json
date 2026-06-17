@@ -9644,21 +9644,6 @@
     { "hzId": "砖", "hzPinyin": "zhuān", "hzTrad": "Ladrillo", "hzHsk": 6 }
   ]
 },
-  "示": {
-  "hzSignificado": "Mostrar",
-  "datos": [
-    { "hzId": "票", "hzPinyin": "piào", "hzTrad": "Billete", "hzHsk": 2 },
-    { "hzId": "礼", "hzPinyin": "lǐ", "hzTrad": "Regalo", "hzHsk": 3 },
-    { "hzId": "示", "hzPinyin": "shì", "hzTrad": "Mostrar", "hzHsk": 4 },
-    { "hzId": "社", "hzPinyin": "shè", "hzTrad": "Sociedad", "hzHsk": 4 },
-    { "hzId": "禁", "hzPinyin": "jìn", "hzTrad": "Prohibir", "hzHsk": 4 },
-    { "hzId": "福", "hzPinyin": "fú", "hzTrad": "Felicidad", "hzHsk": 4 },
-    { "hzId": "神", "hzPinyin": "shén", "hzTrad": "Dios", "hzHsk": 5 },
-    { "hzId": "祸", "hzPinyin": "huò", "hzTrad": "Desgracia", "hzHsk": 6 },
-    { "hzId": "祥", "hzPinyin": "xiáng", "hzTrad": "Afortunado", "hzHsk": 6 },
-    { "hzId": "祖", "hzPinyin": "zǔ", "hzTrad": "Antepasado", "hzHsk": 6 }
-  ]
-},
   "示-礻": {
   "hzSignificado": "Mostrar",
   "datos": [
