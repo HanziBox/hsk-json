@@ -9298,7 +9298,7 @@
     { "hzId": "波", "hzPinyin": "bō", "hzTrad": "Ola", "hzHsk": 6 }
   ]
 },
-  "火-灬": {
+"火": {
   "hzSignificado": "Fuego",
   "datos": [
     { "hzId": "点", "hzPinyin": "diǎn", "hzTrad": "Punto", "hzHsk": 1 },
@@ -9309,40 +9309,46 @@
     { "hzId": "烧", "hzPinyin": "shāo", "hzTrad": "Quemar", "hzHsk": 3 },
     { "hzId": "熊", "hzPinyin": "xióng", "hzTrad": "Oso", "hzHsk": 3 },
     { "hzId": "炼", "hzPinyin": "liàn", "hzTrad": "Refinar", "hzHsk": 3 },
-    { "hzId": "照", "hzPinyin": "zhào", "hzTrad": "Brillar", "hzHsk": 3 },
+    { "hzId": "照", "hzPinyin": "zhào", "hzTrad": "Iluminar", "hzHsk": 3 },
     { "hzId": "烤", "hzPinyin": "kǎo", "hzTrad": "Asar", "hzHsk": 4 },
     { "hzId": "烟", "hzPinyin": "yān", "hzTrad": "Humo", "hzHsk": 4 },
     { "hzId": "熟", "hzPinyin": "shú", "hzTrad": "Cocinado", "hzHsk": 4 },
-    { "hzId": "灵", "hzPinyin": "líng", "hzTrad": "Ágil", "hzHsk": 5 },
+    { "hzId": "灵", "hzPinyin": "líng", "hzTrad": "Espíritu", "hzHsk": 5 },
     { "hzId": "煤", "hzPinyin": "méi", "hzTrad": "Carbón", "hzHsk": 5 },
     { "hzId": "煮", "hzPinyin": "zhǔ", "hzTrad": "Hervir", "hzHsk": 5 },
     { "hzId": "燥", "hzPinyin": "zào", "hzTrad": "Seco", "hzHsk": 5 },
     { "hzId": "炭", "hzPinyin": "tàn", "hzTrad": "Carbón vegetal", "hzHsk": 5 },
     { "hzId": "炮", "hzPinyin": "pào", "hzTrad": "Cañón", "hzHsk": 5 },
     { "hzId": "烈", "hzPinyin": "liè", "hzTrad": "Intenso", "hzHsk": 5 },
-    { "hzId": "炸", "hzPinyin": "zhá", "hzTrad": "Freír", "hzHsk": 5 },
+    { "hzId": "炸", "hzPinyin": "zhà", "hzTrad": "Explotar", "hzHsk": 5 },
     { "hzId": "熬", "hzPinyin": "áo", "hzTrad": "Soportar", "hzHsk": 5 },
     { "hzId": "灰", "hzPinyin": "huī", "hzTrad": "Ceniza", "hzHsk": 5 },
-    { "hzId": "炒", "hzPinyin": "chǎo", "hzTrad": "Saltear", "hzHsk": 5 },
+    { "hzId": "炒", "hzPinyin": "chǎo", "hzTrad": "Freír", "hzHsk": 5 },
     { "hzId": "灾", "hzPinyin": "zāi", "hzTrad": "Desastre", "hzHsk": 5 },
     { "hzId": "烫", "hzPinyin": "tàng", "hzTrad": "Quemadura", "hzHsk": 5 },
     { "hzId": "烂", "hzPinyin": "làn", "hzTrad": "Podrido", "hzHsk": 5 },
+    { "hzId": "燃", "hzPinyin": "rán", "hzTrad": "Arder", "hzHsk": 5 },
     { "hzId": "灭", "hzPinyin": "miè", "hzTrad": "Apagar", "hzHsk": 6 },
     { "hzId": "烘", "hzPinyin": "hōng", "hzTrad": "Hornear", "hzHsk": 6 },
-    { "hzId": "炉", "hzPinyin": "lú", "hzTrad": "Horno", "hzHsk": 6 },
+    { "hzId": "炉", "hzPinyin": "lú", "hzTrad": "Estufa", "hzHsk": 6 },
     { "hzId": "灶", "hzPinyin": "zào", "hzTrad": "Fogón", "hzHsk": 6 },
     { "hzId": "烛", "hzPinyin": "zhú", "hzTrad": "Vela", "hzHsk": 6 },
     { "hzId": "熏", "hzPinyin": "xūn", "hzTrad": "Ahumar", "hzHsk": 6 },
-    { "hzId": "灿", "hzPinyin": "càn", "hzTrad": "Brillante", "hzHsk": 6 },
+    { "hzId": "灿", "hzPinyin": "càn", "hzTrad": "Espléndido", "hzHsk": 6 },
     { "hzId": "焦", "hzPinyin": "jiāo", "hzTrad": "Quemado", "hzHsk": 6 },
+    { "hzId": "炫", "hzPinyin": "xuàn", "hzTrad": "Deslumbrar", "hzHsk": 6 },
     { "hzId": "熄", "hzPinyin": "xī", "hzTrad": "Extinguirse", "hzHsk": 6 },
     { "hzId": "烁", "hzPinyin": "shuò", "hzTrad": "Centellear", "hzHsk": 6 },
     { "hzId": "焰", "hzPinyin": "yàn", "hzTrad": "Llama", "hzHsk": 6 },
-    { "hzId": "煌", "hzPinyin": "huáng", "hzTrad": "Resplandeciente", "hzHsk": 6 },
-    { "hzId": "煎", "hzPinyin": "jiān", "hzTrad": "Freír", "hzHsk": 6 },
-    { "hzId": "爆", "hzPinyin": "bào", "hzTrad": "Explotar", "hzHsk": 6 }
+    { "hzId": "煌", "hzPinyin": "huáng", "hzTrad": "Brillante", "hzHsk": 6 },
+    { "hzId": "煎", "hzPinyin": "jiān", "hzTrad": "Freír en sartén", "hzHsk": 6 },
+    { "hzId": "熨", "hzPinyin": "yùn", "hzTrad": "Planchar", "hzHsk": 6 },
+    { "hzId": "烹", "hzPinyin": "pēng", "hzTrad": "Cocinar", "hzHsk": 6 },
+    { "hzId": "炊", "hzPinyin": "chuī", "hzTrad": "Cocinar alimentos", "hzHsk": 6 },
+    { "hzId": "爆", "hzPinyin": "bào", "hzTrad": "Estallar", "hzHsk": 6 },
+    { "hzId": "炎", "hzPinyin": "yán", "hzTrad": "Inflamación", "hzHsk": 6 }
   ]
-},
+}
   "爪-爫": {
   "hzSignificado": "Garra",
   "datos": [
