@@ -8885,6 +8885,8 @@
   },
   "手-扌": {
     "hzSignificado": "Mano",
+    "hzPron": "shǒu",
+    "hzTrazos": 4,
     "datos": [
       { "hzId": "打", "hzPinyin": "dǎ", "hzTrad": "Golpear", "hzHsk": 1 },
       { "hzId": "手", "hzPinyin": "shǒu", "hzTrad": "Mano", "hzHsk": 2 },
