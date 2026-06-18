@@ -9714,7 +9714,7 @@
     { "hzId": "穴", "hzPinyin": "xué", "hzTrad": "Cueva", "hzHsk": 6 }
   ]
 },
-  "立": {
+"立": {
   "hzPron": "lì",
   "hzTrazos": 5,
   "hzSignificado": "Estar de pie",
@@ -9723,6 +9723,7 @@
     { "hzId": "竟", "hzPinyin": "jìng", "hzTrad": "Inesperadamente", "hzHsk": 4 },
     { "hzId": "竞", "hzPinyin": "jìng", "hzTrad": "Competir", "hzHsk": 4 },
     { "hzId": "章", "hzPinyin": "zhāng", "hzTrad": "Capítulo", "hzHsk": 4 },
+    { "hzId": "童", "hzPinyin": "tóng", "hzTrad": "Niño", "hzHsk": 4 },
     { "hzId": "立", "hzPinyin": "lì", "hzTrad": "Estar de pie", "hzHsk": 5 },
     { "hzId": "竭", "hzPinyin": "jié", "hzTrad": "Agotar", "hzHsk": 6 },
     { "hzId": "端", "hzPinyin": "duān", "hzTrad": "Extremo", "hzHsk": 6 },
