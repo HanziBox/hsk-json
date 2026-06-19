@@ -2194,5 +2194,60 @@
     { "hzId": "爱", "hzPinyin": "ài", "hzTrad": "Amar", "hzHsk": 1 },
     { "hzId": "爬", "hzPinyin": "pá", "hzTrad": "Trepar", "hzHsk": 3 }
   ]
+},
+  "父": {
+  "hzPron": "fù",
+  "hzTrazos": 4,
+  "hzSignificado": "Padre",
+  "datos": [
+    { "hzId": "爸", "hzPinyin": "bà", "hzTrad": "Papá", "hzHsk": 1 },
+    { "hzId": "爷", "hzPinyin": "yé", "hzTrad": "Abuelo", "hzHsk": 3 },
+    { "hzId": "父", "hzPinyin": "fù", "hzTrad": "Padre", "hzHsk": 4 }
+  ]
+},
+  "爻": {
+  "hzPron": "yáo",
+  "hzTrazos": 4,
+  "hzSignificado": "Líneas de los trigramas",
+  "datos": []
+},
+  "爿": {
+  "hzPron": "qiáng",
+  "hzTrazos": 4,
+  "hzSignificado": "Tronco partido",
+  "datos": []
+},
+  "片": {
+  "hzPron": "piàn",
+  "hzTrazos": 4,
+  "hzSignificado": "Lámina",
+  "datos": [
+    { "hzId": "片", "hzPinyin": "piàn", "hzTrad": "Rebanada", "hzHsk": 3 },
+    { "hzId": "版", "hzPinyin": "bǎn", "hzTrad": "Edición", "hzHsk": 5 },
+    { "hzId": "牌", "hzPinyin": "pái", "hzTrad": "Tarjeta", "hzHsk": 5 }
+  ]
+},
+  "牙": {
+  "hzPron": "yá",
+  "hzTrazos": 4,
+  "hzSignificado": "Diente",
+  "datos": [
+    { "hzId": "牙", "hzPinyin": "yá", "hzTrad": "Diente", "hzHsk": 3 }
+  ]
+},
+  "牛-牜": {
+  "hzPron": "niú",
+  "hzTrazos": 4,
+  "hzSignificado": "Vaca o toro",
+  "datos": [
+    { "hzId": "牛", "hzPinyin": "niú", "hzTrad": "Vaca", "hzHsk": 2 },
+    { "hzId": "特", "hzPinyin": "tè", "hzTrad": "Especial", "hzHsk": 3 },
+    { "hzId": "物", "hzPinyin": "wù", "hzTrad": "Cosa", "hzHsk": 3 },
+    { "hzId": "牵", "hzPinyin": "qiān", "hzTrad": "Tirar de", "hzHsk": 5 },
+    { "hzId": "牺", "hzPinyin": "xī", "hzTrad": "Sacrificar", "hzHsk": 6 },
+    { "hzId": "牧", "hzPinyin": "mù", "hzTrad": "Pastorear", "hzHsk": 6 },
+    { "hzId": "牲", "hzPinyin": "shēng", "hzTrad": "Ganado", "hzHsk": 6 },
+    { "hzId": "牢", "hzPinyin": "láo", "hzTrad": "Firme", "hzHsk": 6 }
+  ]
 }
 }
