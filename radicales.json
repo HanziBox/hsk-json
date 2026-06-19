@@ -135,5 +135,21 @@
     { "hzId": "亏", "hzPinyin": "kuī", "hzTrad": "Perder", "hzHsk": 5 },
     { "hzId": "井", "hzPinyin": "jǐng", "hzTrad": "Pozo", "hzHsk": 6 }
   ]
+},
+  "亠": {
+  "hzPron": "tóu",
+  "hzTrazos": 2,
+  "hzSignificado": "Tapa",
+  "datos": [
+    { "hzId": "京", "hzPinyin": "jīng", "hzTrad": "Capital", "hzHsk": 1 },
+    { "hzId": "亮", "hzPinyin": "liàng", "hzTrad": "Brillante", "hzHsk": 1 },
+    { "hzId": "亲", "hzPinyin": "qīn", "hzTrad": "Pariente", "hzHsk": 4 },
+    { "hzId": "交", "hzPinyin": "jiāo", "hzTrad": "Entregar", "hzHsk": 4 },
+    { "hzId": "享", "hzPinyin": "xiǎng", "hzTrad": "Disfrutar", "hzHsk": 5 },
+    { "hzId": "产", "hzPinyin": "chǎn", "hzTrad": "Producir", "hzHsk": 5 },
+    { "hzId": "亡", "hzPinyin": "wáng", "hzTrad": "Morir", "hzHsk": 6 },
+    { "hzId": "亦", "hzPinyin": "yì", "hzTrad": "También", "hzHsk": 6 },
+    { "hzId": "亭", "hzPinyin": "tíng", "hzTrad": "Pabellón", "hzHsk": 6 }
+  ]
 }
 }
