@@ -92,5 +92,21 @@
     { "hzId": "乏", "hzPinyin": "fá", "hzTrad": "Faltar", "hzHsk": 5 },
     { "hzId": "乌", "hzPinyin": "wū", "hzTrad": "Cuervo", "hzHsk": 6 }
   ]
+},
+  "乙": {
+  "hzPron": "yǐ",
+  "hzTrazos": 1,
+  "hzSignificado": "Segundo",
+  "datos": [
+    { "hzId": "九", "hzPinyin": "jiǔ", "hzTrad": "Nueve", "hzHsk": 1 },
+    { "hzId": "书", "hzPinyin": "shū", "hzTrad": "Libro", "hzHsk": 1 },
+    { "hzId": "买", "hzPinyin": "mǎi", "hzTrad": "Comprar", "hzHsk": 1 },
+    { "hzId": "习", "hzPinyin": "xí", "hzTrad": "Estudiar", "hzHsk": 1 },
+    { "hzId": "也", "hzPinyin": "yě", "hzTrad": "También", "hzHsk": 2 },
+    { "hzId": "乱", "hzPinyin": "luàn", "hzTrad": "Desordenado", "hzHsk": 4 },
+    { "hzId": "乙", "hzPinyin": "yǐ", "hzTrad": "Segundo", "hzHsk": 5 },
+    { "hzId": "乳", "hzPinyin": "rǔ", "hzTrad": "Leche", "hzHsk": 6 },
+    { "hzId": "乞", "hzPinyin": "qǐ", "hzTrad": "Mendigar", "hzHsk": 6 }
+  ]
 }
 }
