@@ -1211,5 +1211,96 @@
     { "hzId": "庇", "hzPinyin": "bì", "hzTrad": "Proteger", "hzHsk": 6 },
     { "hzId": "庞", "hzPinyin": "páng", "hzTrad": "Colosal", "hzHsk": 6 }
   ]
+},
+  "廴": {
+  "hzPron": "yǐn",
+  "hzTrazos": 3,
+  "hzSignificado": "Marchar",
+  "datos": [
+    { "hzId": "建", "hzPinyin": "jiàn", "hzTrad": "Construir", "hzHsk": 5 },
+    { "hzId": "延", "hzPinyin": "yán", "hzTrad": "Prolongar", "hzHsk": 5 }
+  ]
+},
+  "廾": {
+  "hzPron": "gǒng",
+  "hzTrazos": 3,
+  "hzSignificado": "Manos juntas",
+  "datos": [
+    { "hzId": "开", "hzPinyin": "kāi", "hzTrad": "Abrir", "hzHsk": 1 },
+    { "hzId": "弄", "hzPinyin": "nòng", "hzTrad": "Hacer", "hzHsk": 4 },
+    { "hzId": "弃", "hzPinyin": "qì", "hzTrad": "Abandonar", "hzHsk": 4 },
+    { "hzId": "弊", "hzPinyin": "bì", "hzTrad": "Fraude", "hzHsk": 6 },
+    { "hzId": "异", "hzPinyin": "yì", "hzTrad": "Diferente", "hzHsk": 6 }
+  ]
+},
+  "弋": {
+  "hzPron": "yì",
+  "hzTrazos": 3,
+  "hzSignificado": "Flecha",
+  "datos": [
+    { "hzId": "式", "hzPinyin": "shì", "hzTrad": "Estilo", "hzHsk": 4 }
+  ]
+},
+  "弓": {
+  "hzPron": "gōng",
+  "hzTrazos": 3,
+  "hzSignificado": "Arco",
+  "datos": [
+    { "hzId": "弟", "hzPinyin": "dì", "hzTrad": "Hermano menor", "hzHsk": 2 },
+    { "hzId": "张", "hzPinyin": "zhāng", "hzTrad": "Extender", "hzHsk": 2 },
+    { "hzId": "引", "hzPinyin": "yǐn", "hzTrad": "Guiar", "hzHsk": 4 },
+    { "hzId": "弹", "hzPinyin": "tán", "hzTrad": "Tocar", "hzHsk": 4 },
+    { "hzId": "弯", "hzPinyin": "wān", "hzTrad": "Curva", "hzHsk": 5 },
+    { "hzId": "弱", "hzPinyin": "ruò", "hzTrad": "Débil", "hzHsk": 5 },
+    { "hzId": "强", "hzPinyin": "qiáng", "hzTrad": "Fuerte", "hzHsk": 5 },
+    { "hzId": "弥", "hzPinyin": "mí", "hzTrad": "Llenar", "hzHsk": 6 },
+    { "hzId": "弦", "hzPinyin": "xián", "hzTrad": "Cuerda", "hzHsk": 6 }
+  ]
+},
+  "彐": {
+  "hzPron": "jì",
+  "hzTrazos": 3,
+  "hzSignificado": "Hocico",
+  "datos": [
+    { "hzId": "当", "hzPinyin": "dāng", "hzTrad": "Corresponder", "hzHsk": 3 },
+    { "hzId": "录", "hzPinyin": "lù", "hzTrad": "Grabar", "hzHsk": 5 },
+    { "hzId": "归", "hzPinyin": "guī", "hzTrad": "Regresar", "hzHsk": 6 }
+  ]
+},
+  "彡": {
+  "hzPron": "shān",
+  "hzTrazos": 3,
+  "hzSignificado": "Pelaje",
+  "datos": [
+    { "hzId": "影", "hzPinyin": "yǐng", "hzTrad": "Sombra", "hzHsk": 1 },
+    { "hzId": "彩", "hzPinyin": "cǎi", "hzTrad": "Color", "hzHsk": 4 },
+    { "hzId": "形", "hzPinyin": "xíng", "hzTrad": "Forma", "hzHsk": 5 },
+    { "hzId": "彰", "hzPinyin": "zhāng", "hzTrad": "Evidente", "hzHsk": 6 }
+  ]
+},
+  "彳": {
+  "hzPron": "chì",
+  "hzTrazos": 3,
+  "hzSignificado": "Paso corto",
+  "datos": [
+    { "hzId": "很", "hzPinyin": "hěn", "hzTrad": "Muy", "hzHsk": 1 },
+    { "hzId": "得", "hzPinyin": "dé", "hzTrad": "Obtener", "hzHsk": 2 },
+    { "hzId": "微", "hzPinyin": "wēi", "hzTrad": "Diminuto", "hzHsk": 4 },
+    { "hzId": "往", "hzPinyin": "wǎng", "hzTrad": "Hacia", "hzHsk": 4 },
+    { "hzId": "律", "hzPinyin": "lǜ", "hzTrad": "Ley", "hzHsk": 4 },
+    { "hzId": "彻", "hzPinyin": "chè", "hzTrad": "A fondo", "hzHsk": 5 },
+    { "hzId": "德", "hzPinyin": "dé", "hzTrad": "Virtud", "hzHsk": 5 },
+    { "hzId": "征", "hzPinyin": "zhēng", "hzTrad": "Solicitar", "hzHsk": 5 },
+    { "hzId": "彼", "hzPinyin": "bǐ", "hzTrad": "Aquel", "hzHsk": 5 },
+    { "hzId": "待", "hzPinyin": "dài", "hzTrad": "Esperar", "hzHsk": 5 },
+    { "hzId": "徒", "hzPinyin": "tú", "hzTrad": "Discípulo", "hzHsk": 6 },
+    { "hzId": "役", "hzPinyin": "yì", "hzTrad": "Servicio", "hzHsk": 6 },
+    { "hzId": "径", "hzPinyin": "jìng", "hzTrad": "Sendero", "hzHsk": 6 },
+    { "hzId": "徊", "hzPinyin": "huái", "hzTrad": "Deambular", "hzHsk": 6 },
+    { "hzId": "循", "hzPinyin": "xún", "hzTrad": "Seguir", "hzHsk": 6 },
+    { "hzId": "徘", "hzPinyin": "pái", "hzTrad": "Vagar", "hzHsk": 6 },
+    { "hzId": "徙", "hzPinyin": "xǐ", "hzTrad": "Migrar", "hzHsk": 6 },
+    { "hzId": "御", "hzPinyin": "yù", "hzTrad": "Defender", "hzHsk": 6 }
+  ]
 }
 }
