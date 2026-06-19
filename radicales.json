@@ -119,5 +119,21 @@
     { "hzId": "争", "hzPinyin": "zhēng", "hzTrad": "Disputar", "hzHsk": 4 },
     { "hzId": "予", "hzPinyin": "yǔ", "hzTrad": "Conceder", "hzHsk": 6 }
   ]
+},
+  "二": {
+  "hzPron": "èr",
+  "hzTrazos": 2,
+  "hzSignificado": "Dos",
+  "datos": [
+    { "hzId": "些", "hzPinyin": "xiē", "hzTrad": "Algunos", "hzHsk": 1 },
+    { "hzId": "二", "hzPinyin": "èr", "hzTrad": "Dos", "hzHsk": 1 },
+    { "hzId": "五", "hzPinyin": "wǔ", "hzTrad": "Cinco", "hzHsk": 1 },
+    { "hzId": "云", "hzPinyin": "yún", "hzTrad": "Nube", "hzHsk": 3 },
+    { "hzId": "于", "hzPinyin": "yú", "hzTrad": "En", "hzHsk": 3 },
+    { "hzId": "互", "hzPinyin": "hù", "hzTrad": "Mutuamente", "hzHsk": 4 },
+    { "hzId": "亚", "hzPinyin": "yà", "hzTrad": "Segundo / Asia", "hzHsk": 4 },
+    { "hzId": "亏", "hzPinyin": "kuī", "hzTrad": "Perder / Deficiencia", "hzHsk": 5 },
+    { "hzId": "井", "hzPinyin": "jǐng", "hzTrad": "Pozo", "hzHsk": 6 }
+  ]
 }
 }
