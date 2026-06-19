@@ -2185,5 +2185,14 @@
     { "hzId": "焦", "hzPinyin": "jiāo", "hzTrad": "Quemado", "hzHsk": 6 },
     { "hzId": "爆", "hzPinyin": "bào", "hzTrad": "Explotar", "hzHsk": 6 }
   ]
+},
+  "爪-爫": {
+  "hzPron": "zhǎo",
+  "hzTrazos": 4,
+  "hzSignificado": "Garra",
+  "datos": [
+    { "hzId": "爱", "hzPinyin": "ài", "hzTrad": "Amar", "hzHsk": 1 },
+    { "hzId": "爬", "hzPinyin": "pá", "hzTrad": "Trepar", "hzHsk": 3 }
+  ]
 }
 }
