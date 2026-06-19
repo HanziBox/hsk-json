@@ -295,5 +295,14 @@
     { "hzId": "兢", "hzPinyin": "jīng", "hzTrad": "Cauteloso", "hzHsk": 6 },
     { "hzId": "兆", "hzPinyin": "zhào", "hzTrad": "Millón", "hzHsk": 6 }
   ]
+},
+  "入": {
+  "hzPron": "rù",
+  "hzTrazos": 2,
+  "hzSignificado": "Entrar",
+  "datos": [
+    { "hzId": "入", "hzPinyin": "rù", "hzTrad": "Entrar", "hzHsk": 4 },
+    { "hzId": "全", "hzPinyin": "quán", "hzTrad": "Todo", "hzHsk": 4 }
+  ]
 }
 }
