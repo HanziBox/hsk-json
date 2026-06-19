@@ -1097,5 +1097,119 @@
     { "hzId": "峰", "hzPinyin": "fēng", "hzTrad": "Cumbre", "hzHsk": 6 },
     { "hzId": "屿", "hzPinyin": "yǔ", "hzTrad": "Isleo", "hzHsk": 6 }
   ]
+},
+  "川": {
+  "hzPron": "chuān",
+  "hzTrazos": 3,
+  "hzSignificado": "Río",
+  "datos": [
+    { "hzId": "州", "hzPinyin": "zhōu", "hzTrad": "Provincia", "hzHsk": 6 },
+    { "hzId": "川", "hzPinyin": "chuān", "hzTrad": "Río", "hzHsk": 6 },
+    { "hzId": "巡", "hzPinyin": "xún", "hzTrad": "Patrullar", "hzHsk": 6 }
+  ]
+},
+  "工": {
+  "hzPron": "gōng",
+  "hzTrazos": 3,
+  "hzSignificado": "Trabajo",
+  "datos": [
+    { "hzId": "工", "hzPinyin": "gōng", "hzTrad": "Trabajo", "hzHsk": 1 },
+    { "hzId": "左", "hzPinyin": "zuǒ", "hzTrad": "Izquierda", "hzHsk": 2 },
+    { "hzId": "差", "hzPinyin": "chà", "hzTrad": "Diferencia", "hzHsk": 3 },
+    { "hzId": "巧", "hzPinyin": "qiǎo", "hzTrad": "Hábil", "hzHsk": 4 },
+    { "hzId": "巨", "hzPinyin": "jù", "hzTrad": "Enorme", "hzHsk": 5 },
+    { "hzId": "巩", "hzPinyin": "gǒng", "hzTrad": "Consolidar", "hzHsk": 6 }
+  ]
+},
+  "己": {
+  "hzPron": "jǐ",
+  "hzTrazos": 3,
+  "hzSignificado": "Uno mismo",
+  "datos": [
+    { "hzId": "已", "hzPinyin": "yǐ", "hzTrad": "Ya", "hzHsk": 2 },
+    { "hzId": "己", "hzPinyin": "jǐ", "hzTrad": "Uno mismo", "hzHsk": 3 },
+    { "hzId": "巴", "hzPinyin": "bā", "hzTrad": "Anhelar", "hzHsk": 5 },
+    { "hzId": "巷", "hzPinyin": "xiàng", "hzTrad": "Callejón", "hzHsk": 6 }
+  ]
+},
+  "巾": {
+  "hzPron": "jīn",
+  "hzTrazos": 3,
+  "hzSignificado": "Paño",
+  "datos": [
+    { "hzId": "师", "hzPinyin": "shī", "hzTrad": "Maestro", "hzHsk": 1 },
+    { "hzId": "帮", "hzPinyin": "bāng", "hzTrad": "Ayudar", "hzHsk": 2 },
+    { "hzId": "常", "hzPinyin": "cháng", "hzTrad": "Frecuente", "hzHsk": 2 },
+    { "hzId": "希", "hzPinyin": "xī", "hzTrad": "Esperar", "hzHsk": 2 },
+    { "hzId": "帽", "hzPinyin": "mào", "hzTrad": "Sombrero", "hzHsk": 3 },
+    { "hzId": "市", "hzPinyin": "shì", "hzTrad": "Ciudad", "hzHsk": 3 },
+    { "hzId": "带", "hzPinyin": "dài", "hzTrad": "Llevar", "hzHsk": 3 },
+    { "hzId": "帅", "hzPinyin": "shuài", "hzTrad": "Guapo", "hzHsk": 4 },
+    { "hzId": "巾", "hzPinyin": "jīn", "hzTrad": "Paño", "hzHsk": 4 },
+    { "hzId": "币", "hzPinyin": "bì", "hzTrad": "Moneda", "hzHsk": 4 },
+    { "hzId": "帝", "hzPinyin": "dì", "hzTrad": "Emperador", "hzHsk": 5 },
+    { "hzId": "幅", "hzPinyin": "fú", "hzTrad": "Amplitud", "hzHsk": 5 },
+    { "hzId": "帘", "hzPinyin": "lián", "hzTrad": "Cortina", "hzHsk": 5 },
+    { "hzId": "席", "hzPinyin": "xí", "hzTrad": "Asiento", "hzHsk": 5 },
+    { "hzId": "布", "hzPinyin": "bù", "hzTrad": "Tela", "hzHsk": 5 },
+    { "hzId": "幕", "hzPinyin": "mù", "hzTrad": "Telón", "hzHsk": 5 },
+    { "hzId": "帖", "hzPinyin": "tiě", "hzTrad": "Nota", "hzHsk": 6 },
+    { "hzId": "幢", "hzPinyin": "zhuàng", "hzTrad": "Clasif. edif.", "hzHsk": 6 },
+    { "hzId": "帐", "hzPinyin": "zhàng", "hzTrad": "Tienda de campaña", "hzHsk": 6 },
+    { "hzId": "帜", "hzPinyin": "zhì", "hzTrad": "Bandera", "hzHsk": 6 },
+    { "hzId": "帆", "hzPinyin": "fān", "hzTrad": "Vela", "hzHsk": 6 }
+  ]
+},
+  "干": {
+  "hzPron": "gān",
+  "hzTrazos": 3,
+  "hzSignificado": "Seco",
+  "datos": [
+    { "hzId": "年", "hzPinyin": "nián", "hzTrad": "Año", "hzHsk": 1 },
+    { "hzId": "平", "hzPinyin": "píng", "hzTrad": "Plano", "hzHsk": 3 },
+    { "hzId": "干", "hzPinyin": "gān", "hzTrad": "Seco", "hzHsk": 3 },
+    { "hzId": "幸", "hzPinyin": "xìng", "hzTrad": "Fortuna", "hzHsk": 4 },
+    { "hzId": "并", "hzPinyin": "bìng", "hzTrad": "Además", "hzHsk": 4 }
+  ]
+},
+"幺": {
+  "hzPron": "yāo",
+  "hzTrazos": 3,
+  "hzSignificado": "Pequeño",
+  "datos": [
+    { "hzId": "幽", "hzPinyin": "yōu", "hzTrad": "Oculto", "hzHsk": 4 },
+    { "hzId": "幼", "hzPinyin": "yòu", "hzTrad": "Joven", "hzHsk": 5 },
+    { "hzId": "乡", "hzPinyin": "xiāng", "hzTrad": "Pueblo", "hzHsk": 5 },
+    { "hzId": "幻", "hzPinyin": "huàn", "hzTrad": "Ilusión", "hzHsk": 5 }
+  ]
+},
+  "广": {
+  "hzPron": "guǎng",
+  "hzTrazos": 3,
+  "hzSignificado": "Amplio",
+  "datos": [
+    { "hzId": "店", "hzPinyin": "diàn", "hzTrad": "Tienda", "hzHsk": 1 },
+    { "hzId": "床", "hzPinyin": "chuáng", "hzTrad": "Cama", "hzHsk": 2 },
+    { "hzId": "应", "hzPinyin": "yīng", "hzTrad": "Deber", "hzHsk": 3 },
+    { "hzId": "康", "hzPinyin": "kāng", "hzTrad": "Salud", "hzHsk": 3 },
+    { "hzId": "底", "hzPinyin": "dǐ", "hzTrad": "Fondo", "hzHsk": 4 },
+    { "hzId": "序", "hzPinyin": "xù", "hzTrad": "Orden", "hzHsk": 4 },
+    { "hzId": "广", "hzPinyin": "guǎng", "hzTrad": "Amplio", "hzHsk": 4 },
+    { "hzId": "座", "hzPinyin": "zuò", "hzTrad": "Asiento", "hzHsk": 4 },
+    { "hzId": "度", "hzPinyin": "dù", "hzTrad": "Grado", "hzHsk": 4 },
+    { "hzId": "废", "hzPinyin": "fèi", "hzTrad": "Inútil", "hzHsk": 5 },
+    { "hzId": "府", "hzPinyin": "fǔ", "hzTrad": "Gobierno", "hzHsk": 5 },
+    { "hzId": "库", "hzPinyin": "kù", "hzTrad": "Almacén", "hzHsk": 5 },
+    { "hzId": "庙", "hzPinyin": "miào", "hzTrad": "Templo", "hzHsk": 5 },
+    { "hzId": "庆", "hzPinyin": "qìng", "hzTrad": "Celebrar", "hzHsk": 5 },
+    { "hzId": "庭", "hzPinyin": "tíng", "hzTrad": "Patio", "hzHsk": 5 },
+    { "hzId": "廉", "hzPinyin": "lián", "hzTrad": "Barato", "hzHsk": 6 },
+    { "hzId": "廊", "hzPinyin": "láng", "hzTrad": "Corredor", "hzHsk": 6 },
+    { "hzId": "庸", "hzPinyin": "yōng", "hzTrad": "Mediocre", "hzHsk": 6 },
+    { "hzId": "廓", "hzPinyin": "kuò", "hzTrad": "Contorno", "hzHsk": 6 },
+    { "hzId": "庄", "hzPinyin": "zhuāng", "hzTrad": "Villa", "hzHsk": 6 },
+    { "hzId": "庇", "hzPinyin": "bì", "hzTrad": "Proteger", "hzHsk": 6 },
+    { "hzId": "庞", "hzPinyin": "páng", "hzTrad": "Colosal", "hzHsk": 6 }
+  ]
 }
 }
