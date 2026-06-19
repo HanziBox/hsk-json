@@ -739,5 +739,122 @@
     { "hzId": "吁", "hzPinyin": "xū", "hzTrad": "Suspirar", "hzHsk": 6 },
     { "hzId": "哄", "hzPinyin": "hōng", "hzTrad": "Engañar", "hzHsk": 6 }
   ]
+},
+  "囗": {
+  "hzPron": "wéi",
+  "hzTrazos": 3,
+  "hzSignificado": "Cercado",
+  "datos": [
+    { "hzId": "四", "hzPinyin": "sì", "hzTrad": "Cuatro", "hzHsk": 1 },
+    { "hzId": "回", "hzPinyin": "huí", "hzTrad": "Volver", "hzHsk": 1 },
+    { "hzId": "国", "hzPinyin": "guó", "hzTrad": "País", "hzHsk": 1 },
+    { "hzId": "因", "hzPinyin": "yīn", "hzTrad": "Causa", "hzHsk": 2 },
+    { "hzId": "园", "hzPinyin": "yuán", "hzTrad": "Jardín", "hzHsk": 3 },
+    { "hzId": "图", "hzPinyin": "tú", "hzTrad": "Mapa", "hzHsk": 3 },
+    { "hzId": "围", "hzPinyin": "wéi", "hzTrad": "Rodear", "hzHsk": 4 },
+    { "hzId": "困", "hzPinyin": "kùn", "hzTrad": "Atrapado", "hzHsk": 4 },
+    { "hzId": "圆", "hzPinyin": "yuán", "hzTrad": "Redondo", "hzHsk": 4 },
+    { "hzId": "固", "hzPinyin": "gù", "hzTrad": "Sólido", "hzHsk": 5 },
+    { "hzId": "圈", "hzPinyin": "quān", "hzTrad": "Círculo", "hzHsk": 5 },
+    { "hzId": "团", "hzPinyin": "tuán", "hzTrad": "Grupo", "hzHsk": 5 }
+  ]
+},
+  "土": {
+  "hzPron": "tǔ",
+  "hzTrazos": 3,
+  "hzSignificado": "Tierra",
+  "datos": [
+    { "hzId": "块", "hzPinyin": "kuài", "hzTrad": "Trozo", "hzHsk": 1 },
+    { "hzId": "坐", "hzPinyin": "zuò", "hzTrad": "Sentarse", "hzHsk": 1 },
+    { "hzId": "在", "hzPinyin": "zài", "hzTrad": "Estar", "hzHsk": 1 },
+    { "hzId": "场", "hzPinyin": "chǎng", "hzTrad": "Lugar", "hzHsk": 2 },
+    { "hzId": "境", "hzPinyin": "jìng", "hzTrad": "Frontera", "hzHsk": 3 },
+    { "hzId": "坏", "hzPinyin": "huài", "hzTrad": "Malo", "hzHsk": 3 },
+    { "hzId": "城", "hzPinyin": "chéng", "hzTrad": "Ciudad", "hzHsk": 3 },
+    { "hzId": "地", "hzPinyin": "dì", "hzTrad": "Suelo", "hzHsk": 3 },
+    { "hzId": "增", "hzPinyin": "zēng", "hzTrad": "Aumentar", "hzHsk": 4 },
+    { "hzId": "塑", "hzPinyin": "sù", "hzTrad": "Modelar", "hzHsk": 4 },
+    { "hzId": "坚", "hzPinyin": "jiān", "hzTrad": "Firme", "hzHsk": 4 },
+    { "hzId": "基", "hzPinyin": "jī", "hzTrad": "Base", "hzHsk": 4 },
+    { "hzId": "填", "hzPinyin": "tián", "hzTrad": "Rellenar", "hzHsk": 4 },
+    { "hzId": "址", "hzPinyin": "zhǐ", "hzTrad": "Dirección", "hzHsk": 4 },
+    { "hzId": "堵", "hzPinyin": "dǔ", "hzTrad": "Obstruir", "hzHsk": 4 },
+    { "hzId": "垃", "hzPinyin": "lā", "hzTrad": "Basura", "hzHsk": 4 },
+    { "hzId": "圾", "hzPinyin": "jī", "hzTrad": "Desechos", "hzHsk": 4 },
+    { "hzId": "墙", "hzPinyin": "qiáng", "hzTrad": "Pared", "hzHsk": 4 },
+    { "hzId": "坦", "hzPinyin": "tǎn", "hzTrad": "Plano", "hzHsk": 5 },
+    { "hzId": "堆", "hzPinyin": "duī", "hzTrad": "Amontonar", "hzHsk": 5 },
+    { "hzId": "壁", "hzPinyin": "bì", "hzTrad": "Muro", "hzHsk": 5 },
+    { "hzId": "型", "hzPinyin": "xíng", "hzTrad": "Modelo", "hzHsk": 5 },
+    { "hzId": "培", "hzPinyin": "péi", "hzTrad": "Cultivar", "hzHsk": 5 },
+    { "hzId": "土", "hzPinyin": "tǔ", "hzTrad": "Tierra", "hzHsk": 5 },
+    { "hzId": "均", "hzPinyin": "jūn", "hzTrad": "Igual", "hzHsk": 5 },
+    { "hzId": "塔", "hzPinyin": "tǎ", "hzTrad": "Torre", "hzHsk": 5 },
+    { "hzId": "域", "hzPinyin": "yù", "hzTrad": "Territorio", "hzHsk": 5 },
+    { "hzId": "垂", "hzPinyin": "chuí", "hzTrad": "Colgar", "hzHsk": 6 },
+    { "hzId": "垄", "hzPinyin": "lǒng", "hzTrad": "Monopolio", "hzHsk": 6 },
+    { "hzId": "堪", "hzPinyin": "kān", "hzTrad": "Soportar", "hzHsk": 6 },
+    { "hzId": "堕", "hzPinyin": "duò", "hzTrad": "Caer", "hzHsk": 6 },
+    { "hzId": "坑", "hzPinyin": "kēng", "hzTrad": "Foso", "hzHsk": 6 },
+    { "hzId": "堤", "hzPinyin": "dī", "hzTrad": "Dique", "hzHsk": 6 },
+    { "hzId": "墨", "hzPinyin": "mò", "hzTrad": "Tinta", "hzHsk": 6 },
+    { "hzId": "坛", "hzPinyin": "tán", "hzTrad": "Altar", "hzHsk": 6 },
+    { "hzId": "坝", "hzPinyin": "bà", "hzTrad": "Presa", "hzHsk": 6 },
+    { "hzId": "坟", "hzPinyin": "fén", "hzTrad": "Tumba", "hzHsk": 6 },
+    { "hzId": "塞", "hzPinyin": "sāi", "hzTrad": "Tapar", "hzHsk": 6 },
+    { "hzId": "墓", "hzPinyin": "mù", "hzTrad": "Sepultura", "hzHsk": 6 },
+    { "hzId": "堂", "hzPinyin": "táng", "hzTrad": "Sala", "hzHsk": 6 },
+    { "hzId": "埋", "hzPinyin": "mái", "hzTrad": "Enterrar", "hzHsk": 6 },
+    { "hzId": "塌", "hzPinyin": "tā", "hzTrad": "Derrumbarse", "hzHsk": 6 },
+    { "hzId": "坡", "hzPinyin": "pō", "hzTrad": "Pendiente", "hzHsk": 6 },
+    { "hzId": "壤", "hzPinyin": "rǎng", "hzTrad": "Suelo", "hzHsk": 6 },
+    { "hzId": "塘", "hzPinyin": "táng", "hzTrad": "Estanque", "hzHsk": 6 },
+    { "hzId": "圣", "hzPinyin": "shèng", "hzTrad": "Santo", "hzHsk": 6 },
+    { "hzId": "墟", "hzPinyin": "xū", "hzTrad": "Ruinas", "hzHsk": 6 },
+    { "hzId": "堡", "hzPinyin": "bǎo", "hzTrad": "Castillo", "hzHsk": 6 },
+    { "hzId": "垫", "hzPinyin": "diàn", "hzTrad": "Almohadilla", "hzHsk": 6 },
+    { "hzId": "墅", "hzPinyin": "shù", "hzTrad": "Chalet", "hzHsk": 6 }
+  ]
+},
+  "士": {
+  "hzPron": "shì",
+  "hzTrazos": 3,
+  "hzSignificado": "Erudito",
+  "datos": [
+    { "hzId": "声", "hzPinyin": "shēng", "hzTrad": "Sonido", "hzHsk": 3 },
+    { "hzId": "士", "hzPinyin": "shì", "hzTrad": "Erudito", "hzHsk": 4 },
+    { "hzId": "壶", "hzPinyin": "hú", "hzTrad": "Tetera", "hzHsk": 5 },
+    { "hzId": "壮", "hzPinyin": "zhuàng", "hzTrad": "Fuerte", "hzHsk": 6 },
+    { "hzId": "壳", "hzPinyin": "ké", "hzTrad": "Cáscara", "hzHsk": 6 }
+  ]
+},
+  "夂": {
+  "hzPron": "zhǐ",
+  "hzTrazos": 3,
+  "hzSignificado": "Caminar despacio",
+  "datos": [
+    { "hzId": "备", "hzPinyin": "bèi", "hzTrad": "Preparar", "hzHsk": 2 },
+    { "hzId": "夏", "hzPinyin": "xià", "hzTrad": "Verano", "hzHsk": 3 },
+    { "hzId": "复", "hzPinyin": "fù", "hzTrad": "Repetir", "hzHsk": 3 },
+    { "hzId": "处", "hzPinyin": "chù", "hzTrad": "Lugar", "hzHsk": 4 }
+  ]
+},
+  "夊": {
+  "hzPron": "suī",
+  "hzTrazos": 3,
+  "hzSignificado": "Caminar despacio",
+  "datos": []
+},
+  "夕": {
+  "hzPron": "xī",
+  "hzTrazos": 3,
+  "hzSignificado": "Atardecer",
+  "datos": [
+    { "hzId": "多", "hzPinyin": "duō", "hzTrad": "Mucho", "hzHsk": 1 },
+    { "hzId": "外", "hzPinyin": "wài", "hzTrad": "Exterior", "hzHsk": 2 },
+    { "hzId": "够", "hzPinyin": "gòu", "hzTrad": "Suficiente", "hzHsk": 4 },
+    { "hzId": "夕", "hzPinyin": "xī", "hzTrad": "Atardecer", "hzHsk": 5 },
+    { "hzId": "夜", "hzPinyin": "yè", "hzTrad": "Noche", "hzHsk": 5 }
+  ]
 }
 }
