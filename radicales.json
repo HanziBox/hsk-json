@@ -54,5 +54,43 @@
     { "hzId": "丽", "hzPinyin": "lì", "hzTrad": "Hermoso", "hzHsk": 4 },
     { "hzId": "丸", "hzPinyin": "wán", "hzTrad": "Pastilla", "hzHsk": 6 }
   ]
+},
+  "丿": {
+  "hzPron": "piě",
+  "hzTrazos": 1,
+  "hzSignificado": "Línea diagonal hacia la izquierda",
+  "datos": [
+    { "hzId": "么", "hzPinyin": "me", "hzTrad": "Sufijo interrogativo", "hzHsk": 1 },
+    { "hzId": "乐", "hzPinyin": "lè", "hzTrad": "Feliz", "hzHsk": 2 },
+    { "hzId": "久", "hzPinyin": "jiǔ", "hzTrad": "Mucho tiempo", "hzHsk": 3 },
+    { "hzId": "乎", "hzPinyin": "hū", "hzTrad": "Partícula gramatical", "hzHsk": 3 },
+    { "hzId": "乒", "hzPinyin": "pīng", "hzTrad": "Ping", "hzHsk": 4 },
+    { "hzId": "之", "hzPinyin": "zhī", "hzTrad": "De", "hzHsk": 4 },
+    { "hzId": "乘", "hzPinyin": "chéng", "hzTrad": "Viajar en", "hzHsk": 4 },
+    { "hzId": "乓", "hzPinyin": "pāng", "hzTrad": "Pong", "hzHsk": 4 },
+    { "hzId": "义", "hzPinyin": "yì", "hzTrad": "Significado", "hzHsk": 5 },
+    { "hzId": "乖", "hzPinyin": "guāi", "hzTrad": "Bueno", "hzHsk": 5 },
+    { "hzId": "乏", "hzPinyin": "fá", "hzTrad": "Faltar", "hzHsk": 5 },
+    { "hzId": "乌", "hzPinyin": "wū", "hzTrad": "Cuervo", "hzHsk": 6 }
+  ]
+},
+  "丿": {
+  "hzPron": "piě",
+  "hzTrazos": 1,
+  "hzSignificado": "Diagonal izq.",
+  "datos": [
+    { "hzId": "么", "hzPinyin": "me", "hzTrad": "Sufijo interrogativo", "hzHsk": 1 },
+    { "hzId": "乐", "hzPinyin": "lè", "hzTrad": "Feliz", "hzHsk": 2 },
+    { "hzId": "久", "hzPinyin": "jiǔ", "hzTrad": "Mucho tiempo", "hzHsk": 3 },
+    { "hzId": "乎", "hzPinyin": "hū", "hzTrad": "Partícula gramatical", "hzHsk": 3 },
+    { "hzId": "乒", "hzPinyin": "pīng", "hzTrad": "Ping", "hzHsk": 4 },
+    { "hzId": "之", "hzPinyin": "zhī", "hzTrad": "De", "hzHsk": 4 },
+    { "hzId": "乘", "hzPinyin": "chéng", "hzTrad": "Viajar en", "hzHsk": 4 },
+    { "hzId": "乓", "hzPinyin": "pāng", "hzTrad": "Pong", "hzHsk": 4 },
+    { "hzId": "义", "hzPinyin": "yì", "hzTrad": "Significado", "hzHsk": 5 },
+    { "hzId": "乖", "hzPinyin": "guāi", "hzTrad": "Bueno", "hzHsk": 5 },
+    { "hzId": "乏", "hzPinyin": "fá", "hzTrad": "Faltar", "hzHsk": 5 },
+    { "hzId": "乌", "hzPinyin": "wū", "hzTrad": "Cuervo", "hzHsk": 6 }
+  ]
 }
 }
