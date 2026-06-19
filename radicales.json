@@ -527,7 +527,7 @@
   "hzSignificado": "Adivinación",
   "datos": [
     { "hzId": "卡", "hzPinyin": "kǎ", "hzTrad": "Tarjeta", "hzHsk": 4 },
-    { "hzId": "卧", "hzPinyin": "wò", "hzTrad": "Acomodarse / Acostarse", "hzHsk": 5 },
+    { "hzId": "卧", "hzPinyin": "wò", "hzTrad": "Acomodarse", "hzHsk": 5 },
     { "hzId": "占", "hzPinyin": "zhàn", "hzTrad": "Ocupar", "hzHsk": 5 }
   ]
 },
@@ -550,7 +550,7 @@
   "hzTrazos": 2,
   "hzSignificado": "Acantilado",
   "datos": [
-    { "hzId": "历", "hzPinyin": "lì", "hzTrad": "Pasar por / Historia", "hzHsk": 3 },
+    { "hzId": "历", "hzPinyin": "lì", "hzTrad": "Pasar por", "hzHsk": 3 },
     { "hzId": "厨", "hzPinyin": "chú", "hzTrad": "Cocina", "hzHsk": 3 },
     { "hzId": "厚", "hzPinyin": "hòu", "hzTrad": "Grueso", "hzHsk": 4 },
     { "hzId": "厉", "hzPinyin": "lì", "hzTrad": "Severo", "hzHsk": 4 },
@@ -558,11 +558,42 @@
     { "hzId": "压", "hzPinyin": "yā", "hzTrad": "Presionar", "hzHsk": 4 },
     { "hzId": "厌", "hzPinyin": "yàn", "hzTrad": "Detestar", "hzHsk": 4 },
     { "hzId": "厂", "hzPinyin": "chǎng", "hzTrad": "Fábrica", "hzHsk": 5 },
-    { "hzId": "厘", "hzPinyin": "lí", "hzTrad": "Centímetro / Milésima", "hzHsk": 5 },
-    { "hzId": "厢", "hzPinyin": "xiāng", "hzTrad": "Vagón / Caja", "hzHsk": 5 },
+    { "hzId": "厘", "hzPinyin": "lí", "hzTrad": "Centímetro", "hzHsk": 5 },
+    { "hzId": "厢", "hzPinyin": "xiāng", "hzTrad": "Vagón", "hzHsk": 5 },
     { "hzId": "厕", "hzPinyin": "cè", "hzTrad": "Baño", "hzHsk": 5 },
     { "hzId": "厅", "hzPinyin": "tīng", "hzTrad": "Sala", "hzHsk": 5 },
-    { "hzId": "厦", "hzPinyin": "shà", "hzTrad": "Gran edificio", "hzHsk": 6 }
+    { "hzId": "厦", "hzPinyin": "shà", "hzTrad": "Gran edif.", "hzHsk": 6 }
+  ]
+},
+  "厶": {
+  "hzPron": "sī",
+  "hzTrazos": 2,
+  "hzSignificado": "Privado",
+  "datos": [
+    { "hzId": "去", "hzPinyin": "qù", "hzTrad": "Ir", "hzHsk": 1 },
+    { "hzId": "参", "hzPinyin": "cān", "hzTrad": "Participar", "hzHsk": 3 },
+    { "hzId": "县", "hzPinyin": "xiàn", "hzTrad": "Condado", "hzHsk": 5 }
+  ]
+},
+  "又": {
+  "hzPron": "yòu",
+  "hzTrazos": 2,
+  "hzSignificado": "Otra vez",
+  "datos": [
+    { "hzId": "友", "hzPinyin": "yǒu", "hzTrad": "Amigo", "hzHsk": 1 },
+    { "hzId": "变", "hzPinyin": "biàn", "hzTrad": "Cambiar", "hzHsk": 3 },
+    { "hzId": "发", "hzPinyin": "fā", "hzTrad": "Enviar", "hzHsk": 3 },
+    { "hzId": "叔", "hzPinyin": "shū", "hzTrad": "Tío", "hzHsk": 3 },
+    { "hzId": "双", "hzPinyin": "shuāng", "hzTrad": "Par", "hzHsk": 3 },
+    { "hzId": "又", "hzPinyin": "yòu", "hzTrad": "Otra vez", "hzHsk": 3 },
+    { "hzId": "受", "hzPinyin": "shòu", "hzTrad": "Recibir", "hzHsk": 4 },
+    { "hzId": "取", "hzPinyin": "qǔ", "hzTrad": "Tomar", "hzHsk": 4 },
+    { "hzId": "及", "hzPinyin": "jí", "hzTrad": "Alcanzar", "hzHsk": 4 },
+    { "hzId": "反", "hzPinyin": "fǎn", "hzTrad": "Oponerse", "hzHsk": 4 },
+    { "hzId": "叉", "hzPinyin": "chā", "hzTrad": "Tenedor", "hzHsk": 5 },
+    { "hzId": "叙", "hzPinyin": "xù", "hzTrad": "Narrar", "hzHsk": 5 },
+    { "hzId": "叛", "hzPinyin": "pàn", "hzTrad": "Traicionar", "hzHsk": 6 },
+    { "hzId": "叠", "hzPinyin": "dié", "hzTrad": "Doblar", "hzHsk": 6 }
   ]
 }
 }
