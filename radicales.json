@@ -433,5 +433,66 @@
     { "hzId": "剖", "hzPinyin": "pōu", "hzTrad": "Analizar", "hzHsk": 6 },
     { "hzId": "剂", "hzPinyin": "jì", "hzTrad": "Dosis", "hzHsk": 6 }
   ]
+},
+  "力": {
+  "hzPron": "lì",
+  "hzTrazos": 2,
+  "hzSignificado": "Fuerza",
+  "datos": [
+    { "hzId": "动", "hzPinyin": "dòng", "hzTrad": "Mover", "hzHsk": 2 },
+    { "hzId": "务", "hzPinyin": "wù", "hzTrad": "Asunto", "hzHsk": 2 },
+    { "hzId": "助", "hzPinyin": "zhù", "hzTrad": "Ayudar", "hzHsk": 2 },
+    { "hzId": "力", "hzPinyin": "lì", "hzTrad": "Fuerza", "hzHsk": 3 },
+    { "hzId": "加", "hzPinyin": "jiā", "hzTrad": "Añadir", "hzHsk": 3 },
+    { "hzId": "办", "hzPinyin": "bàn", "hzTrad": "Hacer", "hzHsk": 3 },
+    { "hzId": "努", "hzPinyin": "nǔ", "hzTrad": "Esforzarse", "hzHsk": 3 },
+    { "hzId": "功", "hzPinyin": "gōng", "hzTrad": "Mérito", "hzHsk": 4 },
+    { "hzId": "励", "hzPinyin": "lì", "hzTrad": "Animar", "hzHsk": 4 },
+    { "hzId": "勇", "hzPinyin": "yǒng", "hzTrad": "Valiente", "hzHsk": 4 },
+    { "hzId": "勤", "hzPinyin": "qín", "hzTrad": "Diligente", "hzHsk": 5 },
+    { "hzId": "劳", "hzPinyin": "láo", "hzTrad": "Trabajar", "hzHsk": 5 },
+    { "hzId": "劝", "hzPinyin": "quàn", "hzTrad": "Aconsejar", "hzHsk": 5 },
+    { "hzId": "劣", "hzPinyin": "liè", "hzTrad": "Inferior", "hzHsk": 5 },
+    { "hzId": "势", "hzPinyin": "shì", "hzTrad": "Poder", "hzHsk": 5 },
+    { "hzId": "劲", "hzPinyin": "jìn", "hzTrad": "Fuerza", "hzHsk": 5 },
+    { "hzId": "勉", "hzPinyin": "miǎn", "hzTrad": "Esforzarse", "hzHsk": 6 },
+    { "hzId": "勃", "hzPinyin": "bó", "hzTrad": "Vigoroso", "hzHsk": 6 },
+    { "hzId": "勘", "hzPinyin": "kān", "hzTrad": "Investigar", "hzHsk": 6 },
+    { "hzId": "劫", "hzPinyin": "jié", "hzTrad": "Robar", "hzHsk": 6 }
+  ]
+},
+  "勹": {
+  "hzPron": "bāo",
+  "hzTrazos": 2,
+  "hzSignificado": "Envolver",
+  "datos": [
+    { "hzId": "包", "hzPinyin": "bāo", "hzTrad": "Envolver", "hzHsk": 3 },
+    { "hzId": "勺", "hzPinyin": "sháo", "hzTrad": "Cuchara", "hzHsk": 5 },
+    { "hzId": "匆", "hzPinyin": "cōng", "hzTrad": "Prisa", "hzHsk": 5 },
+    { "hzId": "匀", "hzPinyin": "yún", "hzTrad": "Uniforme", "hzHsk": 5 },
+    { "hzId": "勿", "hzPinyin": "wù", "hzTrad": "No", "hzHsk": 6 },
+    { "hzId": "勾", "hzPinyin": "gōu", "hzTrad": "Tachar", "hzHsk": 6 }
+  ]
+},
+  "匕": {
+  "hzPron": "bǐ",
+  "hzTrazos": 2,
+  "hzSignificado": "Cucharón",
+  "datos": [
+    { "hzId": "北", "hzPinyin": "běi", "hzTrad": "Norte", "hzHsk": 1 },
+    { "hzId": "化", "hzPinyin": "huà", "hzTrad": "Transformar", "hzHsk": 3 },
+    { "hzId": "匙", "hzPinyin": "chí", "hzTrad": "Cuchara", "hzHsk": 4 }
+  ]
+},
+  "匚": {
+  "hzPron": "fāng",
+  "hzTrazos": 2,
+  "hzSignificado": "Caja abierta a la derecha",
+  "datos": [
+    { "hzId": "医", "hzPinyin": "yī", "hzTrad": "Medicina", "hzHsk": 1 },
+    { "hzId": "区", "hzPinyin": "qū", "hzTrad": "Región", "hzHsk": 4 },
+    { "hzId": "匹", "hzPinyin": "pǐ", "hzTrad": "Clasif. caballos", "hzHsk": 5 },
+    { "hzId": "匪", "hzPinyin": "fěi", "hzTrad": "Bandido", "hzHsk": 6 }
+  ]
 }
 }
