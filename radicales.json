@@ -494,5 +494,75 @@
     { "hzId": "匹", "hzPinyin": "pǐ", "hzTrad": "Clasif. caballos", "hzHsk": 5 },
     { "hzId": "匪", "hzPinyin": "fěi", "hzTrad": "Bandido", "hzHsk": 6 }
   ]
+},
+  "匸": {
+  "hzPron": "xì",
+  "hzTrazos": 2,
+  "hzSignificado": "Esconder",
+  "datos": []
+},
+  "十": {
+  "hzPron": "shí",
+  "hzTrazos": 2,
+  "hzSignificado": "Diez",
+  "datos": [
+    { "hzId": "十", "hzPinyin": "shí", "hzTrad": "Diez", "hzHsk": 1 },
+    { "hzId": "午", "hzPinyin": "wǔ", "hzTrad": "Mediodía", "hzHsk": 1 },
+    { "hzId": "卖", "hzPinyin": "mài", "hzTrad": "Vender", "hzHsk": 2 },
+    { "hzId": "千", "hzPinyin": "qiān", "hzTrad": "Mil", "hzHsk": 2 },
+    { "hzId": "半", "hzPinyin": "bàn", "hzTrad": "Mitad", "hzHsk": 3 },
+    { "hzId": "单", "hzPinyin": "dān", "hzTrad": "Individual", "hzHsk": 3 },
+    { "hzId": "南", "hzPinyin": "nán", "hzTrad": "Sur", "hzHsk": 3 },
+    { "hzId": "博", "hzPinyin": "bó", "hzTrad": "Amplio", "hzHsk": 4 },
+    { "hzId": "升", "hzPinyin": "shēng", "hzTrad": "Subir", "hzHsk": 5 },
+    { "hzId": "华", "hzPinyin": "huá", "hzTrad": "Espléndido", "hzHsk": 5 },
+    { "hzId": "协", "hzPinyin": "xié", "hzTrad": "Cooperar", "hzHsk": 5 },
+    { "hzId": "卓", "hzPinyin": "zhuó", "hzTrad": "Eminente", "hzHsk": 6 },
+    { "hzId": "卑", "hzPinyin": "bēi", "hzTrad": "Bajo", "hzHsk": 6 }
+  ]
+},
+  "卜": {
+  "hzPron": "bǔ",
+  "hzTrazos": 2,
+  "hzSignificado": "Adivinación",
+  "datos": [
+    { "hzId": "卡", "hzPinyin": "kǎ", "hzTrad": "Tarjeta", "hzHsk": 4 },
+    { "hzId": "卧", "hzPinyin": "wò", "hzTrad": "Acomodarse / Acostarse", "hzHsk": 5 },
+    { "hzId": "占", "hzPinyin": "zhàn", "hzTrad": "Ocupar", "hzHsk": 5 }
+  ]
+},
+  "卩": {
+  "hzPron": "jié",
+  "hzTrazos": 2,
+  "hzSignificado": "Sello",
+  "datos": [
+    { "hzId": "危", "hzPinyin": "wēi", "hzTrad": "Peligro", "hzHsk": 4 },
+    { "hzId": "即", "hzPinyin": "jí", "hzTrad": "Inmediato", "hzHsk": 4 },
+    { "hzId": "印", "hzPinyin": "yìn", "hzTrad": "Imprimir", "hzHsk": 4 },
+    { "hzId": "却", "hzPinyin": "què", "hzTrad": "Sin embargo", "hzHsk": 4 },
+    { "hzId": "卷", "hzPinyin": "juǎn", "hzTrad": "Enrollar", "hzHsk": 5 },
+    { "hzId": "卫", "hzPinyin": "wèi", "hzTrad": "Defender", "hzHsk": 5 },
+    { "hzId": "卸", "hzPinyin": "xiè", "hzTrad": "Descargar", "hzHsk": 6 }
+  ]
+},
+  "厂": {
+  "hzPron": "chǎng",
+  "hzTrazos": 2,
+  "hzSignificado": "Acantilado",
+  "datos": [
+    { "hzId": "历", "hzPinyin": "lì", "hzTrad": "Pasar por / Historia", "hzHsk": 3 },
+    { "hzId": "厨", "hzPinyin": "chú", "hzTrad": "Cocina", "hzHsk": 3 },
+    { "hzId": "厚", "hzPinyin": "hòu", "hzTrad": "Grueso", "hzHsk": 4 },
+    { "hzId": "厉", "hzPinyin": "lì", "hzTrad": "Severo", "hzHsk": 4 },
+    { "hzId": "原", "hzPinyin": "yuán", "hzTrad": "Original", "hzHsk": 4 },
+    { "hzId": "压", "hzPinyin": "yā", "hzTrad": "Presionar", "hzHsk": 4 },
+    { "hzId": "厌", "hzPinyin": "yàn", "hzTrad": "Detestar", "hzHsk": 4 },
+    { "hzId": "厂", "hzPinyin": "chǎng", "hzTrad": "Fábrica", "hzHsk": 5 },
+    { "hzId": "厘", "hzPinyin": "lí", "hzTrad": "Centímetro / Milésima", "hzHsk": 5 },
+    { "hzId": "厢", "hzPinyin": "xiāng", "hzTrad": "Vagón / Caja", "hzHsk": 5 },
+    { "hzId": "厕", "hzPinyin": "cè", "hzTrad": "Baño", "hzHsk": 5 },
+    { "hzId": "厅", "hzPinyin": "tīng", "hzTrad": "Sala", "hzHsk": 5 },
+    { "hzId": "厦", "hzPinyin": "shà", "hzTrad": "Gran edificio", "hzHsk": 6 }
+  ]
 }
 }
