@@ -273,5 +273,27 @@
     { "hzId": "伯", "hzPinyin": "bó", "hzTrad": "Tío", "hzHsk": 6 },
     { "hzId": "侧", "hzPinyin": "cè", "hzTrad": "Lado", "hzHsk": 6 }
   ]
+},
+  "儿": {
+  "hzPron": "ér",
+  "hzTrazos": 2,
+  "hzSignificado": "Hijo",
+  "datos": [
+    { "hzId": "儿", "hzPinyin": "ér", "hzTrad": "Hijo", "hzHsk": 1 },
+    { "hzId": "先", "hzPinyin": "xiān", "hzTrad": "Primero", "hzHsk": 1 },
+    { "hzId": "元", "hzPinyin": "yuán", "hzTrad": "Yuan", "hzHsk": 2 },
+    { "hzId": "允", "hzPinyin": "yǔn", "hzTrad": "Permitir", "hzHsk": 4 },
+    { "hzId": "克", "hzPinyin": "kè", "hzTrad": "Gramo", "hzHsk": 4 },
+    { "hzId": "光", "hzPinyin": "guāng", "hzTrad": "Luz", "hzHsk": 4 },
+    { "hzId": "免", "hzPinyin": "miǎn", "hzTrad": "Eximir", "hzHsk": 4 },
+    { "hzId": "兔", "hzPinyin": "tù", "hzTrad": "Conejo", "hzHsk": 5 },
+    { "hzId": "充", "hzPinyin": "chōng", "hzTrad": "Llenar", "hzHsk": 5 },
+    { "hzId": "兄", "hzPinyin": "xiōng", "hzTrad": "Hermano mayor", "hzHsk": 5 },
+    { "hzId": "兑", "hzPinyin": "duì", "hzTrad": "Canjear", "hzHsk": 6 },
+    { "hzId": "兜", "hzPinyin": "dōu", "hzTrad": "Bolsillo", "hzHsk": 6 },
+    { "hzId": "党", "hzPinyin": "dǎng", "hzTrad": "Partido", "hzHsk": 6 },
+    { "hzId": "兢", "hzPinyin": "jīng", "hzTrad": "Cauteloso", "hzHsk": 6 },
+    { "hzId": "兆", "hzPinyin": "zhào", "hzTrad": "Millón", "hzHsk": 6 }
+  ]
 }
 }
