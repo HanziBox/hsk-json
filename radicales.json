@@ -2279,5 +2279,53 @@
     { "hzId": "猛", "hzPinyin": "měng", "hzTrad": "Feroz", "hzHsk": 6 },
     { "hzId": "狈", "hzPinyin": "bèi", "hzTrad": "Lobo legendario", "hzHsk": 6 }
   ]
+},
+  "玄": {
+  "hzPron": "xuán",
+  "hzTrazos": 5,
+  "hzSignificado": "Profundo",
+  "datos": [
+    { "hzId": "率", "hzPinyin": "lǜ", "hzTrad": "Proporción", "hzHsk": 5 }
+  ]
+},
+  "玉-王": {
+  "hzPron": "yù",
+  "hzTrazos": 5,
+  "hzSignificado": "Jade",
+  "datos": [
+    { "hzId": "现", "hzPinyin": "xiàn", "hzTrad": "Ahora", "hzHsk": 1 },
+    { "hzId": "班", "hzPinyin": "bān", "hzTrad": "Clase", "hzHsk": 2 },
+    { "hzId": "球", "hzPinyin": "qiú", "hzTrad": "Pelota", "hzHsk": 2 },
+    { "hzId": "玩", "hzPinyin": "wán", "hzTrad": "Jugar", "hzHsk": 2 },
+    { "hzId": "理", "hzPinyin": "lǐ", "hzTrad": "Lógica", "hzHsk": 3 },
+    { "hzId": "环", "hzPinyin": "huán", "hzTrad": "Anillo", "hzHsk": 3 },
+    { "hzId": "琴", "hzPinyin": "qín", "hzTrad": "Inst. cuerda", "hzHsk": 4 },
+    { "hzId": "璃", "hzPinyin": "lí", "hzTrad": "Vidrio", "hzHsk": 5 },
+    { "hzId": "玻", "hzPinyin": "bō", "hzTrad": "Cristal", "hzHsk": 5 },
+    { "hzId": "玉", "hzPinyin": "yù", "hzTrad": "Jade", "hzHsk": 5 },
+    { "hzId": "珍", "hzPinyin": "zhēn", "hzTrad": "Valioso", "hzHsk": 5 },
+    { "hzId": "王", "hzPinyin": "wáng", "hzTrad": "Rey", "hzHsk": 5 },
+    { "hzId": "琢", "hzPinyin": "zhuó", "hzTrad": "Tallar jade", "hzHsk": 6 },
+    { "hzId": "珠", "hzPinyin": "zhū", "hzTrad": "Perla", "hzHsk": 6 }
+  ]
+},
+  "瓜": {
+  "hzPron": "guā",
+  "hzTrazos": 5,
+  "hzSignificado": "Melón",
+  "datos": [
+    { "hzId": "瓜", "hzPinyin": "guā", "hzTrad": "Melón", "hzHsk": 2 },
+    { "hzId": "瓣", "hzPinyin": "bàn", "hzTrad": "Pétalo/gajo", "hzHsk": 6 }
+  ]
+},
+  "瓦": {
+  "hzPron": "wǎ",
+  "hzTrazos": 4,
+  "hzSignificado": "Teja",
+  "datos": [
+    { "hzId": "瓶", "hzPinyin": "píng", "hzTrad": "Botella", "hzHsk": 4 },
+    { "hzId": "瓦", "hzPinyin": "wǎ", "hzTrad": "Teja", "hzHsk": 6 },
+    { "hzId": "瓷", "hzPinyin": "cí", "hzTrad": "Porcelana", "hzHsk": 6 }
+  ]
 }
 }
