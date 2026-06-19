@@ -108,5 +108,16 @@
     { "hzId": "乳", "hzPinyin": "rǔ", "hzTrad": "Leche", "hzHsk": 6 },
     { "hzId": "乞", "hzPinyin": "qǐ", "hzTrad": "Mendigar", "hzHsk": 6 }
   ]
+},
+  "亅": {
+  "hzPron": "jué",
+  "hzTrazos": 1,
+  "hzSignificado": "Gancho",
+  "datos": [
+    { "hzId": "了", "hzPinyin": "le", "hzTrad": "Partícula gramatical", "hzHsk": 1 },
+    { "hzId": "事", "hzPinyin": "shì", "hzTrad": "Asunto", "hzHsk": 2 },
+    { "hzId": "争", "hzPinyin": "zhēng", "hzTrad": "Disputar", "hzHsk": 4 },
+    { "hzId": "予", "hzPinyin": "yǔ", "hzTrad": "Conceder", "hzHsk": 6 }
+  ]
 }
 }
