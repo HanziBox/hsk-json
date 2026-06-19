@@ -304,5 +304,134 @@
     { "hzId": "入", "hzPinyin": "rù", "hzTrad": "Entrar", "hzHsk": 4 },
     { "hzId": "全", "hzPinyin": "quán", "hzTrad": "Todo", "hzHsk": 4 }
   ]
+},
+  "八": {
+  "hzPron": "bā",
+  "hzTrazos": 2,
+  "hzSignificado": "Ocho",
+  "datos": [
+    { "hzId": "兴", "hzPinyin": "xìng", "hzTrad": "Interés", "hzHsk": 1 },
+    { "hzId": "关", "hzPinyin": "guān", "hzTrad": "Cerrar", "hzHsk": 1 },
+    { "hzId": "六", "hzPinyin": "liù", "hzTrad": "Seis", "hzHsk": 1 },
+    { "hzId": "八", "hzPinyin": "bā", "hzTrad": "Ocho", "hzHsk": 1 },
+    { "hzId": "共", "hzPinyin": "gòng", "hzTrad": "Compartir", "hzHsk": 2 },
+    { "hzId": "公", "hzPinyin": "gōng", "hzTrad": "Público", "hzHsk": 2 },
+    { "hzId": "典", "hzPinyin": "diǎn", "hzTrad": "Clásico", "hzHsk": 3 },
+    { "hzId": "其", "hzPinyin": "qí", "hzTrad": "Su", "hzHsk": 3 },
+    { "hzId": "具", "hzPinyin": "jù", "hzTrad": "Herramienta", "hzHsk": 4 },
+    { "hzId": "养", "hzPinyin": "yǎng", "hzTrad": "Criar", "hzHsk": 4 },
+    { "hzId": "兵", "hzPinyin": "bīng", "hzTrad": "Soldado", "hzHsk": 5 },
+    { "hzId": "兼", "hzPinyin": "jiān", "hzTrad": "Simultáneamente", "hzHsk": 6 },
+    { "hzId": "兽", "hzPinyin": "shòu", "hzTrad": "Bestia", "hzHsk": 6 }
+  ]
+},
+  "冂": {
+  "hzPron": "jiōng",
+  "hzTrazos": 2,
+  "hzSignificado": "Caja abajo",
+  "datos": [
+    { "hzId": "再", "hzPinyin": "zài", "hzTrad": "Otra vez", "hzHsk": 1 },
+    { "hzId": "冒", "hzPinyin": "mào", "hzTrad": "Arriesgar", "hzHsk": 3 },
+    { "hzId": "内", "hzPinyin": "nèi", "hzTrad": "Dentro", "hzHsk": 4 },
+    { "hzId": "册", "hzPinyin": "cè", "hzTrad": "Tomo", "hzHsk": 5 }
+  ]
+},
+  "冖": {
+  "hzPron": "mì",
+  "hzTrazos": 2,
+  "hzSignificado": "Cubierta",
+  "datos": [
+    { "hzId": "写", "hzPinyin": "xiě", "hzTrad": "Escribir", "hzHsk": 1 },
+    { "hzId": "农", "hzPinyin": "nóng", "hzTrad": "Agricultura", "hzHsk": 4 },
+    { "hzId": "军", "hzPinyin": "jūn", "hzTrad": "Ejército", "hzHsk": 5 },
+    { "hzId": "冠", "hzPinyin": "guān", "hzTrad": "Corona", "hzHsk": 5 },
+    { "hzId": "冤", "hzPinyin": "yuān", "hzTrad": "Injusticia", "hzHsk": 6 }
+  ]
+},
+  "冫": {
+  "hzPron": "bīng",
+  "hzTrazos": 2,
+  "hzSignificado": "Hielo",
+  "datos": [
+    { "hzId": "冷", "hzPinyin": "lěng", "hzTrad": "Frío", "hzHsk": 1 },
+    { "hzId": "准", "hzPinyin": "zhǔn", "hzTrad": "Permitir", "hzHsk": 2 },
+    { "hzId": "冬", "hzPinyin": "dōng", "hzTrad": "Invierno", "hzHsk": 3 },
+    { "hzId": "决", "hzPinyin": "jué", "hzTrad": "Decidir", "hzHsk": 3 },
+    { "hzId": "冰", "hzPinyin": "bīng", "hzTrad": "Hielo", "hzHsk": 3 },
+    { "hzId": "净", "hzPinyin": "jìng", "hzTrad": "Limpio", "hzHsk": 3 },
+    { "hzId": "凉", "hzPinyin": "liáng", "hzTrad": "Fresco", "hzHsk": 4 },
+    { "hzId": "减", "hzPinyin": "jiǎn", "hzTrad": "Restar", "hzHsk": 4 },
+    { "hzId": "况", "hzPinyin": "kuàng", "hzTrad": "Situación", "hzHsk": 4 },
+    { "hzId": "冻", "hzPinyin": "dòng", "hzTrad": "Congelar", "hzHsk": 5 },
+    { "hzId": "冲", "hzPinyin": "chōng", "hzTrad": "Enjuagar", "hzHsk": 5 },
+    { "hzId": "凌", "hzPinyin": "líng", "hzTrad": "Insultar", "hzHsk": 6 },
+    { "hzId": "凝", "hzPinyin": "níng", "hzTrad": "Coagular", "hzHsk": 6 },
+    { "hzId": "凄", "hzPinyin": "qī", "hzTrad": "Desolado", "hzHsk": 6 },
+    { "hzId": "凑", "hzPinyin": "còu", "hzTrad": "Reunir", "hzHsk": 6 }
+  ]
+},
+  "几": {
+  "hzPron": "jǐ",
+  "hzTrazos": 2,
+  "hzSignificado": "Mesita",
+  "datos": [
+    { "hzId": "几", "hzPinyin": "jǐ", "hzTrad": "Cuántos", "hzHsk": 1 },
+    { "hzId": "凡", "hzPinyin": "fán", "hzTrad": "Ordinario", "hzHsk": 5 },
+    { "hzId": "凭", "hzPinyin": "píng", "hzTrad": "Apoyarse", "hzHsk": 5 }
+  ]
+},
+  "凵": {
+  "hzPron": "qiǎn",
+  "hzTrazos": 2,
+  "hzSignificado": "Caja arriba",
+  "datos": [
+    { "hzId": "出", "hzPinyin": "chū", "hzTrad": "Salir", "hzHsk": 1 },
+    { "hzId": "击", "hzPinyin": "jī", "hzTrad": "Golpear", "hzHsk": 5 },
+    { "hzId": "凹", "hzPinyin": "āo", "hzTrad": "Cóncavo", "hzHsk": 6 },
+    { "hzId": "凶", "hzPinyin": "xiōng", "hzTrad": "Feroz", "hzHsk": 6 },
+    { "hzId": "凸", "hzPinyin": "tū", "hzTrad": "Convexo", "hzHsk": 6 }
+  ]
+},
+  "刀-刂": {
+  "hzPron": "dāo",
+  "hzTrazos": 2,
+  "hzSignificado": "Cuchillo",
+  "datos": [
+    { "hzId": "分", "hzPinyin": "fēn", "hzTrad": "Minuto", "hzHsk": 1 },
+    { "hzId": "前", "hzPinyin": "qián", "hzTrad": "Adelante", "hzHsk": 1 },
+    { "hzId": "别", "hzPinyin": "bié", "hzTrad": "Diferente", "hzHsk": 2 },
+    { "hzId": "到", "hzPinyin": "dào", "hzTrad": "Llegar", "hzHsk": 2 },
+    { "hzId": "刷", "hzPinyin": "shuā", "hzTrad": "Cepillar", "hzHsk": 3 },
+    { "hzId": "刻", "hzPinyin": "kè", "hzTrad": "Grabar", "hzHsk": 3 },
+    { "hzId": "刮", "hzPinyin": "guā", "hzTrad": "Soplar", "hzHsk": 3 },
+    { "hzId": "刚", "hzPinyin": "gāng", "hzTrad": "Apenas", "hzHsk": 3 },
+    { "hzId": "划", "hzPinyin": "huá", "hzTrad": "Remar", "hzHsk": 4 },
+    { "hzId": "制", "hzPinyin": "zhì", "hzTrad": "Fabricar", "hzHsk": 4 },
+    { "hzId": "剩", "hzPinyin": "shèng", "hzTrad": "Sobrar", "hzHsk": 4 },
+    { "hzId": "剧", "hzPinyin": "jù", "hzTrad": "Teatro", "hzHsk": 4 },
+    { "hzId": "则", "hzPinyin": "zé", "hzTrad": "Norma", "hzHsk": 4 },
+    { "hzId": "利", "hzPinyin": "lì", "hzTrad": "Beneficio", "hzHsk": 4 },
+    { "hzId": "判", "hzPinyin": "pàn", "hzTrad": "Juzgar", "hzHsk": 4 },
+    { "hzId": "列", "hzPinyin": "liè", "hzTrad": "Fila", "hzHsk": 4 },
+    { "hzId": "切", "hzPinyin": "qiē", "hzTrad": "Cortar", "hzHsk": 4 },
+    { "hzId": "刀", "hzPinyin": "dāo", "hzTrad": "Cuchillo", "hzHsk": 4 },
+    { "hzId": "刺", "hzPinyin": "cì", "hzTrad": "Espina", "hzHsk": 5 },
+    { "hzId": "创", "hzPinyin": "chuàng", "hzTrad": "Crear", "hzHsk": 5 },
+    { "hzId": "删", "hzPinyin": "shān", "hzTrad": "Eliminar", "hzHsk": 5 },
+    { "hzId": "剪", "hzPinyin": "jiǎn", "hzTrad": "Tijeras", "hzHsk": 5 },
+    { "hzId": "初", "hzPinyin": "chū", "hzTrad": "Principio", "hzHsk": 5 },
+    { "hzId": "削", "hzPinyin": "xuē", "hzTrad": "Pelar", "hzHsk": 6 },
+    { "hzId": "刊", "hzPinyin": "kān", "hzTrad": "Publicación", "hzHsk": 6 },
+    { "hzId": "剥", "hzPinyin": "bō", "hzTrad": "Pelar", "hzHsk": 6 },
+    { "hzId": "劈", "hzPinyin": "pī", "hzTrad": "Partir", "hzHsk": 6 },
+    { "hzId": "割", "hzPinyin": "gē", "hzTrad": "Cortar", "hzHsk": 6 },
+    { "hzId": "券", "hzPinyin": "quàn", "hzTrad": "Cupón", "hzHsk": 6 },
+    { "hzId": "副", "hzPinyin": "fù", "hzTrad": "Secundario", "hzHsk": 6 },
+    { "hzId": "刹", "hzPinyin": "shā", "hzTrad": "Frenar", "hzHsk": 6 },
+    { "hzId": "剔", "hzPinyin": "tī", "hzTrad": "Eliminar", "hzHsk": 6 },
+    { "hzId": "刑", "hzPinyin": "xíng", "hzTrad": "Castigo", "hzHsk": 6 },
+    { "hzId": "剖", "hzPinyin": "pōu", "hzTrad": "Analizar", "hzHsk": 6 },
+    { "hzId": "剂", "hzPinyin": "jì", "hzTrad": "Dosis", "hzHsk": 6 }
+  ]
 }
 }
