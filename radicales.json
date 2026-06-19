@@ -30,5 +30,17 @@
       { "hzId": "丛", "hzPinyin": "cóng", "hzTrad": "Matorral", "hzHsk": 6 },
       { "hzId": "丐", "hzPinyin": "gài", "hzTrad": "Mendigar", "hzHsk": 6 }
     ]
-  }
+  },
+  "丨": {
+  "hzPron": "gǔn",
+  "hzTrazos": 1,
+  "hzSignificado": "Línea vert.",
+  "datos": [
+    { "hzId": "个", "hzPinyin": "gè", "hzTrad": "Clasificador", "hzHsk": 1 },
+    { "hzId": "中", "hzPinyin": "zhōng", "hzTrad": "Centro", "hzHsk": 1 },
+    { "hzId": "丰", "hzPinyin": "fēng", "hzTrad": "Abundante", "hzHsk": 4 },
+    { "hzId": "临", "hzPinyin": "lín", "hzTrad": "Estar cerca", "hzHsk": 5 },
+    { "hzId": "串", "hzPinyin": "chuàn", "hzTrad": "Sarta", "hzHsk": 6 }
+  ]
+}
 }
