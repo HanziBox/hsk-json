@@ -2238,7 +2238,7 @@
   "牛-牜": {
   "hzPron": "niú",
   "hzTrazos": 4,
-  "hzSignificado": "Vaca o toro",
+  "hzSignificado": "Vaca",
   "datos": [
     { "hzId": "牛", "hzPinyin": "niú", "hzTrad": "Vaca", "hzHsk": 2 },
     { "hzId": "特", "hzPinyin": "tè", "hzTrad": "Especial", "hzHsk": 3 },
@@ -2248,6 +2248,36 @@
     { "hzId": "牧", "hzPinyin": "mù", "hzTrad": "Pastorear", "hzHsk": 6 },
     { "hzId": "牲", "hzPinyin": "shēng", "hzTrad": "Ganado", "hzHsk": 6 },
     { "hzId": "牢", "hzPinyin": "láo", "hzTrad": "Firme", "hzHsk": 6 }
+  ]
+},
+  "犭-犬": {
+  "hzPron": "quǎn",
+  "hzTrazos": 4,
+  "hzSignificado": "Perro",
+  "datos": [
+    { "hzId": "狗", "hzPinyin": "gǒu", "hzTrad": "Perro", "hzHsk": 1 },
+    { "hzId": "猫", "hzPinyin": "māo", "hzTrad": "Gato", "hzHsk": 1 },
+    { "hzId": "猪", "hzPinyin": "zhū", "hzTrad": "Cerdo", "hzHsk": 4 },
+    { "hzId": "猴", "hzPinyin": "hóu", "hzTrad": "Mono", "hzHsk": 4 },
+    { "hzId": "猜", "hzPinyin": "cāi", "hzTrad": "Adivinar", "hzHsk": 4 },
+    { "hzId": "狮", "hzPinyin": "shī", "hzTrad": "León", "hzHsk": 4 },
+    { "hzId": "献", "hzPinyin": "xiàn", "hzTrad": "Ofrecer", "hzHsk": 5 },
+    { "hzId": "犹", "hzPinyin": "yóu", "hzTrad": "Aún", "hzHsk": 5 },
+    { "hzId": "狼", "hzPinyin": "láng", "hzTrad": "Lobo", "hzHsk": 5 },
+    { "hzId": "猾", "hzPinyin": "huá", "hzTrad": "Astuto", "hzHsk": 5 },
+    { "hzId": "犯", "hzPinyin": "fàn", "hzTrad": "Cometer", "hzHsk": 5 },
+    { "hzId": "状", "hzPinyin": "zhuàng", "hzTrad": "Estado", "hzHsk": 5 },
+    { "hzId": "独", "hzPinyin": "dú", "hzTrad": "Solo", "hzHsk": 5 },
+    { "hzId": "狡", "hzPinyin": "jiǎo", "hzTrad": "Astuto", "hzHsk": 5 },
+    { "hzId": "狂", "hzPinyin": "kuáng", "hzTrad": "Loco", "hzHsk": 5 },
+    { "hzId": "狠", "hzPinyin": "hěn", "hzTrad": "Feroz", "hzHsk": 6 },
+    { "hzId": "猎", "hzPinyin": "liè", "hzTrad": "Cazar", "hzHsk": 6 },
+    { "hzId": "狱", "hzPinyin": "yù", "hzTrad": "Prisión", "hzHsk": 6 },
+    { "hzId": "猖", "hzPinyin": "chāng", "hzTrad": "Desenfrenado", "hzHsk": 6 },
+    { "hzId": "犬", "hzPinyin": "quǎn", "hzTrad": "Can", "hzHsk": 6 },
+    { "hzId": "狭", "hzPinyin": "xiá", "hzTrad": "Estrecho", "hzHsk": 6 },
+    { "hzId": "猛", "hzPinyin": "měng", "hzTrad": "Feroz", "hzHsk": 6 },
+    { "hzId": "狈", "hzPinyin": "bèi", "hzTrad": "Lobo legendario", "hzHsk": 6 }
   ]
 }
 }
