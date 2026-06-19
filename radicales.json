@@ -42,5 +42,17 @@
     { "hzId": "临", "hzPinyin": "lín", "hzTrad": "Estar cerca", "hzHsk": 5 },
     { "hzId": "串", "hzPinyin": "chuàn", "hzTrad": "Sarta", "hzHsk": 6 }
   ]
+},
+  "丶": {
+  "hzPron": "zhǔ",
+  "hzTrazos": 1,
+  "hzSignificado": "Punto",
+  "datos": [
+    { "hzId": "为", "hzPinyin": "wèi", "hzTrad": "Para", "hzHsk": 2 },
+    { "hzId": "主", "hzPinyin": "zhǔ", "hzTrad": "Dueño", "hzHsk": 3 },
+    { "hzId": "举", "hzPinyin": "jǔ", "hzTrad": "Levantar", "hzHsk": 3 },
+    { "hzId": "丽", "hzPinyin": "lì", "hzTrad": "Hermoso", "hzHsk": 4 },
+    { "hzId": "丸", "hzPinyin": "wán", "hzTrad": "Pastilla", "hzHsk": 6 }
+  ]
 }
 }
