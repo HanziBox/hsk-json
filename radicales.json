@@ -831,7 +831,7 @@
   "夂": {
   "hzPron": "zhǐ",
   "hzTrazos": 3,
-  "hzSignificado": "Caminar despacio",
+  "hzSignificado": "Ir",
   "datos": [
     { "hzId": "备", "hzPinyin": "bèi", "hzTrad": "Preparar", "hzHsk": 2 },
     { "hzId": "夏", "hzPinyin": "xià", "hzTrad": "Verano", "hzHsk": 3 },
@@ -842,7 +842,7 @@
   "夊": {
   "hzPron": "suī",
   "hzTrazos": 3,
-  "hzSignificado": "Caminar despacio",
+  "hzSignificado": "Ir despac.",
   "datos": []
 },
   "夕": {
