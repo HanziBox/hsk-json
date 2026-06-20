@@ -2571,5 +2571,62 @@
     { "hzId": "祸", "hzPinyin": "huò", "hzTrad": "Desgracia", "hzHsk": 6 },
     { "hzId": "祥", "hzPinyin": "xiáng", "hzTrad": "Auspicioso", "hzHsk": 6 }
   ]
+},
+  "禸": {
+  "hzPron": "róu",
+  "hzTrazos": 5,
+  "hzSignificado": "Pisada",
+  "datos": [
+    { "hzId": "离", "hzPinyin": "lí", "hzTrad": "Alejarse de", "hzHsk": 2 },
+    { "hzId": "禽", "hzPinyin": "qín", "hzTrad": "Aves", "hzHsk": 6 }
+  ]
+},
+  "禾": {
+  "hzPron": "hé",
+  "hzTrazos": 5,
+  "hzSignificado": "Grano",
+  "datos": [
+    { "hzId": "租", "hzPinyin": "zū", "hzTrad": "Alquilar", "hzHsk": 1 },
+    { "hzId": "秋", "hzPinyin": "qiū", "hzTrad": "Otoño", "hzHsk": 3 },
+    { "hzId": "种", "hzPinyin": "zhǒng", "hzTrad": "Tipo", "hzHsk": 3 },
+    { "hzId": "积", "hzPinyin": "jī", "hzTrad": "Acumular", "hzHsk": 4 },
+    { "hzId": "秀", "hzPinyin": "xiù", "hzTrad": "Excelente", "hzHsk": 4 },
+    { "hzId": "程", "hzPinyin": "chéng", "hzTrad": "Proceso", "hzHsk": 4 },
+    { "hzId": "稍", "hzPinyin": "shāo", "hzTrad": "Un poco", "hzHsk": 4 },
+    { "hzId": "科", "hzPinyin": "kē", "hzTrad": "Ciencia", "hzHsk": 4 },
+    { "hzId": "税", "hzPinyin": "shuì", "hzTrad": "Impuesto", "hzHsk": 5 },
+    { "hzId": "私", "hzPinyin": "sī", "hzTrad": "Privado", "hzHsk": 5 },
+    { "hzId": "称", "hzPinyin": "chēng", "hzTrad": "Llamar", "hzHsk": 5 },
+    { "hzId": "秘", "hzPinyin": "mì", "hzTrad": "Secreto", "hzHsk": 5 },
+    { "hzId": "移", "hzPinyin": "yí", "hzTrad": "Mover", "hzHsk": 5 },
+    { "hzId": "秩", "hzPinyin": "zhì", "hzTrad": "Orden", "hzHsk": 5 },
+    { "hzId": "秒", "hzPinyin": "miǎo", "hzTrad": "Segundo", "hzHsk": 5 },
+    { "hzId": "稳", "hzPinyin": "wěn", "hzTrad": "Estable", "hzHsk": 5 },
+    { "hzId": "秤", "hzPinyin": "chèng", "hzTrad": "Báscula", "hzHsk": 6 },
+    { "hzId": "稿", "hzPinyin": "gǎo", "hzTrad": "Manuscrito", "hzHsk": 6 },
+    { "hzId": "稠", "hzPinyin": "chóu", "hzTrad": "Espeso", "hzHsk": 6 },
+    { "hzId": "秃", "hzPinyin": "tū", "hzTrad": "Calvo", "hzHsk": 6 },
+    { "hzId": "稻", "hzPinyin": "dào", "hzTrad": "Arroz", "hzHsk": 6 },
+    { "hzId": "稚", "hzPinyin": "zhì", "hzTrad": "Infantil", "hzHsk": 6 },
+    { "hzId": "稀", "hzPinyin": "xī", "hzTrad": "Escaso", "hzHsk": 6 }
+  ]
+},
+  "穴": {
+  "hzPron": "xué",
+  "hzTrazos": 5,
+  "hzSignificado": "Cueva",
+  "datos": [
+    { "hzId": "穿", "hzPinyin": "chuān", "hzTrad": "Vestir", "hzHsk": 2 },
+    { "hzId": "空", "hzPinyin": "kōng", "hzTrad": "Vacío", "hzHsk": 3 },
+    { "hzId": "突", "hzPinyin": "tū", "hzTrad": "Repentino", "hzHsk": 3 },
+    { "hzId": "窄", "hzPinyin": "zhǎi", "hzTrad": "Estrecho", "hzHsk": 4 },
+    { "hzId": "究", "hzPinyin": "jiū", "hzTrad": "Investigar", "hzHsk": 4 },
+    { "hzId": "穷", "hzPinyin": "qióng", "hzTrad": "Pobre", "hzHsk": 4 },
+    { "hzId": "窗", "hzPinyin": "chuāng", "hzTrad": "Ventana", "hzHsk": 4 },
+    { "hzId": "窜", "hzPinyin": "cuàn", "hzTrad": "Huir", "hzHsk": 6 },
+    { "hzId": "窃", "hzPinyin": "qiè", "hzTrad": "Robar", "hzHsk": 6 },
+    { "hzId": "窝", "hzPinyin": "wō", "hzTrad": "Nido", "hzHsk": 6 },
+    { "hzId": "穴", "hzPinyin": "xué", "hzTrad": "Agujero", "hzHsk": 6 }
+  ]
 }
 }
