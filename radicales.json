@@ -3743,5 +3743,272 @@
     { "hzId": "雹", "hzPinyin": "báo", "hzTrad": "Granizo", "hzHsk": 6 },
     { "hzId": "霸", "hzPinyin": "bà", "hzTrad": "Tirano", "hzHsk": 6 }
   ]
+},"青": {
+  "hzPron": "qīng",
+  "hzTrazos": 8,
+  "hzSignificado": "Azul-verde",
+  "datos": [
+    { "hzId": "静", "hzPinyin": "jìng", "hzTrad": "Tranquilo", "hzHsk": 3 },
+    { "hzId": "青", "hzPinyin": "qīng", "hzTrad": "Joven", "hzHsk": 5 }
+  ]
+},
+  "非": {
+  "hzPron": "fēi",
+  "hzTrazos": 8,
+  "hzSignificado": "No / Incorrecto",
+  "datos": [
+    { "hzId": "非", "hzPinyin": "fēi", "hzTrad": "No", "hzHsk": 2 },
+    { "hzId": "靠", "hzPinyin": "kào", "hzTrad": "Apoyarse", "hzHsk": 5 },
+    { "hzId": "辈", "hzPinyin": "bèi", "hzTrad": "Generación", "hzHsk": 5 },
+    { "hzId": "悲", "hzPinyin": "bēi", "hzTrad": "Triste", "hzHsk": 5 }
+  ]
+},
+  "面": {
+  "hzPron": "miàn",
+  "hzTrazos": 9,
+  "hzSignificado": "Lado / Cara",
+  "datos": [
+    { "hzId": "面", "hzPinyin": "miàn", "hzTrad": "Cara", "hzHsk": 1 }
+  ]
+},
+  "革": {
+  "hzPron": "gé",
+  "hzTrazos": 9,
+  "hzSignificado": "Cuero",
+  "datos": [
+    { "hzId": "鞋", "hzPinyin": "xié", "hzTrad": "Zapato", "hzHsk": 3 },
+    { "hzId": "鞭", "hzPinyin": "biān", "hzTrad": "Látigo", "hzHsk": 5 },
+    { "hzId": "革", "hzPinyin": "gé", "hzTrad": "Cuero", "hzHsk": 5 },
+    { "hzId": "鞠", "hzPinyin": "jū", "hzTrad": "Inclinarse", "hzHsk": 6 }
+  ]
+},
+  "韦": {
+  "hzPron": "wéi",
+  "hzTrazos": 4,
+  "hzSignificado": "Cuero suave",
+  "datos": [
+    { "hzId": "韧", "hzPinyin": "rèn", "hzTrad": "Tenaz", "hzHsk": 6 }
+  ]
+},
+  "韭": {
+  "hzPron": "jiǔ",
+  "hzTrazos": 9,
+  "hzSignificado": "Puerro chino",
+  "datos": []
+},
+  "音": {
+  "hzPron": "yīn",
+  "hzTrazos": 9,
+  "hzSignificado": "Sonido",
+  "datos": [
+    { "hzId": "音", "hzPinyin": "yīn", "hzTrad": "Sonido", "hzHsk": 3 },
+    { "hzId": "竟", "hzPinyin": "jìng", "hzTrad": "Inesperadamente", "hzHsk": 4 },
+    { "hzId": "章", "hzPinyin": "zhāng", "hzTrad": "Capítulo", "hzHsk": 4 }
+  ]
+},
+  "页": {
+  "hzPron": "yè",
+  "hzTrazos": 6,
+  "hzSignificado": "Página",
+  "datos": [
+    { "hzId": "题", "hzPinyin": "tí", "hzTrad": "Tema", "hzHsk": 2 },
+    { "hzId": "颜", "hzPinyin": "yán", "hzTrad": "Color", "hzHsk": 2 },
+    { "hzId": "须", "hzPinyin": "xū", "hzTrad": "Deber", "hzHsk": 3 },
+    { "hzId": "顾", "hzPinyin": "gù", "hzTrad": "Cuidar", "hzHsk": 3 },
+    { "hzId": "页", "hzPinyin": "yè", "hzTrad": "Página", "hzHsk": 4 },
+    { "hzId": "顿", "hzPinyin": "dùn", "hzTrad": "Pausa", "hzHsk": 4 },
+    { "hzId": "顺", "hzPinyin": "shùn", "hzTrad": "Obedecer", "hzHsk": 4 },
+    { "hzId": "预", "hzPinyin": "yù", "hzTrad": "Anticipar", "hzHsk": 4 },
+    { "hzId": "颗", "hzPinyin": "kē", "hzTrad": "Grano", "hzHsk": 5 },
+    { "hzId": "领", "hzPinyin": "lǐng", "hzTrad": "Liderar", "hzHsk": 5 },
+    { "hzId": "频", "hzPinyin": "pín", "hzTrad": "Frecuente", "hzHsk": 5 },
+    { "hzId": "顶", "hzPinyin": "dǐng", "hzTrad": "Cima", "hzHsk": 5 },
+    { "hzId": "项", "hzPinyin": "xiàng", "hzTrad": "Artículo", "hzHsk": 5 },
+    { "hzId": "颤", "hzPinyin": "chàn", "hzTrad": "Temblar", "hzHsk": 6 },
+    { "hzId": "额", "hzPinyin": "é", "hzTrad": "Frente", "hzHsk": 6 },
+    { "hzId": "颂", "hzPinyin": "sòng", "hzTrad": "Alabar", "hzHsk": 6 },
+    { "hzId": "颠", "hzPinyin": "diān", "hzTrad": "Volcar", "hzHsk": 6 },
+    { "hzId": "颇", "hzPinyin": "pō", "hzTrad": "Bastante", "hzHsk": 6 },
+    { "hzId": "颖", "hzPinyin": "yǐng", "hzTrad": "Inteligente", "hzHsk": 6 },
+    { "hzId": "顽", "hzPinyin": "wán", "hzTrad": "Terco", "hzHsk": 6 },
+    { "hzId": "颁", "hzPinyin": "bān", "hzTrad": "Otorgar", "hzHsk": 6 },
+    { "hzId": "颈", "hzPinyin": "jǐng", "hzTrad": "Cuello", "hzHsk": 6 }
+  ]
+},
+  "风": {
+  "hzPron": "fēng",
+  "hzTrazos": 4,
+  "hzSignificado": "Viento",
+  "datos": [
+    { "hzId": "风", "hzPinyin": "fēng", "hzTrad": "Viento", "hzHsk": 3 },
+    { "hzId": "飘", "hzPinyin": "piāo", "hzTrad": "Flotar", "hzHsk": 5 },
+    { "hzId": "飙", "hzPinyin": "biāo", "hzTrad": "Torbellino", "hzHsk": 6 }
+  ]
+}.
+  "飞": {
+  "hzPron": "fēi",
+  "hzTrazos": 3,
+  "hzSignificado": "Volar",
+  "datos": [
+    { "hzId": "飞", "hzPinyin": "fēi", "hzTrad": "Volar", "hzHsk": 1 }
+  ]
+},
+  "食-饣": {
+  "hzPron": "shí",
+  "hzTrazos": 9,
+  "hzSignificado": "Alimento",
+  "datos": [
+    { "hzId": "饭", "hzPinyin": "fàn", "hzTrad": "Comida", "hzHsk": 1 },
+    { "hzId": "馆", "hzPinyin": "guǎn", "hzTrad": "Establecimiento", "hzHsk": 1 },
+    { "hzId": "饿", "hzPinyin": "è", "hzTrad": "Hambriento", "hzHsk": 3 },
+    { "hzId": "饱", "hzPinyin": "bǎo", "hzTrad": "Lleno", "hzHsk": 3 },
+    { "hzId": "饮", "hzPinyin": "yǐn", "hzTrad": "Beber", "hzHsk": 4 },
+    { "hzId": "饼", "hzPinyin": "bǐng", "hzTrad": "Galleta", "hzHsk": 4 },
+    { "hzId": "饺", "hzPinyin": "jiǎo", "hzTrad": "Raviol", "hzHsk": 4 },
+    { "hzId": "饰", "hzPinyin": "shì", "hzTrad": "Adorno", "hzHsk": 5 },
+    { "hzId": "馒", "hzPinyin": "mán", "hzTrad": "Pan al vapor", "hzHsk": 5 },
+    { "hzId": "饥", "hzPinyin": "jī", "hzTrad": "Hambre", "hzHsk": 6 },
+    { "hzId": "馈", "hzPinyin": "kuì", "hzTrad": "Ofrecer", "hzHsk": 6 },
+    { "hzId": "馋", "hzPinyin": "chán", "hzTrad": "Glotón", "hzHsk": 6 },
+    { "hzId": "饶", "hzPinyin": "ráo", "hzTrad": "Perdonar", "hzHsk": 6 },
+    { "hzId": "馅", "hzPinyin": "xiàn", "hzTrad": "Relleno", "hzHsk": 6 },
+    { "hzId": "饪", "hzPinyin": "rèn", "hzTrad": "Cocinar", "hzHsk": 6 },
+    { "hzId": "饲", "hzPinyin": "sì", "hzTrad": "Alimentar", "hzHsk": 6 }
+  ]
+},
+  "首": {
+  "hzPron": "shǒu",
+  "hzTrazos": 9,
+  "hzSignificado": "Cabeza",
+  "datos": [
+    { "hzId": "首", "hzPinyin": "shǒu", "hzTrad": "Primero", "hzHsk": 4 }
+  ]
+},
+  "香": {
+  "hzPron": "xiāng",
+  "hzTrazos": 9,
+  "hzSignificado": "Aromático",
+  "datos": [
+    { "hzId": "香", "hzPinyin": "xiāng", "hzTrad": "Oler bien", "hzHsk": 3 }
+  ]
+},
+  "马": {
+  "hzPron": "mǎ",
+  "hzTrazos": 3,
+  "hzSignificado": "Caballo",
+  "datos": [
+    { "hzId": "马", "hzPinyin": "mǎ", "hzTrad": "Caballo", "hzHsk": 3 },
+    { "hzId": "骑", "hzPinyin": "qí", "hzTrad": "Montar", "hzHsk": 3 },
+    { "hzId": "验", "hzPinyin": "yàn", "hzTrad": "Examinar", "hzHsk": 4 },
+    { "hzId": "骄", "hzPinyin": "jiāo", "hzTrad": "Orgulloso", "hzHsk": 4 },
+    { "hzId": "骗", "hzPinyin": "piàn", "hzTrad": "Engañar", "hzHsk": 4 },
+    { "hzId": "驾", "hzPinyin": "jià", "hzTrad": "Conducir", "hzHsk": 5 },
+    { "hzId": "驶", "hzPinyin": "shǐ", "hzTrad": "Manejar", "hzHsk": 5 },
+    { "hzId": "骤", "hzPinyin": "zhòu", "hzTrad": "Repentino", "hzHsk": 5 },
+    { "hzId": "骂", "hzPinyin": "mà", "hzTrad": "Insultar", "hzHsk": 5 },
+    { "hzId": "驰", "hzPinyin": "chí", "hzTrad": "Galopar", "hzHsk": 6 },
+    { "hzId": "驳", "hzPinyin": "bó", "hzTrad": "Refutar", "hzHsk": 6 },
+    { "hzId": "驱", "hzPinyin": "qū", "hzTrad": "Expulsar", "hzHsk": 6 },
+    { "hzId": "骚", "hzPinyin": "sāo", "hzTrad": "Disturbar", "hzHsk": 6 },
+    { "hzId": "驻", "hzPinyin": "zhù", "hzTrad": "Residir", "hzHsk": 6 }
+  ]
+},
+  "骨": {
+  "hzPron": "gǔ",
+  "hzTrazos": 9,
+  "hzSignificado": "Hueso",
+  "datos": [
+    { "hzId": "骨", "hzPinyin": "gǔ", "hzTrad": "Hueso", "hzHsk": 5 }
+  ]
+},
+  "高": {
+  "hzPron": "gāo",
+  "hzTrazos": 10,
+  "hzSignificado": "Alto",
+  "datos": [
+    { "hzId": "高", "hzPinyin": "gāo", "hzTrad": "Alto", "hzHsk": 1 },
+    { "hzId": "敲", "hzPinyin": "qiāo", "hzTrad": "Golpear", "hzHsk": 4 },
+    { "hzId": "膏", "hzPinyin": "gāo", "hzTrad": "Crema", "hzHsk": 4 }
+  ]
+},
+  "髟": {
+  "hzPron": "biāo",
+  "hzTrazos": 10,
+  "hzSignificado": "Cabello largo",
+  "datos": [
+    { "hzId": "髦", "hzPinyin": "máo", "hzTrad": "Estiloso", "hzHsk": 5 }
+  ]
+},
+  "鬥": {
+  "hzPron": "dòu",
+  "hzTrazos": 10,
+  "hzSignificado": "Luchar",
+  "datos": []
+},
+  "鬯": {
+  "hzPron": "chàng",
+  "hzTrazos": 10,
+  "hzSignificado": "Vino de sacrificio",
+  "datos": []
+},
+  "鬲": {
+  "hzPron": "lì",
+  "hzTrazos": 10,
+  "hzSignificado": "Caldero antiguo",
+  "datos": []
+},
+  "鬼": {
+  "hzPron": "guǐ",
+  "hzTrazos": 9,
+  "hzSignificado": "Demonio",
+  "datos": [
+    { "hzId": "魅", "hzPinyin": "mèi", "hzTrad": "Encanto", "hzHsk": 5 },
+    { "hzId": "鬼", "hzPinyin": "guǐ", "hzTrad": "Fantasma", "hzHsk": 5 },
+    { "hzId": "魂", "hzPinyin": "hún", "hzTrad": "Alma", "hzHsk": 6 },
+    { "hzId": "魔", "hzPinyin": "mó", "hzTrad": "Magia", "hzHsk": 6 },
+    { "hzId": "魄", "hzPinyin": "pò", "hzTrad": "Espíritu", "hzHsk": 6 }
+  ]
+},
+  "鱼": {
+  "hzPron": "yú",
+  "hzTrazos": 8,
+  "hzSignificado": "Pez",
+  "datos": [
+    { "hzId": "鱼", "hzPinyin": "yú", "hzTrad": "Pescado", "hzHsk": 2 },
+    { "hzId": "鲜", "hzPinyin": "xiān", "hzTrad": "Fresco", "hzHsk": 3 },
+    { "hzId": "鲁", "hzPinyin": "lǔ", "hzTrad": "Rudo / Torpe", "hzHsk": 6 }
+  ]
+},
+  "鸟": {
+  "hzPron": "niǎo",
+  "hzTrazos": 5,
+  "hzSignificado": "Pájaro",
+  "datos": [
+    { "hzId": "鸡", "hzPinyin": "jī", "hzTrad": "Pollo", "hzHsk": 2 },
+    { "hzId": "鸟", "hzPinyin": "niǎo", "hzTrad": "Pájaro", "hzHsk": 3 },
+    { "hzId": "鸽", "hzPinyin": "gē", "hzTrad": "Paloma", "hzHsk": 5 },
+    { "hzId": "鸭", "hzPinyin": "yā", "hzTrad": "Pato", "hzHsk": 5 },
+    { "hzId": "鸣", "hzPinyin": "míng", "hzTrad": "Cantar (ave)", "hzHsk": 6 }
+  ]
+},
+  "卤": {
+  "hzPron": "lǔ",
+  "hzTrazos": 7,
+  "hzSignificado": "Salino",
+  "datos": []
+},
+  "鹿": {
+  "hzPron": "lù",
+  "hzTrazos": 11,
+  "hzSignificado": "Ciervo",
+  "datos": []
+},
+  "麻": {
+  "hzPron": "má",
+  "hzTrazos": 11,
+  "hzSignificado": "Cáñamo",
+  "datos": [
+    { "hzId": "麻", "hzPinyin": "má", "hzTrad": "Cáñamo", "hzHsk": 4 }
+  ]
 }
 }
