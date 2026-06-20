@@ -3991,5 +3991,42 @@
   "datos": [
     { "hzId": "麻", "hzPinyin": "má", "hzTrad": "Cáñamo", "hzHsk": 4 }
   ]
+},
+  "黄": {
+  "hzPron": "huáng",
+  "hzTrazos": 11,
+  "hzSignificado": "Amarillo",
+  "datos": [
+    { "hzId": "黄", "hzPinyin": "huáng", "hzTrad": "Amarillo", "hzHsk": 3 }
+  ]
+},
+  "黍": {
+  "hzPron": "shǔ",
+  "hzTrazos": 12,
+  "hzSignificado": "Mijo",
+  "datos": [
+    { "hzId": "黎", "hzPinyin": "lí", "hzTrad": "Multitud", "hzHsk": 6 }
+  ]
+},
+  "黑": {
+  "hzPron": "hēi",
+  "hzTrazos": 12,
+  "hzSignificado": "Negro",
+  "datos": [
+    { "hzId": "黑", "hzPinyin": "hēi", "hzTrad": "Negro", "hzHsk": 2 },
+    { "hzId": "默", "hzPinyin": "mò", "hzTrad": "Silencioso", "hzHsk": 4 }
+  ]
+},
+  "黹": {
+  "hzPron": "zhǐ",
+  "hzTrazos": 12,
+  "hzSignificado": "Bordado",
+  "datos": []
+},
+  "黾": {
+  "hzPron": "mǐn",
+  "hzTrazos": 8,
+  "hzSignificado": "Rana",
+  "datos": []
 }
 }
