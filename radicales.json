@@ -4028,5 +4028,72 @@
   "hzTrazos": 8,
   "hzSignificado": "Rana",
   "datos": []
+},
+  "鼎": {
+  "hzPron": "dǐng",
+  "hzTrazos": 12,
+  "hzSignificado": "Caldero",
+  "datos": []
+},
+  "鼓": {
+  "hzPron": "gǔ",
+  "hzTrazos": 13,
+  "hzSignificado": "Tambor",
+  "datos": [
+    { "hzId": "鼓", "hzPinyin": "gǔ", "hzTrad": "Tambor", "hzHsk": 4 }
+  ]
+},
+  "鼠": {
+  "hzPron": "shǔ",
+  "hzTrazos": 13,
+  "hzSignificado": "Ratón",
+  "datos": [
+    { "hzId": "鼠", "hzPinyin": "shǔ", "hzTrad": "Ratón", "hzHsk": 5 }
+  ]
+},
+  "鼻": {
+  "hzPron": "bí",
+  "hzTrazos": 14,
+  "hzSignificado": "Nariz",
+  "datos": [
+    { "hzId": "鼻", "hzPinyin": "bí", "hzTrad": "Nariz", "hzHsk": 3 }
+  ]
+},
+  "齐": {
+  "hzPron": "qí",
+  "hzTrazos": 6,
+  "hzSignificado": "Uniforme",
+  "datos": [
+    { "hzId": "齐", "hzPinyin": "qí", "hzTrad": "Igual", "hzHsk": 4 }
+  ]
+},
+  "齿": {
+  "hzPron": "chǐ",
+  "hzTrazos": 8,
+  "hzSignificado": "Diente",
+  "datos": [
+    { "hzId": "龄", "hzPinyin": "líng", "hzTrad": "Edad", "hzHsk": 4 },
+    { "hzId": "齿", "hzPinyin": "chǐ", "hzTrad": "Diente", "hzHsk": 6 }
+  ]
+},
+  "龙": {
+  "hzPron": "lóng",
+  "hzTrazos": 5,
+  "hzSignificado": "Dragón",
+  "datos": [
+    { "hzId": "龙", "hzPinyin": "lóng", "hzTrad": "Dragón", "hzHsk": 5 }
+  ]
+},
+  "龟": {
+  "hzPron": "guī",
+  "hzTrazos": 7,
+  "hzSignificado": "Tortuga",
+  "datos": []
+},
+  "龠": {
+  "hzPron": "yuè",
+  "hzTrazos": 17,
+  "hzSignificado": "Flauta",
+  "datos": []
 }
 }
