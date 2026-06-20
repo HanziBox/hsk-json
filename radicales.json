@@ -3379,7 +3379,7 @@
     { "hzId": "赴", "hzPinyin": "fù", "hzTrad": "Ir hacia", "hzHsk": 6 }
   ]
 },
-  "足": {
+"足": {
   "hzPron": "zú",
   "hzTrazos": 7,
   "hzSignificado": "Pie",
@@ -3389,25 +3389,25 @@
     { "hzId": "跳", "hzPinyin": "tiào", "hzTrad": "Saltar", "hzHsk": 2 },
     { "hzId": "踢", "hzPinyin": "tī", "hzTrad": "Patear", "hzHsk": 2 },
     { "hzId": "路", "hzPinyin": "lù", "hzTrad": "Camino", "hzHsk": 2 },
-    { "hzId": "跟", "hzPinyin": "gēn", "hzTrad": "Con / Seguir", "hzHsk": 3 },
+    { "hzId": "跟", "hzPinyin": "gēn", "hzTrad": "Seguir", "hzHsk": 3 },
     { "hzId": "距", "hzPinyin": "jù", "hzTrad": "Distancia", "hzHsk": 4 },
     { "hzId": "蹲", "hzPinyin": "dūn", "hzTrad": "Agacharse", "hzHsk": 5 },
-    { "hzId": "践", "hzPinyin": "jiàn", "hzTrad": "Pisar / Cumplir", "hzHsk": 5 },
+    { "hzId": "践", "hzPinyin": "jiàn", "hzTrad": "Pisar", "hzHsk": 5 },
     { "hzId": "跃", "hzPinyin": "yuè", "hzTrad": "Saltar", "hzHsk": 5 },
     { "hzId": "踩", "hzPinyin": "cǎi", "hzTrad": "Pisar", "hzHsk": 5 },
     { "hzId": "跌", "hzPinyin": "diē", "hzTrad": "Caer", "hzHsk": 6 },
     { "hzId": "踌", "hzPinyin": "chóu", "hzTrad": "Vacilar", "hzHsk": 6 },
     { "hzId": "躇", "hzPinyin": "chú", "hzTrad": "Dudar", "hzHsk": 6 },
     { "hzId": "踏", "hzPinyin": "tà", "hzTrad": "Pisar", "hzHsk": 6 },
-    { "hzId": "蹈", "hzPinyin": "dǎo", "hzTrad": "Pisar / Bailar", "hzHsk": 6 },
-    { "hzId": "蹬", "hzPinyin": "dēng", "hzTrad": "Pedalear / Pisar", "hzHsk": 6 },
+    { "hzId": "蹈", "hzPinyin": "dǎo", "hzTrad": "Bailar", "hzHsk": 6 },
+    { "hzId": "蹬", "hzPinyin": "dēng", "hzTrad": "Pedalear", "hzHsk": 6 },
     { "hzId": "躁", "hzPinyin": "zào", "hzTrad": "Impaciente", "hzHsk": 6 },
     { "hzId": "蹦", "hzPinyin": "bèng", "hzTrad": "Brincar", "hzHsk": 6 },
-    { "hzId": "趴", "hzPinyin": "pā", "hzTrad": "Tumbarse boca abajo", "hzHsk": 6 },
+    { "hzId": "趴", "hzPinyin": "pā", "hzTrad": "Arrastrarse", "hzHsk": 6 },
     { "hzId": "跨", "hzPinyin": "kuà", "hzTrad": "Cruzar", "hzHsk": 6 },
     { "hzId": "跪", "hzPinyin": "guì", "hzTrad": "Arrodillarse", "hzHsk": 6 },
     { "hzId": "踪", "hzPinyin": "zōng", "hzTrad": "Rastro", "hzHsk": 6 },
-    { "hzId": "踊", "hzPinyin": "yǒng", "hzTrad": "Saltar / Entusiasta", "hzHsk": 6 }
+    { "hzId": "踊", "hzPinyin": "yǒng", "hzTrad": "Saltar", "hzHsk": 6 }
   ]
 }
 }
