@@ -3136,5 +3136,278 @@
     { "hzId": "衔", "hzPinyin": "xián", "hzTrad": "Sostener en la boca", "hzHsk": 6 },
     { "hzId": "衍", "hzPinyin": "yǎn", "hzTrad": "Desarrollar", "hzHsk": 6 }
   ]
+},
+  "衣-衤": {
+  "hzPron": "yī",
+  "hzTrazos": 6,
+  "hzSignificado": "Ropa",
+  "datos": [
+    { "hzId": "衣", "hzPinyin": "yī", "hzTrad": "Ropa", "hzHsk": 1 },
+    { "hzId": "表", "hzPinyin": "biǎo", "hzTrad": "Reloj de pulsera", "hzHsk": 2 },
+    { "hzId": "裙", "hzPinyin": "qún", "hzTrad": "Falda", "hzHsk": 3 },
+    { "hzId": "被", "hzPinyin": "bèi", "hzTrad": "Edredón", "hzHsk": 3 },
+    { "hzId": "衬", "hzPinyin": "chèn", "hzTrad": "Camisa", "hzHsk": 3 },
+    { "hzId": "裤", "hzPinyin": "kù", "hzTrad": "Pantalones", "hzHsk": 3 },
+    { "hzId": "衫", "hzPinyin": "shān", "hzTrad": "Camisa", "hzHsk": 3 },
+    { "hzId": "袜", "hzPinyin": "wà", "hzTrad": "Calcetines", "hzHsk": 4 },
+    { "hzId": "袋", "hzPinyin": "dài", "hzTrad": "Bolsa", "hzHsk": 4 },
+    { "hzId": "补", "hzPinyin": "bǔ", "hzTrad": "Remendar", "hzHsk": 5 },
+    { "hzId": "裔", "hzPinyin": "yì", "hzTrad": "Descendientes", "hzHsk": 5 },
+    { "hzId": "裹", "hzPinyin": "guǒ", "hzTrad": "Envolver", "hzHsk": 5 },
+    { "hzId": "装", "hzPinyin": "zhuāng", "hzTrad": "Vestido", "hzHsk": 5 },
+    { "hzId": "裁", "hzPinyin": "cái", "hzTrad": "Cortar", "hzHsk": 5 },
+    { "hzId": "衷", "hzPinyin": "zhōng", "hzTrad": "Corazón", "hzHsk": 6 },
+    { "hzId": "袭", "hzPinyin": "xí", "hzTrad": "Atacar", "hzHsk": 6 },
+    { "hzId": "衰", "hzPinyin": "shuāi", "hzTrad": "Debilitarse", "hzHsk": 6 },
+    { "hzId": "袖", "hzPinyin": "xiù", "hzTrad": "Manga", "hzHsk": 6 },
+    { "hzId": "裂", "hzPinyin": "liè", "hzTrad": "Agrietarse", "hzHsk": 6 },
+    { "hzId": "裕", "hzPinyin": "yù", "hzTrad": "Abundante", "hzHsk": 6 },
+    { "hzId": "袱", "hzPinyin": "fú", "hzTrad": "Fardel", "hzHsk": 6 },
+    { "hzId": "裳", "hzPinyin": "shang", "hzTrad": "Ropa", "hzHsk": 6 },
+    { "hzId": "袍", "hzPinyin": "páo", "hzTrad": "Túnica", "hzHsk": 6 }
+  ]
+},
+  "西-覀": {
+  "hzPron": "xī",
+  "hzTrazos": 6,
+  "hzSignificado": "Oeste",
+  "datos": [
+    { "hzId": "西", "hzPinyin": "xī", "hzTrad": "Oeste", "hzHsk": 1 },
+    { "hzId": "要", "hzPinyin": "yào", "hzTrad": "Querer", "hzHsk": 2 },
+    { "hzId": "覆", "hzPinyin": "fù", "hzTrad": "Cubrir", "hzHsk": 6 }
+  ]
+},
+  "见": {
+  "hzPron": "jiàn",
+  "hzTrazos": 4,
+  "hzSignificado": "Ver",
+  "datos": [
+    { "hzId": "觉", "hzPinyin": "jué", "hzTrad": "Sentir", "hzHsk": 1 },
+    { "hzId": "见", "hzPinyin": "jiàn", "hzTrad": "Ver", "hzHsk": 1 },
+    { "hzId": "视", "hzPinyin": "shì", "hzTrad": "Mirar", "hzHsk": 1 },
+    { "hzId": "观", "hzPinyin": "guān", "hzTrad": "Observar", "hzHsk": 4 },
+    { "hzId": "规", "hzPinyin": "guī", "hzTrad": "Regla", "hzHsk": 4 },
+    { "hzId": "览", "hzPinyin": "lǎn", "hzTrad": "Contemplar", "hzHsk": 5 },
+    { "hzId": "觅", "hzPinyin": "mì", "hzTrad": "Buscar", "hzHsk": 6 }
+  ]
+},
+  "角": {
+  "hzPron": "jiǎo",
+  "hzTrazos": 7,
+  "hzSignificado": "Cuerno",
+  "datos": [
+    { "hzId": "解", "hzPinyin": "jiě", "hzTrad": "Entender", "hzHsk": 3 },
+    { "hzId": "角", "hzPinyin": "jiǎo", "hzTrad": "Esquina", "hzHsk": 3 },
+    { "hzId": "触", "hzPinyin": "chù", "hzTrad": "Tocar", "hzHsk": 5 }
+  ]
+},
+  "言-讠": {
+  "hzPron": "yán",
+  "hzTrazos": 2,
+  "hzSignificado": "Palabra",
+  "datos": [
+    { "hzId": "语", "hzPinyin": "yǔ", "hzTrad": "Idioma", "hzHsk": 1 },
+    { "hzId": "请", "hzPinyin": "qǐng", "hzTrad": "Por favor", "hzHsk": 1 },
+    { "hzId": "识", "hzPinyin": "shí", "hzTrad": "Conocer", "hzHsk": 1 },
+    { "hzId": "话", "hzPinyin": "huà", "hzTrad": "Habla", "hzHsk": 1 },
+    { "hzId": "谢", "hzPinyin": "xiè", "hzTrad": "Agradecer", "hzHsk": 1 },
+    { "hzId": "认", "hzPinyin": "rèn", "hzTrad": "Reconocer", "hzHsk": 1 },
+    { "hzId": "说", "hzPinyin": "shuō", "hzTrad": "Hablar", "hzHsk": 1 },
+    { "hzId": "读", "hzPinyin": "dú", "hzTrad": "Leer", "hzHsk": 1 },
+    { "hzId": "谁", "hzPinyin": "shuí", "hzTrad": "Quién", "hzHsk": 1 },
+    { "hzId": "试", "hzPinyin": "shì", "hzTrad": "Probar", "hzHsk": 2 },
+    { "hzId": "诉", "hzPinyin": "sù", "hzTrad": "Contar", "hzHsk": 2 },
+    { "hzId": "让", "hzPinyin": "ràng", "hzTrad": "Permitir", "hzHsk": 2 },
+    { "hzId": "课", "hzPinyin": "kè", "hzTrad": "Lección", "hzHsk": 2 },
+    { "hzId": "词", "hzPinyin": "cí", "hzTrad": "Palabra", "hzHsk": 3 },
+    { "hzId": "该", "hzPinyin": "gāi", "hzTrad": "Deber", "hzHsk": 3 },
+    { "hzId": "调", "hzPinyin": "diào", "hzTrad": "Tono", "hzHsk": 3 },
+    { "hzId": "讲", "hzPinyin": "jiǎng", "hzTrad": "Explicar", "hzHsk": 3 },
+    { "hzId": "记", "hzPinyin": "jì", "hzTrad": "Recordar", "hzHsk": 3 },
+    { "hzId": "议", "hzPinyin": "yì", "hzTrad": "Discutir", "hzHsk": 3 },
+    { "hzId": "译", "hzPinyin": "yì", "hzTrad": "Traducir", "hzHsk": 4 },
+    { "hzId": "评", "hzPinyin": "píng", "hzTrad": "Criticar", "hzHsk": 4 },
+    { "hzId": "详", "hzPinyin": "xiáng", "hzTrad": "Detallado", "hzHsk": 4 },
+    { "hzId": "诚", "hzPinyin": "chéng", "hzTrad": "Sincero", "hzHsk": 4 },
+    { "hzId": "许", "hzPinyin": "xǔ", "hzTrad": "Permitir", "hzHsk": 4 },
+    { "hzId": "谊", "hzPinyin": "yì", "hzTrad": "Amistad", "hzHsk": 4 },
+    { "hzId": "证", "hzPinyin": "zhèng", "hzTrad": "Prueba", "hzHsk": 4 },
+    { "hzId": "谅", "hzPinyin": "liàng", "hzTrad": "Disculpar", "hzHsk": 4 },
+    { "hzId": "误", "hzPinyin": "wù", "hzTrad": "Error", "hzHsk": 4 },
+    { "hzId": "计", "hzPinyin": "jì", "hzTrad": "Contar", "hzHsk": 4 },
+    { "hzId": "讨", "hzPinyin": "tǎo", "hzTrad": "Discutir", "hzHsk": 4 },
+    { "hzId": "谈", "hzPinyin": "tán", "hzTrad": "Conversar", "hzHsk": 4 },
+    { "hzId": "论", "hzPinyin": "lùn", "hzTrad": "Teoría", "hzHsk": 4 },
+    { "hzId": "访", "hzPinyin": "fǎng", "hzTrad": "Visitar", "hzHsk": 4 },
+    { "hzId": "讯", "hzPinyin": "xùn", "hzTrad": "Información", "hzHsk": 5 },
+    { "hzId": "询", "hzPinyin": "xún", "hzTrad": "Consultar", "hzHsk": 5 },
+    { "hzId": "诗", "hzPinyin": "shī", "hzTrad": "Poesía", "hzHsk": 5 },
+    { "hzId": "谨", "hzPinyin": "jǐn", "hzTrad": "Prudente", "hzHsk": 5 },
+    { "hzId": "谓", "hzPinyin": "wèi", "hzTrad": "Llamar", "hzHsk": 5 },
+    { "hzId": "谦", "hzPinyin": "qiān", "hzTrad": "Modesto", "hzHsk": 5 },
+    { "hzId": "诊", "hzPinyin": "zhěn", "hzTrad": "Diagnosticar", "hzHsk": 5 },
+    { "hzId": "谜", "hzPinyin": "mí", "hzTrad": "Enigma", "hzHsk": 5 },
+    { "hzId": "订", "hzPinyin": "dìng", "hzTrad": "Reservar", "hzHsk": 5 },
+    { "hzId": "设", "hzPinyin": "shè", "hzTrad": "Diseñar", "hzHsk": 5 },
+    { "hzId": "讽", "hzPinyin": "fěng", "hzTrad": "Satirizar", "hzHsk": 5 },
+    { "hzId": "训", "hzPinyin": "xùn", "hzTrad": "Instruir", "hzHsk": 5 },
+    { "hzId": "谱", "hzPinyin": "pǔ", "hzTrad": "Espectro", "hzHsk": 6 },
+    { "hzId": "谐", "hzPinyin": "xié", "hzTrad": "Armonioso", "hzHsk": 6 },
+    { "hzId": "谴", "hzPinyin": "qiǎn", "hzTrad": "Reprochar", "hzHsk": 6 },
+    { "hzId": "讥", "hzPinyin": "jī", "hzTrad": "Burlarse", "hzHsk": 6 },
+    { "hzId": "谬", "hzPinyin": "miù", "hzTrad": "Falso", "hzHsk": 6 },
+    { "hzId": "诸", "hzPinyin": "zhū", "hzTrad": "Varios", "hzHsk": 6 },
+    { "hzId": "讼", "hzPinyin": "sòng", "hzTrad": "Litigio", "hzHsk": 6 },
+    { "hzId": "诬", "hzPinyin": "wū", "hzTrad": "Calumniar", "hzHsk": 6 },
+    { "hzId": "谍", "hzPinyin": "dié", "hzTrad": "Espía", "hzHsk": 6 },
+    { "hzId": "诱", "hzPinyin": "yòu", "hzTrad": "Atraer", "hzHsk": 6 },
+    { "hzId": "诞", "hzPinyin": "dàn", "hzTrad": "Nacer", "hzHsk": 6 },
+    { "hzId": "诫", "hzPinyin": "jiè", "hzTrad": "Advertir", "hzHsk": 6 },
+    { "hzId": "诈", "hzPinyin": "zhà", "hzTrad": "Engañar", "hzHsk": 6 },
+    { "hzId": "诵", "hzPinyin": "sòng", "hzTrad": "Recitar", "hzHsk": 6 },
+    { "hzId": "讶", "hzPinyin": "yà", "hzTrad": "Asombrado", "hzHsk": 6 },
+    { "hzId": "谋", "hzPinyin": "móu", "hzTrad": "Planear", "hzHsk": 6 },
+    { "hzId": "诽", "hzPinyin": "fěi", "hzTrad": "Calumniar", "hzHsk": 6 },
+    { "hzId": "谎", "hzPinyin": "huǎng", "hzTrad": "Mentira", "hzHsk": 6 },
+    { "hzId": "诺", "hzPinyin": "nuò", "hzTrad": "Promesa", "hzHsk": 6 },
+    { "hzId": "谣", "hzPinyin": "yáo", "hzTrad": "Rumor", "hzHsk": 6 },
+    { "hzId": "讳", "hzPinyin": "huì", "hzTrad": "Tabú", "hzHsk": 6 },
+    { "hzId": "谤", "hzPinyin": "bàng", "hzTrad": "Difamar", "hzHsk": 6 },
+    { "hzId": "诧", "hzPinyin": "chà", "hzTrad": "Sorprendido", "hzHsk": 6 }
+  ]
+},
+ "谷": {
+  "hzPron": "gǔ",
+  "hzTrazos": 7,
+  "hzSignificado": "Valle",
+  "datos": [
+    { "hzId": "谷", "hzPinyin": "gǔ", "hzTrad": "Valle", "hzHsk": 6 }
+  ]
+},
+ "豆": {
+  "hzPron": "dòu",
+  "hzTrazos": 7,
+  "hzSignificado": "Legumbre",
+  "datos": [
+    { "hzId": "豆", "hzPinyin": "dòu", "hzTrad": "Legumbre", "hzHsk": 5 }
+  ]
+},
+  "豕": {
+  "hzPron": "shǐ",
+  "hzTrazos": 7,
+  "hzSignificado": "Cerdo",
+  "datos": [
+    { "hzId": "象", "hzPinyin": "xiàng", "hzTrad": "Elefante", "hzHsk": 4 },
+    { "hzId": "豪", "hzPinyin": "háo", "hzTrad": "Orgulloso", "hzHsk": 5 },
+    { "hzId": "豫", "hzPinyin": "yù", "hzTrad": "Anticipadamente", "hzHsk": 5 }
+  ]
+},
+  "豸": {
+  "hzPron": "zhì",
+  "hzTrazos": 7,
+  "hzSignificado": "Fiera",
+  "datos": [
+    { "hzId": "貌", "hzPinyin": "mào", "hzTrad": "Aspecto", "hzHsk": 4 }
+  ]
+},
+  "贝": {
+  "hzPron": "bèi",
+  "hzTrazos": 4,
+  "hzSignificado": "Concha",
+  "datos": [
+    { "hzId": "贵", "hzPinyin": "guì", "hzTrad": "Caro", "hzHsk": 2 },
+    { "hzId": "赛", "hzPinyin": "sài", "hzTrad": "Competir", "hzHsk": 3 },
+    { "hzId": "赚", "hzPinyin": "zhuàn", "hzTrad": "Ganar dinero", "hzHsk": 4 },
+    { "hzId": "购", "hzPinyin": "gòu", "hzTrad": "Comprar", "hzHsk": 4 },
+    { "hzId": "赢", "hzPinyin": "yíng", "hzTrad": "Ganar", "hzHsk": 4 },
+    { "hzId": "费", "hzPinyin": "fèi", "hzTrad": "Gasto", "hzHsk": 4 },
+    { "hzId": "货", "hzPinyin": "huò", "hzTrad": "Mercancía", "hzHsk": 4 },
+    { "hzId": "负", "hzPinyin": "fù", "hzTrad": "Asumir", "hzHsk": 4 },
+    { "hzId": "贺", "hzPinyin": "hè", "hzTrad": "Felicitar", "hzHsk": 4 },
+    { "hzId": "败", "hzPinyin": "bài", "hzTrad": "Fracasar", "hzHsk": 4 },
+    { "hzId": "资", "hzPinyin": "zī", "hzTrad": "Recursos", "hzHsk": 4 },
+    { "hzId": "责", "hzPinyin": "zé", "hzTrad": "Deber", "hzHsk": 4 },
+    { "hzId": "质", "hzPinyin": "zhì", "hzTrad": "Calidad", "hzHsk": 4 },
+    { "hzId": "赔", "hzPinyin": "péi", "hzTrad": "Compensar", "hzHsk": 5 },
+    { "hzId": "账", "hzPinyin": "zhàng", "hzTrad": "Cuenta", "hzHsk": 5 },
+    { "hzId": "赞", "hzPinyin": "zàn", "hzTrad": "Alabar", "hzHsk": 5 },
+    { "hzId": "赏", "hzPinyin": "shǎng", "hzTrad": "Apreciar", "hzHsk": 5 },
+    { "hzId": "贡", "hzPinyin": "gòng", "hzTrad": "Tributo", "hzHsk": 5 },
+    { "hzId": "贸", "hzPinyin": "mào", "hzTrad": "Comercio", "hzHsk": 5 },
+    { "hzId": "贝", "hzPinyin": "bèi", "hzTrad": "Concha", "hzHsk": 5 },
+    { "hzId": "贷", "hzPinyin": "dài", "hzTrad": "Prestar", "hzHsk": 5 },
+    { "hzId": "财", "hzPinyin": "cái", "hzTrad": "Riqueza", "hzHsk": 5 },
+    { "hzId": "贴", "hzPinyin": "tiē", "hzTrad": "Pegar", "hzHsk": 5 },
+    { "hzId": "赋", "hzPinyin": "fù", "hzTrad": "Talento", "hzHsk": 6 },
+    { "hzId": "赌", "hzPinyin": "dǔ", "hzTrad": "Apostar", "hzHsk": 6 },
+    { "hzId": "赂", "hzPinyin": "lù", "hzTrad": "Sobornar", "hzHsk": 6 },
+    { "hzId": "赖", "hzPinyin": "lài", "hzTrad": "Depender", "hzHsk": 6 },
+    { "hzId": "贩", "hzPinyin": "fàn", "hzTrad": "Comerciar", "hzHsk": 6 },
+    { "hzId": "赁", "hzPinyin": "lìn", "hzTrad": "Alquilar", "hzHsk": 6 },
+    { "hzId": "贼", "hzPinyin": "zéi", "hzTrad": "Ladrón", "hzHsk": 6 },
+    { "hzId": "贤", "hzPinyin": "xián", "hzTrad": "Virtuoso", "hzHsk": 6 },
+    { "hzId": "贯", "hzPinyin": "guàn", "hzTrad": "Atravesar", "hzHsk": 6 },
+    { "hzId": "贫", "hzPinyin": "pín", "hzTrad": "Pobre", "hzHsk": 6 },
+    { "hzId": "贿", "hzPinyin": "huì", "hzTrad": "Soborno", "hzHsk": 6 },
+    { "hzId": "赠", "hzPinyin": "zèng", "hzTrad": "Regalar", "hzHsk": 6 },
+    { "hzId": "贪", "hzPinyin": "tān", "hzTrad": "Codiciar", "hzHsk": 6 },
+    { "hzId": "贬", "hzPinyin": "biǎn", "hzTrad": "Devaluar", "hzHsk": 6 }
+  ]
+},
+  "赤": {
+  "hzPron": "chì",
+  "hzTrazos": 7,
+  "hzSignificado": "Rojo",
+  "datos": [
+    { "hzId": "赤", "hzPinyin": "chì", "hzTrad": "Rojo", "hzHsk": 6 }
+  ]
+},
+  "走": {
+  "hzPron": "zǒu",
+  "hzTrazos": 7,
+  "hzSignificado": "Caminar",
+  "datos": [
+    { "hzId": "起", "hzPinyin": "qǐ", "hzTrad": "Levantarse", "hzHsk": 1 },
+    { "hzId": "走", "hzPinyin": "zǒu", "hzTrad": "Caminar", "hzHsk": 2 },
+    { "hzId": "趣", "hzPinyin": "qù", "hzTrad": "Interés", "hzHsk": 3 },
+    { "hzId": "越", "hzPinyin": "yuè", "hzTrad": "Superar", "hzHsk": 3 },
+    { "hzId": "超", "hzPinyin": "chāo", "hzTrad": "Pasar", "hzHsk": 3 },
+    { "hzId": "趟", "hzPinyin": "tàng", "hzTrad": "Fila", "hzHsk": 4 },
+    { "hzId": "趁", "hzPinyin": "chèn", "hzTrad": "Aprovechar", "hzHsk": 5 },
+    { "hzId": "趋", "hzPinyin": "qū", "hzTrad": "Tender a", "hzHsk": 5 },
+    { "hzId": "赶", "hzPinyin": "gǎn", "hzTrad": "Apresurarse", "hzHsk": 5 },
+    { "hzId": "赴", "hzPinyin": "fù", "hzTrad": "Ir hacia", "hzHsk": 6 }
+  ]
+},
+  "足": {
+  "hzPron": "zú",
+  "hzTrazos": 7,
+  "hzSignificado": "Pie",
+  "datos": [
+    { "hzId": "足", "hzPinyin": "zú", "hzTrad": "Pie", "hzHsk": 2 },
+    { "hzId": "跑", "hzPinyin": "pǎo", "hzTrad": "Correr", "hzHsk": 2 },
+    { "hzId": "跳", "hzPinyin": "tiào", "hzTrad": "Saltar", "hzHsk": 2 },
+    { "hzId": "踢", "hzPinyin": "tī", "hzTrad": "Patear", "hzHsk": 2 },
+    { "hzId": "路", "hzPinyin": "lù", "hzTrad": "Camino", "hzHsk": 2 },
+    { "hzId": "跟", "hzPinyin": "gēn", "hzTrad": "Con / Seguir", "hzHsk": 3 },
+    { "hzId": "距", "hzPinyin": "jù", "hzTrad": "Distancia", "hzHsk": 4 },
+    { "hzId": "蹲", "hzPinyin": "dūn", "hzTrad": "Agacharse", "hzHsk": 5 },
+    { "hzId": "践", "hzPinyin": "jiàn", "hzTrad": "Pisar / Cumplir", "hzHsk": 5 },
+    { "hzId": "跃", "hzPinyin": "yuè", "hzTrad": "Saltar", "hzHsk": 5 },
+    { "hzId": "踩", "hzPinyin": "cǎi", "hzTrad": "Pisar", "hzHsk": 5 },
+    { "hzId": "跌", "hzPinyin": "diē", "hzTrad": "Caer", "hzHsk": 6 },
+    { "hzId": "踌", "hzPinyin": "chóu", "hzTrad": "Vacilar", "hzHsk": 6 },
+    { "hzId": "躇", "hzPinyin": "chú", "hzTrad": "Dudar", "hzHsk": 6 },
+    { "hzId": "踏", "hzPinyin": "tà", "hzTrad": "Pisar", "hzHsk": 6 },
+    { "hzId": "蹈", "hzPinyin": "dǎo", "hzTrad": "Pisar / Bailar", "hzHsk": 6 },
+    { "hzId": "蹬", "hzPinyin": "dēng", "hzTrad": "Pedalear / Pisar", "hzHsk": 6 },
+    { "hzId": "躁", "hzPinyin": "zào", "hzTrad": "Impaciente", "hzHsk": 6 },
+    { "hzId": "蹦", "hzPinyin": "bèng", "hzTrad": "Brincar", "hzHsk": 6 },
+    { "hzId": "趴", "hzPinyin": "pā", "hzTrad": "Tumbarse boca abajo", "hzHsk": 6 },
+    { "hzId": "跨", "hzPinyin": "kuà", "hzTrad": "Cruzar", "hzHsk": 6 },
+    { "hzId": "跪", "hzPinyin": "guì", "hzTrad": "Arrodillarse", "hzHsk": 6 },
+    { "hzId": "踪", "hzPinyin": "zōng", "hzTrad": "Rastro", "hzHsk": 6 },
+    { "hzId": "踊", "hzPinyin": "yǒng", "hzTrad": "Saltar / Entusiasta", "hzHsk": 6 }
+  ]
 }
 }
