@@ -2957,5 +2957,33 @@
     { "hzId": "至", "hzPinyin": "zhì", "hzTrad": "Hasta", "hzHsk": 4 },
     { "hzId": "致", "hzPinyin": "zhì", "hzTrad": "Causar", "hzHsk": 5 }
   ]
+},
+  "臼": {
+  "hzPron": "jiù",
+  "hzTrazos": 6,
+  "hzSignificado": "Mortero",
+  "datos": [
+    { "hzId": "舅", "hzPinyin": "jiù", "hzTrad": "Tío materno", "hzHsk": 5 },
+    { "hzId": "舆", "hzPinyin": "yú", "hzTrad": "Opinión pública", "hzHsk": 6 }
+  ]
+},
+  "舌": {
+  "hzPron": "shé",
+  "hzTrazos": 6,
+  "hzSignificado": "Lengua",
+  "datos": [
+    { "hzId": "舒", "hzPinyin": "shū", "hzTrad": "Relajado", "hzHsk": 3 },
+    { "hzId": "舌", "hzPinyin": "shé", "hzTrad": "Lengua", "hzHsk": 5 },
+    { "hzId": "舍", "hzPinyin": "shě", "hzTrad": "Abandonar", "hzHsk": 5 },
+    { "hzId": "舔", "hzPinyin": "tiǎn", "hzTrad": "Lamer", "hzHsk": 6 }
+  ]
+},
+  "舛": {
+  "hzPron": "chuǎn",
+  "hzTrazos": 6,
+  "hzSignificado": "Opuesto",
+  "datos": [
+    { "hzId": "舞", "hzPinyin": "wǔ", "hzTrad": "Bailar", "hzHsk": 2 }
+  ]
 }
 }
