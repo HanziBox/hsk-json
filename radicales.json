@@ -2859,5 +2859,103 @@
     { "hzId": "聋", "hzPinyin": "lóng", "hzTrad": "Sordo", "hzHsk": 6 },
     { "hzId": "耸", "hzPinyin": "sǒng", "hzTrad": "Elevarse", "hzHsk": 6 }
   ]
+},
+  "聿": {
+  "hzPron": "yù",
+  "hzTrazos": 6,
+  "hzSignificado": "Pincel",
+  "datos": [
+    { "hzId": "肃", "hzPinyin": "sù", "hzTrad": "Solemne", "hzHsk": 5 },
+    { "hzId": "肆", "hzPinyin": "sì", "hzTrad": "Desenfrenado", "hzHsk": 6 }
+  ]
+},
+  "肉-⺼": {
+  "hzPron": "ròu",
+  "hzTrazos": 6,
+  "hzSignificado": "Carne",
+  "datos": [
+    { "hzId": "能", "hzPinyin": "néng", "hzTrad": "Poder", "hzHsk": 1 },
+    { "hzId": "脑", "hzPinyin": "nǎo", "hzTrad": "Cerebro", "hzHsk": 1 },
+    { "hzId": "肉", "hzPinyin": "ròu", "hzTrad": "Carne", "hzHsk": 2 },
+    { "hzId": "脚", "hzPinyin": "jiǎo", "hzTrad": "Pie", "hzHsk": 3 },
+    { "hzId": "脸", "hzPinyin": "liǎn", "hzTrad": "Cara", "hzHsk": 3 },
+    { "hzId": "腿", "hzPinyin": "tuǐ", "hzTrad": "Pierna", "hzHsk": 3 },
+    { "hzId": "育", "hzPinyin": "yù", "hzTrad": "Educar", "hzHsk": 3 },
+    { "hzId": "胖", "hzPinyin": "pàng", "hzTrad": "Gordo", "hzHsk": 3 },
+    { "hzId": "肥", "hzPinyin": "féi", "hzTrad": "Gordo", "hzHsk": 4 },
+    { "hzId": "脾", "hzPinyin": "pí", "hzTrad": "Bazo", "hzHsk": 4 },
+    { "hzId": "脱", "hzPinyin": "tuō", "hzTrad": "Quitarse", "hzHsk": 4 },
+    { "hzId": "肤", "hzPinyin": "fū", "hzTrad": "Piel", "hzHsk": 4 },
+    { "hzId": "肚", "hzPinyin": "dù", "hzTrad": "Barriga", "hzHsk": 4 },
+    { "hzId": "脏", "hzPinyin": "zàng", "hzTrad": "Órgano", "hzHsk": 4 },
+    { "hzId": "肯", "hzPinyin": "kěn", "hzTrad": "Estar dispuesto", "hzHsk": 4 },
+    { "hzId": "膏", "hzPinyin": "gāo", "hzTrad": "Crema", "hzHsk": 4 },
+    { "hzId": "胃", "hzPinyin": "wèi", "hzTrad": "Estómago", "hzHsk": 5 },
+    { "hzId": "胆", "hzPinyin": "dǎn", "hzTrad": "Vesícula", "hzHsk": 5 },
+    { "hzId": "脖", "hzPinyin": "bó", "hzTrad": "Cuello", "hzHsk": 5 },
+    { "hzId": "胶", "hzPinyin": "jiāo", "hzTrad": "Pegamento", "hzHsk": 5 },
+    { "hzId": "膊", "hzPinyin": "bó", "hzTrad": "Brazo", "hzHsk": 5 },
+    { "hzId": "股", "hzPinyin": "gǔ", "hzTrad": "Muslo", "hzHsk": 5 },
+    { "hzId": "腰", "hzPinyin": "yāo", "hzTrad": "Cintura", "hzHsk": 5 },
+    { "hzId": "肺", "hzPinyin": "fèi", "hzTrad": "Pulmón", "hzHsk": 5 },
+    { "hzId": "腐", "hzPinyin": "fǔ", "hzTrad": "Podrido", "hzHsk": 5 },
+    { "hzId": "肩", "hzPinyin": "jiān", "hzTrad": "Hombro", "hzHsk": 5 },
+    { "hzId": "胁", "hzPinyin": "xié", "hzTrad": "Costado", "hzHsk": 5 },
+    { "hzId": "胳", "hzPinyin": "gē", "hzTrad": "Brazo", "hzHsk": 5 },
+    { "hzId": "脆", "hzPinyin": "cuì", "hzTrad": "Crujiente", "hzHsk": 5 },
+    { "hzId": "胜", "hzPinyin": "shèng", "hzTrad": "Vencer", "hzHsk": 5 },
+    { "hzId": "膀", "hzPinyin": "bǎng", "hzTrad": "Hombro", "hzHsk": 5 },
+    { "hzId": "胸", "hzPinyin": "xiōng", "hzTrad": "Pecho", "hzHsk": 5 },
+    { "hzId": "背", "hzPinyin": "bèi", "hzTrad": "Espalda", "hzHsk": 5 },
+    { "hzId": "肌", "hzPinyin": "jī", "hzTrad": "Músculo", "hzHsk": 5 },
+    { "hzId": "胡", "hzPinyin": "hú", "hzTrad": "Barba", "hzHsk": 5 },
+    { "hzId": "臂", "hzPinyin": "bì", "hzTrad": "Brazo", "hzHsk": 6 },
+    { "hzId": "腔", "hzPinyin": "qiāng", "hzTrad": "Cavidad", "hzHsk": 6 },
+    { "hzId": "肢", "hzPinyin": "zhī", "hzTrad": "Extremidad", "hzHsk": 6 },
+    { "hzId": "胞", "hzPinyin": "bāo", "hzTrad": "Célula", "hzHsk": 6 },
+    { "hzId": "膝", "hzPinyin": "xī", "hzTrad": "Rodilla", "hzHsk": 6 },
+    { "hzId": "膜", "hzPinyin": "mó", "hzTrad": "Membrana", "hzHsk": 6 },
+    { "hzId": "腮", "hzPinyin": "sāi", "hzTrad": "Mejilla", "hzHsk": 6 },
+    { "hzId": "腻", "hzPinyin": "nì", "hzTrad": "Grasiento", "hzHsk": 6 },
+    { "hzId": "膛", "hzPinyin": "táng", "hzTrad": "Tórax", "hzHsk": 6 },
+    { "hzId": "肪", "hzPinyin": "fáng", "hzTrad": "Grasa", "hzHsk": 6 },
+    { "hzId": "肴", "hzPinyin": "yáo", "hzTrad": "Plato sabroso", "hzHsk": 6 },
+    { "hzId": "脂", "hzPinyin": "zhī", "hzTrad": "Grasa", "hzHsk": 6 },
+    { "hzId": "脉", "hzPinyin": "mài", "hzTrad": "Pulso", "hzHsk": 6 },
+    { "hzId": "腥", "hzPinyin": "xīng", "hzTrad": "Olor a pescado", "hzHsk": 6 },
+    { "hzId": "肿", "hzPinyin": "zhǒng", "hzTrad": "Hinchado", "hzHsk": 6 },
+    { "hzId": "胀", "hzPinyin": "zhàng", "hzTrad": "Hincharse", "hzHsk": 6 },
+    { "hzId": "腹", "hzPinyin": "fù", "hzTrad": "Abdomen", "hzHsk": 6 },
+    { "hzId": "腾", "hzPinyin": "téng", "hzTrad": "Galopar", "hzHsk": 6 },
+    { "hzId": "肖", "hzPinyin": "xiào", "hzTrad": "Semejar", "hzHsk": 6 },
+    { "hzId": "胎", "hzPinyin": "tāi", "hzTrad": "Feto", "hzHsk": 6 },
+    { "hzId": "膨", "hzPinyin": "péng", "hzTrad": "Expandirse", "hzHsk": 6 }
+  ]
+},
+  "臣": {
+  "hzPron": "chén",
+  "hzTrazos": 6,
+  "hzSignificado": "Ministro",
+  "datos": [
+    { "hzId": "臣", "hzPinyin": "chén", "hzTrad": "Ministro", "hzHsk": 6 }
+  ]
+},
+  "自": {
+  "hzPron": "zì",
+  "hzTrazos": 6,
+  "hzSignificado": "Uno mismo",
+  "datos": [
+    { "hzId": "自", "hzPinyin": "zì", "hzTrad": "Uno mismo", "hzHsk": 2 },
+    { "hzId": "臭", "hzPinyin": "chòu", "hzTrad": "Apestoso", "hzHsk": 5 }
+  ]
+},
+  "至": {
+  "hzPron": "zhì",
+  "hzTrazos": 6,
+  "hzSignificado": "Llegar",
+  "datos": [
+    { "hzId": "至", "hzPinyin": "zhì", "hzTrad": "Hasta", "hzHsk": 4 },
+    { "hzId": "致", "hzPinyin": "zhì", "hzTrad": "Causar", "hzHsk": 5 }
+  ]
 }
 }
