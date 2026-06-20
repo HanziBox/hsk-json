@@ -2985,5 +2985,156 @@
   "datos": [
     { "hzId": "舞", "hzPinyin": "wǔ", "hzTrad": "Bailar", "hzHsk": 2 }
   ]
+},
+  "舟": {
+  "hzPron": "zhōu",
+  "hzTrazos": 6,
+  "hzSignificado": "Barca",
+  "datos": [
+    { "hzId": "船", "hzPinyin": "chuán", "hzTrad": "Barco", "hzHsk": 2 },
+    { "hzId": "般", "hzPinyin": "bān", "hzTrad": "Clase", "hzHsk": 3 },
+    { "hzId": "航", "hzPinyin": "háng", "hzTrad": "Navegar", "hzHsk": 4 },
+    { "hzId": "艘", "hzPinyin": "sōu", "hzTrad": "Clasificador para barcos", "hzHsk": 6 },
+    { "hzId": "舶", "hzPinyin": "bó", "hzTrad": "Buque", "hzHsk": 6 },
+    { "hzId": "舟", "hzPinyin": "zhōu", "hzTrad": "Barca", "hzHsk": 6 },
+    { "hzId": "舰", "hzPinyin": "jiàn", "hzTrad": "Buque de guerra", "hzHsk": 6 },
+    { "hzId": "舱", "hzPinyin": "cāng", "hzTrad": "Camarote", "hzHsk": 6 },
+    { "hzId": "艇", "hzPinyin": "tǐng", "hzTrad": "Embarcación ligera", "hzHsk": 6 }
+  ]
+},
+  "艮": {
+  "hzPron": "gèn",
+  "hzTrazos": 6,
+  "hzSignificado": "Pararse",
+  "datos": [
+    { "hzId": "良", "hzPinyin": "liáng", "hzTrad": "Bueno", "hzHsk": 5 },
+    { "hzId": "艰", "hzPinyin": "jiān", "hzTrad": "Difícil", "hzHsk": 5 }
+  ]
+},
+  "色": {
+  "hzPron": "sè",
+  "hzTrazos": 6,
+  "hzSignificado": "Color",
+  "datos": [
+    { "hzId": "色", "hzPinyin": "sè", "hzTrad": "Color", "hzHsk": 2 },
+    { "hzId": "艳", "hzPinyin": "yàn", "hzTrad": "Colorido", "hzHsk": 5 }
+  ]
+},
+  "艹": {
+  "hzPron": "cǎo",
+  "hzTrazos": 3,
+  "hzSignificado": "Hierba",
+  "datos": [
+    { "hzId": "茶", "hzPinyin": "chá", "hzTrad": "Té", "hzHsk": 1 },
+    { "hzId": "菜", "hzPinyin": "cài", "hzTrad": "Plato", "hzHsk": 1 },
+    { "hzId": "苹", "hzPinyin": "píng", "hzTrad": "Manzana", "hzHsk": 1 },
+    { "hzId": "药", "hzPinyin": "yào", "hzTrad": "Medicina", "hzHsk": 2 },
+    { "hzId": "葡", "hzPinyin": "pú", "hzTrad": "Uva", "hzHsk": 3 },
+    { "hzId": "蓝", "hzPinyin": "lán", "hzTrad": "Azul", "hzHsk": 3 },
+    { "hzId": "萄", "hzPinyin": "táo", "hzTrad": "Uva", "hzHsk": 3 },
+    { "hzId": "节", "hzPinyin": "jié", "hzTrad": "Festividad", "hzHsk": 3 },
+    { "hzId": "蕉", "hzPinyin": "jiāo", "hzTrad": "Plátano", "hzHsk": 3 },
+    { "hzId": "花", "hzPinyin": "huā", "hzTrad": "Flor", "hzHsk": 3 },
+    { "hzId": "草", "hzPinyin": "cǎo", "hzTrad": "Hierba", "hzHsk": 3 },
+    { "hzId": "获", "hzPinyin": "huò", "hzTrad": "Obtener", "hzHsk": 4 },
+    { "hzId": "范", "hzPinyin": "fàn", "hzTrad": "Ámbito", "hzHsk": 4 },
+    { "hzId": "艺", "hzPinyin": "yì", "hzTrad": "Arte", "hzHsk": 4 },
+    { "hzId": "著", "hzPinyin": "zhù", "hzTrad": "Destacado", "hzHsk": 4 },
+    { "hzId": "苦", "hzPinyin": "kǔ", "hzTrad": "Amargo", "hzHsk": 4 },
+    { "hzId": "英", "hzPinyin": "yīng", "hzTrad": "Flor", "hzHsk": 5 },
+    { "hzId": "营", "hzPinyin": "yíng", "hzTrad": "Gestionar", "hzHsk": 5 },
+    { "hzId": "苗", "hzPinyin": "miáo", "hzTrad": "Brote", "hzHsk": 5 },
+    { "hzId": "落", "hzPinyin": "luò", "hzTrad": "Caer", "hzHsk": 5 },
+    { "hzId": "荐", "hzPinyin": "jiàn", "hzTrad": "Recomendar", "hzHsk": 5 },
+    { "hzId": "藏", "hzPinyin": "cáng", "hzTrad": "Esconder", "hzHsk": 5 },
+    { "hzId": "荣", "hzPinyin": "róng", "hzTrad": "Honor", "hzHsk": 5 },
+    { "hzId": "蔬", "hzPinyin": "shū", "hzTrad": "Verdura", "hzHsk": 5 },
+    { "hzId": "薄", "hzPinyin": "báo", "hzTrad": "Delgado", "hzHsk": 5 },
+    { "hzId": "芽", "hzPinyin": "yá", "hzTrad": "Brote", "hzHsk": 6 },
+    { "hzId": "芦", "hzPinyin": "lú", "hzTrad": "Carrizo", "hzHsk": 6 },
+    { "hzId": "蒙", "hzPinyin": "méng", "hzTrad": "Cubrir", "hzHsk": 6 },
+    { "hzId": "苍", "hzPinyin": "cāng", "hzTrad": "Grisáceo", "hzHsk": 6 },
+    { "hzId": "荒", "hzPinyin": "huāng", "hzTrad": "Desolado", "hzHsk": 6 },
+    { "hzId": "茂", "hzPinyin": "mào", "hzTrad": "Exuberante", "hzHsk": 6 },
+    { "hzId": "苏", "hzPinyin": "sū", "hzTrad": "Revivir", "hzHsk": 6 },
+    { "hzId": "荡", "hzPinyin": "dàng", "hzTrad": "Mecerse", "hzHsk": 6 },
+    { "hzId": "芒", "hzPinyin": "máng", "hzTrad": "Arista", "hzHsk": 6 },
+    { "hzId": "苟", "hzPinyin": "gǒu", "hzTrad": "Descuidado", "hzHsk": 6 },
+    { "hzId": "茎", "hzPinyin": "jīng", "hzTrad": "Tallo", "hzHsk": 6 },
+    { "hzId": "薪", "hzPinyin": "xīn", "hzTrad": "Leña", "hzHsk": 6 },
+    { "hzId": "菌", "hzPinyin": "jūn", "hzTrad": "Hongo", "hzHsk": 6 },
+    { "hzId": "茫", "hzPinyin": "máng", "hzTrad": "Inmenso", "hzHsk": 6 },
+    { "hzId": "董", "hzPinyin": "dǒng", "hzTrad": "Dirigir", "hzHsk": 6 },
+    { "hzId": "萌", "hzPinyin": "méng", "hzTrad": "Brotar", "hzHsk": 6 },
+    { "hzId": "蒂", "hzPinyin": "dì", "hzTrad": "Pedúnculo", "hzHsk": 6 },
+    { "hzId": "蔓", "hzPinyin": "màn", "hzTrad": "Enredadera", "hzHsk": 6 },
+    { "hzId": "蕴", "hzPinyin": "yùn", "hzTrad": "Contener", "hzHsk": 6 },
+    { "hzId": "蔽", "hzPinyin": "bì", "hzTrad": "Ocultar", "hzHsk": 6 },
+    { "hzId": "蒸", "hzPinyin": "zhēng", "hzTrad": "Evaporar", "hzHsk": 6 },
+    { "hzId": "若", "hzPinyin": "ruò", "hzTrad": "Como", "hzHsk": 6 },
+    { "hzId": "莫", "hzPinyin": "mò", "hzTrad": "No", "hzHsk": 6 },
+    { "hzId": "葬", "hzPinyin": "zàng", "hzTrad": "Enterrar", "hzHsk": 6 },
+    { "hzId": "蓬", "hzPinyin": "péng", "hzTrad": "Desgreñado", "hzHsk": 6 },
+    { "hzId": "荧", "hzPinyin": "yíng", "hzTrad": "Lucir", "hzHsk": 6 },
+    { "hzId": "蓄", "hzPinyin": "xù", "hzTrad": "Acumular", "hzHsk": 6 },
+    { "hzId": "蔑", "hzPinyin": "miè", "hzTrad": "Despreciar", "hzHsk": 6 },
+    { "hzId": "葫", "hzPinyin": "hú", "hzTrad": "Calabaza", "hzHsk": 6 },
+    { "hzId": "蔼", "hzPinyin": "ǎi", "hzTrad": "Afable", "hzHsk": 6 }
+  ]
+},
+  "虍": {
+  "hzPron": "hū",
+  "hzTrazos": 6,
+  "hzSignificado": "Tigre",
+  "datos": [
+    { "hzId": "虎", "hzPinyin": "hǔ", "hzTrad": "Tigre", "hzHsk": 4 },
+    { "hzId": "虑", "hzPinyin": "lǜ", "hzTrad": "Considerar", "hzHsk": 4 },
+    { "hzId": "虚", "hzPinyin": "xū", "hzTrad": "Vacío", "hzHsk": 5 },
+    { "hzId": "虏", "hzPinyin": "lǔ", "hzTrad": "Capturar", "hzHsk": 6 },
+    { "hzId": "虐", "hzPinyin": "nüè", "hzTrad": "Cruel", "hzHsk": 6 }
+  ]
+},
+  "虫": {
+  "hzPron": "chóng",
+  "hzTrazos": 6,
+  "hzSignificado": "Insecto",
+  "datos": [
+    { "hzId": "蛋", "hzPinyin": "dàn", "hzTrad": "Huevo", "hzHsk": 2 },
+    { "hzId": "虽", "hzPinyin": "suī", "hzTrad": "Aunque", "hzHsk": 3 },
+    { "hzId": "蝶", "hzPinyin": "dié", "hzTrad": "Mariposa", "hzHsk": 5 },
+    { "hzId": "蜂", "hzPinyin": "fēng", "hzTrad": "Abeja", "hzHsk": 5 },
+    { "hzId": "虹", "hzPinyin": "hóng", "hzTrad": "Arcoíris", "hzHsk": 5 },
+    { "hzId": "融", "hzPinyin": "róng", "hzTrad": "Derretirse", "hzHsk": 5 },
+    { "hzId": "蜜", "hzPinyin": "mì", "hzTrad": "Miel", "hzHsk": 5 },
+    { "hzId": "蝴", "hzPinyin": "hú", "hzTrad": "Mariposa", "hzHsk": 5 },
+    { "hzId": "蛇", "hzPinyin": "shé", "hzTrad": "Serpiente", "hzHsk": 5 },
+    { "hzId": "蜡", "hzPinyin": "là", "hzTrad": "Cera", "hzHsk": 5 },
+    { "hzId": "虫", "hzPinyin": "chóng", "hzTrad": "Insecto", "hzHsk": 6 },
+    { "hzId": "蚀", "hzPinyin": "shí", "hzTrad": "Erosionar", "hzHsk": 6 },
+    { "hzId": "蛮", "hzPinyin": "mán", "hzTrad": "Bárbaro", "hzHsk": 6 },
+    { "hzId": "螺", "hzPinyin": "luó", "hzTrad": "Caracol", "hzHsk": 6 },
+    { "hzId": "蠢", "hzPinyin": "chǔn", "hzTrad": "Estúpido", "hzHsk": 6 }
+  ]
+},
+  "血": {
+  "hzPron": "xuè",
+  "hzTrazos": 6,
+  "hzSignificado": "Sangre",
+  "datos": [
+    { "hzId": "血", "hzPinyin": "xuè", "hzTrad": "Sangre", "hzHsk": 4 },
+    { "hzId": "衅", "hzPinyin": "xìn", "hzTrad": "Provocar", "hzHsk": 6 }
+  ]
+},
+  "行": {
+  "hzPron": "xíng",
+  "hzTrazos": 6,
+  "hzSignificado": "Caminar",
+  "datos": [
+    { "hzId": "行", "hzPinyin": "xíng", "hzTrad": "Caminar", "hzHsk": 2 },
+    { "hzId": "街", "hzPinyin": "jiē", "hzTrad": "Calle", "hzHsk": 3 },
+    { "hzId": "衡", "hzPinyin": "héng", "hzTrad": "Equilibrar", "hzHsk": 5 },
+    { "hzId": "衔", "hzPinyin": "xián", "hzTrad": "Sostener en la boca", "hzHsk": 6 },
+    { "hzId": "衍", "hzPinyin": "yǎn", "hzTrad": "Desarrollar", "hzHsk": 6 }
+  ]
 }
 }
