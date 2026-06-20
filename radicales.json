@@ -2725,7 +2725,7 @@
     { "hzId": "组", "hzPinyin": "zǔ", "hzTrad": "Organizar", "hzHsk": 4 },
     { "hzId": "细", "hzPinyin": "xì", "hzTrad": "Fino", "hzHsk": 4 },
     { "hzId": "绝", "hzPinyin": "jué", "hzTrad": "Absoluto", "hzHsk": 4 },
-    { "hzId": "绪", "hzPinyin": "xù", "hzTrad": "Hilo del pensamiento", "hzHsk": 5 },
+    { "hzId": "绪", "hzPinyin": "xù", "hzTrad": "Hilo (pensam.)", "hzHsk": 5 },
     { "hzId": "编", "hzPinyin": "biān", "hzTrad": "Redactar", "hzHsk": 5 },
     { "hzId": "维", "hzPinyin": "wéi", "hzTrad": "Mantener", "hzHsk": 5 },
     { "hzId": "线", "hzPinyin": "xiàn", "hzTrad": "Línea", "hzHsk": 5 },
@@ -2785,6 +2785,79 @@
     { "hzId": "署", "hzPinyin": "shǔ", "hzTrad": "Oficina", "hzHsk": 6 },
     { "hzId": "罢", "hzPinyin": "bà", "hzTrad": "Cesar", "hzHsk": 6 },
     { "hzId": "罩", "hzPinyin": "zhào", "hzTrad": "Cubierta", "hzHsk": 6 }
+  ]
+},
+  "羊": {
+  "hzPron": "yáng",
+  "hzTrazos": 6,
+  "hzSignificado": "Oveja",
+  "datos": [
+    { "hzId": "羊", "hzPinyin": "yáng", "hzTrad": "Oveja", "hzHsk": 2 },
+    { "hzId": "羞", "hzPinyin": "xiū", "hzTrad": "Tímido", "hzHsk": 4 },
+    { "hzId": "美", "hzPinyin": "měi", "hzTrad": "Hermoso", "hzHsk": 4 },
+    { "hzId": "羡", "hzPinyin": "xiàn", "hzTrad": "Envidiar", "hzHsk": 4 },
+    { "hzId": "群", "hzPinyin": "qún", "hzTrad": "Grupo", "hzHsk": 4 }
+  ]
+},
+  "羽": {
+  "hzPron": "yǔ",
+  "hzTrazos": 6,
+  "hzSignificado": "Pluma",
+  "datos": [
+    { "hzId": "翻", "hzPinyin": "fān", "hzTrad": "Girar", "hzHsk": 4 },
+    { "hzId": "羽", "hzPinyin": "yǔ", "hzTrad": "Pluma", "hzHsk": 4 },
+    { "hzId": "翅", "hzPinyin": "chì", "hzTrad": "Ala", "hzHsk": 5 },
+    { "hzId": "翼", "hzPinyin": "yì", "hzTrad": "Ala", "hzHsk": 6 },
+    { "hzId": "耀", "hzPinyin": "yào", "hzTrad": "Brillar", "hzHsk": 6 },
+    { "hzId": "翘", "hzPinyin": "qiào", "hzTrad": "Levantar", "hzHsk": 6 },
+    { "hzId": "翔", "hzPinyin": "xiáng", "hzTrad": "Planear", "hzHsk": 6 }
+  ]
+},
+  "老": {
+  "hzPron": "lǎo",
+  "hzTrazos": 6,
+  "hzSignificado": "Viejo",
+  "datos": [
+    { "hzId": "老", "hzPinyin": "lǎo", "hzTrad": "Viejo", "hzHsk": 1 },
+    { "hzId": "考", "hzPinyin": "kǎo", "hzTrad": "Examinar", "hzHsk": 2 },
+    { "hzId": "者", "hzPinyin": "zhě", "hzTrad": "Persona", "hzHsk": 3 }
+  ]
+},
+  "而": {
+  "hzPron": "ér",
+  "hzTrazos": 6,
+  "hzSignificado": "Y además",
+  "datos": [
+    { "hzId": "而", "hzPinyin": "ér", "hzTrad": "Y", "hzHsk": 3 },
+    { "hzId": "耐", "hzPinyin": "nài", "hzTrad": "Soportar", "hzHsk": 4 },
+    { "hzId": "耍", "hzPinyin": "shuǎ", "hzTrad": "Jugar", "hzHsk": 6 }
+  ]
+},
+  "耒": {
+  "hzPron": "lěi",
+  "hzTrazos": 6,
+  "hzSignificado": "Arado",
+  "datos": [
+    { "hzId": "耗", "hzPinyin": "hào", "hzTrad": "Consumir", "hzHsk": 6 },
+    { "hzId": "耕", "hzPinyin": "gēng", "hzTrad": "Arar", "hzHsk": 6 }
+  ]
+},
+  "耳": {
+  "hzPron": "ěr",
+  "hzTrazos": 6,
+  "hzSignificado": "Oreja",
+  "datos": [
+    { "hzId": "耳", "hzPinyin": "ěr", "hzTrad": "Oreja", "hzHsk": 3 },
+    { "hzId": "聪", "hzPinyin": "cōng", "hzTrad": "Inteligente", "hzHsk": 3 },
+    { "hzId": "聘", "hzPinyin": "pìn", "hzTrad": "Contratar", "hzHsk": 4 },
+    { "hzId": "职", "hzPinyin": "zhí", "hzTrad": "Puesto", "hzHsk": 4 },
+    { "hzId": "聊", "hzPinyin": "liáo", "hzTrad": "Charlar", "hzHsk": 4 },
+    { "hzId": "联", "hzPinyin": "lián", "hzTrad": "Unir", "hzHsk": 4 },
+    { "hzId": "耽", "hzPinyin": "dān", "hzTrad": "Retrasar", "hzHsk": 5 },
+    { "hzId": "聚", "hzPinyin": "jù", "hzTrad": "Reunirse", "hzHsk": 5 },
+    { "hzId": "耻", "hzPinyin": "chǐ", "hzTrad": "Vergüenza", "hzHsk": 6 },
+    { "hzId": "聋", "hzPinyin": "lóng", "hzTrad": "Sordo", "hzHsk": 6 },
+    { "hzId": "耸", "hzPinyin": "sǒng", "hzTrad": "Elevarse", "hzHsk": 6 }
   ]
 }
 }
