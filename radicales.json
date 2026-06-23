@@ -3519,6 +3519,8 @@
   "hzPron": "fù",
   "hzTrazos": 2,
   "hzSignificado": "Ciudad",
+  "hzNota": "En su forma alternativa, 阝siempre va a la derecha. No confundir con la variante de 阜 (170) que también se escribe 阝pero va siempre a la izquierda.",  
+  
   "datos": [
     { "hzId": "都", "hzPinyin": "dōu", "hzTrad": "Todos", "hzHsk": 1 },
     { "hzId": "那", "hzPinyin": "nà", "hzTrad": "Aquel", "hzHsk": 1 },
@@ -3647,7 +3649,7 @@
   "hzPron": "fù",
   "hzTrazos": 8,
   "hzSignificado": "Colina",
-  "hzNota": "En su forma alternativa, 阝siempre va a la izquierda. No confundir con la variante de 邑 (170) que también se escribe 阝pero va siempre a la derecha.",  
+  "hzNota": "En su forma alternativa, 阝siempre va a la izquierda. No confundir con la variante de 邑 (163) que también se escribe 阝pero va siempre a la derecha.",  
   "datos": [
     { "hzId": "院", "hzPinyin": "yuàn", "hzTrad": "Patio", "hzHsk": 1 },
     { "hzId": "阴", "hzPinyin": "yīn", "hzTrad": "Nublado", "hzHsk": 2 },
