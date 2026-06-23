@@ -803,6 +803,7 @@
   "hzPron": "shì",
   "hzTrazos": 3,
   "hzSignificado": "Erudito",
+  "hzNota": "No confundir con el radical 土 (32), este tiene los brazos más largos y la base más estrecha.", 
   "datos": [
     { "hzId": "声", "hzPinyin": "shēng", "hzTrad": "Sonido", "hzHsk": 3 },
     { "hzId": "士", "hzPinyin": "shì", "hzTrad": "Erudito", "hzHsk": 4 },
