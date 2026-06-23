@@ -726,6 +726,7 @@
   "hzPron": "wéi",
   "hzTrazos": 3,
   "hzSignificado": "Cercado",
+  "hzNota": "No confundir con el radical 口 (30), este es algo más grande y siempre es externo, envolviendo otros elementos.", 
   "datos": [
     { "hzId": "四", "hzPinyin": "sì", "hzTrad": "Cuatro", "hzHsk": 1 },
     { "hzId": "回", "hzPinyin": "huí", "hzTrad": "Volver", "hzHsk": 1 },
