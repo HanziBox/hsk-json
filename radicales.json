@@ -377,6 +377,7 @@
   "hzPron": "dāo",
   "hzTrazos": 2,
   "hzSignificado": "Cuchillo",
+  "hzNota": "A veces adopta la forma compimida ⺈ cuando aparece arriba, pero sin ningún significado.", 
   "datos": [
     { "hzId": "分", "hzPinyin": "fēn", "hzTrad": "Minuto", "hzHsk": 1 },
     { "hzId": "前", "hzPinyin": "qián", "hzTrad": "Adelante", "hzHsk": 1 },
@@ -2925,6 +2926,8 @@
   "hzPron": "zì",
   "hzTrazos": 6,
   "hzSignificado": "Uno mismo",
+  "hzNota": "自 originalmente representaba una nariz en chino antiguo, pero por evolución metafórica pasó a significar “uno mismo”.",  
+
   "datos": [
     { "hzId": "自", "hzPinyin": "zì", "hzTrad": "Uno mismo", "hzHsk": 2 },
     { "hzId": "臭", "hzPinyin": "chòu", "hzTrad": "Apestoso", "hzHsk": 5 }
