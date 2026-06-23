@@ -4085,6 +4085,7 @@
   "hzPron": "chǐ",
   "hzTrazos": 8,
   "hzSignificado": "Diente",
+  "hzNota": "Este radical es más formal y técnico que 牙 (92) y se usa sobre todo en ciencia, medicina o mecánica.",   
   "datos": [
     { "hzId": "龄", "hzPinyin": "líng", "hzTrad": "Edad", "hzHsk": 4 },
     { "hzId": "齿", "hzPinyin": "chǐ", "hzTrad": "Diente", "hzHsk": 6 }
