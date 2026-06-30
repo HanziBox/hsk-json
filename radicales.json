@@ -290,7 +290,7 @@
   "hzTrazos": 2,
   "hzSignificado": "Ocho",
   "datos": [
-    { "hzId": "兴", "hzPinyin": "xìng", "hzTrad": "Interés", "hzHsk": 1 },
+    { "hzId": "兴", "hzPinyin": "xīng/xìng", "hzTrad": "Interés", "hzHsk": 1 },
     { "hzId": "关", "hzPinyin": "guān", "hzTrad": "Cerrar", "hzHsk": 1 },
     { "hzId": "六", "hzPinyin": "liù", "hzTrad": "Seis", "hzHsk": 1 },
     { "hzId": "八", "hzPinyin": "bā", "hzTrad": "Ocho", "hzHsk": 1 },
