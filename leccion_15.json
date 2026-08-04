@@ -39,7 +39,7 @@
         "pinyin": "shì"
       },
       {
-        "hanzi": "(一)",
+        "hanzi": "一",
         "pinyin": "yī"
       },
       {
@@ -55,7 +55,8 @@
         "pinyin": "rén"
       }
     ],
-    "translation": "Tu mamá es una buena persona"
+    "translation": "Tu mamá es una buena persona",
+    "note": "NOTA: Recuerda que en este caso yī 一 se puede omitir."
   },
   {
     "words": [
