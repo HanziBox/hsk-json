@@ -11,7 +11,8 @@
         {
         "words": [
             {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "还有", "pinyin": "háiyǒu"},
+            {"hanzi": "还", "pinyin": "hái"},
+            {"hanzi": "有", "pinyin": "yǒu"},
             {"hanzi": "你的", "pinyin": "nǐde"},
             {"hanzi": "书", "pinyin": "shū"}
         ],
