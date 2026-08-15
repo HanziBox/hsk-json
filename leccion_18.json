@@ -72,9 +72,13 @@
         "hanzi": "只",
         "pinyin": "zhī"
       },
+            {
+        "hanzi": "小",
+        "pinyin": "xiǎo"
+      },
       {
-        "hanzi": "小猫",
-        "pinyin": "xiǎomāo"
+        "hanzi": "猫",
+        "pinyin": "māo"
       }
     ],
     "translation": "Mi gata tiene cinco gatitos"
