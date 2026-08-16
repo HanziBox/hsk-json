@@ -4,7 +4,7 @@
             {"hanzi": "她", "pinyin": "tā"},
             {"hanzi": "是", "pinyin": "shì"},
             {"hanzi": "我", "pinyin": "wǒ"},
-            {"hanzi": "(的)", "pinyin": "(de)"},
+            {"hanzi": "的", "pinyin": "de"},
             {"hanzi": "朋友", "pinyin": "péngyou"}
         ],
         "translation": "Ella es mi amiga."
