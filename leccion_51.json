@@ -114,16 +114,6 @@
   },
   {
     "words": [
-      {"hanzi": "谁", "pinyin": "shéi"},
-      {"hanzi": "让", "pinyin": "ràng"},
-      {"hanzi": "你", "pinyin": "nǐ"},
-      {"hanzi": "来", "pinyin": "lái"},
-      {"hanzi": "的", "pinyin": "de"}
-    ],
-    "translation": "¿Quién te ha mandado venir?"
-  },
-  {
-    "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "妈妈", "pinyin": "māma"},
       {"hanzi": "什么", "pinyin": "shénme"},
