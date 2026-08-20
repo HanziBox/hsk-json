@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "audio": "https://www.hanzibox.com/stuff/KARAOKE_AUDIOS/K_01.mp3",
+    "sentenceTranslation": "No soy tu profesora.",
+    "words": [
+      { "tone": "ˇ", "pinyin": "wǒ", "hanzi": "我", "translation": "yo" },
+      { "tone": "ˊ", "pinyin": "bú", "hanzi": "不", "translation": "no" },
+      { "tone": "ˋ", "pinyin": "shì", "hanzi": "是", "translation": "soy" },
+      { "tone": "ˇ", "pinyin": "nǐ", "hanzi": "你", "translation": "tu" },
+      { "tone": "•", "pinyin": "de", "hanzi": "的", "translation": "(de)", "isNeutral": true },
+      { "tone": "ˇ", "pinyin": "lǎo", "hanzi": "老", "translation": "profesor/a" },
+      { "tone": "ˉ", "pinyin": "shī", "hanzi": "师", "translation": "" }
+    ]
+  },
+  {
+    "id": 2,
+    "audio": "https://www.hanzibox.com/stuff/KARAOKE_AUDIOS/K_02.mp3",
+    "sentenceTranslation": "Ella no quiere el mío.",
+    "words": [
+      { "tone": "ˉ", "pinyin": "tā", "hanzi": "她", "translation": "ella" },
+      { "tone": "ˊ", "pinyin": "bú", "hanzi": "不", "translation": "no" },
+      { "tone": "ˋ", "pinyin": "yào", "hanzi": "要", "translation": "quiere" },
+      { "tone": "ˇ", "pinyin": "wǒ", "hanzi": "我", "translation": "mío" },
+      { "tone": "•", "pinyin": "de", "hanzi": "的", "translation": "", "isNeutral": true }
+    ]
+  },
+  {
+    "id": 3,
+    "audio": "https://www.hanzibox.com/stuff/KARAOKE_AUDIOS/K_03.mp3",
+    "sentenceTranslation": "Ellos quieren dos vasos de agua.",
+    "words": [
+      { "tone": "ˉ", "pinyin": "tā", "hanzi": "他", "translation": "ellos" },
+      { "tone": "•", "pinyin": "men", "hanzi": "们", "translation": "", "isNeutral": true },
+      { "tone": "ˋ", "pinyin": "yào", "hanzi": "要", "translation": "quieren" },
+      { "tone": "ˇ", "pinyin": "liǎng", "hanzi": "两", "translation": "dos" },
+      { "tone": "ˉ", "pinyin": "bēi", "hanzi": "杯", "translation": "vasos" },
+      { "tone": "ˇ", "pinyin": "shuǐ", "hanzi": "水", "translation": "agua" }
+    ]
+  }
+]
