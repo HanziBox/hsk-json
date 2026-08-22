@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我不要 your 钱 / 我不要你的钱。",
+    "targetAudioText": "我不要你的钱。",
+    "pinyin": "Wǒ bú yào nǐ de qián.",
+    "exactMatches": [
+      "no quiero tu dinero",
+      "no quiero tu plata"
+    ],
+    "keywords": [
+      ["no"],
+      ["quiero"],
+      ["tu"],
+      ["dinero", "plata"]
+    ],
+    "modelTranslation": "No quiero tu dinero."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "他们想看电视。",
+    "pinyin": "Tāmen xiǎng kàn diànshì.",
+    "exactMatches": [
+      "ellos quieren ver la tele",
+      "ellas quieren ver la tele",
+      "ellos quieren ver la television",
+      "ellas quieren ver la television",
+      "quieren ver la tele",
+      "quieren ver la television"
+    ],
+    "keywords": [
+      ["quieren", "desean"],
+      ["ver", "mirar"],
+      ["tele", "television"]
+    ],
+    "modelTranslation": "Ellos quieren ver la televisión."
+  },
+  {
+    "id": 3,
+    "targetAudioText": "你爸爸不想去公园。",
+    "pinyin": "Nǐ bàba bù xiǎng qù gōngyuán.",
+    "exactMatches": [
+      "tu padre no quiere ir al parque",
+      "tu papa no quiere ir al parque"
+    ],
+    "keywords": [
+      ["padre", "papa"],
+      ["no"],
+      ["quiere"],
+      ["ir"],
+      ["parque"]
+    ],
+    "modelTranslation": "Tu padre no quiere ir al parque."
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我们需要一点钱。",
+    "pinyin": "Wǒ xūyào yìdiǎn qián.",
+    "exactMatches": [
+      "necesito un poco de dinero",
+      "necesito algo de dinero",
+      "necesito un poco de plata"
+    ],
+    "keywords": [
+      ["necesito"],
+      ["poco", "algo"],
+      ["dinero", "plata"]
+    ],
+    "modelTranslation": "Necesito un poco de dinero."
+  },
+  {
+    "id": 5,
+    "targetAudioText": "我们要两杯茶。",
+    "pinyin": "Wǒmen yào liǎng bēi chá.",
+    "exactMatches": [
+      "queremos dos tazas de te",
+      "queremos dos vasos de te"
+    ],
+    "keywords": [
+      ["queremos"],
+      ["dos"],
+      ["tazas", "vasos"],
+      ["te"]
+    ],
+    "modelTranslation": "Queremos dos tazas de té."
+  },
+  {
+    "id": 6,
+    "targetAudioText": "我不想吃肉。",
+    "pinyin": "Wǒ bù xiǎng chī ròu.",
+    "exactMatches": [
+      "no quiero comer carne"
+    ],
+    "keywords": [
+      ["no"],
+      ["quiero"],
+      ["comer"],
+      ["carne"]
+    ],
+    "modelTranslation": "No quiero comer carne."
+  }
+]
