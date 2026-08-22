@@ -55,14 +55,14 @@
   {
     "id": 4,
     "targetAudioText": "我们需要一点钱。",
-    "pinyin": "Wǒ xūyào yìdiǎn qián.",
+    "pinyin": "Wǒmen xūyào yìdiǎn qián.",
     "exactMatches": [
-      "necesito un poco de dinero",
-      "necesito algo de dinero",
-      "necesito un poco de plata"
+      "necesitamos un poco de dinero",
+      "necesitamos algo de dinero",
+      "necesitamos un poco de plata"
     ],
     "keywords": [
-      ["necesito"],
+      ["necesitamos"],
       ["poco", "algo"],
       ["dinero", "plata"]
     ],
