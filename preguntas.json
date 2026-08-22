@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我昨天买了一本书。",
+    "pinyin": "Wǒ zuótiān mǎi le yì běn shū.",
+    "exactMatches": [
+      "ayer compre un libro",
+      "compre un libro ayer",
+      "me compre un libro ayer",
+      "ayer me compre un libro"
+    ],
+    "keywords": [
+      ["ayer"],
+      ["compre", "comprado"],
+      ["libro"]
+    ],
+    "modelTranslation": "Ayer compré un libro."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "你明天去北京吗？",
+    "pinyin": "Nǐ míngtiān qù Běijīng ma?",
+    "exactMatches": [
+      "vas a pekin mañana",
+      "iras a pekin mañana",
+      "mañana vas a pekin",
+      "mañana iras a beijing",
+      "vas a beijing mañana"
+    ],
+    "keywords": [
+      ["manana"],
+      ["vas", "iras", "vayas"],
+      ["pekin", "beijing"]
+    ],
+    "modelTranslation": "¿Vas a Pekín mañana?"
+  }
+]
