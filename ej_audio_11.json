@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "他们是老师。",
+    "pinyin": "Tāmen shì lǎoshī.",
+    "exactMatches": [
+      "ellos son profesores",
+      "ellas son profesoras",
+      "ellos son maestros",
+      "ellas son maestras",
+      "son profesores",
+      "son profesoras",
+      "son maestros",
+      "son maestras"
+    ],
+    "keywords": [
+      ["profesores", "profesoras", "maestros", "maestras"]
+    ],
+    "modelTranslation": "Ellos/as son profesores."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "这只猫是我的。",
+    "pinyin": "Zhè zhī māo shì wǒ de.",
+    "exactMatches": [
+      "este gato es mio",
+      "este gato es el mio"
+    ],
+    "keywords": [
+      ["este"],
+      ["gato"],
+      ["mio"]
+    ],
+    "modelTranslation": "Este gato es mío."
+  },
+  {
+    "id": 3,
+    "targetAudioText": "那个人是中国人。",
+    "pinyin": "Nà ge rén shì Zhōngguó rén.",
+    "exactMatches": [
+      "esa persona es china",
+      "aquella persona es china"
+    ],
+    "keywords": [
+      ["esa", "aquella"],
+      ["persona"],
+      ["china"]
+    ],
+    "modelTranslation": "Esa persona es china."
+  },
+  {
+    "id": 4,
+    "targetAudioText": "你们不是老师。",
+    "pinyin": "Nǐmen bú shì lǎoshī.",
+    "exactMatches": [
+      "vosotros no sois profesores",
+      "vosotras no sois profesoras",
+      "ustedes no son profesores",
+      "ustedes no son profesores",
+      "no sois profesores",
+      "no sois profesoras",
+      "no son profesores",
+      "no son profesoras"
+    ],
+    "keywords": [
+      ["no"],
+      ["sois", "son"],
+      ["profesores", "profesoras", "maestros", "maestras"]
+    ],
+    "modelTranslation": "Vosotros no sois profesores."
+  },
+  {
+    "id": 5,
+    "targetAudioText": "她是我的妈妈。",
+    "pinyin": "Tā shì wǒ de māma.",
+    "exactMatches": [
+      "ella es mi madre",
+      "ella es mi mama"
+    ],
+    "keywords": [
+      ["ella"],
+      ["mi"],
+      ["madre", "mama"]
+    ],
+    "modelTranslation": "Ella es mi madre."
+  },
+  {
+    "id": 6,
+    "targetAudioText": "这些是你的照片。",
+    "pinyin": "Zhèxiē shì nǐ de zhàopiàn.",
+    "exactMatches": [
+      "estas son tus fotos",
+      "estas son tus fotografias"
+    ],
+    "keywords": [
+      ["estas"],
+      ["son"],
+      ["tus"],
+      ["fotos", "fotografias"]
+    ],
+    "modelTranslation": "Estas son tus fotos."
+  },
+  {
+    "id": 7,
+    "targetAudioText": "这是我的朋友。",
+    "pinyin": "Zhè shì wǒ de péngyou.",
+    "exactMatches": [
+      "este es mi amigo",
+      "esta es mi amiga"
+    ],
+    "keywords": [
+      ["este", "esta"],
+      ["mi"],
+      ["amigo", "amiga"]
+    ],
+    "modelTranslation": "Este es mi amigo."
+  },
+  {
+    "id": 8,
+    "targetAudioText": "那些人是中国人。",
+    "pinyin": "Nàxiē rén shì Zhōngguó rén.",
+    "exactMatches": [
+      "esa gente es china",
+      "esas personas son chinas",
+      "aquella gente es china",
+      "aquellas personas son chinas"
+    ],
+    "keywords": [
+      ["esa", "esas", "aquella", "aquellas"],
+      ["gente", "personas"],
+      ["china", "chinas"]
+    ],
+    "modelTranslation": "Esa gente (personas) son chinas."
+  }
+]
