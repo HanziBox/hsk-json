@@ -16,7 +16,7 @@
     "keywords": [
       ["profesores", "profesoras", "maestros", "maestras"]
     ],
-    "modelTranslation": "Ellos/as son profesores."
+    "modelTranslation": "Ellos/as son profesore/as."
   },
   {
     "id": 2,
@@ -56,7 +56,7 @@
       "vosotros no sois profesores",
       "vosotras no sois profesoras",
       "ustedes no son profesores",
-      "ustedes no son profesores",
+      "ustedes no son profesoras",
       "no sois profesores",
       "no sois profesoras",
       "no son profesores",
@@ -75,6 +75,7 @@
     "pinyin": "Tā shì wǒ de māma.",
     "exactMatches": [
       "ella es mi madre",
+      "es mi madre",
       "ella es mi mama"
     ],
     "keywords": [
@@ -113,7 +114,7 @@
       ["mi"],
       ["amigo", "amiga"]
     ],
-    "modelTranslation": "Este es mi amigo."
+    "modelTranslation": "Este/a es mi amigo/a."
   },
   {
     "id": 8,
