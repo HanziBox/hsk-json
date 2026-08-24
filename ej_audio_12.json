@@ -1,23 +1,5 @@
 [
   {
-    "id": 1,
-    "targetAudioText": "这只猫是我妈妈的。",
-    "pinyin": "Zhè zhī māo shì wǒ māma de.",
-    "exactMatches": [
-      "este gato es de mi madre",
-      "este gato es de mi mama",
-      "esta gata es de mi madre",
-      "esta gata es de mi mama"
-    ],
-    "keywords": [
-      ["este", "esta"],
-      ["gato", "gata"],
-      ["mi"],
-      ["madre", "mama"]
-    ],
-    "modelTranslation": "Este gato es de mi madre."
-  },
-  {
     "id": 2,
     "targetAudioText": "那个人是中国人。",
     "pinyin": "Nà ge rén shì Zhōngguó rén.",
@@ -79,6 +61,24 @@
       ["cafe"]
     ],
     "modelTranslation": "Eso no es café."
+  },
+    {
+    "id": 1,
+    "targetAudioText": "这只猫是我妈妈的。",
+    "pinyin": "Zhè zhī māo shì wǒ māma de.",
+    "exactMatches": [
+      "este gato es de mi madre",
+      "este gato es de mi mama",
+      "esta gata es de mi madre",
+      "esta gata es de mi mama"
+    ],
+    "keywords": [
+      ["este", "esta"],
+      ["gato", "gata"],
+      ["mi"],
+      ["madre", "mama"]
+    ],
+    "modelTranslation": "Este gato es de mi madre."
   },
   {
     "id": 6,
