@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "三本书",
+    "pinyin": "sān běn shū",
+    "exactMatches": [
+      "tres libros"
+    ],
+    "keywords": [
+      ["tres"],
+      ["libros"]
+    ],
+    "modelTranslation": "Tres libros."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "六个朋友",
+    "pinyin": "liù ge péngyou",
+    "exactMatches": [
+      "seis amigos",
+      "seis amigas"
+    ],
+    "keywords": [
+      ["seis"],
+      ["amigos", "amigas"]
+    ],
+    "modelTranslation": "Seis amigos."
+  },
+  {
+    "id": 3,
+    "targetAudioText": "七只狗",
+    "pinyin": "qī zhī gǒu",
+    "exactMatches": [
+      "siete perros",
+      "siete perras"
+    ],
+    "keywords": [
+      ["siete"],
+      ["perros", "perras"]
+    ],
+    "modelTranslation": "Siete perros."
+  },
+  {
+    "id": 4,
+    "targetAudioText": "一只猫",
+    "pinyin": "yì zhī māo",
+    "exactMatches": [
+      "un gato",
+      "una gata"
+    ],
+    "keywords": [
+      ["un", "una"],
+      ["gato", "gata"]
+    ],
+    "modelTranslation": "Un gato."
+  },
+  {
+    "id": 5,
+    "targetAudioText": "张照片",
+    "pinyin": "yì zhāng zhàopiàn",
+    "exactMatches": [
+      "una fotografia",
+      "una foto"
+    ],
+    "keywords": [
+      ["una"],
+      ["fotografia", "foto"]
+    ],
+    "modelTranslation": "Una fotografía."
+  },
+  {
+    "id": 6,
+    "targetAudioText": "半杯水",
+    "pinyin": "bàn bēi shuǐ",
+    "exactMatches": [
+      "medio vaso de agua",
+      "media taza de agua"
+    ],
+    "keywords": [
+      ["medio", "media"],
+      ["vaso", "taza"],
+      ["agua"]
+    ],
+    "modelTranslation": "Medio vaso de agua."
+  },
+  {
+    "id": 7,
+    "targetAudioText": "十个人",
+    "pinyin": "shí ge rén",
+    "exactMatches": [
+      "diez personas",
+      "diez gentes"
+    ],
+    "keywords": [
+      ["diez"],
+      ["personas", "gente"]
+    ],
+    "modelTranslation": "Diez personas."
+  },
+  {
+    "id": 8,
+    "targetAudioText": "两瓶啤酒",
+    "pinyin": "liǎng píng píjiǔ",
+    "exactMatches": [
+      "dos botellas de cerveza"
+    ],
+    "keywords": [
+      ["dos"],
+      ["botellas"],
+      ["cerveza"]
+    ],
+    "modelTranslation": "Dos botellas de cerveza."
+  },
+  {
+    "id": 9,
+    "targetAudioText": "两杯茶",
+    "pinyin": "liǎng bēi chá",
+    "exactMatches": [
+      "dos tazas de te",
+      "dos vasos de te"
+    ],
+    "keywords": [
+      ["dos"],
+      ["tazas", "vasos"],
+      ["te"]
+    ],
+    "modelTranslation": "Dos tazas de té."
+  },
+  {
+    "id": 10,
+    "targetAudioText": "一瓶半啤酒",
+    "pinyin": "yì píng bàn píjiǔ",
+    "exactMatches": [
+      "una cerveza y media",
+      "una botella de cerveza y media",
+      "una botella y media de cerveza"
+    ],
+    "keywords": [
+      ["una"],
+      ["cerveza"],
+      ["media"]
+    ],
+    "modelTranslation": "Una cerveza y media."
+  },
+  {
+    "id": 11,
+    "targetAudioText": "五只鸟",
+    "pinyin": "wǔ zhī niǎo",
+    "exactMatches": [
+      "cinco pajaros",
+      "cinco aves"
+    ],
+    "keywords": [
+      ["cinco"],
+      ["pajaros", "aves"]
+    ],
+    "modelTranslation": "Cinco pájaros."
+  },
+  {
+    "id": 12,
+    "targetAudioText": "我的一个老师",
+    "pinyin": "wǒ de yí ge lǎoshī",
+    "exactMatches": [
+      "uno de mis profesores",
+      "una de mis profesoras",
+      "uno de mis maestros",
+      "una de mis maestras"
+    ],
+    "keywords": [
+      ["uno", "una"],
+      ["mis"],
+      ["profesores", "profesoras", "maestros", "maestras"]
+    ],
+    "modelTranslation": "Uno de mis profesores."
+  }
+]
