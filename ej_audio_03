@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我的手机",
+    "pinyin": "Wǒ de shǒujī",
+    "exactMatches": [
+      "mi telefono movil",
+      "mi movil",
+      "mi celular",
+      "mi telefono"
+    ],
+    "keywords": [
+      ["mi"],
+      ["telefono", "movil", "celular"]
+    ],
+    "modelTranslation": "Mi teléfono móvil."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "你的猫",
+    "pinyin": "Nǐ de māo",
+    "exactMatches": [
+      "tu gato",
+      "tu gata"
+    ],
+    "keywords": [
+      ["tu"],
+      ["gato", "gata"]
+    ],
+    "modelTranslation": "Tu gato."
+  },
+  {
+    "id": 3,
+    "targetAudioText": "中国的手机",
+    "pinyin": "Zhōngguó de shǒujī",
+    "exactMatches": [
+      "telefono movil chino",
+      "movil chino",
+      "celular chino",
+      "telefono chino"
+    ],
+    "keywords": [
+      ["telefono", "movil", "celular"],
+      ["chino"]
+    ],
+    "modelTranslation": "Teléfono móvil chino."
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我们的妈妈",
+    "pinyin": "Wǒmen de māma",
+    "exactMatches": [
+      "nuestra madre",
+      "nuestra mama"
+    ],
+    "keywords": [
+      ["nuestra"],
+      ["madre", "mama"]
+    ],
+    "modelTranslation": "Nuestra madre."
+  },
+  {
+    "id": 5,
+    "targetAudioText": "我妈妈的手机",
+    "pinyin": "Wǒ māma de shǒujī",
+    "exactMatches": [
+      "el telefono movil de mi madre",
+      "el movil de mi madre",
+      "el celular de mi madre",
+      "el telefono de mi madre",
+      "el telefono movil de mi mama",
+      "el movil de mi mama",
+      "el celular de mi mama"
+    ],
+    "keywords": [
+      ["telefono", "movil", "celular"],
+      ["mi"],
+      ["madre", "mama"]
+    ],
+    "modelTranslation": "El teléfono móvil de mi madre."
+  },
+  {
+    "id": 6,
+    "targetAudioText": "你的朋友",
+    "pinyin": "Nǐ de péngyou",
+    "exactMatches": [
+      "tu amigo",
+      "tu amiga",
+      "tus amigos",
+      "tus amigas"
+    ],
+    "keywords": [
+      ["tu", "tus"],
+      ["amigo", "amiga", "amigos", "amigas"]
+    ],
+    "modelTranslation": "Tu/s amigo/s (o amiga/s)."
+  },
+  {
+    "id": 7,
+    "targetAudioText": "他们的家",
+    "pinyin": "Tāmen de jiā",
+    "exactMatches": [
+      "su casa",
+      "la casa de ellos",
+      "la casa de ellas"
+    ],
+    "keywords": [
+      ["casa"]
+    ],
+    "modelTranslation": "Su casa (de ellos)."
+  },
+  {
+    "id": 8,
+    "targetAudioText": "我爸爸的猫",
+    "pinyin": "Wǒ bàba de māo",
+    "exactMatches": [
+      "el gato de mi padre",
+      "el gato de mi papa",
+      "la gata de mi padre",
+      "la gata de mi papa"
+    ],
+    "keywords": [
+      ["gato", "gata"],
+      ["mi"],
+      ["padre", "papa"]
+    ],
+    "modelTranslation": "El gato de mi padre."
+  },
+  {
+    "id": 9,
+    "targetAudioText": "我的家",
+    "pinyin": "Wǒ de jiā",
+    "exactMatches": [
+      "mi casa"
+    ],
+    "keywords": [
+      ["mi"],
+      ["casa"]
+    ],
+    "modelTranslation": "Mi casa."
+  },
+  {
+    "id": 10,
+    "targetAudioText": "他们的猫",
+    "pinyin": "Tāmen de māo",
+    "exactMatches": [
+      "su gato",
+      "su gata",
+      "el gato de ellos",
+      "el gato de ellas",
+      "la gata de ellos",
+      "la gata de ellas"
+    ],
+    "keywords": [
+      ["gato", "gata"]
+    ],
+    "modelTranslation": "Su gato (de ellos/as)."
+  }
+]
