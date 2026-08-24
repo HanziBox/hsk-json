@@ -1,6 +1,6 @@
 [
   {
-    "id": 2,
+    "id": 1,
     "targetAudioText": "那个人是中国人。",
     "pinyin": "Nà ge rén shì Zhōngguó rén.",
     "exactMatches": [
@@ -15,7 +15,7 @@
     "modelTranslation": "Esa persona es china."
   },
   {
-    "id": 3,
+    "id": 2,
     "targetAudioText": "那个房子是他们的。",
     "pinyin": "Nà ge fángzi shì tāmen de.",
     "exactMatches": [
@@ -32,7 +32,7 @@
     "modelTranslation": "Esa casa es de ellos."
   },
   {
-    "id": 4,
+    "id": 3,
     "targetAudioText": "这些是你的照片。",
     "pinyin": "Zhèxiē shì nǐ de zhàopiàn.",
     "exactMatches": [
@@ -48,7 +48,7 @@
     "modelTranslation": "Estas son tus fotos."
   },
   {
-    "id": 5,
+    "id": 4,
     "targetAudioText": "那不是咖啡。",
     "pinyin": "Nà bú shì kāfēi.",
     "exactMatches": [
@@ -63,7 +63,7 @@
     "modelTranslation": "Eso no es café."
   },
   {
-    "id": 1,
+    "id": 5,
     "targetAudioText": "我要这些。",
     "pinyin": "Wǒ yào zhèxiē.",
     "exactMatches": [
@@ -77,7 +77,7 @@
     "modelTranslation": "Quiero estos."
   },
   {
-    "id": 2,
+    "id": 6,
     "targetAudioText": "我不要这本书。",
     "pinyin": "Wǒ bú yào zhè běn shū.",
     "exactMatches": [
@@ -92,7 +92,7 @@
     "modelTranslation": "No quiero este libro."
   },
     {
-    "id": 1,
+    "id": 7,
     "targetAudioText": "这只猫是我妈妈的。",
     "pinyin": "Zhè zhī māo shì wǒ māma de.",
     "exactMatches": [
@@ -110,7 +110,7 @@
     "modelTranslation": "Este gato es de mi madre."
   },
   {
-    "id": 6,
+    "id": 8,
     "targetAudioText": "这两只猫是我的。",
     "pinyin": "Zhè liǎng zhī māo shì wǒ de.",
     "exactMatches": [
@@ -126,7 +126,7 @@
     "modelTranslation": "Estos dos gatos son míos."
   },
   {
-    "id": 7,
+    "id": 9,
     "targetAudioText": "这是我的朋友。",
     "pinyin": "Zhè shì wǒ de péngyou.",
     "exactMatches": [
@@ -141,7 +141,7 @@
     "modelTranslation": "Este es mi amigo."
   },
   {
-    "id": 3,
+    "id": 10,
     "targetAudioText": "我要那个手机。",
     "pinyin": "Wǒ yào nà ge shǒujī.",
     "exactMatches": [
@@ -160,7 +160,7 @@
     "modelTranslation": "Quiero ese móvil."
   },
   {
-    "id": 8,
+    "id": 11,
     "targetAudioText": "那是你的老师。",
     "pinyin": "Nà shì nǐ de lǎoshī.",
     "exactMatches": [
@@ -179,7 +179,7 @@
     "modelTranslation": "Ese es tu profesor."
   },
   {
-    "id": 9,
+    "id": 12,
     "targetAudioText": "那杯茶是你的。",
     "pinyin": "Nà bēi chá shì nǐ de.",
     "exactMatches": [
@@ -195,7 +195,7 @@
     "modelTranslation": "Esa taza de té es tuya."
   },
   {
-    "id": 10,
+    "id": 13,
     "targetAudioText": "那些是你的书。",
     "pinyin": "Nàxiē shì nǐ de shū.",
     "exactMatches": [
@@ -211,7 +211,7 @@
     "modelTranslation": "Esos son tus libros."
   },
   {
-    "id": 11,
+    "id": 14,
     "targetAudioText": "那两本书不是你的。",
     "pinyin": "Nà liǎng běn shū bú shì nǐ de.",
     "exactMatches": [
@@ -228,7 +228,7 @@
     "modelTranslation": "Esos dos libros no son tuyos."
   },
   {
-    "id": 12,
+    "id": 15,
     "targetAudioText": "那些人是中国人。",
     "pinyin": "Nàxiē rén shì Zhōngguó rén.",
     "exactMatches": [
@@ -245,7 +245,7 @@
     "modelTranslation": "Esa gente (personas) son chinas."
   },
   {
-    "id": 4,
+    "id": 16,
     "targetAudioText": "我要这两个。",
     "pinyin": "Wǒ yào zhè liǎng ge.",
     "exactMatches": [
@@ -260,7 +260,7 @@
     "modelTranslation": "Quiero estos dos."
   },
   {
-    "id": 5,
+    "id": 17,
     "targetAudioText": "她不想吃这个苹果。",
     "pinyin": "Tā bù xiǎng chī zhè ge píngguǒ.",
     "exactMatches": [
