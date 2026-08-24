@@ -62,6 +62,35 @@
     ],
     "modelTranslation": "Eso no es café."
   },
+  {
+    "id": 1,
+    "targetAudioText": "我要这些。",
+    "pinyin": "Wǒ yào zhèxiē.",
+    "exactMatches": [
+      "quiero estos",
+      "quiero estas"
+    ],
+    "keywords": [
+      ["quiero"],
+      ["estos", "estas"]
+    ],
+    "modelTranslation": "Quiero estos."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "我不要这本书。",
+    "pinyin": "Wǒ bú yào zhè běn shū.",
+    "exactMatches": [
+      "no quiero este libro"
+    ],
+    "keywords": [
+      ["no"],
+      ["quiero"],
+      ["este"],
+      ["libro"]
+    ],
+    "modelTranslation": "No quiero este libro."
+  },
     {
     "id": 1,
     "targetAudioText": "这只猫是我妈妈的。",
@@ -110,6 +139,25 @@
       ["amigo", "amiga"]
     ],
     "modelTranslation": "Este es mi amigo."
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我要那个手机。",
+    "pinyin": "Wǒ yào nà ge shǒujī.",
+    "exactMatches": [
+      "quiero ese movil",
+      "quiero ese celular",
+      "quiero ese telefono",
+      "quiero aquel movil",
+      "quiero aquel celular",
+      "quiero aquel telefono"
+    ],
+    "keywords": [
+      ["quiero"],
+      ["ese", "aquel"],
+      ["movil", "celular", "telefono"]
+    ],
+    "modelTranslation": "Quiero ese móvil."
   },
   {
     "id": 8,
@@ -195,5 +243,37 @@
       ["china", "chinas"]
     ],
     "modelTranslation": "Esa gente (personas) son chinas."
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我要这两个。",
+    "pinyin": "Wǒ yào zhè liǎng ge.",
+    "exactMatches": [
+      "quiero estos dos",
+      "quiero estas dos"
+    ],
+    "keywords": [
+      ["quiero"],
+      ["estos", "estas"],
+      ["dos"]
+    ],
+    "modelTranslation": "Quiero estos dos."
+  },
+  {
+    "id": 5,
+    "targetAudioText": "她不想吃这个苹果。",
+    "pinyin": "Tā bù xiǎng chī zhè ge píngguǒ.",
+    "exactMatches": [
+      "ella no quiere comer esta manzana"
+    ],
+    "keywords": [
+      ["ella"],
+      ["no"],
+      ["quiere"],
+      ["comer"],
+      ["esta"],
+      ["manzana"]
+    ],
+    "modelTranslation": "Ella no quiere comer esta manzana."
   }
 ]
