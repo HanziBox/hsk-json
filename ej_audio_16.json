@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "你真漂亮！",
+    "pinyin": "Nǐ zhēn piàoliang!",
+    "modelTranslation": "¡Qué bonita eres!",
+    "exactMatches": [
+      "Que bonita eres",
+      "Qué bonita eres",
+      "Eres muy bonita",
+      "Eres realmente bonita",
+      "Que linda eres",
+      "Qué linda eres",
+      "Eres muy linda",
+      "Eres realmente linda"
+    ],
+    "keywords": [
+      ["bonita", "linda", "guapa"],
+      ["eres"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "这本书真有意思。",
+    "pinyin": "Zhè běn shū zhēn yǒu yìsi.",
+    "modelTranslation": "Este libro es realmente interesante.",
+    "exactMatches": [
+      "Este libro es realmente interesante",
+      "Este libro es muy interesante",
+      "Este libro es super interesante",
+      "Este libro es superinteresante"
+    ],
+    "keywords": [
+      ["libro"],
+      ["interesante"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我有点儿累。",
+    "pinyin": "Wǒ yǒudiǎnr lèi.",
+    "modelTranslation": "Estoy un poco cansado.",
+    "exactMatches": [
+      "Estoy un poco cansado",
+      "Estoy un poco cansada",
+      "Tengo un poco de cansancio"
+    ],
+    "keywords": [
+      ["estoy", "tengo"],
+      ["poco"],
+      ["cansado", "cansada"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我要最大的。",
+    "pinyin": "Wǒ yào zuì dà de.",
+    "modelTranslation": "Quiero el más grande.",
+    "exactMatches": [
+      "Quiero el mas grande",
+      "Quiero el más grande",
+      "Quiero la mas grande",
+      "Quiero la más grande"
+    ],
+    "keywords": [
+      ["quiero"],
+      ["mas", "más"],
+      ["grande"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "太贵了！",
+    "pinyin": "Tài guì le!",
+    "modelTranslation": "¡Qué caro!",
+    "exactMatches": [
+      "Que caro",
+      "Qué caro",
+      "Que cara",
+      "Qué cara",
+      "Es demasiado caro",
+      "Es demasiado cara",
+      "Demasiado caro",
+      "Demasiado cara"
+    ],
+    "keywords": [
+      ["caro", "cara", "demasiado"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "你的是最漂亮的。",
+    "pinyin": "Nǐ de shì zuì piàoliang de.",
+    "modelTranslation": "El tuyo es el más bonito.",
+    "exactMatches": [
+      "El tuyo es el mas bonito",
+      "El tuyo es el más bonito",
+      "El tuyo es el mas lindo",
+      "El tuyo es el más lindo",
+      "La tuya es la mas bonita",
+      "La tuya es la más bonita",
+      "La tuya es la mas linda",
+      "La tuya es la más linda"
+    ],
+    "keywords": [
+      ["tuyo", "tuya"],
+      ["mas", "más"],
+      ["bonito", "bonita", "lindo", "linda"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "我非常想吃肉。",
+    "pinyin": "Wǒ fēicháng xiǎng chī ròu.",
+    "modelTranslation": "Me apetece muchísimo comer carne.",
+    "exactMatches": [
+      "Me apetece muchisimo comer carne",
+      "Me apetece muchísimo comer carne",
+      "Tengo muchas ganas de comer carne",
+      "Quiero mucho comer carne",
+      "Me gustaria mucho comer carne",
+      "Me gustaría mucho comer carne"
+    ],
+    "keywords": [
+      ["comer"],
+      ["carne"],
+      ["muchisimo", "muchísimo", "muchas", "mucho"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "这件衣服真便宜！",
+    "pinyin": "Zhè jiàn yīfu zhēn piányi!",
+    "modelTranslation": "¡Esta ropa es muy barata!",
+    "exactMatches": [
+      "Esta ropa es muy barata",
+      "Esta ropa es realmente barata",
+      "Que ropa tan barata",
+      "Qué ropa tan barata",
+      "Esta prenda es muy barata"
+    ],
+    "keywords": [
+      ["ropa", "prenda"],
+      ["barata"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "你最高。",
+    "pinyin": "Nǐ zuì gāo.",
+    "modelTranslation": "Eres el más alto.",
+    "exactMatches": [
+      "Eres el mas alto",
+      "Eres el más alto",
+      "Eres la mas alta",
+      "Eres la más alta",
+      "Tu eres el mas alto",
+      "Tú eres el más alto"
+    ],
+    "keywords": [
+      ["eres"],
+      ["mas", "más"],
+      ["alto", "alta"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "我的朋友很忙。",
+    "pinyin": "Wǒ de péngyou hěn máng.",
+    "modelTranslation": "Mis amigos están muy ocupados.",
+    "exactMatches": [
+      "Mis amigos estan muy ocupados",
+      "Mis amigos están muy ocupados",
+      "Mi amigo esta muy ocupado",
+      "Mi amigo está muy ocupado",
+      "Mis amigas estan muy ocupadas",
+      "Mis amigas están muy ocupadas"
+    ],
+    "keywords": [
+      ["amigo", "amigos", "amiga", "amigas"],
+      ["ocupado", "ocupados", "ocupada", "ocupadas"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "这两个房子非常大。",
+    "pinyin": "Zhè liǎng gè fángzi fēicháng dà.",
+    "modelTranslation": "Estas dos casas son muy grandes.",
+    "exactMatches": [
+      "Estas dos casas son muy grandes",
+      "Estas dos casas son muy grandes",
+      "Estas dos casas son extremadamentes grandes",
+      "Estas dos casas son extremadamente grandes"
+    ],
+    "keywords": [
+      ["dos"],
+      ["casas"],
+      ["grandes"]
+    ]
+  },
+  {
+    "id": 12,
+    "targetAudioText": "我的小猫很乖。",
+    "pinyin": "Wǒ de xiǎomāo hěn guāi.",
+    "modelTranslation": "Mi gatito es muy bueno.",
+    "exactMatches": [
+      "Mi gatito es muy bueno",
+      "Mi gato es muy bueno",
+      "Mi gatita es muy buena",
+      "Mi gata es muy buena",
+      "Mi gato es muy obediente",
+      "Mi gatito es muy obediente"
+    ],
+    "keywords": [
+      ["gato", "gatito", "gata", "gatita"],
+      ["bueno", "buena", "obediente"]
+    ]
+  },
+  {
+    "id": 13,
+    "targetAudioText": "这个是最贵的。",
+    "pinyin": "Zhè gè shì zuì guì de.",
+    "modelTranslation": "Este es el más caro.",
+    "exactMatches": [
+      "Este es el mas caro",
+      "Este es el más caro",
+      "Esta es la mas cara",
+      "Esta es la más cara"
+    ],
+    "keywords": [
+      ["este", "esta"],
+      ["mas", "más"],
+      ["caro", "cara"]
+    ]
+  }
+]
