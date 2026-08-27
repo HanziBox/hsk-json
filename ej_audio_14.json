@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我爸爸在海滩。",
+    "pinyin": "Wǒ bàba zài hǎitān.",
+    "exactMatches": [
+      "mi padre esta en la playa",
+      "mi papa esta en la playa"
+    ],
+    "keywords": [
+      ["padre", "papa"],
+      ["esta"],
+      ["playa"]
+    ],
+    "modelTranslation": "Mi padre está en la playa."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "他们不在家。",
+    "pinyin": "Tāmen bú zài jiā.",
+    "exactMatches": [
+      "ellos no estan en casa",
+      "ellas no estan en casa",
+      "no estan en casa"
+    ],
+    "keywords": [
+      ["no"],
+      ["estan"],
+      ["casa"]
+    ],
+    "modelTranslation": "Ellos no están en casa."
+  },
+  {
+    "id": 3,
+    "targetAudioText": "她住在中国。",
+    "pinyin": "Tā zhù zài Zhōngguó.",
+    "exactMatches": [
+      "ella vive en china"
+    ],
+    "keywords": [
+      ["ella"],
+      ["vive"],
+      ["china"]
+    ],
+    "modelTranslation": "Ella vive en China."
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我想在家吃饭。",
+    "pinyin": "Wǒ xiǎng zài jiā chīfàn.",
+    "exactMatches": [
+      "quiero comer en casa",
+      "deseo comer en casa",
+      "me gustaria comer en casa"
+    ],
+    "keywords": [
+      ["quiero", "deseo", "gustaria"],
+      ["casa"],
+      ["comer"]
+    ],
+    "modelTranslation": "Quiero comer en casa."
+  },
+  {
+    "id": 5,
+    "targetAudioText": "你的书在那里。",
+    "pinyin": "Nǐ de shū zài nàli.",
+    "exactMatches": [
+      "tus libros estan alli",
+      "tus libros estan alla"
+    ],
+    "keywords": [
+      ["tus"],
+      ["libros"],
+      ["estan"],
+      ["alli", "alla"]
+    ],
+    "modelTranslation": "Tus libros están allí."
+  },
+  {
+    "id": 6,
+    "targetAudioText": "你的手机不在这里。",
+    "pinyin": "Nǐ de shǒujī bú zài zhèlǐ.",
+    "exactMatches": [
+      "tu telefono movil no esta aqui",
+      "tu movil no esta aqui",
+      "tu celular no esta aqui",
+      "tu telefono no esta aqui"
+    ],
+    "keywords": [
+      ["tu"],
+      ["telefono", "movil", "celular"],
+      ["no"],
+      ["esta"],
+      ["aqui"]
+    ],
+    "modelTranslation": "Tu teléfono móvil no está aquí."
+  },
+  {
+    "id": 7,
+    "targetAudioText": "她在公园。",
+    "pinyin": "Tā zài gōngyuán.",
+    "exactMatches": [
+      "ella esta en el parque"
+    ],
+    "keywords": [
+      ["ella"],
+      ["esta"],
+      ["parque"]
+    ],
+    "modelTranslation": "Ella está en el parque."
+  },
+  {
+    "id": 8,
+    "targetAudioText": "我想在中国工作。",
+    "pinyin": "Wǒ xiǎng zài Zhōngguó gōngzuò.",
+    "exactMatches": [
+      "quisiera trabajar en china",
+      "querría trabajar en china",
+      "me gustaria trabajar en china",
+      "quiero trabajar en china"
+    ],
+    "keywords": [
+      ["trabajar"],
+      ["china"]
+    ],
+    "modelTranslation": "Quisiera trabajar en China."
+  },
+  {
+    "id": 9,
+    "targetAudioText": "你的猫不在家。",
+    "pinyin": "Nǐ de māo bú zài jiā.",
+    "exactMatches": [
+      "tu gato no esta en casa",
+      "tu gata no esta en casa"
+    ],
+    "keywords": [
+      ["tu"],
+      ["gato", "gata"],
+      ["no"],
+      ["esta"],
+      ["casa"]
+    ],
+    "modelTranslation": "Tu gato no está en casa."
+  },
+  {
+    "id": 10,
+    "targetAudioText": "我想住在北京。",
+    "pinyin": "Wǒ xiǎng zhù zài Běijīng.",
+    "exactMatches": [
+      "quiero vivir en pekin",
+      "quiero vivir en beijing",
+      "deseo vivir en pekin",
+      "deseo vivir en beijing"
+    ],
+    "keywords": [
+      ["quiero", "deseo"],
+      ["vivir"],
+      ["pekin", "beijing"]
+    ],
+    "modelTranslation": "Quiero vivir en Pekín."
+  },
+  {
+    "id": 11,
+    "targetAudioText": "我妈妈在海滩。",
+    "pinyin": "Wǒ māma zài hǎitān.",
+    "exactMatches": [
+      "mi madre esta en la playa",
+      "mi mama esta en la playa"
+    ],
+    "keywords": [
+      ["madre", "mama"],
+      ["esta"],
+      ["playa"]
+    ],
+    "modelTranslation": "Mi madre está en la playa."
+  }
+]
