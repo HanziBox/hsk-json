@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我有你的书。",
+    "pinyin": "Wǒ yǒu nǐ de shū.",
+    "exactMatches": [
+      "tengo tu libro"
+    ],
+    "keywords": [
+      ["tengo"],
+      ["tu"],
+      ["libro"]
+    ],
+    "modelTranslation": "Tengo tu libro."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "你有很多朋友。",
+    "pinyin": "Nǐ yǒu hěn duō péngyou.",
+    "exactMatches": [
+      "tienes muchos amigos",
+      "tienes muchas amigas"
+    ],
+    "keywords": [
+      ["tienes"],
+      ["muchos", "muchas"],
+      ["amigos", "amigas"]
+    ],
+    "modelTranslation": "Tienes muchos amigos."
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我有两个孩子。",
+    "pinyin": "Wǒ yǒu liǎng ge háizi.",
+    "exactMatches": [
+      "tengo dos hijos",
+      "tengo dos ninos",
+      "tengo dos hijas"
+    ],
+    "keywords": [
+      ["tengo"],
+      ["dos"],
+      ["hijos", "hijas", "ninos"]
+    ],
+    "modelTranslation": "Tengo dos hijos (o niños)."
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我没有饭。",
+    "pinyin": "Wǒ méiyǒu fàn.",
+    "exactMatches": [
+      "no tengo comida"
+    ],
+    "keywords": [
+      ["no"],
+      ["tengo"],
+      ["comida"]
+    ],
+    "modelTranslation": "No tengo comida."
+  },
+  {
+    "id": 5,
+    "targetAudioText": "他们有一点钱。",
+    "pinyin": "Tāmen yǒu yìdiǎn qián.",
+    "exactMatches": [
+      "ellos tienen algo de dinero",
+      "ellas tienen algo de dinero",
+      "ellos tienen un poco de dinero",
+      "ellas tienen un poco de dinero",
+      "ellos tienen algo de plata",
+      "ellas tienen algo de plata"
+    ],
+    "keywords": [
+      ["tienen"],
+      ["algo", "poco"],
+      ["dinero", "plata"]
+    ],
+    "modelTranslation": "Ellos tienen algo de dinero."
+  },
+  {
+    "id": 6,
+    "targetAudioText": "明天我有时间。",
+    "pinyin": "Míngtiān wǒ yǒu shíjiān.",
+    "exactMatches": [
+      "manana tengo tiempo"
+    ],
+    "keywords": [
+      ["manana"],
+      ["tengo"],
+      ["tiempo"]
+    ],
+    "modelTranslation": "Mañana tengo tiempo."
+  },
+  {
+    "id": 7,
+    "targetAudioText": "这里有一点茶。",
+    "pinyin": "Zhèlǐ yǒu yìdiǎn chá.",
+    "exactMatches": [
+      "aqui hay un poco de te",
+      "aqui hay algo de te",
+      "hay un poco de te aqui",
+      "hay algo de te aqui"
+    ],
+    "keywords": [
+      ["aqui"],
+      ["hay"],
+      ["poco", "algo"],
+      ["te"]
+    ],
+    "modelTranslation": "Aquí hay un poco de té."
+  },
+  {
+    "id": 8,
+    "targetAudioText": "我有很多便宜的书。",
+    "pinyin": "Wǒ yǒu hěn duō piányi de shū.",
+    "exactMatches": [
+      "tengo muchos libros baratos"
+    ],
+    "keywords": [
+      ["tengo"],
+      ["muchos"],
+      ["libros"],
+      ["baratos"]
+    ],
+    "modelTranslation": "Tengo muchos libros baratos."
+  },
+  {
+    "id": 9,
+    "targetAudioText": "他们没有孩子。",
+    "pinyin": "Tāmen méiyǒu háizi.",
+    "exactMatches": [
+      "ellos no tienen hijos",
+      "ellas no tienen hijos",
+      "no tienen hijos",
+      "ellos no tienen ninos",
+      "ellas no tienen ninos",
+      "no tienen ninos"
+    ],
+    "keywords": [
+      ["no"],
+      ["tienen"],
+      ["hijos", "ninos"]
+    ],
+    "modelTranslation": "Ellos no tienen hijos."
+  },
+  {
+    "id": 10,
+    "targetAudioText": "我的朋友没有钱。",
+    "pinyin": "Wǒ de péngyou méiyǒu qián.",
+    "exactMatches": [
+      "mi amiga no tiene dinero",
+      "mi amigo no tiene dinero",
+      "mi amiga no tiene plata",
+      "mi amigo no tiene plata"
+    ],
+    "keywords": [
+      ["mi"],
+      ["amiga", "amigo"],
+      ["no"],
+      ["tiene"],
+      ["dinero", "plata"]
+    ],
+    "modelTranslation": "Mi amiga no tiene dinero."
+  },
+  {
+    "id": 11,
+    "targetAudioText": "我爸爸有一个很贵的房子。",
+    "pinyin": "Wǒ bàba yǒu yí ge hěn guì de fángzi.",
+    "exactMatches": [
+      "mi padre tiene una casa muy cara",
+      "mi papa tiene una casa muy cara"
+    ],
+    "keywords": [
+      ["padre", "papa"],
+      ["tiene"],
+      ["casa"],
+      ["cara"]
+    ],
+    "modelTranslation": "Mi padre tiene una casa muy cara."
+  }
+]
