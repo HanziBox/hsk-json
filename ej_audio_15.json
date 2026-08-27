@@ -5,11 +5,12 @@
     "pinyin": "Wǒ hěn máng.",
     "exactMatches": [
       "estoy muy ocupado",
-      "estoy muy ocupada"
+      "estoy muy ocupada",
+      "estoy ocupado",
+      "estoy ocupada"
     ],
     "keywords": [
       ["estoy"],
-      ["muy"],
       ["ocupado", "ocupada"]
     ],
     "modelTranslation": "Estoy muy ocupado/a."
@@ -22,12 +23,15 @@
       "este telefono movil es muy caro",
       "este movil es muy caro",
       "este celular es muy caro",
-      "este telefono es muy caro"
+      "este telefono es muy caro",
+      "este telefono movil es caro",
+      "este movil es caro",
+      "este celular es caro",
+      "este telefono es caro"
     ],
     "keywords": [
       ["este"],
       ["telefono", "movil", "celular"],
-      ["muy"],
       ["caro"]
     ],
     "modelTranslation": "Este teléfono móvil es muy caro."
@@ -38,11 +42,12 @@
     "pinyin": "Wǒ gēge hěn lèi.",
     "exactMatches": [
       "mi hermano mayor esta muy cansado",
-      "mi hermano esta muy cansado"
+      "mi hermano esta muy cansado",
+      "mi hermano mayor esta cansado",
+      "mi hermano esta cansado"
     ],
     "keywords": [
       ["hermano"],
-      ["muy"],
       ["cansado"]
     ],
     "modelTranslation": "Mi hermano mayor está muy cansado."
@@ -68,20 +73,20 @@
   },
   {
     "id": 5,
-    "targetAudioText": "他的房子漂亮 / 她的房子漂亮。",
     "targetAudioText": "他的房子很漂亮。",
     "pinyin": "Tā de fángzi hěn piàoliang.",
     "exactMatches": [
       "su casa es muy bonita",
       "su casa es muy linda",
+      "su casa es bonita",
+      "su casa es linda",
       "la casa de el es muy bonita",
       "la casa de ella es muy bonita",
-      "la casa de el es muy linda",
-      "la casa de ella es muy linda"
+      "la casa de el es bonita",
+      "la casa de ella es bonita"
     ],
     "keywords": [
       ["casa"],
-      ["muy"],
       ["bonita", "linda"]
     ],
     "modelTranslation": "Su casa (de él/ella) es muy bonita."
@@ -92,12 +97,13 @@
     "pinyin": "Nàxiē shū hěn yǒu yìsi.",
     "exactMatches": [
       "esos libros son muy interesantes",
-      "aquellos libros son muy interesantes"
+      "aquellos libros son muy interesantes",
+      "esos libros son interesantes",
+      "aquellos libros son interesantes"
     ],
     "keywords": [
       ["esos", "aquellos"],
       ["libros"],
-      ["muy"],
       ["interesantes"]
     ],
     "modelTranslation": "Esos libros son muy interesantes."
@@ -127,11 +133,16 @@
       "ella es una profesora muy buena",
       "el es un maestro muy bueno",
       "ella es una maestra muy buena",
+      "el es un profesor bueno",
+      "ella es una profesora buena",
+      "el es un maestro bueno",
+      "ella es una maestra buena",
       "es un profesor muy bueno",
-      "es una profesora muy buena"
+      "es una profesora muy buena",
+      "es un profesor bueno",
+      "es una profesora buena"
     ],
     "keywords": [
-      ["muy"],
       ["bueno", "buena"],
       ["profesor", "profesora", "maestro", "maestra"]
     ],
@@ -143,28 +154,31 @@
     "pinyin": "Tā hěn gāo.",
     "exactMatches": [
       "ella es muy alta",
-      "el es muy alto"
+      "el es muy alto",
+      "ella es alta",
+      "el es alto"
     ],
     "keywords": [
       ["el", "ella"],
-      ["muy"],
       ["alto", "alta"]
     ],
     "modelTranslation": "Ella/Él es muy alta/o."
   },
   {
     "id": 10,
-    "targetAudioText": "她是很高的人 / 她是很高女人。",
-    "targetAudioText": "她是很高女人。",
-    "pinyin": "Tā shì hěn gāo de nǚrén.",
+    "targetAudioText": "她是很高的人。",
+    "pinyin": "Tā shì hěn gāo de rén.",
     "exactMatches": [
-      "ella es una mujer muy alta"
+      "ella es una mujer muy alta",
+      "ella es una persona muy alta",
+      "ella es una mujer alta",
+      "ella es una persona alta",
+      "el es un hombre muy alto",
+      "el es un hombre alto"
     ],
     "keywords": [
-      ["ella"],
-      ["mujer"],
-      ["muy"],
-      ["alta"]
+      ["mujer", "persona", "hombre"],
+      ["alta", "alto"]
     ],
     "modelTranslation": "Ella es una mujer muy alta."
   },
@@ -189,12 +203,13 @@
     "pinyin": "Zhèxiē shǒubiǎo hěn piàoliang.",
     "exactMatches": [
       "estos relojes son muy bonitos",
-      "estos relojes son muy lindos"
+      "estos relojes son muy lindos",
+      "estos relojes son bonitos",
+      "estos relojes son lindos"
     ],
     "keywords": [
       ["estos"],
       ["relojes"],
-      ["muy"],
       ["bonitos", "lindos"]
     ],
     "modelTranslation": "Estos relojes son muy bonitos."
