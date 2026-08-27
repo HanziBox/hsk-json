@@ -28,21 +28,22 @@
       ["estan"],
       ["casa"]
     ],
-    "modelTranslation": "Ellos no están en casa."
+    "modelTranslation": "Ellos/as no están en casa."
   },
   {
     "id": 3,
     "targetAudioText": "她住在中国。",
     "pinyin": "Tā zhù zài Zhōngguó.",
     "exactMatches": [
-      "ella vive en china"
+      "ella vive en china",
+      "el vive en china"
     ],
     "keywords": [
-      ["ella"],
+      ["el", "ella"],
       ["vive"],
       ["china"]
     ],
-    "modelTranslation": "Ella vive en China."
+    "modelTranslation": "Él/Ella vive en China."
   },
   {
     "id": 4,
@@ -100,14 +101,15 @@
     "targetAudioText": "她在公园。",
     "pinyin": "Tā zài gōngyuán.",
     "exactMatches": [
-      "ella esta en el parque"
+      "ella esta en el parque",
+      "el esta en el parque"
     ],
     "keywords": [
-      ["ella"],
+      ["el", "ella"],
       ["esta"],
       ["parque"]
     ],
-    "modelTranslation": "Ella está en el parque."
+    "modelTranslation": "Él/Ella está en el parque."
   },
   {
     "id": 8,
@@ -140,7 +142,7 @@
       ["esta"],
       ["casa"]
     ],
-    "modelTranslation": "Tu gato no está en casa."
+    "modelTranslation": "Tu gato/a no está en casa."
   },
   {
     "id": 10,
