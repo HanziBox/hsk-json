@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我很忙。",
+    "pinyin": "Wǒ hěn máng.",
+    "exactMatches": [
+      "estoy muy ocupado",
+      "estoy muy ocupada"
+    ],
+    "keywords": [
+      ["estoy"],
+      ["muy"],
+      ["ocupado", "ocupada"]
+    ],
+    "modelTranslation": "Estoy muy ocupado/a."
+  },
+  {
+    "id": 2,
+    "targetAudioText": "这个手机很贵。",
+    "pinyin": "Zhè ge shǒujī hěn guì.",
+    "exactMatches": [
+      "este telefono movil es muy caro",
+      "este movil es muy caro",
+      "este celular es muy caro",
+      "este telefono es muy caro"
+    ],
+    "keywords": [
+      ["este"],
+      ["telefono", "movil", "celular"],
+      ["muy"],
+      ["caro"]
+    ],
+    "modelTranslation": "Este teléfono móvil es muy caro."
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我哥哥很累。",
+    "pinyin": "Wǒ gēge hěn lèi.",
+    "exactMatches": [
+      "mi hermano mayor esta muy cansado",
+      "mi hermano esta muy cansado"
+    ],
+    "keywords": [
+      ["hermano"],
+      ["muy"],
+      ["cansado"]
+    ],
+    "modelTranslation": "Mi hermano mayor está muy cansado."
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我想喝冷啤酒。",
+    "pinyin": "Wǒ xiǎng hē lěng píjiǔ.",
+    "exactMatches": [
+      "quisiera beber cerveza fria",
+      "quisiera tomar cerveza fria",
+      "quiero beber cerveza fria",
+      "quiero tomar cerveza fria",
+      "me gustaria beber cerveza fria",
+      "me gustaria tomar cerveza fria"
+    ],
+    "keywords": [
+      ["beber", "tomar"],
+      ["cerveza"],
+      ["fria"]
+    ],
+    "modelTranslation": "Quisiera beber cerveza fría."
+  },
+  {
+    "id": 5,
+    "targetAudioText": "他的房子漂亮 / 她的房子漂亮。",
+    "targetAudioText": "他的房子很漂亮。",
+    "pinyin": "Tā de fángzi hěn piàoliang.",
+    "exactMatches": [
+      "su casa es muy bonita",
+      "su casa es muy linda",
+      "la casa de el es muy bonita",
+      "la casa de ella es muy bonita",
+      "la casa de el es muy linda",
+      "la casa de ella es muy linda"
+    ],
+    "keywords": [
+      ["casa"],
+      ["muy"],
+      ["bonita", "linda"]
+    ],
+    "modelTranslation": "Su casa (de él/ella) es muy bonita."
+  },
+  {
+    "id": 6,
+    "targetAudioText": "那些书很有意思。",
+    "pinyin": "Nàxiē shū hěn yǒu yìsi.",
+    "exactMatches": [
+      "esos libros son muy interesantes",
+      "aquellos libros son muy interesantes"
+    ],
+    "keywords": [
+      ["esos", "aquellos"],
+      ["libros"],
+      ["muy"],
+      ["interesantes"]
+    ],
+    "modelTranslation": "Esos libros son muy interesantes."
+  },
+  {
+    "id": 7,
+    "targetAudioText": "那只小猫是我的。",
+    "pinyin": "Nà zhī xiǎomāo shì wǒ de.",
+    "exactMatches": [
+      "ese gatito es mio",
+      "esa gatita es mia",
+      "aquel gatito es mio",
+      "aquella gatita es mia"
+    ],
+    "keywords": [
+      ["gatito", "gatita", "gato"],
+      ["mio", "mia"]
+    ],
+    "modelTranslation": "Ese gatito es mío."
+  },
+  {
+    "id": 8,
+    "targetAudioText": "他是很好的老师。",
+    "pinyin": "Tā shì hěn hǎo de lǎoshī.",
+    "exactMatches": [
+      "el es un profesor muy bueno",
+      "ella es una profesora muy buena",
+      "el es un maestro muy bueno",
+      "ella es una maestra muy buena",
+      "es un profesor muy bueno",
+      "es una profesora muy buena"
+    ],
+    "keywords": [
+      ["muy"],
+      ["bueno", "buena"],
+      ["profesor", "profesora", "maestro", "maestra"]
+    ],
+    "modelTranslation": "Él/Ella es un/a profesor/a muy bueno/a."
+  },
+  {
+    "id": 9,
+    "targetAudioText": "她很高。",
+    "pinyin": "Tā hěn gāo.",
+    "exactMatches": [
+      "ella es muy alta",
+      "el es muy alto"
+    ],
+    "keywords": [
+      ["el", "ella"],
+      ["muy"],
+      ["alto", "alta"]
+    ],
+    "modelTranslation": "Ella/Él es muy alta/o."
+  },
+  {
+    "id": 10,
+    "targetAudioText": "她是很高的人 / 她是很高女人。",
+    "targetAudioText": "她是很高女人。",
+    "pinyin": "Tā shì hěn gāo de nǚrén.",
+    "exactMatches": [
+      "ella es una mujer muy alta"
+    ],
+    "keywords": [
+      ["ella"],
+      ["mujer"],
+      ["muy"],
+      ["alta"]
+    ],
+    "modelTranslation": "Ella es una mujer muy alta."
+  },
+  {
+    "id": 11,
+    "targetAudioText": "我不要冷茶。",
+    "pinyin": "Wǒ bú yào lěng chá.",
+    "exactMatches": [
+      "no quiero te frio"
+    ],
+    "keywords": [
+      ["no"],
+      ["quiero"],
+      ["te"],
+      ["frio"]
+    ],
+    "modelTranslation": "No quiero té frío."
+  },
+  {
+    "id": 12,
+    "targetAudioText": "这些手表很漂亮。",
+    "pinyin": "Zhèxiē shǒubiǎo hěn piàoliang.",
+    "exactMatches": [
+      "estos relojes son muy bonitos",
+      "estos relojes son muy lindos"
+    ],
+    "keywords": [
+      ["estos"],
+      ["relojes"],
+      ["muy"],
+      ["bonitos", "lindos"]
+    ],
+    "modelTranslation": "Estos relojes son muy bonitos."
+  },
+  {
+    "id": 13,
+    "targetAudioText": "我要一杯热茶。",
+    "pinyin": "Wǒ yào yì bēi rè chá.",
+    "exactMatches": [
+      "quiero una taza de te caliente",
+      "quiero un vaso de te caliente"
+    ],
+    "keywords": [
+      ["quiero"],
+      ["taza", "vaso"],
+      ["te"],
+      ["caliente"]
+    ],
+    "modelTranslation": "Quiero una taza de té caliente."
+  }
+]
