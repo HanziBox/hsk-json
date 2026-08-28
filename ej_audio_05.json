@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我不吃肉。",
+    "pinyin": "Wǒ bù chī ròu.",
+    "modelTranslation": "Yo no como carne.",
+    "exactMatches": [
+      "Yo no como carne",
+      "No como carne"
+    ],
+    "keywords": [
+      ["como", "comer"],
+      ["carne"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "他们不懂。",
+    "pinyin": "Tāmen bù dǒng.",
+    "modelTranslation": "Ellos no entienden.",
+    "exactMatches": [
+      "Ellos no entienden",
+      "No entienden",
+      "Ellas no entienden"
+    ],
+    "keywords": [
+      ["entienden", "comprenden"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我爸爸不喝酒。",
+    "pinyin": "Wǒ bàba bù hē jiǔ.",
+    "modelTranslation": "Mi padre no bebe alcohol.",
+    "exactMatches": [
+      "Mi padre no bebe alcohol",
+      "Mi papa no bebe alcohol",
+      "Mi papá no bebe alcohol",
+      "Mi padre no toma alcohol",
+      "Mi papa no toma alcohol",
+      "Mi papá no toma alcohol",
+      "Mi padre no bebe",
+      "Mi papa no bebe",
+      "Mi papá no bebe"
+    ],
+    "keywords": [
+      ["padre", "papa", "papá"],
+      ["bebe", "toma"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "他不去。",
+    "pinyin": "Tā bù qù.",
+    "modelTranslation": "Él no va / Ella no va",
+    "exactMatches": [
+      "El no va",
+      "Él no va",
+      "Ella no va"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["va"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "我不爱你。",
+    "pinyin": "Wǒ bù ài nǐ.",
+    "modelTranslation": "Yo no te amo.",
+    "exactMatches": [
+      "Yo no te amo",
+      "No te amo",
+      "Yo no te quiero",
+      "No te quiero"
+    ],
+    "keywords": [
+      ["amo", "quiero"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "她不叫伟。",
+    "pinyin": "Tā bù jiào Wěi.",
+    "modelTranslation": "Ella no se llama Wei.",
+    "exactMatches": [
+      "Ella no se llama Wei",
+      "No se llama Wei"
+    ],
+    "keywords": [
+      ["llama"],
+      ["wei"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "我不看电视。",
+    "pinyin": "Wǒ bù kàn diànshì.",
+    "modelTranslation": "No veo la tele.",
+    "exactMatches": [
+      "No veo la tele",
+      "Yo no veo la tele",
+      "No veo la television",
+      "No veo la televisión",
+      "Yo no veo la television",
+      "Yo no veo la televisión",
+      "No miro la tele",
+      "Yo no miro la tele",
+      "No miro la television",
+      "No miro la televisión"
+    ],
+    "keywords": [
+      ["veo", "miro"],
+      ["tele", "television", "televisión"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "我的朋友不去中国。",
+    "pinyin": "Wǒ de péngyou bù qù Zhōngguó.",
+    "modelTranslation": "Mi amigo no va a China.",
+    "exactMatches": [
+      "Mi amigo no va a China",
+      "Mi amiga no va a China",
+      "Mis amigos no van a China"
+    ],
+    "keywords": [
+      ["amigo", "amiga", "amigos"],
+      ["va", "van"],
+      ["china"]
+    ]
+  }
+]
