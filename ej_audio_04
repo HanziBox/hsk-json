@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "他们去。",
+    "pinyin": "Tāmen qù.",
+    "modelTranslation": "Ellos van.",
+    "exactMatches": [
+      "Ellos van",
+      "Ellas van"
+    ],
+    "keywords": [
+      ["ellos", "ellas"],
+      ["van"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "我爱你。",
+    "pinyin": "Wǒ ài nǐ.",
+    "modelTranslation": "Te amo.",
+    "exactMatches": [
+      "Te amo",
+      "Yo te amo",
+      "Te quiero",
+      "Yo te quiero"
+    ],
+    "keywords": [
+      ["amo", "quiero"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我叫伟。",
+    "pinyin": "Wǒ jiào Wěi.",
+    "modelTranslation": "Me llamo Wei.",
+    "exactMatches": [
+      "Me llamo Wei",
+      "Yo me llamo Wei"
+    ],
+    "keywords": [
+      ["llamo"],
+      ["wei"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我爸爸去中国。",
+    "pinyin": "Wǒ bàba qù Zhōngguó.",
+    "modelTranslation": "Mi padre va a China.",
+    "exactMatches": [
+      "Mi padre va a China",
+      "Mi papa va a China",
+      "Mi papá va a China"
+    ],
+    "keywords": [
+      ["padre", "papa", "papá"],
+      ["va"],
+      ["china"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "我爱我的猫。",
+    "pinyin": "Wǒ ài wǒ de māo.",
+    "modelTranslation": "Amo a mi gato.",
+    "exactMatches": [
+      "Amo a mi gato",
+      "Quiero a mi gato",
+      "Amo a mi gata",
+      "Quiero a mi gata",
+      "Yo amo a mi gato",
+      "Yo quiero a mi gato"
+    ],
+    "keywords": [
+      ["amo", "quiero"],
+      ["gato", "gata"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "他喝茶。",
+    "pinyin": "Tā hē chá.",
+    "modelTranslation": "Él bebe té / Ella bebe té",
+    "exactMatches": [
+      "El bebe te",
+      "Él bebe té",
+      "Ella bebe te",
+      "Ella bebe té",
+      "El toma te",
+      "Él toma té",
+      "Ella toma te",
+      "Ella toma té"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["bebe", "toma"],
+      ["te", "té"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "你爱我。",
+    "pinyin": "Nǐ ài wǒ.",
+    "modelTranslation": "Tú me amas.",
+    "exactMatches": [
+      "Tu me amas",
+      "Tú me amas",
+      "Tu me quieres",
+      "Tú me quieres",
+      "Me amas",
+      "Me quieres"
+    ],
+    "keywords": [
+      ["amas", "quieres"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "我妈妈的猫吃肉。",
+    "pinyin": "Wǒ māma de māo chī ròu.",
+    "modelTranslation": "El gato de mi madre come carne.",
+    "exactMatches": [
+      "El gato de mi madre come carne",
+      "El gato de mi mama come carne",
+      "El gato de mi mamá come carne",
+      "La gata de mi madre come carne",
+      "La gata de mi mama come carne",
+      "La gata de mi mamá come carne"
+    ],
+    "keywords": [
+      ["gato", "gata"],
+      ["madre", "mama", "mamá"],
+      ["come"],
+      ["carne"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "我的朋友叫伟。",
+    "pinyin": "Wǒ de péngyou jiào Wěi.",
+    "modelTranslation": "Mi amigo se llama Wei.",
+    "exactMatches": [
+      "Mi amigo se llama Wei",
+      "Mi amiga se llama Wei"
+    ],
+    "keywords": [
+      ["amigo", "amiga"],
+      ["llama"],
+      ["wei"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "猫睡觉。",
+    "pinyin": "Māo shuìjiào.",
+    "modelTranslation": "El gato duerme.",
+    "exactMatches": [
+      "El gato duerme",
+      "La gata duerme",
+      "Un gato duerme",
+      "Una gata duerme"
+    ],
+    "keywords": [
+      ["gato", "gata"],
+      ["duerme"]
+    ]
+  }
+]
