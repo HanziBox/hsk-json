@@ -3,16 +3,18 @@
     "id": 1,
     "targetAudioText": "他们都爱你。",
     "pinyin": "Tāmen dōu ài nǐ.",
-    "modelTranslation": "Todos ellos te aman.",
+    "modelTranslation": "Todos ellos te aman / Todas ellas te aman.",
     "exactMatches": [
       "Todos ellos te aman",
       "Ellos te aman",
       "Todos ellos te quieren",
       "Todas ellas te aman",
-      "Todas ellas te quieren"
+      "Todas ellas te quieren",
+      "Todas te aman",
+      "Todos te aman"
     ],
     "keywords": [
-      ["todos", "todas"],
+      ["todos", "todas", "ellos", "ellas"],
       ["amo", "aman", "quieren"],
       ["te"]
     ]
@@ -21,10 +23,12 @@
     "id": 2,
     "targetAudioText": "我的朋友都是中国人。",
     "pinyin": "Wǒ de péngyou dōu shì Zhōngguó rén.",
-    "modelTranslation": "Todos mis amigos son chinos.",
+    "modelTranslation": "Todos mis amigos son chinos / Todas mis amigas son chinas.",
     "exactMatches": [
       "Todos mis amigos son chinos",
-      "Todas mis amigas son chinas"
+      "Todas mis amigas son chinas",
+      "Mis amigos son todos chinos",
+      "Mis amigas son todas chinas"
     ],
     "keywords": [
       ["amigos", "amigas"],
@@ -35,15 +39,19 @@
     "id": 3,
     "targetAudioText": "我们也都去。",
     "pinyin": "Wǒmen yě dōu qù.",
-    "modelTranslation": "Todos nosotros también vamos.",
+    "modelTranslation": "Todos nosotros también vamos / Todas nosotras también vamos.",
     "exactMatches": [
       "Todos nosotros tambien vamos",
       "Todos nosotros también vamos",
+      "Todas nosotras tambien vamos",
+      "Todas nosotras también vamos",
       "Nosotros tambien vamos todos",
-      "Nosotros también vamos todos"
+      "Nosotros también vamos todos",
+      "Nosotras tambien vamos todas",
+      "Nosotras también vamos todas"
     ],
     "keywords": [
-      ["nosotros"],
+      ["nosotros", "nosotras"],
       ["tambien", "también"],
       ["vamos"]
     ]
@@ -52,10 +60,12 @@
     "id": 4,
     "targetAudioText": "我们都喜欢猫。",
     "pinyin": "Wǒmen dōu xǐhuan māo.",
-    "modelTranslation": "A todos nosotros nos gustan los gatos.",
+    "modelTranslation": "A todos nosotros nos gustan los gatos / A todas nosotras nos gustan los gatos.",
     "exactMatches": [
       "A todos nosotros nos gustan los gatos",
+      "A todas nosotras nos gustan los gatos",
       "Nos gustan los gatos a todos",
+      "Nos gustan los gatos a todas",
       "A todos nos gustan los gatos",
       "A todas nos gustan los gatos"
     ],
@@ -68,12 +78,14 @@
     "id": 5,
     "targetAudioText": "我们不都是老师。",
     "pinyin": "Wǒmen bù dōu shì lǎoshī.",
-    "modelTranslation": "No todos somos profesores.",
+    "modelTranslation": "No todos nosotros somos profesores / No todas nosotras somos profesoras.",
     "exactMatches": [
       "No todos somos profesores",
       "No todos somos maestros",
       "No todas somos profesoras",
-      "No todas somos maestras"
+      "No todas somos maestras",
+      "No todos nosotros somos profesores",
+      "No todas nosotras somos profesoras"
     ],
     "keywords": [
       ["no"],
@@ -86,14 +98,16 @@
     "id": 6,
     "targetAudioText": "我们都想去那儿。",
     "pinyin": "Wǒmen dōu xiǎng qù nàr.",
-    "modelTranslation": "Todos queremos ir allí.",
+    "modelTranslation": "Todos nosotros queremos ir allí / Todas nosotras queremos ir allí.",
     "exactMatches": [
       "Todos queremos ir alli",
       "Todos queremos ir allí",
       "Todas queremos ir alli",
       "Todas queremos ir allí",
       "Todos queremos ir alla",
-      "Todos queremos ir allá"
+      "Todos queremos ir allá",
+      "Todos nosotros queremos ir alli",
+      "Todas nosotras queremos ir alli"
     ],
     "keywords": [
       ["queremos"],
@@ -105,7 +119,7 @@
     "id": 7,
     "targetAudioText": "我们都很累。",
     "pinyin": "Wǒmen dōu hěn lèi.",
-    "modelTranslation": "Todos nosotros estamos cansados.",
+    "modelTranslation": "Todos nosotros estamos cansados / Todas nosotras estamos cansadas.",
     "exactMatches": [
       "Todos nosotros estamos cansados",
       "Todas nosotras estamos cansadas",
@@ -154,14 +168,16 @@
     "id": 10,
     "targetAudioText": "他们都在家。",
     "pinyin": "Tāmen dōu zài jiā.",
-    "modelTranslation": "Todos están en casa.",
+    "modelTranslation": "Todos ellos están en casa / Todas ellas están en casa.",
     "exactMatches": [
       "Todos estan en casa",
       "Todos están en casa",
       "Todas estan en casa",
       "Todas están en casa",
       "Todos ellos estan en casa",
-      "Todos ellos están en casa"
+      "Todos ellos están en casa",
+      "Todas ellas estan en casa",
+      "Todas ellas están en casa"
     ],
     "keywords": [
       ["estan", "están"],
@@ -172,7 +188,7 @@
     "id": 11,
     "targetAudioText": "他们都非常忙。",
     "pinyin": "Tāmen dōu fēicháng máng.",
-    "modelTranslation": "Todos ellos están muy ocupados.",
+    "modelTranslation": "Todos ellos están muy ocupados / Todas ellas están muy ocupadas.",
     "exactMatches": [
       "Todos ellos estan muy ocupados",
       "Todos ellos están muy ocupados",
