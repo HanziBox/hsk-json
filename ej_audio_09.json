@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "很多水",
+    "pinyin": "Hěn duō shuǐ",
+    "modelTranslation": "Mucha agua",
+    "exactMatches": [
+      "Mucha agua",
+      "Bastante agua"
+    ],
+    "keywords": [
+      ["mucha", "bastante"],
+      ["agua"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "很少人",
+    "pinyin": "Hěn shǎo rén",
+    "modelTranslation": "Poca gente",
+    "exactMatches": [
+      "Poca gente",
+      "Pocas personas"
+    ],
+    "keywords": [
+      ["poca", "pocas"],
+      ["gente", "personas"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "几本书",
+    "pinyin": "Jǐ běn shū",
+    "modelTranslation": "Varios libros",
+    "exactMatches": [
+      "Varios libros",
+      "Algunos libros",
+      "Unos cuantos libros"
+    ],
+    "keywords": [
+      ["varios", "algunos"],
+      ["libros"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "一点儿酒",
+    "pinyin": "Yīdiǎnr jiǔ",
+    "modelTranslation": "Algo de vino",
+    "exactMatches": [
+      "Algo de vino",
+      "Un poco de vino"
+    ],
+    "keywords": [
+      ["algo", "poco"],
+      ["vino"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "一些人",
+    "pinyin": "Yīxiē rén",
+    "modelTranslation": "Algunas personas",
+    "exactMatches": [
+      "Algunas personas",
+      "Algunos",
+      "Algunas",
+      "Unas personas"
+    ],
+    "keywords": [
+      ["algunas", "algunos", "unas"],
+      ["personas", "gente"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "一点鱼",
+    "pinyin": "Yīdiǎn yú",
+    "modelTranslation": "Algo de pescado",
+    "exactMatches": [
+      "Algo de pescado",
+      "Un poco de pescado"
+    ],
+    "keywords": [
+      ["algo", "poco"],
+      ["pescado"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "很少问题",
+    "pinyin": "Hěn shǎo wèntí",
+    "modelTranslation": "Pocas preguntas",
+    "exactMatches": [
+      "Pocas preguntas",
+      "Pocos problemas"
+    ],
+    "keywords": [
+      ["pocas", "pocos"],
+      ["preguntas", "problemas"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "很多房子",
+    "pinyin": "Hěn duō fángzi",
+    "modelTranslation": "Muchas casas",
+    "exactMatches": [
+      "Muchas casas"
+    ],
+    "keywords": [
+      ["muchas"],
+      ["casas"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "几杯茶",
+    "pinyin": "Jǐ bēi chá",
+    "modelTranslation": "Algunas tazas de té",
+    "exactMatches": [
+      "Algunas tazas de te",
+      "Algunas tazas de té",
+      "Varias tazas de te",
+      "Varias tazas de té",
+      "Unas cuantas tazas de te",
+      "Unas cuantas tazas de té"
+    ],
+    "keywords": [
+      ["tazas"],
+      ["te", "té"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "几个房子",
+    "pinyin": "Jǐ gè fángzi",
+    "modelTranslation": "Varias casas",
+    "exactMatches": [
+      "Varias casas",
+      "Algunas casas",
+      "Unas cuantas casas"
+    ],
+    "keywords": [
+      ["varias", "algunas"],
+      ["casas"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "很多猫",
+    "pinyin": "Hěn duō māo",
+    "modelTranslation": "Muchos gatos",
+    "exactMatches": [
+      "Muchos gatos",
+      "Muchas gatas"
+    ],
+    "keywords": [
+      ["muchos", "muchas"],
+      ["gatos", "gatas"]
+    ]
+  },
+  {
+    "id": 12,
+    "targetAudioText": "一点茶",
+    "pinyin": "Yīdiǎn chá",
+    "modelTranslation": "Un poco de té",
+    "exactMatches": [
+      "Un poco de te",
+      "Un poco de té",
+      "Algo de te",
+      "Algo de té"
+    ],
+    "keywords": [
+      ["poco", "algo"],
+      ["te", "té"]
+    ]
+  },
+  {
+    "id": 13,
+    "targetAudioText": "很多瓶啤酒",
+    "pinyin": "Hěn duō píng píjiǔ",
+    "modelTranslation": "Muchas botellas de cerveza",
+    "exactMatches": [
+      "Muchas botellas de cerveza"
+    ],
+    "keywords": [
+      ["muchas"],
+      ["botellas"],
+      ["cerveza"]
+    ]
+  }
+]
