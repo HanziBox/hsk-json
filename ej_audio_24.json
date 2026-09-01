@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "今天早上",
+    "pinyin": "Jīntiān zǎoshang",
+    "modelTranslation": "Esta mañana",
+    "exactMatches": [
+      "Esta manana",
+      "Esta mañana",
+      "Hoy por la manana",
+      "Hoy por la mañana"
+    ],
+    "keywords": [
+      ["mañana", "manana"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "昨天下午",
+    "pinyin": "Zuótiān xiàwǔ",
+    "modelTranslation": "Ayer por la tarde",
+    "exactMatches": [
+      "Ayer por la tarde",
+      "Ayer tarde"
+    ],
+    "keywords": [
+      ["ayer"],
+      ["tarde"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "明年",
+    "pinyin": "Míngnián",
+    "modelTranslation": "El año que viene",
+    "exactMatches": [
+      "El ano que viene",
+      "El año que viene",
+      "El proximo ano",
+      "El próximo año"
+    ],
+    "keywords": [
+      ["año", "ano"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "下个星期二",
+    "pinyin": "Xià gè xīngqī'èr",
+    "modelTranslation": "El martes que viene",
+    "exactMatches": [
+      "El martes que viene",
+      "El proximo martes",
+      "El próximo martes"
+    ],
+    "keywords": [
+      ["martes"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "去年二月",
+    "pinyin": "Qùnián èryuè",
+    "modelTranslation": "El febrero pasado",
+    "exactMatches": [
+      "El febrero pasado",
+      "El pasado febrero"
+    ],
+    "keywords": [
+      ["febrero"],
+      ["pasado"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "昨天晚上",
+    "pinyin": "Zuótiān wǎnshang",
+    "modelTranslation": "Anoche",
+    "exactMatches": [
+      "Anoche",
+      "Ayer por la noche",
+      "Ayer noche"
+    ],
+    "keywords": [
+      ["anoche", "noche"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "上个星期",
+    "pinyin": "Shàng gè xīngqī",
+    "modelTranslation": "La semana pasada",
+    "exactMatches": [
+      "La semana pasada"
+    ],
+    "keywords": [
+      ["semana"],
+      ["pasada"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "明年八月",
+    "pinyin": "Míngnián bāyuè",
+    "modelTranslation": "El próximo agosto",
+    "exactMatches": [
+      "El proximo agosto",
+      "El próximo agosto",
+      "El agosto que viene"
+    ],
+    "keywords": [
+      ["agosto"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "今天下午",
+    "pinyin": "Jīntiān xiàwǔ",
+    "modelTranslation": "Esta tarde",
+    "exactMatches": [
+      "Esta tarde",
+      "Hoy por la tarde"
+    ],
+    "keywords": [
+      ["tarde"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "下个星期六",
+    "pinyin": "Xià gè xīngqīliù",
+    "modelTranslation": "El sábado que viene",
+    "exactMatches": [
+      "El sabado que viene",
+      "El sábado que viene",
+      "El proximo sabado",
+      "El próximo sábado"
+    ],
+    "keywords": [
+      ["sabado", "sábado"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "今天晚上",
+    "pinyin": "Jīntiān wǎnshang",
+    "modelTranslation": "Esta noche",
+    "exactMatches": [
+      "Esta noche",
+      "Hoy por la noche"
+    ],
+    "keywords": [
+      ["noche"]
+    ]
+  },
+  {
+    "id": 12,
+    "targetAudioText": "星期三晚上",
+    "pinyin": "Xīngqīsān wǎnshang",
+    "modelTranslation": "El miércoles por la noche",
+    "exactMatches": [
+      "El miercoles por la noche",
+      "El miércoles por la noche",
+      "La noche del miercoles",
+      "La noche del miércoles"
+    ],
+    "keywords": [
+      ["miercoles", "miércoles"],
+      ["noche"]
+    ]
+  }
+]
