@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我和爸爸都喜欢喝茶。",
+    "pinyin": "Wǒ hé bàba dōu xǐhuan hē chá.",
+    "modelTranslation": "A mi padre y a mí nos gusta beber té.",
+    "exactMatches": [
+      "A mi padre y a mi nos gusta beber te",
+      "A mi padre y a mí nos gusta beber té",
+      "A mi papa y a mi nos gusta beber te",
+      "A mi papá y a mí nos gusta beber té",
+      "Mi padre y yo nos gusta tomar te",
+      "Mi padre y yo nos gusta tomar té",
+      "Mi padre y yo tomamos te",
+      "Mi padre y yo tomamos té"
+    ],
+    "keywords": [
+      ["padre", "papa", "papá"],
+      ["gusta", "tomamos", "bebemos"],
+      ["te", "té"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "我跟我的朋友去中国。",
+    "pinyin": "Wǒ gēn wǒ de péngyou qù Zhōngguó.",
+    "modelTranslation": "Voy a China con mi amigo.",
+    "exactMatches": [
+      "Voy a China con mi amigo",
+      "Voy a China con mi amiga",
+      "Voy a China con mis amigos",
+      "Yo voy a China con mi amigo",
+      "Yo voy a China con mi amiga"
+    ],
+    "keywords": [
+      ["voy"],
+      ["china"],
+      ["amigo", "amiga", "amigos"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "妈妈和我都不吃肉。",
+    "pinyin": "Māma hé wǒ dōu bù chī ròu.",
+    "modelTranslation": "Ni mi madre ni yo comemos carne.",
+    "exactMatches": [
+      "Ni mi madre ni yo comemos carne",
+      "Mi madre y yo no comemos carne",
+      "Mi mama y yo no comemos carne",
+      "Mi mamá y yo no comemos carne",
+      "A mi madre y a mi no nos gusta la carne",
+      "A mi madre y a mí no nos gusta la carne"
+    ],
+    "keywords": [
+      ["madre", "mama", "mamá"],
+      ["no"],
+      ["comemos", "carne"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我想跟你去那儿。",
+    "pinyin": "Wǒ xiǎng gēn nǐ qù nàr.",
+    "modelTranslation": "Quiero ir allí contigo.",
+    "exactMatches": [
+      "Quiero ir alli contigo",
+      "Quiero ir allí contigo",
+      "Quiero ir alla contigo",
+      "Quiero ir allá contigo",
+      "Me gustaria ir alli contigo",
+      "Me gustaría ir allí contigo"
+    ],
+    "keywords": [
+      ["quiero", "gustaria", "gustaría"],
+      ["ir"],
+      ["alli", "allí", "alla", "allá"],
+      ["contigo"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "他和他的猫都在家。",
+    "pinyin": "Tā hé tā de māo dōu zài jiā.",
+    "modelTranslation": "Él y su gato están en casa.",
+    "exactMatches": [
+      "El y su gato estan en casa",
+      "Él y su gato están en casa",
+      "El y su gata estan en casa",
+      "Él y su gata están en casa"
+    ],
+    "keywords": [
+      ["el", "él"],
+      ["gato", "gata"],
+      ["estan", "están"],
+      ["casa"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "我跟老师说汉语。",
+    "pinyin": "Wǒ gēn lǎoshī shuō Hànyǔ.",
+    "modelTranslation": "Hablo chino con el profesor.",
+    "exactMatches": [
+      "Hablo chino con el profesor",
+      "Hablo chino con la profesora",
+      "Hablo chino con el maestro",
+      "Hablo chino con la maestra",
+      "Yo hablo chino con el profesor"
+    ],
+    "keywords": [
+      ["hablo"],
+      ["chino"],
+      ["profesor", "profesora", "maestro", "maestra"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "猫和狗都睡觉了。",
+    "pinyin": "Māo hé gǒu dōu shuìjiào le.",
+    "modelTranslation": "El gato y el perro se han dormido.",
+    "exactMatches": [
+      "El gato y el perro se han dormido",
+      "El gato y el perro duermen",
+      "El gato y el perro estan durmiendo",
+      "El gato y el perro están durmiendo"
+    ],
+    "keywords": [
+      ["gato"],
+      ["perro"],
+      ["dormido", "duermen", "durmiendo"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "昨天下午我和你一起看电影。",
+    "pinyin": "Zuótiān xiàwǔ wǒ hé nǐ yīqǐ kàn diànyǐng.",
+    "modelTranslation": "Ayer por la tarde vi una película contigo.",
+    "exactMatches": [
+      "Ayer por la tarde vi una pelicula contigo",
+      "Ayer por la tarde vi una película contigo",
+      "Ayer por la tarde vimos una pelicula juntos",
+      "Ayer por la tarde vimos una película juntos",
+      "Ayer por la tarde vi la pelicula contigo",
+      "Ayer por la tarde vi la película contigo"
+    ],
+    "keywords": [
+      ["ayer"],
+      ["tarde"],
+      ["pelicula", "película"],
+      ["contigo", "juntos"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "我跟朋友去买衣服。",
+    "pinyin": "Wǒ gēn péngyou qù mǎi yīfu.",
+    "modelTranslation": "Voy con mi amigo a comprar ropa.",
+    "exactMatches": [
+      "Voy con mi amigo a comprar ropa",
+      "Voy con mi amiga a comprar ropa",
+      "Voy con amigos a comprar ropa",
+      "Voy con mis amigos a comprar ropa"
+    ],
+    "keywords": [
+      ["voy"],
+      ["amigo", "amiga", "amigos"],
+      ["comprar"],
+      ["ropa"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "他和我都不忙。",
+    "pinyin": "Tā hé wǒ dōu bù máng.",
+    "modelTranslation": "Ni él ni yo estamos ocupados.",
+    "exactMatches": [
+      "Ni el ni yo estamos ocupados",
+      "Ni él ni yo estamos ocupados",
+      "El y yo no estamos ocupados",
+      "Él y yo no estamos ocupados"
+    ],
+    "keywords": [
+      ["el", "él"],
+      ["no", "ni"],
+      ["ocupados"]
+    ]
+  }
+]
