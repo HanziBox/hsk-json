@@ -79,79 +79,24 @@
   },
   {
     "id": 5,
-    "targetAudioText": "他和他的猫都在家。",
-    "pinyin": "Tā hé tā de māo dōu zài jiā.",
-    "modelTranslation": "Él y su gato están en casa.",
+    "targetAudioText": "我和你一起看电影。",
+    "pinyin": "Wǒ hé nǐ yīqǐ kàn diànyǐng.",
+    "modelTranslation": "Veo una película contigo.",
     "exactMatches": [
-      "El y su gato estan en casa",
-      "Él y su gato están en casa",
-      "El y su gata estan en casa",
-      "Él y su gata están en casa"
+      "Veo una pelicula contigo",
+      "Veo una película contigo",
+      "Vemos una pelicula juntos",
+      "Vemos una película juntos",
+      "Veo la pelicula contigo",
+      "Veo la película contigo"
     ],
     "keywords": [
-      ["el", "él"],
-      ["gato", "gata"],
-      ["estan", "están"],
-      ["casa"]
-    ]
-  },
-  {
-    "id": 6,
-    "targetAudioText": "我跟老师说汉语。",
-    "pinyin": "Wǒ gēn lǎoshī shuō Hànyǔ.",
-    "modelTranslation": "Hablo chino con el profesor.",
-    "exactMatches": [
-      "Hablo chino con el profesor",
-      "Hablo chino con la profesora",
-      "Hablo chino con el maestro",
-      "Hablo chino con la maestra",
-      "Yo hablo chino con el profesor"
-    ],
-    "keywords": [
-      ["hablo"],
-      ["chino"],
-      ["profesor", "profesora", "maestro", "maestra"]
-    ]
-  },
-  {
-    "id": 7,
-    "targetAudioText": "猫和狗都睡觉了。",
-    "pinyin": "Māo hé gǒu dōu shuìjiào le.",
-    "modelTranslation": "El gato y el perro se han dormido.",
-    "exactMatches": [
-      "El gato y el perro se han dormido",
-      "El gato y el perro duermen",
-      "El gato y el perro estan durmiendo",
-      "El gato y el perro están durmiendo"
-    ],
-    "keywords": [
-      ["gato"],
-      ["perro"],
-      ["dormido", "duermen", "durmiendo"]
-    ]
-  },
-  {
-    "id": 8,
-    "targetAudioText": "昨天下午我和你一起看电影。",
-    "pinyin": "Zuótiān xiàwǔ wǒ hé nǐ yīqǐ kàn diànyǐng.",
-    "modelTranslation": "Ayer por la tarde vi una película contigo.",
-    "exactMatches": [
-      "Ayer por la tarde vi una pelicula contigo",
-      "Ayer por la tarde vi una película contigo",
-      "Ayer por la tarde vimos una pelicula juntos",
-      "Ayer por la tarde vimos una película juntos",
-      "Ayer por la tarde vi la pelicula contigo",
-      "Ayer por la tarde vi la película contigo"
-    ],
-    "keywords": [
-      ["ayer"],
-      ["tarde"],
       ["pelicula", "película"],
       ["contigo", "juntos"]
     ]
   },
   {
-    "id": 9,
+    "id": 6,
     "targetAudioText": "我跟朋友去买衣服。",
     "pinyin": "Wǒ gēn péngyou qù mǎi yīfu.",
     "modelTranslation": "Voy con mi amigo a comprar ropa.",
@@ -169,20 +114,111 @@
     ]
   },
   {
-    "id": 10,
-    "targetAudioText": "他和我都不忙。",
-    "pinyin": "Tā hé wǒ dōu bù máng.",
-    "modelTranslation": "Ni él ni yo estamos ocupados.",
+    "id": 7,
+    "targetAudioText": "这个苹果又大又红。",
+    "pinyin": "Zhè gè píngguǒ yòu dà yòu hóng.",
+    "modelTranslation": "Esta manzana es grande y roja.",
     "exactMatches": [
-      "Ni el ni yo estamos ocupados",
-      "Ni él ni yo estamos ocupados",
-      "El y yo no estamos ocupados",
-      "Él y yo no estamos ocupados"
+      "Esta manzana es grande y roja",
+      "Esta manzana es roja y grande"
     ],
     "keywords": [
-      ["el", "él"],
-      ["no", "ni"],
-      ["ocupados"]
+      ["manzana"],
+      ["grande"],
+      ["roja"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "这里的菜又好吃又便宜。",
+    "pinyin": "Zhèlǐ de cài yòu hǎochī yòu piányi.",
+    "modelTranslation": "La comida de aquí es rica y barata.",
+    "exactMatches": [
+      "La comida de aqui es rica y barata",
+      "La comida de aquí es rica y barata",
+      "La comida de aqui es deliciosa y barata",
+      "La comida de aquí es deliciosa y barata",
+      "La comida de aqui es buena y barata",
+      "La comida de aquí es buena y barata"
+    ],
+    "keywords": [
+      ["comida"],
+      ["rica", "deliciosa", "buena"],
+      ["barata"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "这件衣服又漂亮又舒服。",
+    "pinyin": "Zhè jiàn yīfu yòu piàoliang yòu shūfu.",
+    "modelTranslation": "Esta ropa es bonita y cómoda.",
+    "exactMatches": [
+      "Esta ropa es bonita y comoda",
+      "Esta ropa es bonita y cómoda",
+      "Esta prenda es bonita y comoda",
+      "Esta prenda es bonita y cómoda",
+      "Esta ropa es linda y comoda",
+      "Esta ropa es linda y cómoda"
+    ],
+    "keywords": [
+      ["ropa", "prenda"],
+      ["bonita", "linda"],
+      ["comoda", "cómoda"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "我想吃肉，也想喝茶。",
+    "pinyin": "Wǒ xiǎng chī ròu, yě xiǎng hē chá.",
+    "modelTranslation": "Quiero comer carne y también beber té.",
+    "exactMatches": [
+      "Quiero comer carne y tambien beber te",
+      "Quiero comer carne y también beber té",
+      "Quiero comer carne y tambien tomar te",
+      "Quiero comer carne y también tomar té",
+      "Quiero comer carne y tomar te",
+      "Quiero comer carne y tomar té"
+    ],
+    "keywords": [
+      ["comer"],
+      ["carne"],
+      ["beber", "tomar"],
+      ["te", "té"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "我喜欢猫，也喜欢狗。",
+    "pinyin": "Wǒ xǐhuan māo, yě xǐhuan gǒu.",
+    "modelTranslation": "Me gustan los gatos y también los perros.",
+    "exactMatches": [
+      "Me gustan los gatos y tambien los perros",
+      "Me gustan los gatos y también los perros",
+      "Me gustan los gatos y los perros",
+      "Me gustan los gatos y perros"
+    ],
+    "keywords": [
+      ["gustan"],
+      ["gatos"],
+      ["perros"]
+    ]
+  },
+  {
+    "id": 12,
+    "targetAudioText": "他是老师，也是我的朋友。",
+    "pinyin": "Tā shì lǎoshī, yě shì wǒ de péngyou.",
+    "modelTranslation": "Él es profesor y también mi amigo.",
+    "exactMatches": [
+      "El es profesor y tambien mi amigo",
+      "Él es profesor y también mi amigo",
+      "El es maestro y tambien mi amigo",
+      "Él es maestro y también mi amigo",
+      "Es profesor y tambien mi amigo",
+      "Es profesor y también mi amigo"
+    ],
+    "keywords": [
+      ["profesor", "maestro"],
+      ["amigo"]
     ]
   }
 ]
