@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "他喝了茶。",
+    "pinyin": "Tā hē le chá.",
+    "modelTranslation": "Él bebió té.",
+    "exactMatches": [
+      "El bebio te",
+      "Él bebió té",
+      "Ella bebio te",
+      "Ella bebió té",
+      "El tomo te",
+      "Él tomó té",
+      "Ella tomo te",
+      "Ella tomó té",
+      "El ha bebido te",
+      "Él ha bebido té",
+      "Ella ha bebido te",
+      "Ella ha bebido té"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["bebio", "bebió", "tomo", "tomó", "bebido"],
+      ["te", "té"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "昨天我吃了鱼。",
+    "pinyin": "Zuótiān wǒ chī le yú.",
+    "modelTranslation": "Ayer comí pescado.",
+    "exactMatches": [
+      "Ayer comi pescado",
+      "Ayer comí pescado",
+      "Ayer he comido pescado"
+    ],
+    "keywords": [
+      ["ayer"],
+      ["comi", "comí", "comido"],
+      ["pescado"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "爸爸没有去公园。",
+    "pinyin": "Bàba méiyǒu qù gōngyuán.",
+    "modelTranslation": "Papá no fue al parque.",
+    "exactMatches": [
+      "Papa no fue al parque",
+      "Papá no fue al parque",
+      "Mi papa no fue al parque",
+      "Mi papá no fue al parque",
+      "Mi padre no fue al parque",
+      "Papa no ha ido al parque",
+      "Papá no ha ido al parque",
+      "Mi padre no ha ido al parque"
+    ],
+    "keywords": [
+      ["papa", "papá", "padre"],
+      ["no"],
+      ["fue", "ido"],
+      ["parque"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "今天早上我看了电视。",
+    "pinyin": "Jīntiān zǎoshang wǒ kàn le diànshì.",
+    "modelTranslation": "Esta mañana vi la tele.",
+    "exactMatches": [
+      "Esta manana vi la tele",
+      "Esta mañana vi la tele",
+      "Esta manana vi la television",
+      "Esta mañana vi la televisión",
+      "Esta manana he visto la tele",
+      "Esta mañana he visto la tele",
+      "Hoy por la manana vi la tele",
+      "Hoy por la mañana vi la tele"
+    ],
+    "keywords": [
+      ["mañana", "manana"],
+      ["vi", "visto", "mire", "miré"],
+      ["tele", "television", "televisión"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "他们去了中国。",
+    "pinyin": "Tāmen qù le Zhōngguó.",
+    "modelTranslation": "Ellos fueron a China.",
+    "exactMatches": [
+      "Ellos fueron a China",
+      "Ellas fueron a China",
+      "Ellos han ido a China",
+      "Ellas han ido a China"
+    ],
+    "keywords": [
+      ["ellos", "ellas"],
+      ["fueron", "ido"],
+      ["china"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "他跟我来了。",
+    "pinyin": "Tā gēn wǒ lái le.",
+    "modelTranslation": "Él vino conmigo.",
+    "exactMatches": [
+      "El vino conmigo",
+      "Él vino conmigo",
+      "Ella vino conmigo",
+      "El ha venido conmigo",
+      "Él ha venido conmigo",
+      "Ella ha venido conmigo"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["vino", "venido"],
+      ["conmigo"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "黑猫喝了水。",
+    "pinyin": "Hēi māo hē le shuǐ.",
+    "modelTranslation": "El gato negro bebió agua.",
+    "exactMatches": [
+      "El gato negro bebio agua",
+      "El gato negro bebió agua",
+      "La gata negra bebio agua",
+      "La gata negra bebió agua",
+      "El gato negro tomo agua",
+      "El gato negro tomó agua",
+      "El gato negro ha bebido agua"
+    ],
+    "keywords": [
+      ["gato", "gata"],
+      ["negro", "negra"],
+      ["bebio", "bebió", "tomo", "tomó", "bebido"],
+      ["agua"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "他也吃了。",
+    "pinyin": "Tā yě chī le.",
+    "modelTranslation": "Él también ha comido.",
+    "exactMatches": [
+      "El tambien ha comido",
+      "Él también ha comido",
+      "Ella tambien ha comido",
+      "Ella también ha comido",
+      "El tambien comio",
+      "Él también comió",
+      "Ella tambien comio",
+      "Ella también comió"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["tambien", "también"],
+      ["comido", "comio", "comió"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "老师还没有来。",
+    "pinyin": "Lǎoshī hái méiyǒu lái.",
+    "modelTranslation": "El profesor aún no ha llegado.",
+    "exactMatches": [
+      "El profesor aun no ha llegado",
+      "El profesor aún no ha llegado",
+      "La profesora aun no ha llegado",
+      "La profesora aún no ha llegado",
+      "El maestro aun no ha llegado",
+      "El maestro aún no ha llegado",
+      "El profesor aun no ha venido",
+      "El profesor aún no ha venido"
+    ],
+    "keywords": [
+      ["profesor", "profesora", "maestro", "maestra"],
+      ["aun", "aún", "todavia", "todavía"],
+      ["no"],
+      ["llegado", "venido"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "昨天晚上我没有睡觉。",
+    "pinyin": "Zuótiān wǎnshang wǒ méiyǒu shuìjiào.",
+    "modelTranslation": "Anoche no dormí.",
+    "exactMatches": [
+      "Anoche no dormi",
+      "Anoche no dormí",
+      "Ayer por la noche no dormi",
+      "Ayer por la noche no dormí",
+      "Anoche no he dormido",
+      "Ayer por la noche no he dormido"
+    ],
+    "keywords": [
+      ["anoche", "noche"],
+      ["no"],
+      ["dormi", "dormí", "dormido"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "他买了两本书。",
+    "pinyin": "Tā mǎi le liǎng běn shū.",
+    "modelTranslation": "Él compró dos libros.",
+    "exactMatches": [
+      "El compro dos libros",
+      "Él compró dos libros",
+      "Ella compro dos libros",
+      "Ella compró dos libros",
+      "El ha comprado dos libros",
+      "Él ha comprado dos libros",
+      "Ella ha comprado dos libros"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["compro", "compró", "comprado"],
+      ["dos"],
+      ["libros"]
+    ]
+  },
+  {
+    "id": 12,
+    "targetAudioText": "小狗没有吃。",
+    "pinyin": "Xiǎo gǒu méiyǒu chī.",
+    "modelTranslation": "El perrito no comió.",
+    "exactMatches": [
+      "El perrito no comio",
+      "El perrito no comió",
+      "La perrita no comio",
+      "La perrita no comió",
+      "El perro pequeno no comio",
+      "El perro pequeño no comió",
+      "El perrito no ha comido"
+    ],
+    "keywords": [
+      ["perrito", "perrita", "perro"],
+      ["no"],
+      ["comio", "comió", "comido"]
+    ]
+  }
+]
