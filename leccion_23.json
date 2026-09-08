@@ -1,3 +1,4 @@
+[
 {
 "words": [
 {"hanzi": "我", "pinyin": "wǒ"},
@@ -64,7 +65,8 @@
 {
 "words": [
 {"hanzi": "我", "pinyin": "wǒ"},
-{"hanzi": "想要", "pinyin": "xiǎngyào"},
+{"hanzi": "想", "pinyin": "xiǎng"},
+{"hanzi": "要", "pinyin": "yào"},
 {"hanzi": "钱，", "pinyin": "qián,"},
 {"hanzi": "但是", "pinyin": "dànshì"},
 {"hanzi": "我", "pinyin": "wǒ"},
@@ -113,3 +115,4 @@
 ],
 "translation": "Quiero ir, pero no con él."
 }
+]
