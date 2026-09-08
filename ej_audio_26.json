@@ -204,6 +204,29 @@
   },
   {
     "id": 11,
+    "targetAudioText": "我来了，但是你不在。",
+    "pinyin": "Wǒ lái le, dànshì nǐ bù zài.",
+    "modelTranslation": "Vine pero tú no estabas.",
+    "exactMatches": [
+      "Vine pero tu no estabas",
+      "Vine pero tú no estabas",
+      "Fui pero tu no estabas",
+      "Fui pero tú no estabas",
+      "Yo vine pero tu no estabas",
+      "Yo vine pero tú no estabas",
+      "He venido pero tu no estabas",
+      "He venido pero tú no estabas"
+    ],
+    "keywords": [
+      ["vine", "fui", "venido"],
+      ["pero"],
+      ["tu", "tú"],
+      ["no"],
+      ["estabas"]
+    ]
+  },
+  {
+    "id": 12,
     "targetAudioText": "他买了两本书。",
     "pinyin": "Tā mǎi le liǎng běn shū.",
     "modelTranslation": "Él compró dos libros.",
@@ -224,7 +247,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 13,
     "targetAudioText": "小狗没有吃。",
     "pinyin": "Xiǎo gǒu méiyǒu chī.",
     "modelTranslation": "El perrito no comió.",
