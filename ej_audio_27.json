@@ -36,7 +36,7 @@
       ["libros"]
     ]
   },
-  {
+{
     "id": 3,
     "targetAudioText": "我们都来过这里。",
     "pinyin": "Wǒmen dōu láiguo zhèlǐ.",
@@ -51,14 +51,19 @@
       "Todas hemos estado aqui",
       "Todas hemos estado aquí",
       "Todos nosotros hemos venido aqui",
-      "Todos nosotros hemos venido aquí"
+      "Todos nosotros hemos venido aquí",
+      "Todos hemos venido aqui",
+      "Todos hemos venido aquí",
+      "Todas hemos venido aqui",
+      "Todas hemos venido aquí"
     ],
     "keywords": [
       ["todos", "todas"],
+      ["hemos"],
       ["estado", "venido"],
       ["aqui", "aquí"]
     ]
-  },
+  }
   {
     "id": 4,
     "targetAudioText": "他在我的家睡过觉。",
