@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "他们去过中国。",
+    "pinyin": "Tāmen qùguo Zhōngguó.",
+    "modelTranslation": "Ellos han ido a China.",
+    "exactMatches": [
+      "Ellos han ido a China",
+      "Ellas han ido a China",
+      "Ellos fueron a China",
+      "Ellas fueron a China",
+      "Ellos han estado en China",
+      "Ellas han estado en China"
+    ],
+    "keywords": [
+      ["ellos", "ellas"],
+      ["ido", "estado", "fueron"],
+      ["china"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "我看过这些书。",
+    "pinyin": "Wǒ kànguo zhèxiē shū.",
+    "modelTranslation": "He leído estos libros.",
+    "exactMatches": [
+      "He leido estos libros",
+      "He leído estos libros",
+      "Yo he leido estos libros",
+      "Yo he leído estos libros",
+      "Lei estos libros",
+      "Leí estos libros"
+    ],
+    "keywords": [
+      ["leido", "leído", "lei", "leí"],
+      ["libros"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我们都来过这里。",
+    "pinyin": "Wǒmen dōu láiguo zhèlǐ.",
+    "modelTranslation": "Todos nosotros hemos estado aquí.",
+    "exactMatches": [
+      "Todos nosotros hemos estado aqui",
+      "Todos nosotros hemos estado aquí",
+      "Todas nosotras hemos estado aqui",
+      "Todas nosotras hemos estado aquí",
+      "Todos hemos estado aqui",
+      "Todos hemos estado aquí",
+      "Todas hemos estado aqui",
+      "Todas hemos estado aquí",
+      "Todos nosotros hemos venido aqui",
+      "Todos nosotros hemos venido aquí"
+    ],
+    "keywords": [
+      ["todos", "todas"],
+      ["estado", "venido"],
+      ["aqui", "aquí"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "他在我的家睡过觉。",
+    "pinyin": "Tā zài wǒ de jiā shuìguo jiào.",
+    "modelTranslation": "Él ha dormido en mi casa.",
+    "exactMatches": [
+      "El ha dormido en mi casa",
+      "Él ha dormido en mi casa",
+      "Ella ha dormido en mi casa",
+      "El dormio en mi casa",
+      "Él dormió en mi casa",
+      "Ella dormio en mi casa",
+      "Ella dormió en mi casa"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["dormido", "dormio", "dormió"],
+      ["casa"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "你来过我的家。",
+    "pinyin": "Nǐ láiguo wǒ de jiā.",
+    "modelTranslation": "Has venido a mi casa.",
+    "exactMatches": [
+      "Has venido a mi casa",
+      "Tu has venido a mi casa",
+      "Tú has venido a mi casa",
+      "Viniste a mi casa",
+      "Tu viniste a mi casa",
+      "Tú viniste a mi casa"
+    ],
+    "keywords": [
+      ["venido", "viniste"],
+      ["casa"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "我没有吃过中国菜。",
+    "pinyin": "Wǒ méiyǒu chīguo Zhōngguó cài.",
+    "modelTranslation": "No he comido comida china.",
+    "exactMatches": [
+      "No he comido comida china",
+      "Yo no he comido comida china",
+      "No comi comida china",
+      "No comí comida china",
+      "Yo no comi comida china",
+      "Yo no comí comida china"
+    ],
+    "keywords": [
+      ["no"],
+      ["comido", "comi", "comí"],
+      ["comida"],
+      ["china"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "我还没有去过中国。",
+    "pinyin": "Wǒ hái méiyǒu qùguo Zhōngguó.",
+    "modelTranslation": "Aún no he ido a China.",
+    "exactMatches": [
+      "Aun no he ido a China",
+      "Aún no he ido a China",
+      "Todavia no he ido a China",
+      "Todavía no he ido a China",
+      "Yo aun no he ido a China",
+      "Yo aún no he ido a China",
+      "Aun no he estado en China",
+      "Aún no he estado en China"
+    ],
+    "keywords": [
+      ["aun", "aún", "todavia", "todavía"],
+      ["no"],
+      ["ido", "estado"],
+      ["china"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "他没有工作过。",
+    "pinyin": "Tā méiyǒu gōngzuòguo.",
+    "modelTranslation": "Él no ha trabajado.",
+    "exactMatches": [
+      "El no ha trabajado",
+      "Él no ha trabajado",
+      "Ella no ha trabajado",
+      "El no trabajo",
+      "Él no trabajó",
+      "Ella no trabajo",
+      "Ella no trabajó"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["no"],
+      ["trabajado", "trabajo", "trabajó"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "我喝过中国啤酒。",
+    "pinyin": "Wǒ hēguo Zhōngguó píjiǔ.",
+    "modelTranslation": "He bebido cerveza china.",
+    "exactMatches": [
+      "He bebido cerveza china",
+      "Yo he bebido cerveza china",
+      "Bebi cerveza china",
+      "Bebí cerveza china",
+      "He tomado cerveza china",
+      "Yo he tomado cerveza china",
+      "Tome cerveza china",
+      "Tomé cerveza china"
+    ],
+    "keywords": [
+      ["bebido", "bebi", "bebí", "tomado", "tome", "tomé"],
+      ["cerveza"],
+      ["china"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "我还没有看过那部电影。",
+    "pinyin": "Wǒ hái méiyǒu kànguo nà bù diànyǐng.",
+    "modelTranslation": "Aún no he visto esa película.",
+    "exactMatches": [
+      "Aun no he visto esa pelicula",
+      "Aún no he visto esa película",
+      "Todavia no he visto esa pelicula",
+      "Todavía no he visto esa película",
+      "Aun no vi esa pelicula",
+      "Aún no vi esa película",
+      "Aun no he visto esa peli",
+      "Aún no he visto esa peli"
+    ],
+    "keywords": [
+      ["aun", "aún", "todavia", "todavía"],
+      ["no"],
+      ["visto", "vi"],
+      ["pelicula", "película", "peli"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "他们都在中国工作过。",
+    "pinyin": "Tāmen dōu zài Zhōngguó gōngzuòguo.",
+    "modelTranslation": "Todos ellos han trabajado en China.",
+    "exactMatches": [
+      "Todos ellos han trabajado en China",
+      "Todas ellas han trabajado en China",
+      "Todos han trabajado en China",
+      "Todas han trabajado en China",
+      "Todos ellos trabajaron en China",
+      "Todas ellas trabajaron en China"
+    ],
+    "keywords": [
+      ["todos", "todas"],
+      ["trabajado", "trabajaron"],
+      ["china"]
+    ]
+  }
+]
