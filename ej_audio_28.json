@@ -27,18 +27,21 @@
     "modelTranslation": "La película ya casi va a empezar.",
     "exactMatches": [
       "La pelicula ya casi va a empezar",
-      "La pelicula está a punto de empezar",
       "La película ya casi va a empezar",
+      "La pelicula esta a punto de empezar",
+      "La película está a punto de empezar",
       "La pelicula casi va a empezar",
       "La película casi va a empezar",
       "La pelicula va a empezar pronto",
       "La película va a empezar pronto",
       "La peli ya casi va a empezar",
-      "La peli ya casi va a empezar"
+      "La peli ya casi va a empezar",
+      "La peli esta a punto de empezar",
+      "La peli está a punto de empezar"
     ],
     "keywords": [
       ["pelicula", "película", "peli"],
-      ["casi", "pronto"],
+      ["casi", "pronto", "punto"],
       ["empezar", "comenzar"]
     ]
   },
@@ -50,13 +53,16 @@
     "exactMatches": [
       "Ya vamos a comer",
       "Vamos a comer",
+      "Estamos a punto de comer",
       "Nosotros ya vamos a comer",
       "Nosotras ya vamos a comer",
       "Nosotros vamos a comer",
-      "Nosotras vamos a comer"
+      "Nosotras vamos a comer",
+      "Nosotros estamos a punto de comer",
+      "Nosotras estamos a punto de comer"
     ],
     "keywords": [
-      ["vamos"],
+      ["vamos", "punto"],
       ["comer"]
     ]
   },
@@ -174,12 +180,18 @@
       "El gato negro se va a dormir",
       "La gata negra se va a dormir",
       "El gato negro va a dormir",
-      "La gata negra va a dormir"
+      "La gata negra va a dormir",
+      "El gato negro esta a punto de dormirse",
+      "El gato negro está a punto de dormirse",
+      "La gata negra esta a punto de dormirse",
+      "La gata negra está a punto de dormirse",
+      "El gato negro esta a punto de dormir",
+      "El gato negro está a punto de dormir"
     ],
     "keywords": [
       ["gato", "gata"],
       ["negro", "negra"],
-      ["dormir"]
+      ["dormir", "dormirse"]
     ]
   },
   {
@@ -190,13 +202,17 @@
     "exactMatches": [
       "El tren ya casi se va",
       "El tren casi se va",
+      "El tren esta a punto de irse",
+      "El tren está a punto de irse",
+      "El tren esta a punto de salir",
+      "El tren está a punto de salir",
       "El tren se va a ir pronto",
       "El tren se va pronto",
       "El tren ya se va"
     ],
     "keywords": [
       ["tren"],
-      ["va", "ir"]
+      ["va", "ir", "irse", "salir"]
     ]
   },
   {
