@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我们的爸爸明天会来。",
+    "pinyin": "Wǒmen de bàba míngtiān huì lái.",
+    "modelTranslation": "Nuestro padre vendrá mañana.",
+    "exactMatches": [
+      "Nuestro padre vendra manana",
+      "Nuestro padre vendrá mañana",
+      "Nuestro papa vendra manana",
+      "Nuestro papá vendrá mañana",
+      "Nuestro padre va a venir manana",
+      "Nuestro padre va a venir mañana",
+      "Nuestro papa va a venir manana",
+      "Nuestro papá va a venir mañana"
+    ],
+    "keywords": [
+      ["padre", "papa", "papá"],
+      ["mañana", "manana"],
+      ["vendra", "vendrá", "venir"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "电影快要开始了。",
+    "pinyin": "Diànyǐng kuàiyào kāishǐ le.",
+    "modelTranslation": "La película ya casi va a empezar.",
+    "exactMatches": [
+      "La pelicula ya casi va a empezar",
+      "La película ya casi va a empezar",
+      "La pelicula casi va a empezar",
+      "La película casi va a empezar",
+      "La pelicula va a empezar pronto",
+      "La película va a empezar pronto",
+      "La peli ya casi va a empezar",
+      "La peli ya casi va a empezar"
+    ],
+    "keywords": [
+      ["pelicula", "película", "peli"],
+      ["casi", "pronto"],
+      ["empezar", "comenzar"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我们要吃饭了。",
+    "pinyin": "Wǒmen yào chīfàn le.",
+    "modelTranslation": "Ya vamos a comer.",
+    "exactMatches": [
+      "Ya vamos a comer",
+      "Vamos a comer",
+      "Nosotros ya vamos a comer",
+      "Nosotras ya vamos a comer",
+      "Nosotros vamos a comer",
+      "Nosotras vamos a comer"
+    ],
+    "keywords": [
+      ["vamos"],
+      ["comer"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "星期二我会去买书。",
+    "pinyin": "Xīngqī'èr wǒ huì qù mǎi shū.",
+    "modelTranslation": "El martes iré a comprar libros.",
+    "exactMatches": [
+      "El martes ire a comprar libros",
+      "El martes iré a comprar libros",
+      "El martes voy a comprar libros",
+      "El martes ire a comprar un libro",
+      "El martes iré a comprar un libro",
+      "Yo el martes ire a comprar libros",
+      "Yo el martes iré a comprar libros"
+    ],
+    "keywords": [
+      ["martes"],
+      ["ire", "iré", "voy"],
+      ["comprar"],
+      ["libros", "libro"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "他明天会告诉我。",
+    "pinyin": "Tā míngtiān huì gàosu wǒ.",
+    "modelTranslation": "Él me lo dirá mañana.",
+    "exactMatches": [
+      "El me lo dira manana",
+      "Él me lo dirá mañana",
+      "Ella me lo dira manana",
+      "Ella me lo dirá mañana",
+      "El me lo va a decir manana",
+      "Él me lo va a decir mañana",
+      "Ella me lo va a decir manana",
+      "Ella me lo va a decir mañana",
+      "El me dira manana",
+      "Él me dirá mañana",
+      "Ella me dira manana",
+      "Ella me dirá mañana"
+    ],
+    "keywords": [
+      ["el", "él", "ella"],
+      ["mañana", "manana"],
+      ["dira", "dirá", "decir"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "我会跟她去公园。",
+    "pinyin": "Wǒ huì gēn tā qù gōngyuán.",
+    "modelTranslation": "Iré con ella al parque.",
+    "exactMatches": [
+      "Ire con ella al parque",
+      "Iré con ella al parque",
+      "Voy a ir con ella al parque",
+      "Yo ire con ella al parque",
+      "Yo iré con ella al parque",
+      "Yo voy a ir con ella al parque"
+    ],
+    "keywords": [
+      ["ire", "iré", "voy"],
+      ["ella"],
+      ["parque"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "明天会很冷。",
+    "pinyin": "Míngtiān huì hěn lěng.",
+    "modelTranslation": "Mañana hará frío.",
+    "exactMatches": [
+      "Manana hara frio",
+      "Mañana hará frío",
+      "Manana va a hacer frio",
+      "Mañana va a hacer frío",
+      "Hara frio manana",
+      "Hará frío mañana"
+    ],
+    "keywords": [
+      ["mañana", "manana"],
+      ["hara", "hará", "hacer"],
+      ["frio", "frío"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "我明天会去你的家。",
+    "pinyin": "Wǒ míngtiān huì qù nǐ de jiā.",
+    "modelTranslation": "Iré a tu casa mañana.",
+    "exactMatches": [
+      "Ire a tu casa manana",
+      "Iré a tu casa mañana",
+      "Voy a ir a tu casa manana",
+      "Voy a ir a tu casa mañana",
+      "Manana ire a tu casa",
+      "Mañana iré a tu casa",
+      "Yo ire a tu casa manana",
+      "Yo iré a tu casa mañana"
+    ],
+    "keywords": [
+      ["ire", "iré", "voy"],
+      ["casa"],
+      ["mañana", "manana"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "黑猫要睡觉了。",
+    "pinyin": "Hēi māo yào shuìjiào le.",
+    "modelTranslation": "El gato negro se va a dormir.",
+    "exactMatches": [
+      "El gato negro se va a dormir",
+      "La gata negra se va a dormir",
+      "El gato negro va a dormir",
+      "La gata negra va a dormir"
+    ],
+    "keywords": [
+      ["gato", "gata"],
+      ["negro", "negra"],
+      ["dormir"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "火车快走了。",
+    "pinyin": "Huǒchē kuài zǒu le.",
+    "modelTranslation": "El tren ya casi se va.",
+    "exactMatches": [
+      "El tren ya casi se va",
+      "El tren casi se va",
+      "El tren se va a ir pronto",
+      "El tren se va pronto",
+      "El tren ya se va"
+    ],
+    "keywords": [
+      ["tren"],
+      ["va", "ir"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "我要去买一点儿鱼。",
+    "pinyin": "Wǒ yào qù mǎi yīdiǎnr yú.",
+    "modelTranslation": "Voy a ir a comprar algo de pescado.",
+    "exactMatches": [
+      "Voy a ir a comprar algo de pescado",
+      "Voy a comprar algo de pescado",
+      "Ire a comprar algo de pescado",
+      "Iré a comprar algo de pescado",
+      "Voy a ir a comprar un poco de pescado",
+      "Voy a comprar un poco de pescado"
+    ],
+    "keywords": [
+      ["comprar"],
+      ["pescado"]
+    ]
+  },
+  {
+    "id": 12,
+    "targetAudioText": "明天早上我会非常忙。",
+    "pinyin": "Míngtiān zǎoshang wǒ huì fēicháng máng.",
+    "modelTranslation": "Mañana por la mañana estaré muy ocupado.",
+    "exactMatches": [
+      "Manana por la manana estare muy ocupado",
+      "Mañana por la mañana estaré muy ocupado",
+      "Manana por la manana estare muy ocupada",
+      "Mañana por la mañana estaré muy ocupada",
+      "Manana por la manana voy a estar muy ocupado",
+      "Mañana por la mañana voy a estar muy ocupado",
+      "Manana por la manana voy a estar muy ocupada",
+      "Mañana por la mañana voy a estar muy ocupada",
+      "Manana en la manana estare muy ocupado",
+      "Mañana en la mañana estaré muy ocupado"
+    ],
+    "keywords": [
+      ["mañana", "manana"],
+      ["estare", "estaré", "estar"],
+      ["muy"],
+      ["ocupado", "ocupada"]
+    ]
+  }
+]
