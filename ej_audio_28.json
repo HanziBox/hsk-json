@@ -97,17 +97,22 @@
       "Él me lo dirá mañana",
       "Ella me lo dira manana",
       "Ella me lo dirá mañana",
+      "Me lo dira manana",
+      "Me lo dirá mañana",
       "El me lo va a decir manana",
       "Él me lo va a decir mañana",
       "Ella me lo va a decir manana",
       "Ella me lo va a decir mañana",
+      "Me lo va a decir manana",
+      "Me lo va a decir mañana",
       "El me dira manana",
       "Él me dirá mañana",
       "Ella me dira manana",
-      "Ella me dirá mañana"
+      "Ella me dirá mañana",
+      "Me dira manana",
+      "Me dirá mañana"
     ],
     "keywords": [
-      ["el", "él", "ella"],
       ["mañana", "manana"],
       ["dira", "dirá", "decir"]
     ]
@@ -120,14 +125,22 @@
     "exactMatches": [
       "Ire con ella al parque",
       "Iré con ella al parque",
+      "Ire con el al parque",
+      "Iré con él al parque",
       "Voy a ir con ella al parque",
+      "Voy a ir con el al parque",
+      "Voy a ir con él al parque",
       "Yo ire con ella al parque",
       "Yo iré con ella al parque",
-      "Yo voy a ir con ella al parque"
+      "Yo ire con el al parque",
+      "Yo iré con él al parque",
+      "Yo voy a ir con ella al parque",
+      "Yo voy a ir con el al parque",
+      "Yo voy a ir con él al parque"
     ],
     "keywords": [
       ["ire", "iré", "voy"],
-      ["ella"],
+      ["ella", "el", "él"],
       ["parque"]
     ]
   },
