@@ -15,6 +15,7 @@
       "Yo estoy tomando té"
     ],
     "keywords": [
+      ["estoy"],
       ["bebiendo", "tomando"],
       ["te", "té"]
     ]
@@ -39,8 +40,8 @@
       "Está leyendo"
     ],
     "keywords": [
-      ["leyendo"],
-      ["libro"]
+      ["esta", "está"],
+      ["leyendo"]
     ]
   },
   {
@@ -54,6 +55,7 @@
     ],
     "keywords": [
       ["no"],
+      ["estoy"],
       ["durmiendo"]
     ]
   },
@@ -68,6 +70,7 @@
     ],
     "keywords": [
       ["puerta"],
+      ["esta", "está"],
       ["abierta"]
     ]
   },
@@ -82,7 +85,9 @@
       "La mama esta escuchando musica",
       "La mamá está escuchando música",
       "Mama esta oyendo musica",
-      "Mamá está oyendo música"
+      "Mamá está oyendo música",
+      "La mama esta oyendo musica",
+      "La mamá está oyendo música"
     ],
     "keywords": [
       ["mama", "mamá"],
@@ -111,9 +116,12 @@
       "El esta viendo tele",
       "Él está viendo tele",
       "Ella esta viendo tele",
-      "Ella está viendo tele"
+      "Ella está viendo tele",
+      "Esta viendo tele",
+      "Está viendo tele"
     ],
     "keywords": [
+      ["esta", "está"],
       ["viendo", "mirando"],
       ["television", "televisión", "tele"]
     ]
@@ -135,6 +143,7 @@
     ],
     "keywords": [
       ["papa", "papá", "padre"],
+      ["esta", "está"],
       ["casa"],
       ["leyendo"]
     ]
@@ -151,10 +160,11 @@
       "Ella está vistiendo ropa muy bonita",
       "Lleva puesta ropa muy bonita",
       "Lleva puesta una ropa muy bonita",
-      "Ella viste ropa muy bonita"
+      "Ella viste ropa muy bonita",
+      "Viste ropa muy bonita"
     ],
     "keywords": [
-      ["lleva", "puesta", "vistiendo", "viste"],
+      ["lleva", "vistiendo", "viste"],
       ["ropa"],
       ["muy"],
       ["bonita", "linda"]
@@ -174,6 +184,7 @@
       "Está durmiendo en casa"
     ],
     "keywords": [
+      ["esta", "está"],
       ["durmiendo"],
       ["casa"]
     ]
@@ -195,9 +206,12 @@
       "Ella esta bailando con su papa",
       "Ella está bailando con su papá",
       "El esta bailando con el padre",
-      "Él está bailando con el padre"
+      "Él está bailando con el padre",
+      "Esta bailando con su papa",
+      "Está bailando con su papá"
     ],
     "keywords": [
+      ["esta", "está"],
       ["bailando"],
       ["papa", "papá", "padre"]
     ]
@@ -216,6 +230,7 @@
     "keywords": [
       ["luz", "luces"],
       ["casa"],
+      ["esta", "está", "estan", "están"],
       ["apagada", "apagadas"]
     ]
   },
@@ -238,6 +253,7 @@
     ],
     "keywords": [
       ["gato", "gata"],
+      ["esta", "está"],
       ["tumbado", "tumbada", "echado", "echada", "acostado", "acostada"],
       ["alli", "allí"]
     ]
@@ -263,6 +279,7 @@
     ],
     "keywords": [
       ["todos", "todas"],
+      ["estan", "están"],
       ["trabajando"]
     ]
   }
