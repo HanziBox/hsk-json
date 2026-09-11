@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我在喝茶。",
+    "pinyin": "Wǒ zài hē chá.",
+    "modelTranslation": "Estoy bebiendo té.",
+    "exactMatches": [
+      "Estoy bebiendo te",
+      "Estoy bebiendo té",
+      "Estoy tomando te",
+      "Estoy tomando té",
+      "Yo estoy bebiendo te",
+      "Yo estoy bebiendo té",
+      "Yo estoy tomando te",
+      "Yo estoy tomando té"
+    ],
+    "keywords": [
+      ["bebiendo", "tomando"],
+      ["te", "té"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "他在看书。",
+    "pinyin": "Tā zài kàn shū.",
+    "modelTranslation": "Él está leyendo un libro.",
+    "exactMatches": [
+      "El esta leyendo un libro",
+      "Él está leyendo un libro",
+      "Ella esta leyendo un libro",
+      "Ella está leyendo un libro",
+      "Esta leyendo un libro",
+      "Está leyendo un libro",
+      "El esta leyendo",
+      "Él está leyendo",
+      "Ella esta leyendo",
+      "Ella está leyendo",
+      "Esta leyendo",
+      "Está leyendo"
+    ],
+    "keywords": [
+      ["leyendo"],
+      ["libro"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "我没在睡觉。",
+    "pinyin": "Wǒ méi zài shuìjiào.",
+    "modelTranslation": "No estoy durmiendo.",
+    "exactMatches": [
+      "No estoy durmiendo",
+      "Yo no estoy durmiendo"
+    ],
+    "keywords": [
+      ["no"],
+      ["durmiendo"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "门开着。",
+    "pinyin": "Mén kāi zhe.",
+    "modelTranslation": "La puerta está abierta.",
+    "exactMatches": [
+      "La puerta esta abierta",
+      "La puerta está abierta"
+    ],
+    "keywords": [
+      ["puerta"],
+      ["abierta"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "妈妈在听音乐呢。",
+    "pinyin": "Māmā zài tīng yīnyuè ne.",
+    "modelTranslation": "Mamá está escuchando música.",
+    "exactMatches": [
+      "Mama esta escuchando musica",
+      "Mamá está escuchando música",
+      "La mama esta escuchando musica",
+      "La mamá está escuchando música",
+      "Mama esta oyendo musica",
+      "Mamá está oyendo música"
+    ],
+    "keywords": [
+      ["mama", "mamá"],
+      ["escuchando", "oyendo"],
+      ["musica", "música"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "他看着电视。",
+    "pinyin": "Tā kàn zhe diànshì.",
+    "modelTranslation": "Él está viendo la televisión.",
+    "exactMatches": [
+      "El esta viendo la television",
+      "Él está viendo la televisión",
+      "Ella esta viendo la television",
+      "Ella está viendo la televisión",
+      "Esta viendo la television",
+      "Está viendo la televisión",
+      "El esta mirando la television",
+      "Él está mirando la televisión",
+      "Ella esta mirando la television",
+      "Ella está mirando la televisión",
+      "Esta mirando la television",
+      "Está mirando la televisión",
+      "El esta viendo tele",
+      "Él está viendo tele",
+      "Ella esta viendo tele",
+      "Ella está viendo tele"
+    ],
+    "keywords": [
+      ["viendo", "mirando"],
+      ["television", "televisión", "tele"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "我爸爸在家看书。",
+    "pinyin": "Wǒ bàba zài jiā kàn shū.",
+    "modelTranslation": "Mi papá está en casa leyendo.",
+    "exactMatches": [
+      "Mi papa esta en casa leyendo",
+      "Mi papá está en casa leyendo",
+      "Mi padre esta en casa leyendo",
+      "Mi padre está en casa leyendo",
+      "Mi papa esta leyendo en casa",
+      "Mi papá está leyendo en casa",
+      "Mi padre esta leyendo en casa",
+      "Mi padre está leyendo en casa"
+    ],
+    "keywords": [
+      ["papa", "papá", "padre"],
+      ["casa"],
+      ["leyendo"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "她穿着非常漂亮的衣服。",
+    "pinyin": "Tā chuān zhe fēicháng piàoliang de yīfu.",
+    "modelTranslation": "Ella lleva puesta ropa muy bonita.",
+    "exactMatches": [
+      "Ella lleva puesta ropa muy bonita",
+      "Ella lleva puesta una ropa muy bonita",
+      "Ella esta vistiendo ropa muy bonita",
+      "Ella está vistiendo ropa muy bonita",
+      "Lleva puesta ropa muy bonita",
+      "Lleva puesta una ropa muy bonita",
+      "Ella viste ropa muy bonita"
+    ],
+    "keywords": [
+      ["lleva", "puesta", "vistiendo", "viste"],
+      ["ropa"],
+      ["muy"],
+      ["bonita", "linda"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "他在家睡觉呢。",
+    "pinyin": "Tā zài jiā shuìjiào ne.",
+    "modelTranslation": "Él está durmiendo en casa.",
+    "exactMatches": [
+      "El esta durmiendo en casa",
+      "Él está durmiendo en casa",
+      "Ella esta durmiendo en casa",
+      "Ella está durmiendo en casa",
+      "Esta durmiendo en casa",
+      "Está durmiendo en casa"
+    ],
+    "keywords": [
+      ["durmiendo"],
+      ["casa"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "他在跟爸爸跳舞。",
+    "pinyin": "Tā zài gēn bàba tiàowǔ.",
+    "modelTranslation": "Él está bailando con papá.",
+    "exactMatches": [
+      "El esta bailando con papa",
+      "Él está bailando con papá",
+      "Ella esta bailando con papa",
+      "Ella está bailando con papá",
+      "Esta bailando con papa",
+      "Está bailando con papá",
+      "El esta bailando con su papa",
+      "Él está bailando con su papá",
+      "Ella esta bailando con su papa",
+      "Ella está bailando con su papá",
+      "El esta bailando con el padre",
+      "Él está bailando con el padre"
+    ],
+    "keywords": [
+      ["bailando"],
+      ["papa", "papá", "padre"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "房子的灯关着。",
+    "pinyin": "Fángzi de dēng guān zhe.",
+    "modelTranslation": "La luz de la casa está apagada.",
+    "exactMatches": [
+      "La luz de la casa esta apagada",
+      "La luz de la casa está apagada",
+      "Las luces de la casa estan apagadas",
+      "Las luces de la casa están apagadas"
+    ],
+    "keywords": [
+      ["luz", "luces"],
+      ["casa"],
+      ["apagada", "apagadas"]
+    ]
+  },
+  {
+    "id": 12,
+    "targetAudioText": "你的猫在那儿躺着。",
+    "pinyin": "Nǐ de māo zài nàr tǎng zhe.",
+    "modelTranslation": "Tu gato está tumbado allí.",
+    "exactMatches": [
+      "Tu gato esta tumbado alli",
+      "Tu gato está tumbado allí",
+      "Tu gata esta tumbada alli",
+      "Tu gata está tumbada allí",
+      "Tu gato esta echado alli",
+      "Tu gato está echado allí",
+      "Tu gata esta echada alli",
+      "Tu gata está echada allí",
+      "Tu gato esta acostado alli",
+      "Tu gato está acostado allí"
+    ],
+    "keywords": [
+      ["gato", "gata"],
+      ["tumbado", "tumbada", "echado", "echada", "acostado", "acostada"],
+      ["alli", "allí"]
+    ]
+  },
+  {
+    "id": 13,
+    "targetAudioText": "他们都在工作。",
+    "pinyin": "Tāmen dōu zài gōngzuò.",
+    "modelTranslation": "Todos ellos están trabajando.",
+    "exactMatches": [
+      "Todos ellos estan trabajando",
+      "Todos ellos están trabajando",
+      "Todas ellas estan trabajando",
+      "Todas ellas están trabajando",
+      "Todos estan trabajando",
+      "Todos están trabajando",
+      "Todas estan trabajando",
+      "Todas están trabajando",
+      "Ellos todos estan trabajando",
+      "Ellos todos están trabajando",
+      "Ellas todas estan trabajando",
+      "Ellas todas están trabajando"
+    ],
+    "keywords": [
+      ["todos", "todas"],
+      ["trabajando"]
+    ]
+  }
+]
