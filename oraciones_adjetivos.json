@@ -1,0 +1,59 @@
+{
+  "sentences": [
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+        { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "大", "pinyin": "dà" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "苹果", "pinyin": "píngguǒ" }
+      ],
+      "translation": "Una manzana muy grande"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
+        { "category": "Clasificador", "hanzi": "本", "pinyin": "běn" },
+        { "category": "Adverbio", "hanzi": "非常", "pinyin": "fēicháng" },
+        { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "书", "pinyin": "shū" }
+      ],
+      "translation": "Dos libros muy buenos"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
+        { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
+        { "category": "Adverbio", "hanzi": "特别", "pinyin": "tèbié" },
+        { "category": "Adjetivo", "hanzi": "小", "pinyin": "xiǎo" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "猫", "pinyin": "māo" }
+      ],
+      "translation": "Tres gatos especialmente pequeños"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "这", "pinyin": "zhè" },
+        { "category": "Clasificador", "hanzi": "件", "pinyin": "jiàn" },
+        { "category": "Adverbio", "hanzi": "真", "pinyin": "zhēn" },
+        { "category": "Adjetivo", "hanzi": "漂亮", "pinyin": "piàoliang" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "衣服", "pinyin": "yīfu" }
+      ],
+      "translation": "Esta ropa verdaderamente bonita"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "那", "pinyin": "nà" },
+        { "category": "Clasificador", "hanzi": "位", "pinyin": "wèi" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "高", "pinyin": "gāo" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "老师", "pinyin": "lǎoshī" }
+      ],
+      "translation": "Aquel profesor tan alto"
+    }
+  ]
+}
