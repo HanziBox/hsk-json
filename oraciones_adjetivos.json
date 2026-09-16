@@ -1,200 +1,202 @@
-"sentences": [
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
-      { "category": "Clasificador", "hanzi": "部", "pinyin": "bù" },
-      { "category": "Adjetivo", "hanzi": "意思", "pinyin": "yìsi" },
-      { "category": "Nombre", "hanzi": "电影", "pinyin": "diànyǐng" }
-    ],
-    "translation": "Una película interesante"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
-      { "category": "Clasificador", "hanzi": "部", "pinyin": "bù" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "有意思", "pinyin": "yǒu yìsi" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "电影", "pinyin": "diànyǐng" }
-    ],
-    "translation": "Una película muy interesante"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
-      { "category": "Clasificador", "hanzi": "本", "pinyin": "běn" },
-      { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
-      { "category": "Nombre", "hanzi": "书", "pinyin": "shū" }
-    ],
-    "translation": "Dos libros buenos"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
-      { "category": "Clasificador", "hanzi": "本", "pinyin": "běn" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "书", "pinyin": "shū" }
-    ],
-    "translation": "Dos libros muy buenos"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "五", "pinyin": "wǔ" },
-      { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
-      { "category": "Adjetivo", "hanzi": "可爱", "pinyin": "kě'ài" },
-      { "category": "Nombre", "hanzi": "猫", "pinyin": "māo" }
-    ],
-    "translation": "Cinco gatos lindos"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "五", "pinyin": "wǔ" },
-      { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "可爱", "pinyin": "kě'ài" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "猫", "pinyin": "māo" }
-    ],
-    "translation": "Cinco gatos muy lindos"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
-      { "category": "Clasificador", "hanzi": "杯", "pinyin": "bēi" },
-      { "category": "Adjetivo", "hanzi": "红", "pinyin": "hóng" },
-      { "category": "Nombre", "hanzi": "葡萄酒", "pinyin": "pútáojiǔ" }
-    ],
-    "translation": "Dos copas de vino tinto"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
-      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
-      { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
-      { "category": "Nombre", "hanzi": "人", "pinyin": "rén" }
-    ],
-    "translation": "Una persona buena"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
-      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "人", "pinyin": "rén" }
-    ],
-    "translation": "Una persona muy buena"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
-      { "category": "Clasificador", "hanzi": "件", "pinyin": "jiàn" },
-      { "category": "Adjetivo", "hanzi": "漂亮", "pinyin": "piàoliang" },
-      { "category": "Nombre", "hanzi": "衣服", "pinyin": "yīfu" }
-    ],
-    "translation": "Una prenda bonita"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
-      { "category": "Clasificador", "hanzi": "件", "pinyin": "jiàn" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "漂亮", "pinyin": "piàoliang" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "衣服", "pinyin": "yīfu" }
-    ],
-    "translation": "Una prenda muy bonita"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
-      { "category": "Clasificador", "hanzi": "本", "pinyin": "běn" },
-      { "category": "Adjetivo", "hanzi": "红", "pinyin": "hóng" },
-      { "category": "Nombre", "hanzi": "书", "pinyin": "shū" }
-    ],
-    "translation": "Tres libros rojos"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "十", "pinyin": "shí" },
-      { "category": "Clasificador", "hanzi": "套", "pinyin": "tào" },
-      { "category": "Adjetivo", "hanzi": "贵", "pinyin": "guì" },
-      { "category": "Nombre", "hanzi": "房子", "pinyin": "fángzi" }
-    ],
-    "translation": "Diez casas caras"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "十", "pinyin": "shí" },
-      { "category": "Clasificador", "hanzi": "套", "pinyin": "tào" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "贵", "pinyin": "guì" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "房子", "pinyin": "fángzi" }
-    ],
-    "translation": "Diez casas muy caras"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
-      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
-      { "category": "Adjetivo", "hanzi": "高", "pinyin": "gāo" },
-      { "category": "Nombre", "hanzi": "姑娘", "pinyin": "gūniang" }
-    ],
-    "translation": "Tres chicas altas"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
-      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "高", "pinyin": "gāo" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "姑娘", "pinyin": "gūniang" }
-    ],
-    "translation": "Tres chicas muy altas"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "六", "pinyin": "liù" },
-      { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
-      { "category": "Adjetivo", "hanzi": "大", "pinyin": "dà" },
-      { "category": "Nombre", "hanzi": "狗", "pinyin": "gǒu" }
-    ],
-    "translation": "Seis perros grandes"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "六", "pinyin": "liù" },
-      { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "大", "pinyin": "dà" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "狗", "pinyin": "gǒu" }
-    ],
-    "translation": "Seis perros muy grandes"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
-      { "category": "Clasificador", "hanzi": "位", "pinyin": "wèi" },
-      { "category": "Adjetivo", "hanzi": "聪明", "pinyin": "cōngming" },
-      { "category": "Nombre", "hanzi": "老师", "pinyin": "lǎoshī" }
-    ],
-    "translation": "Dos profesores inteligentes"
-  },
-  {
-    "words": [
-      { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
-      { "category": "Clasificador", "hanzi": "位", "pinyin": "wèi" },
-      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "聪明", "pinyin": "cōngming" },
-      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
-      { "category": "Nombre", "hanzi": "老师", "pinyin": "lǎoshī" }
-    ],
-    "translation": "Dos profesores muy inteligentes"
-  }
-]
+{
+  "sentences": [
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+        { "category": "Clasificador", "hanzi": "部", "pinyin": "bù" },
+        { "category": "Adjetivo", "hanzi": "意思", "pinyin": "yìsi" },
+        { "category": "Nombre", "hanzi": "电影", "pinyin": "diànyǐng" }
+      ],
+      "translation": "Una película interesante"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+        { "category": "Clasificador", "hanzi": "部", "pinyin": "bù" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "有意思", "pinyin": "yǒu yìsi" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "电影", "pinyin": "diànyǐng" }
+      ],
+      "translation": "Una película muy interesante"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
+        { "category": "Clasificador", "hanzi": "本", "pinyin": "běn" },
+        { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
+        { "category": "Nombre", "hanzi": "书", "pinyin": "shū" }
+      ],
+      "translation": "Dos libros buenos"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
+        { "category": "Clasificador", "hanzi": "本", "pinyin": "běn" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "书", "pinyin": "shū" }
+      ],
+      "translation": "Dos libros muy buenos"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "五", "pinyin": "wǔ" },
+        { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
+        { "category": "Adjetivo", "hanzi": "可爱", "pinyin": "kě'ài" },
+        { "category": "Nombre", "hanzi": "猫", "pinyin": "māo" }
+      ],
+      "translation": "Cinco gatos lindos"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "五", "pinyin": "wǔ" },
+        { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "可爱", "pinyin": "kě'ài" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "猫", "pinyin": "māo" }
+      ],
+      "translation": "Cinco gatos muy lindos"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
+        { "category": "Clasificador", "hanzi": "杯", "pinyin": "bēi" },
+        { "category": "Adjetivo", "hanzi": "红", "pinyin": "hóng" },
+        { "category": "Nombre", "hanzi": "葡萄酒", "pinyin": "pútáojiǔ" }
+      ],
+      "translation": "Dos copas de vino tinto"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+        { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+        { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
+        { "category": "Nombre", "hanzi": "人", "pinyin": "rén" }
+      ],
+      "translation": "Una persona buena"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+        { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "人", "pinyin": "rén" }
+      ],
+      "translation": "Una persona muy buena"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+        { "category": "Clasificador", "hanzi": "件", "pinyin": "jiàn" },
+        { "category": "Adjetivo", "hanzi": "漂亮", "pinyin": "piàoliang" },
+        { "category": "Nombre", "hanzi": "衣服", "pinyin": "yīfu" }
+      ],
+      "translation": "Una prenda bonita"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+        { "category": "Clasificador", "hanzi": "件", "pinyin": "jiàn" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "漂亮", "pinyin": "piàoliang" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "衣服", "pinyin": "yīfu" }
+      ],
+      "translation": "Una prenda muy bonita"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
+        { "category": "Clasificador", "hanzi": "本", "pinyin": "běn" },
+        { "category": "Adjetivo", "hanzi": "红", "pinyin": "hóng" },
+        { "category": "Nombre", "hanzi": "书", "pinyin": "shū" }
+      ],
+      "translation": "Tres libros rojos"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "十", "pinyin": "shí" },
+        { "category": "Clasificador", "hanzi": "套", "pinyin": "tào" },
+        { "category": "Adjetivo", "hanzi": "贵", "pinyin": "guì" },
+        { "category": "Nombre", "hanzi": "房子", "pinyin": "fángzi" }
+      ],
+      "translation": "Diez casas caras"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "十", "pinyin": "shí" },
+        { "category": "Clasificador", "hanzi": "套", "pinyin": "tào" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "贵", "pinyin": "guì" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "房子", "pinyin": "fángzi" }
+      ],
+      "translation": "Diez casas muy caras"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
+        { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+        { "category": "Adjetivo", "hanzi": "高", "pinyin": "gāo" },
+        { "category": "Nombre", "hanzi": "姑娘", "pinyin": "gūniang" }
+      ],
+      "translation": "Tres chicas altas"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
+        { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "高", "pinyin": "gāo" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "姑娘", "pinyin": "gūniang" }
+      ],
+      "translation": "Tres chicas muy altas"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "六", "pinyin": "liù" },
+        { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
+        { "category": "Adjetivo", "hanzi": "大", "pinyin": "dà" },
+        { "category": "Nombre", "hanzi": "狗", "pinyin": "gǒu" }
+      ],
+      "translation": "Seis perros grandes"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "六", "pinyin": "liù" },
+        { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "大", "pinyin": "dà" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "狗", "pinyin": "gǒu" }
+      ],
+      "translation": "Seis perros muy grandes"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
+        { "category": "Clasificador", "hanzi": "位", "pinyin": "wèi" },
+        { "category": "Adjetivo", "hanzi": "聪明", "pinyin": "cōngming" },
+        { "category": "Nombre", "hanzi": "老师", "pinyin": "lǎoshī" }
+      ],
+      "translation": "Dos profesores inteligentes"
+    },
+    {
+      "words": [
+        { "category": "Numeral", "hanzi": "两", "pinyin": "liǎng" },
+        { "category": "Clasificador", "hanzi": "位", "pinyin": "wèi" },
+        { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+        { "category": "Adjetivo", "hanzi": "聪明", "pinyin": "cōngming" },
+        { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+        { "category": "Nombre", "hanzi": "老师", "pinyin": "lǎoshī" }
+      ],
+      "translation": "Dos profesores muy inteligentes"
+    }
+  ]
+}
