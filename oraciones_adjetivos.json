@@ -72,7 +72,7 @@
       { "category": "Adverbio", "hanzi": null, "pinyin": null },
       { "category": "Adjetivo", "hanzi": "红", "pinyin": "hóng" },
       { "category": "Partícula", "hanzi": null, "pinyin": null },
-      { "category": "Nombre", "hanzi": "酒", "pinyin": "jiǔ" }
+      { "category": "Nombre", "hanzi": "葡萄酒", "pinyin": "pútáojiǔ" }
     ],
     "translation": "Dos copas de vino tinto"
   },
@@ -218,5 +218,71 @@
       { "category": "Nombre", "hanzi": "老师", "pinyin": "lǎoshī" }
     ],
     "translation": "Dos profesores muy inteligentes"
+  },
+  {
+    "words": [
+      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+      { "category": "Adverbio", "hanzi": null, "pinyin": null },
+      { "category": "Adjetivo", "hanzi": "漂亮", "pinyin": "piàoliang" },
+      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+      { "category": "Nombre", "hanzi": "公园", "pinyin": "gōngyuán" }
+    ],
+    "translation": "Un parque bonito"
+  },
+  {
+    "words": [
+      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+      { "category": "Adjetivo", "hanzi": "漂亮", "pinyin": "piàoliang" },
+      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+      { "category": "Nombre", "hanzi": "公园", "pinyin": "gōngyuán" }
+    ],
+    "translation": "Un parque muy bonito"
+  },
+  {
+    "words": [
+      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+      { "category": "Adverbio", "hanzi": null, "pinyin": null },
+      { "category": "Adjetivo", "hanzi": "大", "pinyin": "dà" },
+      { "category": "Partícula", "hanzi": null, "pinyin": null },
+      { "category": "Nombre", "hanzi": "问题", "pinyin": "wèntí" }
+    ],
+    "translation": "Un gran problema"
+  },
+  {
+    "words": [
+      { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
+      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+      { "category": "Adjetivo", "hanzi": "大", "pinyin": "dà" },
+      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+      { "category": "Nombre", "hanzi": "问题", "pinyin": "wèntí" }
+    ],
+    "translation": "Un problema muy grande"
+  },
+  {
+    "words": [
+      { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
+      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+      { "category": "Adverbio", "hanzi": null, "pinyin": null },
+      { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
+      { "category": "Partícula", "hanzi": null, "pinyin": null },
+      { "category": "Nombre", "hanzi": "朋友", "pinyin": "péngyou" }
+    ],
+    "translation": "Tres buenos amigos"
+  },
+  {
+    "words": [
+      { "category": "Numeral", "hanzi": "三", "pinyin": "sān" },
+      { "category": "Clasificador", "hanzi": "个", "pinyin": "gè" },
+      { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
+      { "category": "Adjetivo", "hanzi": "好", "pinyin": "hǎo" },
+      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
+      { "category": "Nombre", "hanzi": "朋友", "pinyin": "péngyou" }
+    ],
+    "translation": "Tres amigos muy buenos"
   }
 ]
