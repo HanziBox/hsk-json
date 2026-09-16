@@ -4,8 +4,8 @@
       { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
       { "category": "Clasificador", "hanzi": "部", "pinyin": "bù" },
       { "category": "Adverbio", "hanzi": null, "pinyin": null },
-      { "category": "Adjetivo", "hanzi": "意思", "pinyin": "yìsi" },
-      { "category": "Partícula", "hanzi": null, "pinyin": null },
+      { "category": "Adjetivo", "hanzi": "有意思", "pinyin": "yǒuyìsi" },
+      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
       { "category": "Nombre", "hanzi": "电影", "pinyin": "diànyǐng" }
     ],
     "translation": "Una película interesante"
@@ -15,7 +15,7 @@
       { "category": "Numeral", "hanzi": "一", "pinyin": "yī" },
       { "category": "Clasificador", "hanzi": "部", "pinyin": "bù" },
       { "category": "Adverbio", "hanzi": "很", "pinyin": "hěn" },
-      { "category": "Adjetivo", "hanzi": "有意思", "pinyin": "yǒu yìsi" },
+      { "category": "Adjetivo", "hanzi": "有意思", "pinyin": "yǒuyìsi" },
       { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
       { "category": "Nombre", "hanzi": "电影", "pinyin": "diànyǐng" }
     ],
@@ -49,7 +49,7 @@
       { "category": "Clasificador", "hanzi": "只", "pinyin": "zhī" },
       { "category": "Adverbio", "hanzi": null, "pinyin": null },
       { "category": "Adjetivo", "hanzi": "可爱", "pinyin": "kě'ài" },
-      { "category": "Partícula", "hanzi": null, "pinyin": null },
+      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
       { "category": "Nombre", "hanzi": "猫", "pinyin": "māo" }
     ],
     "translation": "Cinco gatos lindos"
@@ -104,7 +104,7 @@
       { "category": "Clasificador", "hanzi": "件", "pinyin": "jiàn" },
       { "category": "Adverbio", "hanzi": null, "pinyin": null },
       { "category": "Adjetivo", "hanzi": "漂亮", "pinyin": "piàoliang" },
-      { "category": "Partícula", "hanzi": null, "pinyin": null },
+      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
       { "category": "Nombre", "hanzi": "衣服", "pinyin": "yīfu" }
     ],
     "translation": "Una prenda bonita"
@@ -203,7 +203,7 @@
       { "category": "Clasificador", "hanzi": "位", "pinyin": "wèi" },
       { "category": "Adverbio", "hanzi": null, "pinyin": null },
       { "category": "Adjetivo", "hanzi": "聪明", "pinyin": "cōngming" },
-      { "category": "Partícula", "hanzi": null, "pinyin": null },
+      { "category": "Partícula", "hanzi": "的", "pinyin": "de" },
       { "category": "Nombre", "hanzi": "老师", "pinyin": "lǎoshī" }
     ],
     "translation": "Dos profesores inteligentes"
