@@ -856,7 +856,11 @@
     {"hanzi": "有", "pinyin": "yǒu"},
     {"hanzi": "几", "pinyin": "jǐ"},
     {"hanzi": "份", "pinyin": "fèn"},
-    {"hanzi": "工作", "pinyin": "gōngzuò"}
+    {"hanzi": "工作", "pinyin": "gōngzuò"},
+                  {
+                "hanzi": "?",
+                "pinyin": ""
+            }
   ],
   "translation": "¿Cuántos trabajos tiene tu padre?",
   "note": "📋NOTA: fèn 份 es el clasificador para referirse a un trabajo."
