@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "modelTranslation": "¿Cómo te llamas?",
+    "exactMatches": [
+      "Como te llamas",
+      "Cómo te llamas",
+      "Como te llamas tu",
+      "Cómo te llamas tú",
+      "Cual es tu nombre",
+      "Cuál es tu nombre"
+    ],
+    "keywords": [
+      ["como", "cómo", "cual", "cuál"],
+      ["llamas", "nombre"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": " banker 他是谁？",
+    "targetAudioText": "他是谁？",
+    "pinyin": "Tā shì shéi?",
+    "modelTranslation": "¿Quién es él?",
+    "exactMatches": [
+      "Quien es el",
+      "Quién es él",
+      "Quien es ella",
+      "Quién es ella",
+      "Quien es",
+      "Quién es"
+    ],
+    "keywords": [
+      ["quien", "quién"],
+      ["es"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "你去哪儿？",
+    "pinyin": "Nǐ qù nǎr?",
+    "modelTranslation": "¿A dónde vas?",
+    "exactMatches": [
+      "A donde vas",
+      "A dónde vas",
+      "Donde vas",
+      "Dónde vas",
+      "Adonde vas",
+      "Adónde vas",
+      "A donde vas tu",
+      "A dónde vas tú"
+    ],
+    "keywords": [
+      ["donde", "dónde", "adonde", "adónde"],
+      ["vas"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "这是什么？",
+    "pinyin": "Zhè shì shénme?",
+    "modelTranslation": "¿Qué es esto?",
+    "exactMatches": [
+      "Que es esto",
+      "Qué es esto",
+      "Que es esta cosa",
+      "Qué es esta cosa"
+    ],
+    "keywords": [
+      ["que", "qué"],
+      ["es"],
+      ["esto"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "你什么时候回家？",
+    "pinyin": "Nǐ shénme shíhou huí jiā?",
+    "modelTranslation": "¿Cuándo vuelves a casa?",
+    "exactMatches": [
+      "Cuando vuelves a casa",
+      "Cuándo vuelves a casa",
+      "Cuando regresas a casa",
+      "Cuándo regresas a casa",
+      "Cuando vuelves a tu casa",
+      "Cuándo vuelves a tu casa",
+      "Cuando regresas a tu casa",
+      "Cuándo regresas a tu casa"
+    ],
+    "keywords": [
+      ["cuando", "cuándo"],
+      ["vuelves", "regresas"],
+      ["casa"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "你想喝什么？",
+    "pinyin": "Nǐ xiǎng hē shénme?",
+    "modelTranslation": "¿Qué quieres beber?",
+    "exactMatches": [
+      "Que quieres beber",
+      "Qué quieres beber",
+      "Que quieres tomar",
+      "Qué quieres tomar",
+      "Que te gustaria beber",
+      "Qué te gustaría beber",
+      "Que te gustaria tomar",
+      "Qué te gustaría tomar"
+    ],
+    "keywords": [
+      ["que", "qué"],
+      ["quieres", "gustaria", "gustaría"],
+      ["beber", "tomar"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "谁在看书？",
+    "pinyin": "Shéi zài kàn shū?",
+    "modelTranslation": "¿Quién está leyendo?",
+    "exactMatches": [
+      "Quien esta leyendo",
+      "Quién está leyendo",
+      "Quien esta leyendo un libro",
+      "Quién está leyendo un libro"
+    ],
+    "keywords": [
+      ["quien", "quién"],
+      ["esta", "está"],
+      ["leyendo"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "你的老师是谁？",
+    "pinyin": "Nǐ de lǎoshī shì shéi?",
+    "modelTranslation": "¿Quién es tu profesor?",
+    "exactMatches": [
+      "Quien es tu profesor",
+      "Quién es tu profesor",
+      "Quien es tu profesora",
+      "Quién es tu profesora",
+      "Quien es tu maestro",
+      "Quién es tu maestro",
+      "Quien es tu maestra",
+      "Quién es tu maestra"
+    ],
+    "keywords": [
+      ["quien", "quién"],
+      ["es"],
+      ["profesor", "profesora", "maestro", "maestra"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "你去哪儿买东西？",
+    "pinyin": "Nǐ qù nǎr mǎi dōngxi?",
+    "modelTranslation": "¿A dónde vas a comprar?",
+    "exactMatches": [
+      "A donde vas a comprar",
+      "A dónde vas a comprar",
+      "Donde vas a comprar",
+      "Dónde vas a comprar",
+      "Adonde vas a comprar",
+      "Adónde vas a comprar",
+      "A donde vas a comprar cosas",
+      "A dónde vas a comprar cosas",
+      "Donde vas a hacer compras",
+      "Dónde vas a hacer compras"
+    ],
+    "keywords": [
+      ["donde", "dónde", "adonde", "adónde"],
+      ["vas"],
+      ["comprar", "compras"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "他在做什么呢？",
+    "pinyin": "Tā zài zuò shénme ne?",
+    "modelTranslation": "¿Qué está haciendo él?",
+    "exactMatches": [
+      "Que esta haciendo el",
+      "Qué está haciendo él",
+      "Que esta haciendo ella",
+      "Qué está haciendo ella",
+      "Que esta haciendo",
+      "Qué está haciendo",
+      "Que hace el",
+      "Qué hace él",
+      "Que hace ella",
+      "Qué hace ella"
+    ],
+    "keywords": [
+      ["que", "qué"],
+      ["haciendo", "hace"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "你有几个苹果？",
+    "pinyin": "Nǐ yǒu jǐ gè píngguǒ?",
+    "modelTranslation": "¿Cuántas manzanas tienes?",
+    "exactMatches": [
+      "Cuantas manzanas tienes",
+      "Cuántas manzanas tienes",
+      "Cuantas manzanas tienes tu",
+      "Cuántas manzanas tienes tú"
+    ],
+    "keywords": [
+      ["cuantas", "cuántas"],
+      ["manzanas"],
+      ["tienes"]
+    ]
+  },
+  {
+    "id": 12,
+    "targetAudioText": "哪个是你的猫？",
+    "pinyin": "Nǎ gè shì nǐ de māo?",
+    "modelTranslation": "¿Cuál es tu gato?",
+    "exactMatches": [
+      "Cual es tu gato",
+      "Cuál es tu gato",
+      "Cual es tu gata",
+      "Cuál es tu gata"
+    ],
+    "keywords": [
+      ["cual", "cuál"],
+      ["es"],
+      ["gato", "gata"]
+    ]
+  },
+  {
+    "id": 13,
+    "targetAudioText": "你怎么去学校？",
+    "pinyin": "Nǐ zěnme qù xuéxiào?",
+    "modelTranslation": "¿Cómo vas a la escuela?",
+    "exactMatches": [
+      "Como vas a la escuela",
+      "Cómo vas a la escuela",
+      "Como vas al colegio",
+      "Cómo vas al colegio",
+      "Como vas a la escuela tu",
+      "Cómo vas a la escuela tú"
+    ],
+    "keywords": [
+      ["como", "cómo"],
+      ["vas"],
+      ["escuela", "colegio"]
+    ]
+  },
+  {
+    "id": 14,
+    "targetAudioText": "你为什么不睡觉？",
+    "pinyin": "Nǐ wèishénme bù shuìjiào?",
+    "modelTranslation": "¿Por qué no duermes?",
+    "exactMatches": [
+      "Por que no duermes",
+      "Por qué no duermes",
+      "Por que no te duermes",
+      "Por qué no te duermes",
+      "Por que no estas durmiendo",
+      "Por qué no estás durmiendo"
+    ],
+    "keywords": [
+      ["por"],
+      ["que", "qué"],
+      ["no"],
+      ["duermes", "durmiendo"]
+    ]
+  },
+  {
+    "id": 15,
+    "targetAudioText": "妈妈什么时候做饭？",
+    "pinyin": "Māmā shénme shíhou zuò fàn?",
+    "modelTranslation": "¿Cuándo hace la comida mamá?",
+    "exactMatches": [
+      "Cuando hace la comida mama",
+      "Cuándo hace la comida mamá",
+      "Cuando cocina mama",
+      "Cuándo cocina mamá",
+      "Cuando va a cocinar mama",
+      "Cuándo va a cocinar mamá",
+      "Cuando prepara la comida mama",
+      "Cuándo prepara la comida mamá"
+    ],
+    "keywords": [
+      ["cuando", "cuándo"],
+      ["mama", "mamá"],
+      ["comida", "cocina", "cocinar"]
+    ]
+  },
+  {
+    "id": 16,
+    "targetAudioText": "这个怎么做？",
+    "pinyin": "Zhè gè zěnme zuò?",
+    "modelTranslation": "¿Cómo se hace esto?",
+    "exactMatches": [
+      "Como se hace esto",
+      "Cómo se hace esto",
+      "Como se prepara esto",
+      "Cómo se prepara esto",
+      "Como haces esto",
+      "Cómo haces esto"
+    ],
+    "keywords": [
+      ["como", "cómo"],
+      ["hace", "haces", "prepara"],
+      ["esto"]
+    ]
+  },
+  {
+    "id": 17,
+    "targetAudioText": "你在喝什么？",
+    "pinyin": "Nǐ zài hē shénme?",
+    "modelTranslation": "¿Qué estás bebiendo?",
+    "exactMatches": [
+      "Que estas bebiendo",
+      "Qué estás bebiendo",
+      "Que estas tomando",
+      "Qué estás tomando",
+      "Que bebes",
+      "Qué bebes",
+      "Que tomas",
+      "Qué tomas"
+    ],
+    "keywords": [
+      ["que", "qué"],
+      ["bebiendo", "tomando", "bebes", "tomas"]
+    ]
+  },
+  {
+    "id": 18,
+    "targetAudioText": "你想买多少书？",
+    "pinyin": "Nǐ xiǎng mǎi duōshao shū?",
+    "modelTranslation": "¿Cuántos libros quieres comprar?",
+    "exactMatches": [
+      "Cuantos libros quieres comprar",
+      "Cuántos libros quieres comprar",
+      "Cuantos libros deseas comprar",
+      "Cuántos libros deseas comprar",
+      "Cuantos libros quieres comprar tu",
+      "Cuántos libros quieres comprar tú"
+    ],
+    "keywords": [
+      ["cuantos", "cuántos"],
+      ["libros"],
+      ["comprar"]
+    ]
+  }
+]
