@@ -134,7 +134,7 @@
   {
     "words": [
       { "category": "Número", "hanzi": "十", "pinyin": "shí" },
-      { "category": "Clasif.", "hanzi": "套", "pinyin": "tào" },
+      { "category": "Clasif.", "hanzi": "个", "pinyin": "gè" },
       { "category": "Adv. grado", "hanzi": null, "pinyin": null },
       { "category": "Adj.", "hanzi": "贵", "pinyin": "guì" },
       { "category": "Partíc.", "hanzi": null, "pinyin": null },
@@ -145,7 +145,7 @@
   {
     "words": [
       { "category": "Número", "hanzi": "十", "pinyin": "shí" },
-      { "category": "Clasif.", "hanzi": "套", "pinyin": "tào" },
+      { "category": "Clasif.", "hanzi": "个", "pinyin": "gè" },
       { "category": "Adv. grado", "hanzi": "很", "pinyin": "hěn" },
       { "category": "Adj.", "hanzi": "贵", "pinyin": "guì" },
       { "category": "Partíc.", "hanzi": "的", "pinyin": "de" },
