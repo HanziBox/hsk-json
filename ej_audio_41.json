@@ -131,25 +131,25 @@
       ["china"]
     ]
   },
-  {
-    "id": 8,
-    "targetAudioText": "我用电脑学习。",
-    "pinyin": "Wǒ yòng diànnǎo xuéxí.",
-    "modelTranslation": "Uso el ordenador para estudiar.",
-    "exactMatches": [
-      "Uso el ordenador para estudiar",
-      "Uso la computadora para estudiar",
-      "Utilizo el ordenador para estudiar",
-      "Utilizo la computadora para estudiar",
-      "Yo uso el ordenador para estudiar",
-      "Yo uso la computadora para estudiar"
-    ],
-    "keywords": [
-      ["uso", "utilizo"],
-      ["ordenador", "computadora", "computador"],
-      ["estudiar"]
-    ]
-  },
+{
+  "id": 8,
+  "targetAudioText": "大家都在用电脑学习。",
+  "pinyin": "Dàjiā dōu zài yòng diànnǎo xuéxí.",
+  "modelTranslation": "Todos estudian con el ordenador.",
+  "exactMatches": [
+    "Todos estudian con el ordenador",
+    "Todos estudian con la computadora",
+    "Todo el mundo estudia con el ordenador",
+    "Todo el mundo estudia con la computadora",
+    "Todos estudiamos con el ordenador",
+    "Todos estudiamos con la computadora"
+  ],
+  "keywords": [
+    ["todos", "mundo"],
+    ["estudias", "estudian", "estudiamos"],
+    ["ordenador", "computadora", "computador"]
+  ]
+},
   {
     "id": 9,
     "targetAudioText": "孩子向学校走。",
