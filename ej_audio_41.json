@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "你为了她去到那里吗？",
+    "pinyin": "Nǐ wèile tā qù dào nàlǐ ma?",
+    "modelTranslation": "¿Fuiste hasta allí por ella?",
+    "exactMatches": [
+      "Fuiste hasta alli por ella",
+      "Fuiste hasta allí por ella",
+      "Fuiste alli por ella",
+      "Fuiste allí por ella",
+      "Has ido hasta alli por ella",
+      "Has ido hasta allí por ella"
+    ],
+    "keywords": [
+      ["fuiste", "ido"],
+      ["por"],
+      ["ella"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "妈妈给我做饭。",
+    "pinyin": "Māmā gěi wǒ zuò fàn.",
+    "modelTranslation": "Mamá me hace la comida.",
+    "exactMatches": [
+      "Mama me hace la comida",
+      "Mamá me hace la comida",
+      "Mama me cocina",
+      "Mamá me cocina",
+      "Mama prepara la comida para mi",
+      "Mamá prepara la comida para mí",
+      "Mama cocina para mi",
+      "Mamá cocina para mí"
+    ],
+    "keywords": [
+      ["mama", "mamá"],
+      ["comida", "cocina", "cocinar"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "你早上在哪里学习？",
+    "pinyin": "Nǐ zǎoshang zài nǎlǐ xuéxí?",
+    "modelTranslation": "¿Dónde estudias por la mañana?",
+    "exactMatches": [
+      "Donde estudias por la mañana",
+      "Dónde estudias por la mañana",
+      "Donde estudias por la manana",
+      "Dónde estudias por la mañana",
+      "Donde estudias en la mañana",
+      "Dónde estudias en la mañana",
+      "Donde estudias tu por la mañana",
+      "Dónde estudias tú por la mañana"
+    ],
+    "keywords": [
+      ["donde", "dónde"],
+      ["estudias"],
+      ["manana", "mañana"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我从家去学校。",
+    "pinyin": "Wǒ cóng jiā qù xuéxiào.",
+    "modelTranslation": "Voy a la escuela desde casa.",
+    "exactMatches": [
+      "Voy a la escuela desde casa",
+      "Voy al colegio desde casa",
+      "Yo voy a la escuela desde casa",
+      "Voy a la escuela desde mi casa",
+      "Yo voy a la escuela desde mi casa"
+    ],
+    "keywords": [
+      ["voy"],
+      ["escuela", "colegio"],
+      ["desde"],
+      ["casa"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "他从中国来。",
+    "pinyin": "Tā cóng Zhōngguó lái.",
+    "modelTranslation": "Él viene de China.",
+    "exactMatches": [
+      "El viene de China",
+      "Él viene de China",
+      "Viene de China"
+    ],
+    "keywords": [
+      ["viene"],
+      ["de"],
+      ["china"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "妈妈给猫买了鱼。",
+    "pinyin": "Māmā gěi māo mǎi le yú.",
+    "modelTranslation": "Mamá compró pescado para el gato.",
+    "exactMatches": [
+      "Mama compro pescado para el gato",
+      "Mamá compró pescado para el gato",
+      "Mama le compro pescado al gato",
+      "Mamá le compró pescado al gato"
+    ],
+    "keywords": [
+      ["mama", "mamá"],
+      ["compro", "compró"],
+      ["pescado"],
+      ["gato"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "为了学习中文，我会去中国。",
+    "pinyin": "Wèile xuéxí Zhōngwén, wǒ huì qù Zhōngguó.",
+    "modelTranslation": "Para estudiar chino, iré a China.",
+    "exactMatches": [
+      "Para estudiar chino ire a China",
+      "Para estudiar chino iré a China",
+      "Para estudiar chino voy a ir a China",
+      "Para aprender chino ire a China",
+      "Para aprender chino iré a China"
+    ],
+    "keywords": [
+      ["para"],
+      ["estudiar", "aprender"],
+      ["chino"],
+      ["china"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "我用电脑学习。",
+    "pinyin": "Wǒ yòng diànnǎo xuéxí.",
+    "modelTranslation": "Uso el ordenador para estudiar.",
+    "exactMatches": [
+      "Uso el ordenador para estudiar",
+      "Uso la computadora para estudiar",
+      "Utilizo el ordenador para estudiar",
+      "Utilizo la computadora para estudiar",
+      "Yo uso el ordenador para estudiar",
+      "Yo uso la computadora para estudiar"
+    ],
+    "keywords": [
+      ["uso", "utilizo"],
+      ["ordenador", "computadora", "computador"],
+      ["estudiar"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "孩子向学校走。",
+    "pinyin": "Háizi xiàng xuéxiào zǒu.",
+    "modelTranslation": "El niño camina hacia la escuela.",
+    "exactMatches": [
+      "El nino camina hacia la escuela",
+      "El niño camina hacia la escuela",
+      "El nino camina hacia el colegio",
+      "El niño camina hacia el colegio",
+      "El nino va hacia la escuela",
+      "El niño va hacia la escuela"
+    ],
+    "keywords": [
+      ["nino", "niño"],
+      ["camina", "va"],
+      ["hacia"],
+      ["escuela", "colegio"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "你为谁工作？",
+    "pinyin": "Nǐ wèi shéi gōngzuò?",
+    "modelTranslation": "¿Para quién trabajas?",
+    "exactMatches": [
+      "Para quien trabajas",
+      "Para quién trabajas",
+      "Para quien trabajas tu",
+      "Para quién trabajas tú"
+    ],
+    "keywords": [
+      ["para"],
+      ["quien", "quién"],
+      ["trabajas"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "我从公园走到学校。",
+    "pinyin": "Wǒ cóng gōngyuán zǒu dào xuéxiào.",
+    "modelTranslation": "Caminé desde el parque hasta la escuela.",
+    "exactMatches": [
+      "Camine desde el parque hasta la escuela",
+      "Caminé desde el parque hasta la escuela",
+      "Camine desde el parque hasta el colegio",
+      "Caminé desde el parque hasta el colegio",
+      "Fui caminando desde el parque hasta la escuela",
+      "Fui caminando desde el parque hasta el colegio"
+    ],
+    "keywords": [
+      ["camine", "caminé", "cando", "fui"],
+      ["desde"],
+      ["parque"],
+      ["hasta"],
+      ["escuela", "colegio"]
+    ]
+  }
+]
