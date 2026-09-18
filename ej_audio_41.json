@@ -10,12 +10,18 @@
       "Fuiste alli por ella",
       "Fuiste allí por ella",
       "Has ido hasta alli por ella",
-      "Has ido hasta allí por ella"
+      "Has ido hasta allí por ella",
+      "Fuiste hasta alli por el",
+      "Fuiste hasta allí por él",
+      "Fuiste alli por el",
+      "Fuiste allí por él",
+      "Has ido hasta alli por el",
+      "Has ido hasta allí por él"
     ],
     "keywords": [
       ["fuiste", "ido"],
       ["por"],
-      ["ella"]
+      ["ella", "el", "él"]
     ]
   },
   {
@@ -86,6 +92,7 @@
     "exactMatches": [
       "El viene de China",
       "Él viene de China",
+      "Ella viene de China",
       "Viene de China"
     ],
     "keywords": [
@@ -131,25 +138,25 @@
       ["china"]
     ]
   },
-{
-  "id": 8,
-  "targetAudioText": "大家都用电脑学习。",
-  "pinyin": "Dàjiā dōu yòng diànnǎo xuéxí.",
-  "modelTranslation": "Todos estudian con el ordenador.",
-  "exactMatches": [
-    "Todos estudian con el ordenador",
-    "Todos estudian con la computadora",
-    "Todo el mundo estudia con el ordenador",
-    "Todo el mundo estudia con la computadora",
-    "Todos estudiamos con el ordenador",
-    "Todos estudiamos con la computadora"
-  ],
-  "keywords": [
-    ["todos", "mundo"],
-    ["estudian", "estudiamos"],
-    ["ordenador", "computadora", "computador"]
-  ]
-},
+  {
+    "id": 8,
+    "targetAudioText": "大家都用电脑学习。",
+    "pinyin": "Dàjiā dōu yòng diànnǎo xuéxí.",
+    "modelTranslation": "Todos estudian con el ordenador.",
+    "exactMatches": [
+      "Todos estudian con el ordenador",
+      "Todos estudian con la computadora",
+      "Todo el mundo estudia con el ordenador",
+      "Todo el mundo estudia con la computadora",
+      "Todos estudiamos con el ordenador",
+      "Todos estudiamos con la computadora"
+    ],
+    "keywords": [
+      ["todos", "mundo"],
+      ["estudian", "estudiamos"],
+      ["ordenador", "computadora", "computador"]
+    ]
+  },
   {
     "id": 9,
     "targetAudioText": "孩子向学校走。",
