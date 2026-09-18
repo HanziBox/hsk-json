@@ -133,8 +133,8 @@
   },
 {
   "id": 8,
-  "targetAudioText": "大家都在用电脑学习。",
-  "pinyin": "Dàjiā dōu zài yòng diànnǎo xuéxí.",
+  "targetAudioText": "大家都用电脑学习。",
+  "pinyin": "Dàjiā dōu yòng diànnǎo xuéxí.",
   "modelTranslation": "Todos estudian con el ordenador.",
   "exactMatches": [
     "Todos estudian con el ordenador",
@@ -146,7 +146,7 @@
   ],
   "keywords": [
     ["todos", "mundo"],
-    ["estudias", "estudian", "estudiamos"],
+    ["estudian", "estudiamos"],
     ["ordenador", "computadora", "computador"]
   ]
 },
