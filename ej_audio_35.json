@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "targetAudioText": "我每天都学中文。",
+    "pinyin": "Wǒ měitiān dōu xué Zhōngwén.",
+    "modelTranslation": "Estudio chino todos los días.",
+    "exactMatches": [
+      "Estudio chino todos los dias",
+      "Estudio chino todos los días",
+      "Estudio chino cada dia",
+      "Estudio chino cada día",
+      "Yo estudio chino todos los dias",
+      "Yo estudio chino todos los días",
+      "Yo estudio chino cada dia",
+      "Yo estudio chino cada día"
+    ],
+    "keywords": [
+      ["estudio"],
+      ["chino"],
+      ["todos", "cada"],
+      ["dias", "día", "días", "dia"]
+    ]
+  },
+  {
+    "id": 2,
+    "targetAudioText": "你们喜欢所有的菜吗？",
+    "pinyin": "Nǐmen xǐhuān suǒyǒu de cài ma?",
+    "modelTranslation": "¿Os gustan todos los platos?",
+    "exactMatches": [
+      "Os gustan todos los platos",
+      "Les gustan todos los platos",
+      "Te gustan todos los platos",
+      "Os gusta toda la comida",
+      "Les gusta toda la comida",
+      "Te gusta toda la comida"
+    ],
+    "keywords": [
+      ["gustan", "gusta"],
+      ["todos", "toda"],
+      ["platos", "comida"]
+    ]
+  },
+  {
+    "id": 3,
+    "targetAudioText": "大家都在看电视。",
+    "pinyin": "Dàjiā dōu zài kàn diànshì.",
+    "modelTranslation": "Todos están viendo la televisión.",
+    "exactMatches": [
+      "Todos estan viendo la television",
+      "Todos están viendo la televisión",
+      "Todo el mundo esta viendo la television",
+      "Todo el mundo está viendo la televisión",
+      "Todos ven la television",
+      "Todos ven la televisión",
+      "Todo el mundo ve la television",
+      "Todo el mundo ve la televisión"
+    ],
+    "keywords": [
+      ["todos", "mundo"],
+      ["viendo", "ven", "mira", "mirando"],
+      ["television", "televisión", "tele"]
+    ]
+  },
+  {
+    "id": 4,
+    "targetAudioText": "我每个星期都去跑步。",
+    "pinyin": "Wǒ měi gè xīngqī dōu qù pǎobù.",
+    "modelTranslation": "Voy a correr todas las semanas.",
+    "exactMatches": [
+      "Voy a correr todas las semanas",
+      "Voy a correr cada semana",
+      "Yo voy a correr todas las semanas",
+      "Yo voy a correr cada semana",
+      "Salgo a correr todas las semanas",
+      "Salgo a correr cada semana"
+    ],
+    "keywords": [
+      ["voy", "salgo"],
+      ["correr"],
+      ["semanas", "semana"]
+    ]
+  },
+  {
+    "id": 5,
+    "targetAudioText": "我们全家都在这里。",
+    "pinyin": "Wǒmen quánjiā dōu zài zhèlǐ.",
+    "modelTranslation": "Toda nuestra familia está aquí.",
+    "exactMatches": [
+      "Toda nuestra familia esta aqui",
+      "Toda nuestra familia está aquí",
+      "Toda mi familia esta aqui",
+      "Toda mi familia está aquí",
+      "Nuestra familia entera esta aqui",
+      "Nuestra familia entera está aquí"
+    ],
+    "keywords": [
+      ["toda", "entera"],
+      ["familia"],
+      ["esta", "está"],
+      ["aqui", "aquí"]
+    ]
+  },
+  {
+    "id": 6,
+    "targetAudioText": "他整天在做什么？",
+    "pinyin": "Tā zhěngtiān zài zuò shénme?",
+    "modelTranslation": "¿Qué está haciendo él todo el día?",
+    "exactMatches": [
+      "Que esta haciendo todo el dia",
+      "Qué está haciendo todo el día",
+      "Que hace todo el dia",
+      "Qué hace todo el día",
+      "Que esta haciendo el todo el dia",
+      "Qué está haciendo él todo el día",
+      "Que hace el todo el dia",
+      "Qué hace él todo el día",
+      "Que esta haciendo ella todo el dia",
+      "Qué está haciendo ella todo el día",
+      "Que hace ella todo el dia",
+      "Qué hace ella todo el día"
+    ],
+    "keywords": [
+      ["que", "qué"],
+      ["haciendo", "hace"],
+      ["todo"],
+      ["dia", "día"]
+    ]
+  },
+  {
+    "id": 7,
+    "targetAudioText": "每个人都有手机。",
+    "pinyin": "Měi gè rén dōu yǒu shǒujī.",
+    "modelTranslation": "Cada persona tiene un teléfono móvil.",
+    "exactMatches": [
+      "Cada persona tiene un telefono movil",
+      "Cada persona tiene un teléfono móvil",
+      "Cada persona tiene un movil",
+      "Cada persona tiene un móvil",
+      "Cada persona tiene celular",
+      "Cada persona tiene un celular",
+      "Todo el mundo tiene movil",
+      "Todo el mundo tiene móvil",
+      "Todos tienen movil",
+      "Todos tienen móvil"
+    ],
+    "keywords": [
+      ["cada", "todo", "todos"],
+      ["persona", "mundo", "tienen"],
+      ["tiene", "tienen"],
+      ["movil", "móvil", "celular", "telefono", "teléfono"]
+    ]
+  },
+  {
+    "id": 8,
+    "targetAudioText": "所有的书都是我的。",
+    "pinyin": "Suǒyǒu de shū dōu shì wǒ de.",
+    "modelTranslation": "Todos los libros son míos.",
+    "exactMatches": [
+      "Todos los libros son mios",
+      "Todos los libros son míos"
+    ],
+    "keywords": [
+      ["todos"],
+      ["libros"],
+      ["son"],
+      ["mios", "míos"]
+    ]
+  },
+  {
+    "id": 9,
+    "targetAudioText": "他睡了一整天。",
+    "pinyin": "Tā shuì le yì zhěngtiān.",
+    "modelTranslation": "Él durmió todo el día.",
+    "exactMatches": [
+      "El durmio todo el dia",
+      "Él durmió todo el día",
+      "Ella durmio todo el dia",
+      "Ella durmió todo el día",
+      "Durmio todo el dia",
+      "Durmió todo el día",
+      "El durmio un dia entero",
+      "Él durmió un día entero",
+      "Ella durmio un dia entero",
+      "Ella durmió un día entero",
+      "Durmio un dia entero",
+      "Durmió un día entero"
+    ],
+    "keywords": [
+      ["durmio", "durmió"],
+      ["todo", "entero"],
+      ["dia", "día"]
+    ]
+  },
+  {
+    "id": 10,
+    "targetAudioText": "我喜欢所有的中国菜。",
+    "pinyin": "Wǒ xǐhuān suǒyǒu de Zhōngguó cài.",
+    "modelTranslation": "Me gustan todos los platos chinos.",
+    "exactMatches": [
+      "Me gustan todos los platos chinos",
+      "Me gusta toda la comida china",
+      "Yo me gustan todos los platos chinos",
+      "A mi me gustan todos los platos chinos",
+      "A mí me gustan todos los platos chinos",
+      "A mi me gusta toda la comida china",
+      "A mí me gusta toda la comida china"
+    ],
+    "keywords": [
+      ["gusta", "gustan"],
+      ["todos", "toda"],
+      ["platos", "comida"],
+      ["chinos", "china"]
+    ]
+  },
+  {
+    "id": 11,
+    "targetAudioText": "我吃了一整个蛋糕。",
+    "pinyin": "Wǒ chī le yì zhěng gè dàngāo.",
+    "modelTranslation": "Me comí un pastel entero.",
+    "exactMatches": [
+      "Me comi un pastel entero",
+      "Me comí un pastel entero",
+      "Me comi una tarta entera",
+      "Me comí una tarta entera",
+      "Comi un pastel entero",
+      "Comí un pastel entero",
+      "Comi una tarta entera",
+      "Comí una tarta entera",
+      "Yo me comi un pastel entero",
+      "Yo me comí un pastel entero",
+      "Me comi toda la tarta",
+      "Me comí toda la tarta",
+      "Me comi todo el pastel",
+      "Me comí todo el pastel"
+    ],
+    "keywords": [
+      ["comi", "comí"],
+      ["pastel", "tarta"],
+      ["entero", "entera", "toda", "todo"]
+    ]
+  }
+]
