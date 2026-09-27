@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "profesor",
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "label": "Profesor",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/profesor.png"
+    },
+    {
+      "id": "escuela",
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "label": "Escuela",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/escuela.png"
+    },
+    {
+      "id": "movil",
+      "hanzi": "手机",
+      "pinyin": "shǒujī",
+      "label": "Móvil",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/movil.svg"
+    },
+    {
+      "id": "manzana",
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "label": "Manzana",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/manzana.svg"
+    },
+    {
+      "id": "dia",
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "label": "Día",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/dia.png"
+    },
+    {
+      "id": "mama",
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "label": "Mamá",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/mama.png"
+    },
+    {
+      "id": "amigo",
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "label": "Amigo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/amigo.png"
+    },
+    {
+      "id": "beijing",
+      "hanzi": "北京",
+      "pinyin": "Běijīng",
+      "label": "Pekín",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/beijing.png"
+    },
+    {
+      "id": "casa",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "label": "Casa",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_2/casa.svg"
+    }
+  ]
+}
