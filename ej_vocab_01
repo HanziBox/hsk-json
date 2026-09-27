@@ -1,65 +1,68 @@
-[
-  {
-    "id": "persona",
-    "hanzi": "人",
-    "pinyin": "rén",
-    "label": "Persona",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/persona.svg"
-  },
-  {
-    "id": "libro",
-    "hanzi": "书",
-    "pinyin": "shū",
-    "label": "Libro",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/libro.svg"
-  },
-  {
-    "id": "nino",
-    "hanzi": "孩子",
-    "pinyin": "háizi",
-    "label": "Niño",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/nino.png"
-  },
-  {
-    "id": "parque",
-    "hanzi": "公园",
-    "pinyin": "gōngyuán",
-    "label": "Parque",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/parque.png"
-  },
-  {
-    "id": "gato",
-    "hanzi": "猫",
-    "pinyin": "māo",
-    "label": "Gato",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/gato_2.svg"
-  },
-  {
-    "id": "coche",
-    "hanzi": "车",
-    "pinyin": "chē",
-    "label": "Coche",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/coche.png"
-  },
-  {
-    "id": "botella",
-    "hanzi": "瓶子",
-    "pinyin": "píngzi",
-    "label": "Botella",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/botella.png"
-  },
-  {
-    "id": "silla",
-    "hanzi": "椅子",
-    "pinyin": "yǐzi",
-    "label": "Silla",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/silla.png"
-  },
-  {
-    "id": "pregunta",
-    "hanzi": "问题",
-    "pinyin": "wèntí",
-    "label": "Pregunta",
-    "img": "https://raw.githubusercontent.com/HanziBox/hsk-json/refs/heads/main/ej_vocab_01/pregunta.svg"
-  }
-]
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "persona",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "label": "Persona",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/persona.svg"
+    },
+    {
+      "id": "libro",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "label": "Libro",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/libro.svg"
+    },
+    {
+      "id": "nino",
+      "hanzi": "孩子",
+      "pinyin": "háizi",
+      "label": "Niño",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/nino.png"
+    },
+    {
+      "id": "parque",
+      "hanzi": "公园",
+      "pinyin": "gōngyuán",
+      "label": "Parque",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/parque.png"
+    },
+    {
+      "id": "gato",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "label": "Gato",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/gato_2.png"
+    },
+    {
+      "id": "coche",
+      "hanzi": "车",
+      "pinyin": "chē",
+      "label": "Coche",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/coche.png"
+    },
+    {
+      "id": "botella",
+      "hanzi": "瓶子",
+      "pinyin": "píngzi",
+      "label": "Botella",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/botella.png"
+    },
+    {
+      "id": "silla",
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "label": "Silla",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/silla.png"
+    },
+    {
+      "id": "pregunta",
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "label": "Pregunta",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_1/pregunta.svg"
+    }
+  ]
+}
