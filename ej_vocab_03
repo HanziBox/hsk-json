@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "amar",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "label": "Amar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/amar.png"
+    },
+    {
+      "id": "beber",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "label": "Beber",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/beber.png"
+    },
+    {
+      "id": "carne",
+      "hanzi": "肉",
+      "pinyin": "ròu",
+      "label": "Carne",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/carne.png"
+    },
+    {
+      "id": "comida",
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "label": "Comida",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/comida.png"
+    },
+    {
+      "id": "dormir",
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào",
+      "label": "Dormir",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/dormir.png"
+    },
+    {
+      "id": "mirar",
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "label": "Mirar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/mirar.png"
+    },
+    {
+      "id": "te",
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "label": "Té",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/te.png"
+    },
+    {
+      "id": "television",
+      "hanzi": "电视",
+      "pinyin": "diànshì",
+      "label": "Televisión",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/television.png"
+    },
+    {
+      "id": "volar",
+      "hanzi": "飞",
+      "pinyin": "fēi",
+      "label": "Volar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_3/volar.png"
+    }
+  ]
+}
