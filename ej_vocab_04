@@ -59,9 +59,9 @@
     },
     {
       "id": "vino",
-      "hanzi": "葡萄酒",
-      "pinyin": "pútáojiǔ",
-      "label": "Vino",
+      "hanzi": "酒",
+      "pinyin": "jiǔ",
+      "label": "Alcohol",
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/vino.png"
     }
   ]
