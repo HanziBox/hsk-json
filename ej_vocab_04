@@ -1,0 +1,67 @@
+"title": "Encuentra la imagen correcta para este carácter",
+"items": [
+{
+"id": "agua",
+"hanzi": "水",
+"pinyin": "shuǐ",
+"label": "Agua",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/agua.svg"
+},
+{
+"id": "cerveza",
+"hanzi": "啤酒",
+"pinyin": "píjiǔ",
+"label": "Cerveza",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/cerveza.svg"
+},
+{
+"id": "dinero",
+"hanzi": "钱",
+"pinyin": "qián",
+"label": "Dinero",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/dinero.svg"
+},
+{
+"id": "foto",
+"hanzi": "照片",
+"pinyin": "zhàopiàn",
+"label": "Foto",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/foto.png"
+},
+{
+"id": "llorar",
+"hanzi": "哭",
+"pinyin": "kū",
+"label": "Llorar",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/llorar.png"
+},
+{
+"id": "pajaro",
+"hanzi": "鸟",
+"pinyin": "niǎo",
+"label": "Pájaro",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/pajaro.png"
+},
+{
+"id": "pez",
+"hanzi": "鱼",
+"pinyin": "yú",
+"label": "Pez",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/pez.png"
+},
+{
+"id": "ticket",
+"hanzi": "票",
+"pinyin": "piào",
+"label": "Ticket",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/ticket.png"
+},
+{
+"id": "vino",
+"hanzi": "葡萄酒",
+"pinyin": "pútáojiǔ",
+"label": "Vino",
+"img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_4/vino.png"
+}
+]
+}
