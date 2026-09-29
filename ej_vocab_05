@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "cafe",
+      "hanzi": "咖啡",
+      "pinyin": "kāfēi",
+      "label": "Café",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/cafe.svg"
+    },
+    {
+      "id": "casa_2",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "label": "Casa",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/casa_2.svg"
+    },
+    {
+      "id": "china",
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "label": "China",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/china.png"
+    },
+    {
+      "id": "comida",
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "label": "Arroz",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/comida.png"
+    },
+    {
+      "id": "flor",
+      "hanzi": "花",
+      "pinyin": "huā",
+      "label": "Flor",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/flor.svg"
+    },
+    {
+      "id": "inteligente",
+      "hanzi": "聪明",
+      "pinyin": "cōngming",
+      "label": "Inteligente",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/inteligente.png"
+    },
+    {
+      "id": "pastel",
+      "hanzi": "蛋糕",
+      "pinyin": "dàngāo",
+      "label": "Pastel",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/pastel.png"
+    },
+    {
+      "id": "perro",
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "label": "Perro",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/perro.png"
+    },
+    {
+      "id": "trabajo",
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "label": "Trabajo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/trabajo.svg"
+    }
+  ]
+}
