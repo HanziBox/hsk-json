@@ -10,8 +10,8 @@
     },
     {
       "id": "casa_2",
-      "hanzi": "家",
-      "pinyin": "jiā",
+      "hanzi": "房子",
+      "pinyin": "fángzi",
       "label": "Casa",
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/casa_2.svg"
     },
@@ -24,9 +24,9 @@
     },
     {
       "id": "comida",
-      "hanzi": "米饭",
-      "pinyin": "mǐfàn",
-      "label": "Arroz",
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "label": "Plato, comida",
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_5/comida.png"
     },
     {
