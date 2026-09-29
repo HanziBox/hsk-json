@@ -12,21 +12,21 @@
       "id": "chino",
       "hanzi": "中文",
       "pinyin": "Zhōngwén",
-      "label": "Chino (Sustantivo)",
+      "label": "Chino",
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/chino.png"
     },
     {
       "id": "electricidad",
       "hanzi": "电",
       "pinyin": "diàn",
-      "label": "Electricidad (Sustantivo)",
+      "label": "Electricidad",
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/electricidad.png"
     },
     {
       "id": "examen",
       "hanzi": "考试",
       "pinyin": "kǎoshì",
-      "label": "Examen (Sustantivo)",
+      "label": "Examen",
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/examen.png"
     },
     {
@@ -54,14 +54,14 @@
       "id": "mano",
       "hanzi": "手",
       "pinyin": "shǒu",
-      "label": "Mano (Sustantivo)",
+      "label": "Mano",
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/mano.png"
     },
     {
       "id": "tiempo",
       "hanzi": "时间",
       "pinyin": "shíjiān",
-      "label": "Tiempo (Sustantivo)",
+      "label": "Tiempo",
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/tiempo.png"
     }
   ]
