@@ -1,0 +1,61 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "anterior",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "label": "Anterior",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_7/anterior.png"
+    },
+    {
+      "id": "arroz",
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "label": "Arroz",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_7/arroz.png"
+    },
+    {
+      "id": "caliente",
+      "hanzi": "热",
+      "pinyin": "rè",
+      "label": "Caliente",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_7/caliente.png"
+    },
+    {
+      "id": "frio",
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "label": "Frío",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_7/frio.png"
+    },
+    {
+      "id": "manana",
+      "hanzi": "上午",
+      "pinyin": "shàngwǔ",
+      "label": "Mañana",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_7/mañana.png"
+    },
+    {
+      "id": "oscuro",
+      "hanzi": "黑",
+      "pinyin": "hēi",
+      "label": "Oscuro",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_7/oscuro.png"
+    },
+    {
+      "id": "siguiente",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "label": "Siguiente",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_7/siguiente.png"
+    },
+    {
+      "id": "tarde",
+      "hanzi": "下午",
+      "pinyin": "xiàwǔ",
+      "label": "Tarde",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_7/tarde.png"
+    }
+  ]
+}
