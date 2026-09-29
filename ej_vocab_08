@@ -1,0 +1,61 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "cerdo",
+      "hanzi": "猪",
+      "pinyin": "zhū",
+      "label": "Cerdo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/cerdo.png"
+    },
+    {
+      "id": "fumar",
+      "hanzi": "吸烟",
+      "pinyin": "xīyān",
+      "label": "Fumar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/fumar.png"
+    },
+    {
+      "id": "playa",
+      "hanzi": "海滩",
+      "pinyin": "hǎitān",
+      "label": "Playa",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/playa.png"
+    },
+    {
+      "id": "rapido",
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "label": "Rápido",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/rapido.png"
+    },
+    {
+      "id": "ropa",
+      "hanzi": "衣服",
+      "pinyin": "yīfu",
+      "label": "Ropa",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/ropa.png"
+    },
+    {
+      "id": "tienda",
+      "hanzi": "商店",
+      "pinyin": "shāngdiàn",
+      "label": "Tienda",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/tienda.png"
+    },
+    {
+      "id": "tren",
+      "hanzi": "火车",
+      "pinyin": "huǒchē",
+      "label": "Tren",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/tren.png"
+    },
+    {
+      "id": "venir",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "label": "Venir",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/venir.png"
+    }
+  ]
+}
