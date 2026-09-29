@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "bueno",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "label": "Bueno",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/bueno.png"
+    },
+    {
+      "id": "chino",
+      "hanzi": "中文",
+      "pinyin": "Zhōngwén",
+      "label": "Chino (Sustantivo)",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/chino.png"
+    },
+    {
+      "id": "electricidad",
+      "hanzi": "电",
+      "pinyin": "diàn",
+      "label": "Electricidad (Sustantivo)",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/electricidad.png"
+    },
+    {
+      "id": "examen",
+      "hanzi": "考试",
+      "pinyin": "kǎoshì",
+      "label": "Examen (Sustantivo)",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/examen.png"
+    },
+    {
+      "id": "gustar",
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "label": "Gustar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/gustar.png"
+    },
+    {
+      "id": "ir",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "label": "Ir",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/ir.png"
+    },
+    {
+      "id": "llover",
+      "hanzi": "下雨",
+      "pinyin": "xià yǔ",
+      "label": "Llover",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/llover.png"
+    },
+    {
+      "id": "mano",
+      "hanzi": "手",
+      "pinyin": "shǒu",
+      "label": "Mano (Sustantivo)",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/mano.png"
+    },
+    {
+      "id": "tiempo",
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "label": "Tiempo (Sustantivo)",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_6/tiempo.png"
+    }
+  ]
+}
