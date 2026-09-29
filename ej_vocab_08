@@ -16,6 +16,13 @@
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/fumar.png"
     },
     {
+      "id": "lampara",
+      "hanzi": "灯",
+      "pinyin": "dēng",
+      "label": "Lámpara",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_8/lampara.png"
+    },
+    {
       "id": "playa",
       "hanzi": "海滩",
       "pinyin": "hǎitān",
