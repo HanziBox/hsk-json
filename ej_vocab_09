@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "bano",
+      "hanzi": "厕所",
+      "pinyin": "cèsuǒ",
+      "label": "Baño",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/bano.png"
+    },
+    {
+      "id": "color",
+      "hanzi": "颜色",
+      "pinyin": "yánsè",
+      "label": "Color",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/color.png"
+    },
+    {
+      "id": "contento",
+      "hanzi": "高兴",
+      "pinyin": "gāoxìng",
+      "label": "Contento",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/contento.png"
+    },
+    {
+      "id": "correr",
+      "hanzi": "跑步",
+      "pinyin": "pǎobù",
+      "label": "Correr",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/correr.png"
+    },
+    {
+      "id": "fruta",
+      "hanzi": "水果",
+      "pinyin": "shuǐguǒ",
+      "label": "Fruta",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/fruta.png"
+    },
+    {
+      "id": "habitacion",
+      "hanzi": "房间",
+      "pinyin": "fángjiān",
+      "label": "Habitación",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/habitacion.png"
+    },
+    {
+      "id": "lugar",
+      "hanzi": "地方",
+      "pinyin": "dìfang",
+      "label": "Lugar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/lugar.png"
+    },
+    {
+      "id": "pelicula_1",
+      "hanzi": "电影",
+      "pinyin": "diànyǐng",
+      "label": "Película",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/pelicula_1.png"
+    },
+    {
+      "id": "pelo",
+      "hanzi": "头发",
+      "pinyin": "tóufa",
+      "label": "Pelo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/pelo.png"
+    }
+  ]
+}
