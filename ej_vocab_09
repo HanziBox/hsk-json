@@ -16,11 +16,11 @@
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/color.png"
     },
     {
-      "id": "contento",
-      "hanzi": "高兴",
-      "pinyin": "gāoxìng",
-      "label": "Contento",
-      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/contento.png"
+      "id": "hora",
+      "hanzi": "小时",
+      "pinyin": "xiǎoshí",
+      "label": "Hora",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/hora.png"
     },
     {
       "id": "correr",
@@ -44,11 +44,11 @@
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/habitacion.png"
     },
     {
-      "id": "lugar",
-      "hanzi": "地方",
-      "pinyin": "dìfang",
-      "label": "Lugar",
-      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/lugar.png"
+      "id": "buscar",
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "label": "Buscar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_9/buscar.png"
     },
     {
       "id": "pelicula_1",
