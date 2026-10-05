@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "correcto",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "label": "Correcto",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/correcto.png"
+    },
+    {
+      "id": "descansar",
+      "hanzi": "休息",
+      "pinyin": "xiūxi",
+      "label": "Descansar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/descansar.png"
+    },
+    {
+      "id": "enviar",
+      "hanzi": "发",
+      "pinyin": "fā",
+      "label": "Enviar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/enviar.png"
+    },
+    {
+      "id": "estudiar",
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "label": "Estudiar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/estudiar.png"
+    },
+    {
+      "id": "hijo",
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "label": "Hijo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/hijo.png"
+    },
+    {
+      "id": "lavar",
+      "hanzi": "洗",
+      "pinyin": "xǐ",
+      "label": "Lavar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/lavar.png"
+    },
+    {
+      "id": "medico",
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "label": "Médico",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/medico.png"
+    },
+    {
+      "id": "perderse",
+      "hanzi": "迷路",
+      "pinyin": "mílù",
+      "label": "Perderse",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/perderse.png"
+    },
+    {
+      "id": "triste",
+      "hanzi": "难过",
+      "pinyin": "nánguò",
+      "label": "Triste",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_12/triste.png"
+    }
+  ]
+}
