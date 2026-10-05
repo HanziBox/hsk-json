@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "carta",
+      "hanzi": "信",
+      "pinyin": "xìn",
+      "label": "Carta",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/carta.png"
+    },
+    {
+      "id": "corazon",
+      "hanzi": "心",
+      "pinyin": "xīn",
+      "label": "Corazón",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/corazon.png"
+    },
+    {
+      "id": "cuerpo",
+      "hanzi": "身体",
+      "pinyin": "shēntǐ",
+      "label": "Cuerpo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/cuerpo.png"
+    },
+    {
+      "id": "escribir",
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "label": "Escribir",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/escribir.png"
+    },
+    {
+      "id": "palillos",
+      "hanzi": "筷子",
+      "pinyin": "kuàizi",
+      "label": "Palillos",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/palillos.png"
+    },
+    {
+      "id": "sonreir",
+      "hanzi": "微笑",
+      "pinyin": "wēixiào",
+      "label": "Sonreír",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/sonreir.png"
+    },
+    {
+      "id": "telefono",
+      "hanzi": "电话",
+      "pinyin": "diànhuà",
+      "label": "Teléfono",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/telefono.png"
+    },
+    {
+      "id": "verdura",
+      "hanzi": "蔬菜",
+      "pinyin": "shūcài",
+      "label": "Verdura",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/verdura.png"
+    },
+    {
+      "id": "zumo",
+      "hanzi": "果汁",
+      "pinyin": "guǒzhī",
+      "label": "Zumo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_11/zumo.png"
+    }
+  ]
+}
