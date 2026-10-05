@@ -1,0 +1,66 @@
+"title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "bolso",
+      "hanzi": "包",
+      "pinyin": "bāo",
+      "label": "Bolso",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/bolso.svg"
+    },
+    {
+      "id": "contento",
+      "hanzi": "高兴",
+      "pinyin": "gāoxìng",
+      "label": "Contento",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/contento.png"
+    },
+    {
+      "id": "esperar",
+      "hanzi": "等",
+      "pinyin": "děng",
+      "label": "Esperar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/esperar.png"
+    },
+    {
+      "id": "hermana_mayor",
+      "hanzi": "姐姐",
+      "pinyin": "jiějie",
+      "label": "Hermana mayor",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/hermana%20mayor.png"
+    },
+    {
+      "id": "hermano_mayor",
+      "hanzi": "哥哥",
+      "pinyin": "gēge",
+      "label": "Hermano mayor",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/hermano%20mayor.png"
+    },
+    {
+      "id": "lugar",
+      "hanzi": "地方",
+      "pinyin": "dìfang",
+      "label": "Lugar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/lugar.png"
+    },
+    {
+      "id": "morir",
+      "hanzi": "死",
+      "pinyin": "sǐ",
+      "label": "Morir",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/morir.png"
+    },
+    {
+      "id": "perder",
+      "hanzi": "丢",
+      "pinyin": "diū",
+      "label": "Perder",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/perder.png"
+    },
+    {
+      "id": "reloj",
+      "hanzi": "手表",
+      "pinyin": "shǒubiǎo",
+      "label": "Reloj",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_10/reloj.svg"
+    }
+  ]
