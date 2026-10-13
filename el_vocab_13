@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "azul",
+      "hanzi": "蓝色",
+      "pinyin": "lánsè",
+      "label": "Azul",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/azul.png"
+    },
+    {
+      "id": "cartera",
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "label": "Cartera",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/cartera.png"
+    },
+    {
+      "id": "enfadado",
+      "hanzi": "生气",
+      "pinyin": "shēngqì",
+      "label": "Enfadado",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/enfadado.png"
+    },
+    {
+      "id": "enfermo",
+      "hanzi": "生病",
+      "pinyin": "shēngbìng",
+      "label": "Enfermo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/enfermo.png"
+    },
+    {
+      "id": "mensaje",
+      "hanzi": "短信",
+      "pinyin": "duǎnxìn",
+      "label": "Mensaje",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/mensaje.svg"
+    },
+    {
+      "id": "preocuparse",
+      "hanzi": "担心",
+      "pinyin": "dānxīn",
+      "label": "Preocuparse",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/preocuparse.png"
+    },
+    {
+      "id": "regalo",
+      "hanzi": "礼物",
+      "pinyin": "lǐwù",
+      "label": "Regalo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/regalo.png"
+    },
+    {
+      "id": "sonoliento",
+      "hanzi": "困",
+      "pinyin": "kùn",
+      "label": "Soñoliento",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/soñoliento.png"
+    },
+    {
+      "id": "ventana",
+      "hanzi": "窗户",
+      "pinyin": "chuānghu",
+      "label": "Ventana",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/ventana.png"
+    }
+  ]
+}
