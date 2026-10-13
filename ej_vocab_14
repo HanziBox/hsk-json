@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "arbol",
+      "hanzi": "树",
+      "pinyin": "shù",
+      "label": "Árbol",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/arbol.png"
+    },
+    {
+      "id": "armario",
+      "hanzi": "柜子",
+      "pinyin": "guìzi",
+      "label": "Armario",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/armario.png"
+    },
+    {
+      "id": "avion",
+      "hanzi": "飞机",
+      "pinyin": "fēijī",
+      "label": "Avión",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/avion.png"
+    },
+    {
+      "id": "cama",
+      "hanzi": "床",
+      "pinyin": "chuáng",
+      "label": "Cama",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/cama.png"
+    },
+    {
+      "id": "charlar",
+      "hanzi": "聊天",
+      "pinyin": "liáotiān",
+      "label": "Charlar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/charlar.png"
+    },
+    {
+      "id": "hospital",
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "label": "Hospital",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/hospital.png"
+    },
+    {
+      "id": "luna",
+      "hanzi": "月亮",
+      "pinyin": "yuèliang",
+      "label": "Luna",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/luna.png"
+    },
+    {
+      "id": "mesa",
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "label": "Mesa",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/mesa.png"
+    },
+    {
+      "id": "mundo",
+      "hanzi": "世界",
+      "pinyin": "shìjiè",
+      "label": "Mundo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_14/mundo.png"
+    }
+  ]
+}
