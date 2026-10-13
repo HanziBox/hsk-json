@@ -37,11 +37,11 @@
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/mensaje.svg"
     },
     {
-      "id": "preocuparse",
-      "hanzi": "担心",
-      "pinyin": "dānxīn",
-      "label": "Preocuparse",
-      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/preocuparse.png"
+      "id": "direccion",
+      "hanzi": "地址",
+      "pinyin": "dìzhǐ",
+      "label": "Dirección",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/direccion.png"
     },
     {
       "id": "regalo",
