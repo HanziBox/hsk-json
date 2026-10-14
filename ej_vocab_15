@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "aeropuerto",
+      "hanzi": "机场",
+      "pinyin": "jīchǎng",
+      "label": "Aeropuerto",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/aeropuerto.png"
+    },
+    {
+      "id": "derecha",
+      "hanzi": "右边",
+      "pinyin": "yòubian",
+      "label": "Derecha",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/derecha.png"
+    },
+    {
+      "id": "ducharse",
+      "hanzi": "洗澡",
+      "pinyin": "xǐzǎo",
+      "label": "Ducharse",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/ducharse.png"
+    },
+    {
+      "id": "izquierda",
+      "hanzi": "左边",
+      "pinyin": "zuǒbian",
+      "label": "Izquierda",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/izquierda.png"
+    },
+    {
+      "id": "japon",
+      "hanzi": "日本",
+      "pinyin": "Rìběn",
+      "label": "Japón",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/japon.png"
+    },
+    {
+      "id": "montana",
+      "hanzi": "山",
+      "pinyin": "shān",
+      "label": "Montaña",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/montana.png"
+    },
+    {
+      "id": "parada",
+      "hanzi": "站",
+      "pinyin": "zhàn",
+      "label": "Parada",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/parada.png"
+    },
+    {
+      "id": "semaforo",
+      "hanzi": "红绿灯",
+      "pinyin": "hónglǜdēng",
+      "label": "Semáforo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/semaforo.png"
+    },
+    {
+      "id": "supermercado",
+      "hanzi": "超市",
+      "pinyin": "chāoshì",
+      "label": "Supermercado",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_15/supermercado.svg"
+    }
+  ]
+}
