@@ -1,0 +1,68 @@
+{
+  "title": "Encuentra la imagen correcta para este carácter",
+  "items": [
+    {
+      "id": "barco",
+      "hanzi": "船",
+      "pinyin": "chuán",
+      "label": "Barco",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/barco.png"
+    },
+    {
+      "id": "cuchara",
+      "hanzi": "勺子",
+      "pinyin": "sháozi",
+      "label": "Cuchara",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/cuchara.png"
+    },
+    {
+      "id": "fresa",
+      "hanzi": "草莓",
+      "pinyin": "cǎoméi",
+      "label": "Fresa",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/fresa.svg"
+    },
+    {
+      "id": "gafas",
+      "hanzi": "眼镜",
+      "pinyin": "yǎnjìng",
+      "label": "Gafas",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/gafas.png"
+    },
+    {
+      "id": "medicina",
+      "hanzi": "药",
+      "pinyin": "yào",
+      "label": "Medicina",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/medicina.png"
+    },
+    {
+      "id": "nervioso",
+      "hanzi": "紧张",
+      "pinyin": "jǐnzhāng",
+      "label": "Nervioso",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/nervioso.png"
+    },
+    {
+      "id": "pantalones",
+      "hanzi": "裤子",
+      "pinyin": "kùzi",
+      "label": "Pantalones",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/pantalones.png"
+    },
+    {
+      "id": "pintar",
+      "hanzi": "画",
+      "pinyin": "huà",
+      "label": "Pintar",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/pintar.png"
+    },
+    {
+      "id": "sofa",
+      "hanzi": "沙发",
+      "pinyin": "shāfā",
+      "label": "Sofá",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_16/sofa.png"
+    }
+  ]
+}
