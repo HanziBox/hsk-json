@@ -1,20 +1,6 @@
 [
   {
     "words": [
-      {"hanzi": "让", "pinyin": "ràng"},
-      {"hanzi": "我", "pinyin": "wǒ"},
-      {"hanzi": "想", "pinyin": "xiǎng"},
-      {"hanzi": "一", "pinyin": "yī"},
-      {"hanzi": "想", "pinyin": "xiǎng"},
-      {"hanzi": "，", "pinyin": ","},
-      {"hanzi": "好", "pinyin": "hǎo"},
-      {"hanzi": "吗", "pinyin": "ma"},
-      {"hanzi": "？", "pinyin": "?"}
-    ],
-    "translation": "Déjame pensarlo, ¿vale?"
-  },
-  {
-    "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "想", "pinyin": "xiǎng"},
       {"hanzi": "明天", "pinyin": "míngtiān"},
