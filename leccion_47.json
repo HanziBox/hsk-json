@@ -1,6 +1,20 @@
 [
   {
     "words": [
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "想", "pinyin": "xiǎng"},
+      {"hanzi": "，", "pinyin": ","},
+      {"hanzi": "好", "pinyin": "hǎo"},
+      {"hanzi": "吗", "pinyin": "ma"},
+      {"hanzi": "？", "pinyin": "?"}
+    ],
+    "translation": "Déjame pensarlo, ¿vale?"
+  },
+  {
+    "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "想", "pinyin": "xiǎng"},
       {"hanzi": "明天", "pinyin": "míngtiān"},
@@ -11,17 +25,17 @@
     "translation": "Creo que mañana también lloverá."
   },
   {
-  "words": [
-    {"hanzi": "我", "pinyin": "wǒ"},
-    {"hanzi": "觉得", "pinyin": "juéde"},
-    {"hanzi": "你", "pinyin": "nǐ"},
-    {"hanzi": "应该", "pinyin": "yīnggāi"},
-    {"hanzi": "让", "pinyin": "ràng"},
-    {"hanzi": "她", "pinyin": "tā"},
-    {"hanzi": "去", "pinyin": "qù"}
-  ],
-  "translation": "Creo que deberías dejarla ir."
-},
+    "words": [
+      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "觉得", "pinyin": "juéde"},
+      {"hanzi": "你", "pinyin": "nǐ"},
+      {"hanzi": "应该", "pinyin": "yīnggāi"},
+      {"hanzi": "让", "pinyin": "ràng"},
+      {"hanzi": "她", "pinyin": "tā"},
+      {"hanzi": "去", "pinyin": "qù"}
+    ],
+    "translation": "Creo que deberías dejarla ir."
+  },
   {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
@@ -320,7 +334,7 @@
   },
   {
     "words": [
-      {"hanzi": "我", "pinyin": "wǒ"},
+      {"hanzi": "Wǒ", "pinyin": "wǒ"},
       {"hanzi": "觉得", "pinyin": "juéde"},
       {"hanzi": "她", "pinyin": "tā"},
       {"hanzi": "今天", "pinyin": "jīntiān"},
@@ -348,8 +362,7 @@
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "一定", "pinyin": "yīdìng"},
       {"hanzi": "要", "pinyin": "yào"},
-      {"hanzi": "去", "pinyin": "qù"},
-      {"hanzi": "看", "pinyin": "kàn"},
+      {"hanzi": "去看", "pinyin": "qùkàn"},
       {"hanzi": "医生", "pinyin": "yīshēng"}
     ],
     "translation": "Creo que debes ir al médico sin falta."
