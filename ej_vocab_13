@@ -23,11 +23,11 @@
       "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/enfadado.png"
     },
     {
-      "id": "enfermo",
-      "hanzi": "生病",
-      "pinyin": "shēngbìng",
-      "label": "Enfermo",
-      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/enfermo.png"
+      "id": "ojo",
+      "hanzi": "眼睛",
+      "pinyin": "yǎnjīng",
+      "label": "Ojo",
+      "img": "https://hanzibox.com/stuff/ICONOS_JUEGO/JUEGO_13/ojo.svg"
     },
     {
       "id": "mensaje",
