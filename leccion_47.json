@@ -40,7 +40,8 @@
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "想", "pinyin": "xiǎng"},
-      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"},
       {"hanzi": "周末", "pinyin": "zhōumò"},
       {"hanzi": "他", "pinyin": "tā"},
       {"hanzi": "没空", "pinyin": "méikòng"}
@@ -85,7 +86,7 @@
       {"hanzi": "喝", "pinyin": "hē"},
       {"hanzi": "咖啡", "pinyin": "kāfēi"}
     ],
-    "translation": "Me parece que a mi padre no le gusta beber café."
+    "translation": "Creo que a mi padre no le gusta beber café."
   },
   {
     "words": [
@@ -121,7 +122,8 @@
       {"hanzi": "都", "pinyin": "dōu"},
       {"hanzi": "该", "pinyin": "gāi"},
       {"hanzi": "做", "pinyin": "zuò"},
-      {"hanzi": "这个", "pinyin": "zhège"}
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"}
     ],
     "translation": "Considero que todos debemos hacer esto."
   },
@@ -129,7 +131,8 @@
     "words": [
       {"hanzi": "我们", "pinyin": "wǒmen"},
       {"hanzi": "认为", "pinyin": "rènwéi"},
-      {"hanzi": "这位", "pinyin": "zhèwèi"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "位", "pinyin": "wèi"},
       {"hanzi": "医生", "pinyin": "yīshēng"},
       {"hanzi": "很好", "pinyin": "hěn hǎo"}
     ],
@@ -145,7 +148,7 @@
       {"hanzi": "好", "pinyin": "hǎo"},
       {"hanzi": "老师", "pinyin": "lǎoshī"}
     ],
-    "translation": "Opino que él es un buen profesor."
+    "translation": "Pienso que él es un buen profesor."
   },
   {
     "words": [
@@ -156,7 +159,7 @@
       {"hanzi": "回家", "pinyin": "huíjiā"},
       {"hanzi": "了", "pinyin": "le"}
     ],
-    "translation": "Opino que ella ya ha vuelto a casa."
+    "translation": "Pienso que ya vuelto a casa."
   },
   {
     "words": [
@@ -166,7 +169,7 @@
       {"hanzi": "会", "pinyin": "huì"},
       {"hanzi": "下雨", "pinyin": "xiàyǔ"}
     ],
-    "translation": "Opino que mañana lloverá."
+    "translation": "Pienso que mañana lloverá."
   },
   {
     "words": [
@@ -176,7 +179,7 @@
       {"hanzi": "应该", "pinyin": "yīnggāi"},
       {"hanzi": "休息", "pinyin": "xiūxi"}
     ],
-    "translation": "Opino que deberías descansar."
+    "translation": "Pienso que deberías descansar."
   },
   {
     "words": [
@@ -188,13 +191,14 @@
       {"hanzi": "喝", "pinyin": "hē"},
       {"hanzi": "水", "pinyin": "shuǐ"}
     ],
-    "translation": "Opino que deberías beber más agua."
+    "translation": "Pienso que deberías beber más agua."
   },
   {
     "words": [
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "认为", "pinyin": "rènwéi"},
-      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"},
       {"hanzi": "怎么样", "pinyin": "zěnmeyàng"},
       {"hanzi": "？", "pinyin": "?"}
     ],
@@ -208,7 +212,7 @@
       {"hanzi": "最好", "pinyin": "zuìhǎo"},
       {"hanzi": "？", "pinyin": "?"}
     ],
-    "translation": "¿Quién crees que es el mejor?"
+    "translation": "¿Quién piensas que es el mejor?"
   },
   {
     "words": [
@@ -225,7 +229,8 @@
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "想", "pinyin": "xiǎng"},
-      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"},
       {"hanzi": "不", "pinyin": "bù"},
       {"hanzi": "是", "pinyin": "shì"},
       {"hanzi": "你的", "pinyin": "nǐde"}
@@ -261,7 +266,7 @@
       {"hanzi": "很", "pinyin": "hěn"},
       {"hanzi": "好", "pinyin": "hǎo"}
     ],
-    "translation": "Me parece que aquí se está muy bien (este lugar es muy bueno)."
+    "translation": "Me parece que aquí se está muy bien (lit: aquí es muy bueno)."
   },
   {
     "words": [
@@ -282,7 +287,8 @@
       {"hanzi": "以为", "pinyin": "yǐwéi"},
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "有", "pinyin": "yǒu"},
-      {"hanzi": "一辆", "pinyin": "yī liàng"},
+      {"hanzi": "一", "pinyin": "yī"},
+      {"hanzi": "辆", "pinyin": "liàng"},
       {"hanzi": "车", "pinyin": "chē"}
     ],
     "translation": "Pensaba que tenías un coche."
@@ -303,7 +309,8 @@
       {"hanzi": "以为", "pinyin": "yǐwéi"},
       {"hanzi": "你", "pinyin": "nǐ"},
       {"hanzi": "已经", "pinyin": "yǐjīng"},
-      {"hanzi": "来过", "pinyin": "láiguò"},
+      {"hanzi": "来", "pinyin": "lái"},
+      {"hanzi": "过", "pinyin": "guò"},
       {"hanzi": "这里", "pinyin": "zhèlǐ"},
       {"hanzi": "了", "pinyin": "le"}
     ],
@@ -315,7 +322,8 @@
       {"hanzi": "以为", "pinyin": "yǐwéi"},
       {"hanzi": "我们", "pinyin": "wǒmen"},
       {"hanzi": "一起", "pinyin": "yīqǐ"},
-      {"hanzi": "去了", "pinyin": "qùle"},
+      {"hanzi": "去", "pinyin": "qù"},
+      {"hanzi": "了", "pinyin": "le"},
       {"hanzi": "商店", "pinyin": "shāngdiàn"}
     ],
     "translation": "Ella pensaba que habíamos ido juntos a la tienda."
@@ -324,7 +332,8 @@
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "觉得", "pinyin": "juéde"},
-      {"hanzi": "这个", "pinyin": "zhège"},
+      {"hanzi": "这", "pinyin": "zhè"},
+      {"hanzi": "个", "pinyin": "ge"},
       {"hanzi": "手机", "pinyin": "shǒujī"},
       {"hanzi": "有", "pinyin": "yǒu"},
       {"hanzi": "一点儿", "pinyin": "yīdiǎnr"},
