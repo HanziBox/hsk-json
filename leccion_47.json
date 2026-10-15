@@ -1,4 +1,5 @@
-{
+[
+  {
     "words": [
       {"hanzi": "我", "pinyin": "wǒ"},
       {"hanzi": "想", "pinyin": "xiǎng"},
@@ -185,3 +186,4 @@
     ],
     "translation": "Él cree que los caracteres chinos son difíciles de escribir."
   }
+]
