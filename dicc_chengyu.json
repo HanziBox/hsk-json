@@ -1,28 +1,652 @@
 [
   {
-    "simplificado": "龙马精神",
-    "tradicional": "龍馬精神",
-    "pinyin": "lóng mǎ jīng shén",
-    "significado_literal": "Dragón y caballo, vigor espiritual",
-    "significado_figurado": "Estar lleno de vitalidad y energía / Vigoroso y fuerte",
-    "equivalente_espanol": "Con las pilas puestas / Más sano que una pera",
+    "simplificado": "一丁不识",
+    "tradicional": "一丁不識",
+    "pinyin": "yī dīng bù shí",
+    "significado_literal": "No reconocer ni el trazo del carácter 丁 (dīng)",
+    "significado_figurado": "Ser completamente analfabeto o iletrado; no saber leer ni escribir",
+    "equivalente_espanol": "No saber hacer la \"o\" con un canuto / No saber ni la \"a\"",
     "ejemplo": {
-      "oracion": "爷爷虽然八十岁了，但依然龙马精神。",
-      "pinyin": "Yéye suīrán bāshí suì le, dàn yīrán lóng mǎ jīng shén.",
-      "traduccion": "Aunque el abuelo tiene ochenta años, todavía está lleno de vitalidad."
+      "oracion": "他从小没有上过学，一丁不识。",
+      "pinyin": "Tā cóngxiǎo méiyǒu shàngguo xué, yī dīng bù shí.",
+      "traduccion": "Él no fue a la escuela de pequeño y es totalmente analfabeto."
     }
   },
   {
-    "simplificado": "画蛇添足",
-    "tradicional": "畫蛇添足",
-    "pinyin": "huà shé tiān zú",
-    "significado_literal": "Dibujar una serpiente y añadirle patas",
-    "significado_figurado": "Arruinar algo por hacer más de lo necesario o por añadir adornos superfluos",
-    "equivalente_espanol": "Rizar el rizo / Buscar tres pies al gato",
+    "simplificado": "一不做，二不休",
+    "tradicional": "一不做，二不休",
+    "pinyin": "yī bù zuò, èr bù xiū",
+    "significado_literal": "O bien no se hace nada al principio, o bien no se abandona hasta el final",
+    "significado_figurado": "Llevar a cabo un asunto hasta las últimas consecuencias una vez iniciado, sin detenerse ante los obstáculos",
+    "equivalente_espanol": "De perdidos al río / Puestos a hacer algo, hacerlo del todo",
     "ejemplo": {
-      "oracion": "这张画已经很完美了，你再着色就是画蛇添足。",
-      "pinyin": "Zhè zhāng huà yǐjīng hěn wánměi le, nǐ zài zhuósè jiù shì huà shé tiān zú.",
-      "traduccion": "Esta pintura ya es perfecta; seguir retocándola sería arruinarla."
+      "oracion": "既然事情已经到了这个地步，我们一不做，二不休，干脆拼到底。",
+      "pinyin": "Jìrán shìqing yǐjīng dào le zhè ge dìbù, wǒmen yī bù zuò, èr bù xiū, gāncuì pīn dào dǐ.",
+      "traduccion": "Puesto que la situación ha llegado a este punto, de perdidos al río: lucharemos hasta el final."
+    }
+  },
+  {
+    "simplificado": "一丘之貉",
+    "tradicional": "一丘之貉",
+    "pinyin": "yī qiū zhī hé",
+    "significado_literal": "Mapaches que habitarían en la misma colina",
+    "significado_figurado": "Personas que comparten las mismas malas cualidades o conductas reprochables",
+    "equivalente_espanol": "Cortados por el mismo patrón / De la misma calaña",
+    "ejemplo": {
+      "oracion": "这两个贼人合伙作恶，真是一丘之貉。",
+      "pinyin": "Zhè liǎng ge zéi rén héhuǒ zuò'è, zhēn shì yī qiū zhī hé.",
+      "traduccion": "Estos dos ladrones se asociaron para hacer el mal; verdaderamente son de la misma calaña."
+    }
+  },
+  {
+    "simplificado": "一之为甚",
+    "tradicional": "一之爲甚",
+    "pinyin": "yī zhī wéi shèn",
+    "significado_literal": "Hacer algo una sola vez ya resulta gravoso o excesivo",
+    "significado_figurado": "Expresa que un error o falta cometido una vez es suficiente y no debe volver a repetirse jamás",
+    "equivalente_espanol": "Una vez basta y sobra / Una y no más",
+    "ejemplo": {
+      "oracion": "你犯过一次这样的错误，一之为甚，切不可再犯。",
+      "pinyin": "Nǐ fànguo yī cì zhèyàng de cuòwù, yī zhī wéi shèn, qiè bù kě zài fàn.",
+      "traduccion": "Ya cometiste este error una vez; con una basta y sobra, bajo ningún concepto debes repetirlo."
+    }
+  },
+  {
+    "simplificado": "一干二净",
+    "tradicional": "一幹二淨",
+    "pinyin": "yī gān èr jìng",
+    "significado_literal": "Absolutamente seco y limpio",
+    "significado_figurado": "Completamente, sin dejar rastro alguno o consumido por entero",
+    "equivalente_espanol": "Limpio de polvo y paja / No dejar ni las migas / Sin dejar rastro",
+    "ejemplo": {
+      "oracion": "把桌上的食物吃得一干二净。",
+      "pinyin": "Bǎ zhuō shàng de shíwù chī de yī gān èr jìng.",
+      "traduccion": "Comerse la comida de la mesa sin dejar absolutamente nada."
+    }
+  },
+  {
+    "simplificado": "一了百了",
+    "tradicional": "一了百了",
+    "pinyin": "yī liǎo bǎi liǎo",
+    "significado_literal": "Zanjado lo principal, queda saldado todo lo demás",
+    "significado_figurado": "Resolver el problema de raíz para terminar de golpe con todas las dificultades derivadas",
+    "equivalente_espanol": "Muerto el perro, se acabó la rabia / Cortar por lo sano",
+    "ejemplo": {
+      "oracion": "只要解决资金问题，其他困难就能一了百了了。",
+      "pinyin": "Zhǐyào jiějué zījīn wèntí, qítā kùnnan jiù néng yī liǎo bǎi liǎo le.",
+      "traduccion": "Mientras se resuelva el problema de financiación, las demás dificultades quedarán zanjadas de raíz."
+    }
+  },
+  {
+    "simplificado": "一事无成",
+    "tradicional": "一事無成",
+    "pinyin": "yī shì wú chéng",
+    "significado_literal": "No lograr la conclusión de ni una sola tarea",
+    "significado_figurado": "Fracasar por completo en la vida o no haber obtenido ningún logro tras mucho tiempo",
+    "equivalente_espanol": "No haber logrado nada / Estar con las manos vacías",
+    "ejemplo": {
+      "oracion": "如果虚度光阴，终将一事无成。",
+      "pinyin": "Rúguǒ xūdù guāngyīn, zhōng jiāng yī shì wú chéng.",
+      "traduccion": "Si malgastas el tiempo, terminarás por no lograr nada en la vida."
+    }
+  },
+  {
+    "simplificado": "一五一十",
+    "tradicional": "一五一十",
+    "pinyin": "yī wǔ yī shí",
+    "significado_literal": "Contar de cinco en cinco y de diez en diez",
+    "significado_figurado": "Relatar o narrar los hechos con todo lujo de detalles, sin omitir absolutamente nada",
+    "equivalente_espanol": "Punto por punto / Pelos y señales / Con todo detalle",
+    "ejemplo": {
+      "oracion": "她把事情的经过一五一十地告诉了警察。",
+      "pinyin": "Tā bǎ shìqing de jīngguò yī wǔ yī shí de gàosu le jǐngchá.",
+      "traduccion": "Ella le relató los hechos a la policía con todos los pelos y señales."
+    }
+  },
+  {
+    "simplificado": "一人得道，鸡犬升天",
+    "tradicional": "一人得道，雞犬升天",
+    "pinyin": "yī rén dé dào, jī quǎn shēng tiān",
+    "significado_literal": "Al ascender una persona al Tao, hasta sus gallinas y perros suben al cielo",
+    "significado_figurado": "Cuando una persona alcanza el poder o la riqueza, todos sus allegados y parientes se benefician de ello sin mérito propio",
+    "equivalente_espanol": "A la sombra del nogal, todos se van a cobijar / Enchufismo",
+    "ejemplo": {
+      "oracion": "他当上高官后，连远房亲戚都得到了好处，真是一人得道，鸡犬升天。",
+      "pinyin": "Tā dāng shàng gāoguān hòu, lián yuǎnfáng qīnqi dōu dédào le hǎochu, zhēn shì yī rén dé dào, jī quǎn shēng tiān.",
+      "traduccion": "Tras asumir un alto cargo, hasta sus parientes lejanos obtuvieron favores; verdaderamente, cuando uno sube al poder, hasta los suyos se benefician."
+    }
+  },
+  {
+    "simplificado": "一以贯之",
+    "tradicional": "一以貫之",
+    "pinyin": "yī yǐ guàn zhī",
+    "significado_literal": "Ensartar todo con un único hilo conductor",
+    "significado_figurado": "Mantener un mismo principio, actitud o doctrina de principio a fin de manera coherente y constante",
+    "equivalente_espanol": "Mantener una misma línea / Seguir un hilo conductor",
+    "ejemplo": {
+      "oracion": "我们要一以贯之地坚持原则。",
+      "pinyin": "Wǒmen yào yī yǐ guàn zhī de jiānchí yuánzé.",
+      "traduccion": "Debemos mantener nuestros principios de manera coherente de principio a fin."
+    }
+  },
+  {
+    "simplificado": "一个将军一个令",
+    "tradicional": "一個將軍一個令",
+    "pinyin": "yī ge jiāngjūn yī ge lìng",
+    "significado_literal": "Cada general dicta su propia orden",
+    "significado_figurado": "Indica que cada líder o gobernante impone sus propias reglas, criterios o directrices de trabajo",
+    "equivalente_espanol": "Cada maestrillo tiene su librillo / Cada jefe impone su ley",
+    "ejemplo": {
+      "oracion": "新经理上任后改变了规矩，真是一个将军一个令。",
+      "pinyin": "Xīn jīnglǐ shàngrèn hòu gǎibiàn le guīju, zhēn shì yī ge jiāngjūn yī ge lìng.",
+      "traduccion": "El nuevo gerente cambió las reglas al asumir el cargo; verdaderamente cada jefe impone su ley."
+    }
+  },
+  {
+    "simplificado": "一个萝卜一个坑",
+    "tradicional": "一個蘿蔔一個坑",
+    "pinyin": "yī ge luóbo yī ge kēng",
+    "significado_literal": "Un nabo para cada hoyo",
+    "significado_figurado": "Cada puesto de trabajo u ocupación está asignado exactamente a una persona específica",
+    "equivalente_espanol": "Cada oveja con su pareja / Un puesto para cada persona",
+    "ejemplo": {
+      "oracion": "单位里一个人一个岗位，恰好是一个萝卜一个坑。",
+      "pinyin": "Dānwèi lǐ yī ge rén yī ge gǎngwèi, qiàhǎo shì yī ge luóbo yī ge kēng.",
+      "traduccion": "En la empresa hay un puesto para cada persona; está todo medido al detalle."
+    }
+  },
+  {
+    "simplificado": "一传十，十传百",
+    "tradicional": "一傳十，十傳百",
+    "pinyin": "yī chuán shí, shí chuán bǎi",
+    "significado_literal": "Uno transmite la noticia a diez y diez a cien",
+    "significado_figurado": "Propagación o difusión sumamente rápida de una noticia, rumor o información",
+    "equivalente_espanol": "Correr como la pólvora / Correr el rumor de boca en boca",
+    "ejemplo": {
+      "oracion": "这个消息一传十，十传百，很快大家都知道了。",
+      "pinyin": "Zhè ge xiāoxi yī chuán shí, shí chuán bǎi, hěn kuài dàjiā dōu zhīdào le.",
+      "traduccion": "Esta noticia corrió como la pólvora y enseguida la supo todo el mundo."
+    }
+  },
+  {
+    "simplificado": "一元复始",
+    "tradicional": "一元複始",
+    "pinyin": "yī yuán fù shǐ",
+    "significado_literal": "Un nuevo ciclo comienza de nuevo",
+    "significado_figurado": "Recomienzo del ciclo anual o de una etapa de renovación positiva; inicio del Año Nuevo",
+    "equivalente_espanol": "Año nuevo, vida nueva / Comienzo de una nueva era",
+    "ejemplo": {
+      "oracion": "一元复始，万象更新。",
+      "pinyin": "Yī yuán fù shǐ, wàn xiàng gēngxīn.",
+      "traduccion": "Comienza un nuevo ciclo y la naturaleza entera se renueva."
+    }
+  },
+  {
+    "simplificado": "一刀两断",
+    "tradicional": "一刀兩斷",
+    "pinyin": "yī dāo liǎng duàn",
+    "significado_literal": "Cortar en dos partes de un solo tajo",
+    "significado_figurado": "Romper una relación personal, comercial o política de forma tajante, definitiva y categórica",
+    "equivalente_espanol": "Cortar por lo sano / Romper tajantemente",
+    "ejemplo": {
+      "oracion": "我和他已经一刀两断，不再往来。",
+      "pinyin": "Wǒ hé tā yǐjīng yī dāo liǎng duàn, bù zài wǎnglái.",
+      "traduccion": "He cortado con él de forma tajante y ya no nos tratamos."
+    }
+  },
+  {
+    "simplificado": "一刀切",
+    "tradicional": "一刀切",
+    "pinyin": "yī dāo qiē",
+    "significado_literal": "Cortar todo con un único golpe de cuchillo",
+    "significado_figurado": "Aplicar una solución única, rígida y uniforme a problemas diversos sin atenerse a las particularidades",
+    "equivalente_espanol": "Medir a todos con el mismo rasero / Solución de café para todos",
+    "ejemplo": {
+      "oracion": "处理问题不能一刀切，要因地制宜。",
+      "pinyin": "Chǔlǐ wèntí bù néng yī dāo qiē, yào yīn dì zhì yí.",
+      "traduccion": "No se pueden abordar los problemas cortando a todos por el mismo rasero; hay que adaptarse a las circunstancias locales."
+    }
+  },
+  {
+    "simplificado": "一分一毫",
+    "tradicional": "一分一毫",
+    "pinyin": "yī fēn yī háo",
+    "significado_literal": "Una fracción y un pelo (unidades mínimas)",
+    "significado_figurado": "Una cantidad ínfima, minúscula o insignificante",
+    "equivalente_espanol": "Ni un ápice / Ni un milímetro",
+    "ejemplo": {
+      "oracion": "在这个原则问题上，我们决不让步一分一毫。",
+      "pinyin": "Zài zhè ge yuánzé wèntí shàng, wǒmen jué bù ràngbù yī fēn yī háo.",
+      "traduccion": "En este asunto de principios, no cederemos ni un ápice."
+    }
+  },
+  {
+    "simplificado": "一分为二",
+    "tradicional": "一分爲二",
+    "pinyin": "yī fēn wéi èr",
+    "significado_literal": "Dividir una cosa en dos partes",
+    "significado_figurado": "Analizar los hechos u objetos contemplando sus dos facetas (positiva y negativa), de modo dialéctico e imparcial",
+    "equivalente_espanol": "Ver las dos caras de la moneda / Analizar con objetividad",
+    "ejemplo": {
+      "oracion": "我们对待工作要一分为二地看待成绩和不足。",
+      "pinyin": "Wǒmen duìdài gōngzuò yào yī fēn wéi èr de kàndài chéngjì hé bùzú.",
+      "traduccion": "Debemos evaluar nuestro trabajo analizando las dos caras de la moneda: los logros y las deficiencias."
+    }
+  },
+  {
+    "simplificado": "一切就绪",
+    "tradicional": "一切就緒",
+    "pinyin": "yī qiè jiù xù",
+    "significado_literal": "Cada cosa ha sido dispuesta en su debido hilo y orden",
+    "significado_figurado": "Tener todos los preparativos completados y estar completamente apercibido",
+    "equivalente_espanol": "Todo a punto / Todo preparado",
+    "ejemplo": {
+      "oracion": "准备工作一切就绪，随时可以出发。",
+      "pinyin": "Zhǔnbèi gōngzuò yī qiè jiù xù, suíshí kěyǐ chūfā.",
+      "traduccion": "Los trabajos de preparación están todos a punto; podemos salir en cualquier momento."
+    }
+  },
+  {
+    "simplificado": "一刻千金",
+    "tradicional": "一刻千金",
+    "pinyin": "yī kè qiān jīn",
+    "significado_literal": "Un breve lapso cuesta mil piezas de oro",
+    "significado_figurado": "Expresa el altísimo valor de cada segundo de tiempo cuando este resulta sumamente placentero o apremiante",
+    "equivalente_espanol": "El tiempo es oro",
+    "ejemplo": {
+      "oracion": "考试前复习的时间一刻千金，不能浪费。",
+      "pinyin": "Kǎoshì qián fùxí de shíjiān yī kè qiān jīn, bù néng làngfèi.",
+      "traduccion": "El tiempo de repaso previo al examen es oro; no se puede malgastar."
+    }
+  },
+  {
+    "simplificado": "一反常态",
+    "tradicional": "一反常態",
+    "pinyin": "yī fǎn cháng tài",
+    "significado_literal": "Invertir del todo la actitud o estado habitual",
+    "significado_figurado": "Actuar o comportarse de una manera totalmente distinta a lo que resulta normal en esa persona",
+    "equivalente_espanol": "Cambiar de conducta drásticamente / Actuar fuera de lo habitual",
+    "ejemplo": {
+      "oracion": "他平时话不多，今天却一反常态地滔滔不绝。",
+      "pinyin": "Tā píngshí huà bù duō, jīntiān què yī fǎn cháng tài de tāotāo bù jué.",
+      "traduccion": "Normalmente él habla poco, pero hoy rompió totalmente su hábito y habló por los codos."
+    }
+  },
+  {
+    "simplificado": "一呼百应",
+    "tradicional": "一呼百應",
+    "pinyin": "yī hū bǎi yìng",
+    "significado_literal": "Un solo grito obtiene la respuesta de un centenar",
+    "significado_figurado": "Gozar de una gran autoridad, liderazgo o carisma de modo que la multitud acata al instante las órdenes",
+    "equivalente_espanol": "Tener un gran poder de convocatoria",
+    "ejemplo": {
+      "oracion": "这位英雄有着一呼百应的号召力。",
+      "pinyin": "Zhè wèi yīngxióng yǒuzhe yī hū bǎi yìng de hàozhàolì.",
+      "traduccion": "Este héroe cuenta con un gran poder de convocatoria sobre la gente."
+    }
+  },
+  {
+    "simplificado": "一呼百诺",
+    "tradicional": "一呼百諾",
+    "pinyin": "yī hū bǎi nuò",
+    "significado_literal": "Una sola llamada produce cien asentimientos",
+    "significado_figurado": "Poseer un rango o posición social elevado rodeado de un séquito que acata cualquier requerimiento",
+    "equivalente_espanol": "Estar rodeado de un séquito sumiso",
+    "ejemplo": {
+      "oracion": "古代的大官出门时一呼百诺，威风十足。",
+      "pinyin": "Gǔdài de dà guān chūmén shí yī hū bǎi nuò, wēifēng shízú.",
+      "traduccion": "Cuando los altos funcionarios de la antigüedad salían, iban rodeados de un séquito sumiso mostrando todo su poder."
+    }
+  },
+  {
+    "simplificado": "一命呜呼",
+    "tradicional": "一命嗚呼",
+    "pinyin": "yī mìng wū hū",
+    "significado_literal": "La vida entera se extingue con un suspiro (呜呼)",
+    "significado_figurado": "Fallecer, morir o palmarla (empleado frecuentemente de forma coloquial o satírica)",
+    "equivalente_espanol": "Estirar la pata / Pasar a mejor vida",
+    "ejemplo": {
+      "oracion": "那只可怜的小鸟被猎人击中，一命呜呼了。",
+      "pinyin": "Nà zhī kělián de xiǎoniǎo bèi lièrén jīzhòng, yī mìng wū hū le.",
+      "traduccion": "Aquella pobre ave fue alcanzada por el cazador y estiró la pata."
+    }
+  },
+  {
+    "simplificado": "一哄而散",
+    "tradicional": "一哄而散",
+    "pinyin": "yī hòng ér sàn",
+    "significado_literal": "Dispersarse todos juntos en medio del vocerío",
+    "significado_figurado": "Desbandarse o dispersarse un grupo numeroso de personas repentinamente",
+    "equivalente_espanol": "Salir en desbandada / Disolverse como un azucarillo",
+    "ejemplo": {
+      "oracion": "听到警察的声音，集聚的人群一哄而散。",
+      "pinyin": "Tīngdào jǐngchá de shēngyīn, jíjù de rénqún yī hòng ér sàn.",
+      "traduccion": "Al oír la voz de la policía, la muchedumbre congregada salió en desbandada."
+    }
+  },
+  {
+    "simplificado": "一唱一和",
+    "tradicional": "一唱一和",
+    "pinyin": "yī chàng yī hè",
+    "significado_literal": "Uno canta el verso y el otro responde a tono",
+    "significado_figurado": "Actuar en perfecta complicidad para lograr un propósito, a menudo de índole manipuladora o engañosa",
+    "equivalente_espanol": "Seguirse el juego / Hacer el dúo",
+    "ejemplo": {
+      "oracion": "他们两个人一唱一和，把大家都骗了。",
+      "pinyin": "Tāmen liǎng ge rén yī chàng yī hè, bǎ dàjiā dōu piàn le.",
+      "traduccion": "Ellos dos se siguieron el juego perfectamente y engañaron a todo el mundo."
+    }
+  },
+  {
+    "simplificado": "一唱三叹",
+    "tradicional": "一唱三歎",
+    "pinyin": "yī chàng sān tàn",
+    "significado_literal": "Una sola voz canta y tres coros la acompañan con hondos suspiros",
+    "significado_figurado": "Obras poéticas o musicales de profundo valor artístico y gran emotividad que conmueven profundamente a quienes las escuchan",
+    "equivalente_espanol": "Sublime y conmovedor",
+    "ejemplo": {
+      "oracion": "这部文人作品绝妙之极，令人一唱三叹。",
+      "pinyin": "Zhè bù wénrén zuòpǐn juémiào zhī jí, lìng rén yī chàng sān tàn.",
+      "traduccion": "Esta obra literaria es de una finura absoluta; resulta conmovedora de principio a fin."
+    }
+  },
+  {
+    "simplificado": "一问三不知",
+    "tradicional": "一問三不知",
+    "pinyin": "yī wèn sān bù zhī",
+    "significado_literal": "Frente a una pregunta, ignorar el principio, el medio y el fin del asunto",
+    "significado_figurado": "Ignorarlo absolutamente todo sobre un tema determinado o fingir desconocimiento total",
+    "equivalente_espanol": "No tener ni idea / No saber ni jota",
+    "ejemplo": {
+      "oracion": "我问他事情的经过，他却一问三不知。",
+      "pinyin": "Wǒ wèn tā shìqing de jīngguò, tā què yī wèn sān bù zhī.",
+      "traduccion": "Le pregunté por el desarrollo de los hechos, pero no tenía ni la menor idea."
+    }
+  },
+  {
+    "simplificado": "一回生，二回熟",
+    "tradicional": "一回生，二回熟",
+    "pinyin": "yī huí shēng, èr huí shú",
+    "significado_literal": "La primera vez hay falta de costumbre, la segunda ya existe familiaridad",
+    "significado_figurado": "Las personas o asuntos resultan ajenos al principio, pero con el trato frecuente se adquiere desenvoltura y confianza",
+    "equivalente_espanol": "La primera vez cuesta, la segunda se domina / La práctica hace al maestro",
+    "ejemplo": {
+      "oracion": "别害怕，一回生，二回熟，多接触几次就习惯了。",
+      "pinyin": "Bié hàipà, yī huí shēng, èr huí shú, duō jiēchù jǐ cì jiù xíguàn le.",
+      "traduccion": "No temas: la primera vez cuesta, la segunda se domina; con un par de contactos más te habrás acostumbrado."
+    }
+  },
+  {
+    "simplificado": "一团和气",
+    "tradicional": "一團和氣",
+    "pinyin": "yī tuán hé qì",
+    "significado_literal": "Una atmósfera rebosante de cordialidad",
+    "significado_figurado": "Trato amable y cordial entre personas; a veces se usa peyorativamente para denunciar la falta de rigor al buscar complacer a todos evitando el conflicto",
+    "equivalente_espanol": "Buen rollo / Miel sobre hojuelas",
+    "ejemplo": {
+      "oracion": "大家在一团和气的氛围中完成了研讨。",
+      "pinyin": "Dàjiā zài yī tuán héqì de fēnwéi zhōng wánchéng le yántǎo.",
+      "traduccion": "Todos concluyeron el seminario en una atmósfera de gran cordialidad."
+    }
+  },
+  {
+    "simplificado": "一塌糊涂",
+    "tradicional": "一塌糊塗",
+    "pinyin": "yī tā hú tu",
+    "significado_literal": "Un colapso que todo lo convierte en barro o engrudo",
+    "significado_figurado": "Situación desastrosa, caótica o extremadamente desordenada",
+    "equivalente_espanol": "Hecho un desastre / Un auténtico caos",
+    "ejemplo": {
+      "oracion": "他的房间收拾得一塌糊涂。",
+      "pinyin": "Tā de fángjiān shōushi de yī tā hú tu.",
+      "traduccion": "Su habitación es un auténtico caos."
+    }
+  },
+  {
+    "simplificado": "一尘不染",
+    "tradicional": "一塵不染",
+    "pinyin": "yī chén bù rǎn",
+    "significado_literal": "No mancharse ni con una sola mota de polvo",
+    "significado_figurado": "Estar sumamente limpio e impoluto; moralmente, mantener una honestidad libre de toda corrupción",
+    "equivalente_espanol": "Limpio como una patena / Incorruptible",
+    "ejemplo": {
+      "oracion": "她的房间打扫得一尘不染。",
+      "pinyin": "Tā de fángjiān dǎsǎo de yī chén bù rǎn.",
+      "traduccion": "Su habitación está limpia como una patena."
+    }
+  },
+  {
+    "simplificado": "一夔已足",
+    "tradicional": "一夔已足",
+    "pinyin": "yī kuí yǐ zú",
+    "significado_literal": "Contar con un solo Kui (maestro de música de la antigüedad) resulta suficiente",
+    "significado_figurado": "Disponer de un único profesional extraordinariamente capacitado basta para sacar adelante la empresa con éxito",
+    "equivalente_espanol": "Basta con un buen experto",
+    "ejemplo": {
+      "oracion": "这个项目只要有他主持，便是一夔已足。",
+      "pinyin": "Zhè ge xiàngmù zhǐyào yǒu tā zhǔchí, biàn shì yī kuí yǐ zú.",
+      "traduccion": "Mientras este proyecto sea dirigido por él, bastará con su sola maestría."
+    }
+  },
+  {
+    "simplificado": "一夕数惊",
+    "tradicional": "一夕數驚",
+    "pinyin": "yī xī shù jīng",
+    "significado_literal": "Sufrir repetidos sustos en el transcurso de una misma noche",
+    "significado_figurado": "Vivenciar un estado de angustia, zozobra e inseguridad permanente producto de alarmas continuas",
+    "equivalente_espanol": "Con el corazón en un envilo / En constante sobresalto",
+    "ejemplo": {
+      "oracion": "战争期间，城里的人们一夕数惊，难以安睡。",
+      "pinyin": "Zhànzhēng qījiān, chéng lǐ de rénmen yī xī shù jīng, nányǐ ān shuì.",
+      "traduccion": "Durante la guerra, los habitantes de la ciudad vivían en constante sobresalto y apenas podían conciliar el sueño."
+    }
+  },
+  {
+    "simplificado": "一夫当关，万夫莫开",
+    "tradicional": "一夫當關，萬夫莫開",
+    "pinyin": "yī fū dāng guān, wàn fū mò kāi",
+    "significado_literal": "Si un solo hombre custodia el paso del desfiladero, diez mil no podrán forzarlo",
+    "significado_figurado": "Posición geográfica de extrema importancia estratégica y de dificilísimo acceso, inexpugnable ante el enemigo",
+    "equivalente_espanol": "Paso inexpugnable / Bastión imbatible",
+    "ejemplo": {
+      "oracion": "这座关隘地势险要，真是一夫当关，万夫莫开。",
+      "pinyin": "Zhè zuò guān'ài dìshì xiǎnyào, zhēn shì yī fū dāng guān, wàn fū mò kāi.",
+      "traduccion": "Este paso de montaña es de una orografía tan abrupta que resulta verdaderamente inexpugnable."
+    }
+  },
+  {
+    "simplificado": "一失足成千古恨",
+    "tradicional": "一失足成千古恨",
+    "pinyin": "yī shī zú chéng qiān gǔ hèn",
+    "significado_literal": "Dar un solo paso en falso engendra un arrepentimiento que perdura por mil eras",
+    "significado_figurado": "Un solo error grave o desliz en la vida causa un daño irreparable que acarreará un remordimiento de por vida",
+    "equivalente_espanol": "Un tropiezo causa un mal de por vida / Dar un paso en falso",
+    "ejemplo": {
+      "oracion": "切不可犯原则性错误，否则一失足成千古恨。",
+      "pinyin": "Qiè bù kě fàn yuánzéxìng cuòwù, fǒuzé yī shī zú chéng qiān gǔ hèn.",
+      "traduccion": "Bajo ningún concepto cometas un error de principios; de lo contrario, darás un paso en falso del que te arrepentirás toda la vida."
+    }
+  },
+  {
+    "simplificado": "一如既往",
+    "tradicional": "一如既往",
+    "pinyin": "yī rú jì wǎng",
+    "significado_literal": "Exactamente igual que en el pasado",
+    "significado_figurado": "Continuar actuando o procediendo sin cambio alguno, como se ha venido haciendo habitualmente",
+    "equivalente_espanol": "Como de costumbre / Como siempre",
+    "ejemplo": {
+      "oracion": "我们将一如既往地支持你们的工作。",
+      "pinyin": "Wǒmen jiāng yī rú jì wǎng de zhīchí nǐmen de gōngzuò.",
+      "traduccion": "Seguiremos respaldando vuestro trabajo exactamente como de costumbre."
+    }
+  },
+  {
+    "simplificado": "一孔之见",
+    "tradicional": "一孔之見",
+    "pinyin": "yī kǒng zhī jiàn",
+    "significado_literal": "Visión obtenida mirando a través de un pequeño orificio",
+    "significado_figurado": "Punto de vista limitado, sesgado o falto de perspectiva (usado con frecuencia en tono de modestia al dar una opinión propia)",
+    "equivalente_espanol": "Una visión reducida / Una opinión modesta",
+    "ejemplo": {
+      "oracion": "以上这番话不过是我的一孔之见，供大家参考。",
+      "pinyin": "Yǐshàng zhè fān huà bùguò shì wǒ de yī kǒng zhī jiàn, gōng dàjiā cānkǎo.",
+      "traduccion": "Lo dicho anteriormente no es más que mi humilde opinión, para vuestra consideración."
+    }
+  },
+  {
+    "simplificado": "一字一泪",
+    "tradicional": "一字一淚",
+    "pinyin": "yī zì yī lèi",
+    "significado_literal": "Cada carácter escrito va acompañado de una lágrima",
+    "significado_figurado": "Escrito o discurso impregnado de un dolor tan hondo que conmueve vivamente la sensibilidad del lector",
+    "equivalente_espanol": "Escrito con lágrimas de sangre / De profundo desgarro",
+    "ejemplo": {
+      "oracion": "这封家书一字一泪，诉说着战争带来的悲惨。",
+      "pinyin": "Zhè fēng jiāshū yī zì yī lèi, sùshuōzhe zhànzhēng dài lái de bēicǎn.",
+      "traduccion": "Esta carta familiar fue escrita con lágrimas de sangre, relatando el dolor traído por la guerra."
+    }
+  },
+  {
+    "simplificado": "一字不差",
+    "tradicional": "一字不差",
+    "pinyin": "yī zì bù chā",
+    "significado_literal": "Sin el error de ni un solo carácter",
+    "significado_figurado": "Repetir o citar un texto íntegramente y con total exactitud, carácter por carácter",
+    "equivalente_espanol": "Palabra por palabra / Textualmente / Al pie de la letra",
+    "ejemplo": {
+      "oracion": "他把那篇文章背得一字不差。",
+      "pinyin": "Tā bǎ nà piān wénzhāng bèi de yī zì bù chā.",
+      "traduccion": "Él memorizó ese artículo al pie de la letra."
+    }
+  },
+  {
+    "simplificado": "一字不提",
+    "tradicional": "一字不提",
+    "pinyin": "yī zì bù tí",
+    "significado_literal": "No mencionar ni una sola palabra",
+    "significado_figurado": "Guardar un absoluto silencio respecto a un tema en particular, omitiéndolo en su totalidad",
+    "equivalente_espanol": "No decir ni esta boca es mía / Guardar absoluto silencio",
+    "ejemplo": {
+      "oracion": "关于昨天的错误，他在报告里一字不提。",
+      "pinyin": "Guānyú zuótiān de cuòwù, tā zài bàoɡào lǐ yī zì bù tí.",
+      "traduccion": "Respecto al error de ayer, él guardó absoluto silencio en el informe."
+    }
+  },
+  {
+    "simplificado": "一字千金",
+    "tradicional": "一字千金",
+    "pinyin": "yī zì qiān jīn",
+    "significado_literal": "Un solo carácter vale mil piezas de oro",
+    "significado_figurado": "Texto de una calidad literaria impecable e insuperable, donde cada palabra tiene un valor incalculable",
+    "equivalente_espanol": "Cada palabra vale su peso en oro",
+    "ejemplo": {
+      "oracion": "这部名著的词句精炼，称得上是一字千金。",
+      "pinyin": "Zhè bù míngzhù de cíjù jīngliàn, chēng de shàng shì yī zì qiān jīn.",
+      "traduccion": "La redacción de esta obra maestra es tan refinada que sus palabras valen su peso en oro."
+    }
+  },
+  {
+    "simplificado": "一字褒贬",
+    "tradicional": "一字褒貶",
+    "pinyin": "yī zì bāo biǎn",
+    "significado_literal": "Alabar o criticar mediante el uso de un solo carácter",
+    "significado_figurado": "Expresar un juicio moral de valor muy tajante a través del empleo riguroso y preciso de las palabras",
+    "equivalente_espanol": "Sentenciar en una sola palabra",
+    "ejemplo": {
+      "oracion": "史书用词严谨，常具一字褒贬之功。",
+      "pinyin": "Shǐshū yòngcí yánjǐn, cháng jù yī zì bāo biǎn zhī gōng.",
+      "traduccion": "Los libros de historia usan el lenguaje de forma tan rigurosa que a menudo sentencian el juicio de un personaje en una sola palabra."
+    }
+  },
+  {
+    "simplificado": "一官半职",
+    "tradicional": "一官半職",
+    "pinyin": "yī guān bàn zhí",
+    "significado_literal": "Un cargo completo o un medio puesto público",
+    "significado_figurado": "Un puesto de gobierno o empleo público de categoría insignificante o menor",
+    "equivalente_espanol": "Un carguillo de poca monta / Un puesto menor",
+    "ejemplo": {
+      "oracion": "他努力考试，只希望能求得一官半职。",
+      "pinyin": "Tā nǔlì kǎoshì, zhǐ xīwàng néng qiú dé yī guān bàn zhí.",
+      "traduccion": "Se esforzó en los exámenes con la única esperanza de conseguir un carguillo de poca monta."
+    }
+  },
+  {
+    "simplificado": "一家人不说两家话",
+    "tradicional": "一家人不說兩家話",
+    "pinyin": "yī jiā rén bù shuō liǎng jiā huà",
+    "significado_literal": "Los miembros de una misma familia no conversan como si pertenecieran a casas distintas",
+    "significado_figurado": "Las personas unidas por lazos afectivos o de mucha confianza no deben tratarse con cumplidos fríos ni formalidades excesivas",
+    "equivalente_espanol": "Estamos en familia / Entre nosotros no hay formalidades",
+    "ejemplo": {
+      "oracion": "你太客气了，一家人不说两家话，互相帮忙是应该的。",
+      "pinyin": "Nǐ tài kèqi le, yī jiā rén bù shuō liǎng jiā huà, hùxiāng bāngmáng shì yīnggāi de.",
+      "traduccion": "Eres demasiado amable: entre nosotros no hay formalidades, ayudarse es lo normal."
+    }
+  },
+  {
+    "simplificado": "一山不容二虎",
+    "tradicional": "一山不容二虎",
+    "pinyin": "yī shān bù róng èr hǔ",
+    "significado_literal": "En una misma montaña no caben dos tigres",
+    "significado_figurado": "Dos líderes o competidores de gran poder no pueden convivir pacíficamente en el mismo ámbito sin enfrentarse",
+    "equivalente_espanol": "Dos gallos en un mismo gallinero no se entienden",
+    "ejemplo": {
+      "oracion": "这两个强人竞争同一个职位，真是一山不容二虎。",
+      "pinyin": "Zhè liǎng ge qiángrén jìngzhēng tóng yī ge zhíwèi, zhēn shì yī shān bù róng èr hǔ.",
+      "traduccion": "Dos personas tan fuertes compitiendo por el mismo puesto confirma que no caben dos gallos en un mismo gallinero."
+    }
+  },
+  {
+    "simplificado": "一帆风顺",
+    "tradicional": "一帆風順",
+    "pinyin": "yī fān fēng shùn",
+    "significado_literal": "Navegar con la vela desplegada impulsada por viento favorable",
+    "significado_figurado": "Desarrollarse un viaje, proyecto o asunto sin el menor obstáculo ni contratiempo",
+    "equivalente_espanol": "Viento en popa / Salir a pedir de boca",
+    "ejemplo": {
+      "oracion": "祝你新工作一帆风顺。",
+      "pinyin": "Zhù nǐ xīn gōngzuò yī fān fēng shùn.",
+      "traduccion": "Te deseo que todo vaya viento en popa en tu nuevo trabajo."
+    }
+  },
+  {
+    "simplificado": "一年一度",
+    "tradicional": "一年一度",
+    "pinyin": "yī nián yī dù",
+    "significado_literal": "Ocurrir una sola vez por año",
+    "significado_figurado": "Acontecimiento, festividad o celebración de periodicidad anualmente regular",
+    "equivalente_espanol": "Anual / Una vez al año",
+    "ejemplo": {
+      "oracion": "一年一度的传统节日又到了。",
+      "pinyin": "Yī nián yī dù de chuántǒng jiérì yòu dào le.",
+      "traduccion": "Ha llegado de nuevo la festividad tradicional que se celebra una vez al año."
+    }
+  },
+  {
+    "simplificado": "一年之计在于春",
+    "tradicional": "一年之計在於春",
+    "pinyin": "yī nián zhī jì zài yú chūn",
+    "significado_literal": "La planificación de todo el año reside en la primavera",
+    "significado_figurado": "Enfatiza la vital importancia de tomar la iniciativa e iniciar los preparativos con premura desde el comienzo",
+    "equivalente_espanol": "A quien madruga, Dios le ayuda / La clave del éxito está en el buen comienzo",
+    "ejemplo": {
+      "oracion": "一年之计在于春，我们要抓紧时间制定今年的计划。",
+      "pinyin": "Yī nián zhī jì zài yú chūn, wǒmen yào zhuājǐn shíjiān zhìdìng jīnnián de jìhuà.",
+      "traduccion": "La clave está en un buen comienzo; debemos dar el paso y elaborar rápido los planes del año."
+    }
+  },
+  {
+    "simplificado": "一弹指顷",
+    "tradicional": "一彈指頃",
+    "pinyin": "yī tán zhǐ qǐng",
+    "significado_literal": "El breve espacio de tiempo que lleva chasquear los dedos",
+    "significado_figurado": "Lapso de tiempo extremadamente fugaz o veloz",
+    "equivalente_espanol": "En un abrir y cerrar de ojos / En un santiamén",
+    "ejemplo": {
+      "oracion": "几十年的光阴，一弹指顷就过去了。",
+      "pinyin": "Jǐ shí nián de guāngyīn, yī tán zhǐ qǐng jiù guòqù le.",
+      "traduccion": "Varias décadas de vida han transcurrido en un abrir y cerrar de ojos."
     }
   }
 ]
