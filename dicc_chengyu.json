@@ -1,1 +1,28 @@
-
+[
+  {
+    "simplificado": "龙马精神",
+    "tradicional": "龍馬精神",
+    "pinyin": "lóng mǎ jīng shén",
+    "significado_literal": "Dragón y caballo, vigor espiritual",
+    "significado_figurado": "Estar lleno de vitalidad y energía / Vigoroso y fuerte",
+    "equivalente_espanol": "Con las pilas puestas / Más sano que una pera",
+    "ejemplo": {
+      "oracion": "爷爷虽然八十岁了，但依然龙马精神。",
+      "pinyin": "Yéye suīrán bāshí suì le, dàn yīrán lóng mǎ jīng shén.",
+      "traduccion": "Aunque el abuelo tiene ochenta años, todavía está lleno de vitalidad."
+    }
+  },
+  {
+    "simplificado": "画蛇添足",
+    "tradicional": "畫蛇添足",
+    "pinyin": "huà shé tiān zú",
+    "significado_literal": "Dibujar una serpiente y añadirle patas",
+    "significado_figurado": "Arruinar algo por hacer más de lo necesario o por añadir adornos superfluos",
+    "equivalente_espanol": "Rizar el rizo / Buscar tres pies al gato",
+    "ejemplo": {
+      "oracion": "这张画已经很完美了，你再着色就是画蛇添足。",
+      "pinyin": "Zhè zhāng huà yǐjīng hěn wánměi le, nǐ zài zhuósè jiù shì huà shé tiān zú.",
+      "traduccion": "Esta pintura ya es perfecta; seguir retocándola sería arruinarla."
+    }
+  }
+]
