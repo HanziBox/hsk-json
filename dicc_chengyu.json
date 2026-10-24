@@ -3235,5 +3235,655 @@
       "pinyin": "Yuèdú gǔshī yào dǒngde bù yǐ cí hài zhì, lǐnghuì shēnke yìjìng.",
       "traduccion": "Al leer poesía clásica hay que aprender a captar el espíritu y no quedarse solo en la corteza."
     }
+  },
+  {
+    "simplificado": "不以辞害志",
+    "tradicional": "不以詞害志",
+    "pinyin": "bù yǐ cí hài zhì",
+    "significado_literal": "No con palabras dañar la intención",
+    "significado_figurado": "No quedarse atascado en el significado literal de los términos impidiendo captar la verdadera intención del autor",
+    "equivalente_espanol": "Captar el espíritu y no la letra / Mirar el fondo, no la forma",
+    "ejemplo": {
+      "oracion": "理解文章要懂得不以辞害志。",
+      "pinyin": "Lǐjiě wénzhāng yào dǒngde bù yǐ cí hài zhì.",
+      "traduccion": "Para comprender un texto hay que aprender a mirar el fondo y no la forma."
+    }
+  },
+  {
+    "simplificado": "不依不饶",
+    "tradicional": "不依不饒",
+    "pinyin": "bù yī bù ráo",
+    "significado_literal": "No ceder, no perdonar",
+    "significado_figurado": "Insistir de forma obstinada y cancina sin dar el brazo a torcer ni mostrar clemencia",
+    "equivalente_espanol": "No dar su brazo a torcer / No soltar la presa",
+    "ejemplo": {
+      "oracion": "为了这件小事，她抓着不放，不依不饶。",
+      "pinyin": "Wèile zhè jiàn xiǎoshì, tā zhuāzhe bù fàng, bù yī bù ráo.",
+      "traduccion": "Por esta minucia, ella no daba su brazo a torcer."
+    }
+  },
+  {
+    "simplificado": "不修边幅",
+    "tradicional": "不修邊幅",
+    "pinyin": "bù xiū biān fú",
+    "significado_literal": "No arreglar los bordes de la ropa",
+    "significado_figurado": "Persona desaliñada, descuidada en su aspecto vestir o aseo personal",
+    "equivalente_espanol": "Andar hecho un adefesio / Ser un desaliñado",
+    "ejemplo": {
+      "oracion": "他平时不修边幅，但工作非常认真是个严谨的人。",
+      "pinyin": "Tā píngshí bù xiū biān fú, dàn gōngzuò fēicháng rènzhēn shì ge yánjǐn de rén.",
+      "traduccion": "Normalmente es bastante desaliñado, pero en el trabajo es sumamente riguroso."
+    }
+  },
+  {
+    "simplificado": "不值一文",
+    "tradicional": "不值一文",
+    "pinyin": "bù zhí yī wén",
+    "significado_literal": "No valer una moneda",
+    "significado_figurado": "Carecer de valor, mérito o importancia económica y moral",
+    "equivalente_espanol": "No valer un duro / No valer ni un comino",
+    "ejemplo": {
+      "oracion": "这些废品在市场上一值不文。",
+      "pinyin": "Zhèxiē fèipǐn zài shìchǎng shàng bù zhí yī wén.",
+      "traduccion": "Estos desperdicios no valen un duro en el mercado."
+    }
+  },
+  {
+    "simplificado": "不值一驳",
+    "tradicional": "不值一駁",
+    "pinyin": "bù zhí yī bó",
+    "significado_literal": "No valer una refutación",
+    "significado_figurado": "Argumeto tan absurdo o absurdo que no merece la pena dedicarse a rebatirlo",
+    "equivalente_espanol": "No sostenerse de pie / Carecer de pies y cabeza",
+    "ejemplo": {
+      "oracion": "他的这种谣言根本不值一驳。",
+      "pinyin": "Tā de zhè zhǒng yáoyán gēnběn bù zhí yī bó.",
+      "traduccion": "Este tipo de rumores suyos carece totalmente de pies y cabeza."
+    }
+  },
+  {
+    "simplificado": "不假思索",
+    "tradicional": "不假思索",
+    "pinyin": "bù jiǎ sī suǒ",
+    "significado_literal": "No emplear reflexión",
+    "significado_figurado": "Responder o actuar de manera espontánea, veloz e instintiva sin dudar",
+    "equivalente_espanol": "Sin pensárselo dos veces / A bote pronto",
+    "ejemplo": {
+      "oracion": "他不假思索地回答了老师的问题。",
+      "pinyin": "Tā bù jiǎ sī suǒ de huídá le lǎoshī de wèntí.",
+      "traduccion": "Respondió a la pregunta del profesor a bote pronto."
+    }
+  },
+  {
+    "simplificado": "不偏不倚",
+    "tradicional": "不偏不倚",
+    "pinyin": "bù piān bù yǐ",
+    "significado_literal": "No torcido, no inclinado",
+    "significado_figurado": "Mantener una neutralidad, equidad e imparcialidad absoluta sin inclinarse a favor de nadie",
+    "equivalente_espanol": "Imparcial / Mantenerse en el centro equitativo",
+    "ejemplo": {
+      "oracion": "法官应当不偏不倚地做出裁决。",
+      "pinyin": "Fǎguān yīngdāng bù piān bù yǐ de zuòchū cáijué.",
+      "traduccion": "El juez debe dictar sentencia de manera absolutamente imparcial."
+    }
+  },
+  {
+    "simplificado": "不偷不抢",
+    "tradicional": "不偷不搶",
+    "pinyin": "bù tōu bù qiǎng",
+    "significado_literal": "No robar, no saquear",
+    "significado_figurado": "Ganarse la vida honradamente mediante el propio esfuerzo sin cometer ilícitos",
+    "equivalente_espanol": "Ganarse el pan honradamente / De forma limpia",
+    "ejemplo": {
+      "oracion": "我凭体力赚钱，不偷不抢，没有什么好羞耻的。",
+      "pinyin": "Wǒ píng tǐlì zhuàn qián, bù tōu bù qiǎng, méiyǒu shénme hǎo xiūchǐ de.",
+      "traduccion": "Gano mi dinero trabajando, me gano el pan honradamente; no hay de qué avergonzarse."
+    }
+  },
+  {
+    "simplificado": "不入虎穴，焉得虎子",
+    "tradicional": "不入虎穴，焉得虎子",
+    "pinyin": "bù rù hǔ xué, yān dé hǔ zǐ",
+    "significado_literal": "Si no entras a la cueva del tigre, ¿cómo conseguirás a sus cachorros?",
+    "significado_figurado": "Para alcanzar grandes triunfos o metas es imprescindible asumir riesgos graves",
+    "equivalente_espanol": "Quien no arriesga, no gana",
+    "ejemplo": {
+      "oracion": "不入虎穴，焉得虎子，我们必须冒这个险。",
+      "pinyin": "Bù rù hǔ xué, yān dé hǔ zǐ, wǒmen bìxū mào zhè ge xiǎn.",
+      "traduccion": "Quien no arriesga no gana: debemos asumir este riesgo."
+    }
+  },
+  {
+    "simplificado": "不共戴天",
+    "tradicional": "不共戴天",
+    "pinyin": "bù gòng dài tiān",
+    "significado_literal": "No compartir la misma bóveda celeste",
+    "significado_figurado": "Sentir un odio tan profundo e irreconciliable hacia alguien que no se puede convivir con él bajo el mismo cielo",
+    "equivalente_espanol": "Enemigos a muerte / Odio acérrimo",
+    "ejemplo": {
+      "oracion": "杀父之仇，不共戴天。",
+      "pinyin": "Shā fù zhī chóu, bù gòng dài tiān.",
+      "traduccion": "El asesinato de un padre engendra un odio acérrimo e irreconciliable."
+    }
+  },
+  {
+    "simplificado": "不分伯仲",
+    "tradicional": "不分伯仲",
+    "pinyin": "bù fēn bó zhòng",
+    "significado_literal": "No distinguir al hermano mayor del segundo",
+    "significado_figurado": "Estar dos competidores extremadamente igualados en destreza, nivel o calidad",
+    "equivalente_espanol": "Estar a la par / No haber diferencia de nivel",
+    "ejemplo": {
+      "oracion": "这两位棋手的水平不分伯仲。",
+      "pinyin": "Zhè liǎng wèi qíshǒu de shuǐpíng bù fēn bó zhòng.",
+      "traduccion": "El nivel de estos dos ajedrecistas está totalmente a la par."
+    }
+  },
+  {
+    "simplificado": "不分胜负",
+    "tradicional": "不分勝負",
+    "pinyin": "bù fēn shèng fù",
+    "significado_literal": "No distinguir victoria ni derrota",
+    "significado_figurado": "Quedar un enfrentamiento o disputa en empate sin que ninguno logre imponerse",
+    "equivalente_espanol": "Tablas / En tablas / Empatados",
+    "ejemplo": {
+      "oracion": "比赛非常激烈，双方最终不分胜负。",
+      "pinyin": "Bǐsài fēicháng jīliè, shuāngfāng zuìzhōng bù fēn shèng fù.",
+      "traduccion": "El encuentro fue durísimo y ambos bandos terminaron en tablas."
+    }
+  },
+  {
+    "simplificado": "不分彼此",
+    "tradicional": "不分彼此",
+    "pinyin": "bù fēn bǐ cǐ",
+    "significado_literal": "No diferenciar entre aquel y este",
+    "significado_figurado": "Tener una relación de profunda confianza y camaradería donde no hay reservas ni tuyo ni mío",
+    "equivalente_espanol": "Sin distinciones / Compartirlo todo como hermanos",
+    "ejemplo": {
+      "oracion": "我们是多年的好友，说话做事从不分彼此。",
+      "pinyin": "Wǒmen shì duō nián de hǎoyǒu, shuōhuà zuòshì cóng bù fēn bǐ cǐ.",
+      "traduccion": "Somos amigos desde hace años y entre nosotros lo compartimos todo sin distinciones."
+    }
+  },
+  {
+    "simplificado": "不分皂白",
+    "tradicional": "不分皂白",
+    "pinyin": "bù fēn zào bái",
+    "significado_literal": "No distinguir lo negro de lo blanco",
+    "significado_figurado": "Actuar sin discriminar la verdad de la mentira o lo justo de lo injusto",
+    "equivalente_espanol": "Sin ton ni son / A ciegas",
+    "ejemplo": {
+      "oracion": "他进来不分皂白就把所有人训斥了一顿。",
+      "pinyin": "Tā jìnlái bù fēn zào bái jiù bǎ suǒyǒu rén xùnchì le yī dùn.",
+      "traduccion": "Entró y sin ton ni son reprendió a todos los presentes."
+    }
+  },
+  {
+    "simplificado": "不分青红皂白",
+    "tradicional": "不分青紅皂白",
+    "pinyin": "bù fēn qīng hóng zào bái",
+    "significado_literal": "No distinguir verde, rojo, negro ni blanco",
+    "significado_figurado": "Actuar arbitrariamente reprimiendo o juzgando a ciegas sin indagar los hechos o motivos",
+    "equivalente_espanol": "Pagar justos por pecadores / Sin escuchar razones",
+    "ejemplo": {
+      "oracion": "你不能不分青红皂白就责怪别人。",
+      "pinyin": "Nǐ bù néng bù fēn qīng hóng zào bái jiù zéguài biérén.",
+      "traduccion": "No puedes acusar a los demás a ciegas y sin escuchar razones."
+    }
+  },
+  {
+    "simplificado": "不到火候不揭锅",
+    "tradicional": "不到火候不揭鍋",
+    "pinyin": "bù dào huǒhou bù jiē guō",
+    "significado_literal": "Sin alcanzar el punto de cocción, no destapar la olla",
+    "significado_figurado": "No precipitarse a actuar o revelar un plan hasta que las condiciones estén completamente maduras",
+    "equivalente_espanol": "No destapar la olla antes de tiempo / Paciencia hasta el momento justo",
+    "ejemplo": {
+      "oracion": "事情还没准备好，不到火候不揭锅。",
+      "pinyin": "Shìqing hái méi zhǔnbèi hǎo, bù dào huǒhou bù jiē guō.",
+      "traduccion": "El asunto aún no está preparado: no hay que destapar la olla antes de tiempo."
+    }
+  },
+  {
+    "simplificado": "不到黄河心不死",
+    "tradicional": "不到黃河心不死",
+    "pinyin": "bù dào Huáng Hé xīn bù sǐ",
+    "significado_literal": "Sin llegar al Río Amarillo, la determinación no muere",
+    "significado_figurado": "Perseverar con obstinación ciega hasta tropezar con la realidad de un fracaso rotundo",
+    "equivalente_espanol": "No darse por vencido hasta darse de bruces con la realidad / Terco como una mula",
+    "ejemplo": {
+      "oracion": "劝了他几次都不听，真是不到黄河心不死。",
+      "pinyin": "Quàn le tā jǐ cì dōu bù tīng, zhēn shì bù dào Huáng Hé xīn bù sǐ.",
+      "traduccion": "Se le aconsejó varias veces y no escuchó: verdaderamente es terco hasta darse de bruces con la realidad."
+    }
+  },
+  {
+    "simplificado": "不动声色",
+    "tradicional": "不動聲色",
+    "pinyin": "bù dòng shēng sè",
+    "significado_literal": "No mover voz ni expresión facial",
+    "significado_figurado": "Mantener la calma y la compostura absoluta sin dejar ver emociones o reacciones",
+    "equivalente_espanol": "Sin pestañear / Mantener la cara de póquer",
+    "ejemplo": {
+      "oracion": "面对突发状况，他不动声色地处理完毕。",
+      "pinyin": "Miànduì tūfā zhuàngkuàng, tā bù dòng shēng sè de chǔlǐ wánbì.",
+      "traduccion": "Ante la emergencia, resolvió todo sin pestañear."
+    }
+  },
+  {
+    "simplificado": "不胜其苦",
+    "tradicional": "不勝其苦",
+    "pinyin": "bù shēng qí kǔ",
+    "significado_literal": "No poder soportar esa amargura",
+    "significado_figurado": "Sufrir una pena, miseria o angustia insostenible y abrumadora",
+    "equivalente_espanol": "Sufrir una pena insufrible / Estar abatido por el sufrimiento",
+    "ejemplo": {
+      "oracion": "在艰苦的环境中，百姓不胜其苦。",
+      "pinyin": "Zài jiānkǔ de huánjìng zhōng, bǎixìng bù shēng qí kǔ.",
+      "traduccion": "En aquel entorno despiadado, el pueblo sufría una pena insufrible."
+    }
+  },
+  {
+    "simplificado": "不劳而获",
+    "tradicional": "不勞而獲",
+    "pinyin": "bù láo ér huò",
+    "significado_literal": "Obtener ganancias sin esfuerzo",
+    "significado_figurado": "Lucrarse u obtener beneficios a costa del esfuerzo ajeno sin trabajar",
+    "equivalente_espanol": "Vivir del cuento / Vivir del sudor ajeno",
+    "ejemplo": {
+      "oracion": "天下没有不劳而获的好事。",
+      "pinyin": "Tiānxià méiyǒu bù láo ér huò de hǎo shì.",
+      "traduccion": "En este mundo no hay beneficios que vengan de vivir del cuento."
+    }
+  },
+  {
+    "simplificado": "不卑不亢",
+    "tradicional": "不卑不亢",
+    "pinyin": "bù bēi bù kàng",
+    "significado_literal": "Ni servil, ni arrogante",
+    "significado_figurado": "Mantener una actitud digna, educada e igualitaria sin rebajarse ni mostrar prepotencia",
+    "equivalente_espanol": "Mantener la dignidad sin altanería / Ni sumiso ni soberbio",
+    "ejemplo": {
+      "oracion": "他在贵宾面前不卑不亢，表现得非常有体面。",
+      "pinyin": "Tā zài guìbīn miànqián bù bēi bù kàng, biǎoxiàn de fēicháng yǒu tǐmiàn.",
+      "traduccion": "Ante los invitados ilustres se comportó con dignidad sin sumisión ni soberbia, con gran saber estar."
+    }
+  },
+  {
+    "simplificado": "不厌其烦",
+    "tradicional": "不厭其煩",
+    "pinyin": "bù yàn qí fán",
+    "significado_literal": "No sentir molestia por el detalle",
+    "significado_figurado": "Tener una paciencia infinita para explicar o repetir algo minuciosamente sin cansarse",
+    "equivalente_espanol": "Infinita paciencia / Sin escatimar explicaciones",
+    "ejemplo": {
+      "oracion": "老师不厌其烦地为我们解答疑问。",
+      "pinyin": "Lǎoshī bù yàn qí fán de wèi wǒmen jiědá yíwèn.",
+      "traduccion": "El profesor nos aclaraba las dudas con infinita paciencia."
+    }
+  },
+  {
+    "simplificado": "不可一世",
+    "tradicional": "不可一世",
+    "pinyin": "bù kě yī shì",
+    "significado_literal": "Considerar que nadie en la era puede compararse",
+    "significado_figurado": "Comportarse con soberbia desmedida, creyéndose superior a todos los demás",
+    "equivalente_espanol": "Mirar por encima del hombro / Mirarse el ombligo",
+    "ejemplo": {
+      "oracion": "他取得了一点成绩就不可一世，令人反感。",
+      "pinyin": "Tā qǔdé le yī diǎn chéngjì jiù bù kě yī shì, lìng rén fǎngǎn.",
+      "traduccion": "En cuanto logró un pequeño éxito empezó a mirar a todos por encima del hombro, lo cual genera rechazo."
+    }
+  },
+  {
+    "simplificado": "不可胜言",
+    "tradicional": "不可勝言",
+    "pinyin": "bù kě shēng yán",
+    "significado_literal": "Imposible de agotar en palabras",
+    "significado_figurado": "Una cantidad de detalles, sufrimientos o bondades tan inmensa que las palabras no alcanzan para expresarla",
+    "equivalente_espanol": "Indescriptible / Más allá de las palabras",
+    "ejemplo": {
+      "oracion": "他表达的谢意不可胜言。",
+      "pinyin": "Tā biǎodá de xièyì bù kě shēng yán.",
+      "traduccion": "El agradecimiento que expresaba estaba más allá de las palabras."
+    }
+  },
+  {
+    "simplificado": "不可同日而语",
+    "tradicional": "不可同日而語",
+    "pinyin": "bù kě tóng rì ér yǔ",
+    "significado_literal": "No poder mencionarse en el mismo día",
+    "significado_figurado": "Diferencia abismal de nivel, tiempo o calidad entre dos cosas que impide compararlas",
+    "equivalente_espanol": "Haber un abismo de diferencia / No haber punto de comparación",
+    "ejemplo": {
+      "oracion": "现在的经济状况与过去不可同日而语。",
+      "pinyin": "Xiànzài de jīngjì zhuàngkuàng yǔ guòqù bù kě tóng rì ér yǔ.",
+      "traduccion": "Entre la situación económica actual y la del pasado hay un abismo de diferencia."
+    }
+  },
+  {
+    "simplificado": "不可告人",
+    "tradicional": "不可告人",
+    "pinyin": "bù kě gào rén",
+    "significado_literal": "No poder revelarse a los demás",
+    "significado_figurado": "Propósito o secreto vergonzoso, ilícito o perverso que debe mantenerse oculto",
+    "equivalente_espanol": "Inconfesable / Intenciones ocultas",
+    "ejemplo": {
+      "oracion": "他这么做有着不可告人的目的。",
+      "pinyin": "Tā zhème zuò yǒuzhe bù kě gào rén de mùdì.",
+      "traduccion": "Hace esto motivado por intenciones inconfesables."
+    }
+  },
+  {
+    "simplificado": "不可思议",
+    "tradicional": "不可思議",
+    "pinyin": "bù kě sī yì",
+    "significado_literal": "Imposible de pensar o concebir",
+    "significado_figurado": "Fenómeno o hecho tan extraño, asombroso o insólito que desafía la lógica humana",
+    "equivalente_espanol": "Inconcebible / Inaudito / Inexplicable",
+    "ejemplo": {
+      "oracion": "这项奇迹的发展简直不可思议。",
+      "pinyin": "Zhè xiàng qíjì de fāzhǎn jiǎnzhí bù kě sī yì.",
+      "traduccion": "El desarrollo de este milagro resulta sencillamente inconcebible."
+    }
+  },
+  {
+    "simplificado": "不可抗拒",
+    "tradicional": "不可抗拒",
+    "pinyin": "bù kě kàngjù",
+    "significado_literal": "Imposible de resistir",
+    "significado_figurado": "Fuerza, tendencia o ley natural ante la cual no cabe oposición o resistencia humana",
+    "equivalente_espanol": "Fuerza mayor / Inevitable e irresistible",
+    "ejemplo": {
+      "oracion": "地震属于不可抗拒的自然灾害。",
+      "pinyin": "Dìzhèn shǔyú bù kě kàngjù de zìrán zāihài.",
+      "traduccion": "El terremoto constituye una catástrofe natural de fuerza mayor."
+    }
+  },
+  {
+    "simplificado": "不可收拾",
+    "tradicional": "不可收拾",
+    "pinyin": "bù kě shōushi",
+    "significado_literal": "Imposible de recoger o arreglar",
+    "significado_figurado": "Situación que se desborda y empeora al punto de volverse incontrolable",
+    "equivalente_espanol": "Irse de las manos / Volverse incontrolable",
+    "ejemplo": {
+      "oracion": "如果不解决矛盾，局势将不可收拾。",
+      "pinyin": "Rúguǒ bù jiějué máodùn, júshì jiāng bù kě shōushi.",
+      "traduccion": "Si no se resuelve el conflicto, la situación se irá de las manos."
+    }
+  },
+  {
+    "simplificado": "不可枚举",
+    "tradicional": "不可枚舉",
+    "pinyin": "bù kě méi jǔ",
+    "significado_literal": "Imposible de listar uno por uno",
+    "significado_figurado": "Existencia de una cantidad incalculable de elementos o ejemplos que impide detallarlos individualmente",
+    "equivalente_espanol": "Incalculable / Innumerables ejemplos",
+    "ejemplo": {
+      "oracion": "他做过的善事不可枚举。",
+      "pinyin": "Tā zuò guò de shànshì bù kě méi jǔ.",
+      "traduccion": "Las buenas acciones que ha realizado son incalculables."
+    }
+  },
+  {
+    "simplificado": "不可理喻",
+    "tradicional": "不可理喻",
+    "pinyin": "bù kě lǐ yù",
+    "significado_literal": "Imposible de hacer entender por la razón",
+    "significado_figurado": "Persona necia, irracional y obstinada con la que no se puede razonar de forma alguna",
+    "equivalente_espanol": "Cerrado a la razón / No atiende a razones",
+    "ejemplo": {
+      "oracion": "他的脾气古怪，简直不可理喻。",
+      "pinyin": "Tā de píqi gǔguài, jiǎnzhǐ bù kě lǐ yù.",
+      "traduccion": "Tiene un carácter insoportable: sencillamente no atiende a razones."
+    }
+  },
+  {
+    "simplificado": "不可端倪",
+    "tradicional": "不可端倪",
+    "pinyin": "bù kě duāní",
+    "significado_literal": "Imposible de divisar el origen ni el fin",
+    "significado_figurado": "Asunto sumamente misterioso, impenetrable o insondable del cual no se atisban pistas",
+    "equivalente_espanol": "Insondable / Misterio impenetrable",
+    "ejemplo": {
+      "oracion": "他的心思深沉，令人不可端倪。",
+      "pinyin": "Tā de xīnsi shēnchén, lìng rén bù kě duāní.",
+      "traduccion": "Sus pensamientos son tan herméticos que resultan un misterio impenetrable."
+    }
+  },
+  {
+    "simplificado": "不可言喻",
+    "tradicional": "不可言喻",
+    "pinyin": "bù kě yán yù",
+    "significado_literal": "Imposible de ilustrar con palabras",
+    "significado_figurado": "Sentimiento, belleza o emoción tan honda que resulta imposible de describir mediante el lenguaje",
+    "equivalente_espanol": "Inefable / Inexpresable con palabras",
+    "ejemplo": {
+      "oracion": "重逢的时刻，大家心中有着不可言喻的快乐。",
+      "pinyin": "Chóngféng de shíkè, dàjiā xīnzhiōng yǒuzhe bù kě yán yù de kuàilè.",
+      "traduccion": "En el instante del reencuentro, todos sintieron una alegría inefable."
+    }
+  },
+  {
+    "simplificado": "不可避免",
+    "tradicional": "不可避免",
+    "pinyin": "bù kě bìmiǎn",
+    "significado_literal": "Imposible de esquivar",
+    "significado_figurado": "Acontecimiento o consecuencia inevitable que va a suceder con total certeza",
+    "equivalente_espanol": "Inevitable / Ineludible",
+    "ejemplo": {
+      "oracion": "改革过程中发生摩擦是不可避免的。",
+      "pinyin": "Gǎigé guòchéng zhōng fāshēng mócā shì bù kě bìmiǎn de.",
+      "traduccion": "Que surjan fricciones durante el proceso de reforma es inevitable."
+    }
+  },
+  {
+    "simplificado": "不同凡响",
+    "tradicional": "不同凡響",
+    "pinyin": "bù tóng fán xiǎng",
+    "significado_literal": "Distinto del sonido ordinario",
+    "significado_figurado": "Poseer una calidad, talento o valor artístico fuera de lo común y verdaderamente extraordinario",
+    "equivalente_espanol": "Fuera de lo común / Sobresaliente",
+    "ejemplo": {
+      "oracion": "这部音乐作品的气势不同凡响。",
+      "pinyin": "Zhè bù yīnyuè zuòpǐn de qìshì bù tóng fán xiǎng.",
+      "traduccion": "La fuerza de esta obra musical es verdaderamente fuera de lo común."
+    }
+  },
+  {
+    "simplificado": "不吐不快",
+    "tradicional": "不吐不快",
+    "pinyin": "bù tǔ bù kuài",
+    "significado_literal": "Sin escupirlo, no hay alivio",
+    "significado_figurado": "Sentir la necesidad imperiosa de desahogarse o confesar un pensamiento retenido para quedarse en paz",
+    "equivalente_espanol": "Desahogarse / Quitarse un peso de encima diciéndolo",
+    "ejemplo": {
+      "oracion": "积压在心中的话，我今天不吐不快。",
+      "pinyin": "Jīyā zài xīnzhiōng de huà, wǒ jīntiān bù tǔ bù kuài.",
+      "traduccion": "Hoy necesito decir lo que llevo guardado en el corazón para quitarme este peso de encima."
+    }
+  },
+  {
+    "simplificado": "不吝珠玉",
+    "tradicional": "不吝珠玉",
+    "pinyin": "bù lìn zhū yù",
+    "significado_literal": "No escatimar perlas ni jades",
+    "significado_figurado": "Fórmula de cortesía para solicitar a alguien instruido que comparta sus valiosos consejos o poemas",
+    "equivalente_espanol": "Compartir sus sabias palabras / Escatimar sus valiosas aportaciones",
+    "ejemplo": {
+      "oracion": "请各位专家提出建议，不吝珠玉。",
+      "pinyin": "Qǐng gè wèi zhuānjiā tíchū jiànyì, bù lìn zhū yù.",
+      "traduccion": "Invitamos a los expertos a hacernos llegar sus valiosas opiniones sin escatimar sabiduría."
+    }
+  },
+  {
+    "simplificado": "不问青红皂白",
+    "tradicional": "不問青紅皂白",
+    "pinyin": "bù wèn qīng hóng zào bái",
+    "significado_literal": "No preguntar verde, rojo, negro ni blanco",
+    "significado_figurado": "Reprender o sancionar sin molestarse en investigar las causas o determinar quién tiene la culpa",
+    "equivalente_espanol": "A ciegas / Sin escuchar explicaciones",
+    "ejemplo": {
+      "oracion": "你不能不问青红皂白就惩罚孩子。",
+      "pinyin": "Nǐ bù néng bù wèn qīng hóng zào bái jiù chéngfá hái zi.",
+      "traduccion": "No puedes castigar al niño a ciegas y sin escuchar explicaciones."
+    }
+  },
+  {
+    "simplificado": "不啻天渊",
+    "tradicional": "不啻天淵",
+    "pinyin": "bù chì tiān yuān",
+    "significado_literal": "No menos que el cielo y el abismo",
+    "significado_figurado": "Existencia de un contraste o diferencia gigantesca y abismal entre dos opciones o estados",
+    "equivalente_espanol": "Distar como el cielo de la tierra / Una diferencia abismal",
+    "ejemplo": {
+      "oracion": "这两份计划书的效果不啻天渊。",
+      "pinyin": "Zhè liǎng fèn jìhuàshū de xiàoguǒ bù chì tiān yuān.",
+      "traduccion": "La efectividad de estas dos propuestas dista como el cielo de la tierra."
+    }
+  },
+  {
+    "simplificado": "不堪一击",
+    "tradicional": "不堪一擊",
+    "pinyin": "bù kān yī jī",
+    "significado_literal": "Incapaz de soportar un solo golpe",
+    "significado_figurado": "Estar sumamente débil o mal preparado, colapsando al menor enfrentamiento o crítica",
+    "equivalente_espanol": "Desmoronarse como un castillo de naipes / Frágil como el cristal",
+    "ejemplo": {
+      "oracion": "这个防线在猛烈进攻面前不堪一击。",
+      "pinyin": "Zhè ge fángxiàn zài měngliè jìngōng miànqián bù kān yī jī.",
+      "traduccion": "Esta línea defensiva se desmoronó como un castillo de naipes ante el ataque."
+    }
+  },
+  {
+    "simplificado": "不堪入耳",
+    "tradicional": "不堪入耳",
+    "pinyin": "bù kān rù ěr",
+    "significado_literal": "Incapaz de soportarse en el oído",
+    "significado_figurado": "Palabras, groserías o insultos extremadamente obscenos, vulgares o desagradables de escuchar",
+    "equivalente_espanol": "Inescuchable / Altamente vulgar y ofensivo",
+    "ejemplo": {
+      "oracion": "他骂人的话简直不堪入耳。",
+      "pinyin": "Tā mà rén de huà jiǎnzhǐ bù kān rù ěr.",
+      "traduccion": "Sus insultos resultaban sencillamente inescuchables por lo vulgares."
+    }
+  },
+  {
+    "simplificado": "不孚众望",
+    "tradicional": "不孚眾望",
+    "pinyin": "bù fú zhòng wàng",
+    "significado_literal": "No convencer las expectativas del público",
+    "significado_figurado": "Defraudar o no lograr convencer la confianza y esperanzas que la mayoría había depositado",
+    "equivalente_espanol": "Defraudar las expectativas / No estar a la altura",
+    "ejemplo": {
+      "oracion": "这项政策执行效果不佳，不孚众望。",
+      "pinyin": "Zhè xiàng zhèngcè zhíxíng xiàoguǒ bù jiā, bù fú zhòng wàng.",
+      "traduccion": "La aplicación de esta medida no dio buen resultado y defraudó las expectativas."
+    }
+  },
+  {
+    "simplificado": "不学无术",
+    "tradicional": "不學無術",
+    "pinyin": "bù xué wú shù",
+    "significado_literal": "No estudiar, carecer de destreza",
+    "significado_figurado": "Carecer de formación, saber o competencias por no haberse dedicado al estudio",
+    "equivalente_espanol": "Ser un indocumentado / Un incompetente sin formación",
+    "ejemplo": {
+      "oracion": "这个纨绔子弟整天游手好闲，不学无术。",
+      "pinyin": "Zhè ge wánkù zǐdì zhěngtiān yóushǒuhàoxián, bù xué wú shù.",
+      "traduccion": "Este señorito de familia rica vaga todo el día sin estudiar y es un completo indocumentado."
+    }
+  },
+  {
+    "simplificado": "不安其室",
+    "tradicional": "不安其室",
+    "pinyin": "bù ān qí shì",
+    "significado_literal": "No estar tranquila en su hogar",
+    "significado_figurado": "Mujer casada que no cumple con sus deberes conyugales o busca relaciones fuera del matrimonio",
+    "equivalente_espanol": "Ser infiel al hogar / Mujer infiel",
+    "ejemplo": {
+      "oracion": "旧时代常用不安其室指责不守妇道者。",
+      "pinyin": "Jiù shídài cháng yòng bù ān qí shì zhǐzé bù shǒu fùdào zhě.",
+      "traduccion": "En épocas pasadas se usaba esta expresión para recriminar a la mujer infiel al hogar."
+    }
+  },
+  {
+    "simplificado": "不容小觑",
+    "tradicional": "不容小覷",
+    "pinyin": "bù róng xiǎoqù",
+    "significado_literal": "No permitir mirar empequeñeciendo",
+    "significado_figurado": "Asunto o rival con un valor, poder o peligro tan relevante que bajo ningún concepto se debe subestimar",
+    "equivalente_espanol": "No hay que subestimar / Un rival de peso",
+    "ejemplo": {
+      "oracion": "这个新选手的实力不容小觑。",
+      "pinyin": "Zhè ge xīn xuǎnshǒu de shílì bù róng xiǎoqù.",
+      "traduccion": "La fuerza de este nuevo competidor no se debe subestimar."
+    }
+  },
+  {
+    "simplificado": "不寒而栗",
+    "tradicional": "不寒而栗",
+    "pinyin": "bù hán ér lì",
+    "significado_literal": "Tiritar sin que haga frío",
+    "significado_figurado": "Sentir una conmoción o pavor escalofriante producto de un miedo o pánico intenso",
+    "equivalente_espanol": "Poner los pelos de punta / Un escalofrío en la espalda",
+    "ejemplo": {
+      "oracion": "想到那个可怕的画面，令人不寒而栗。",
+      "pinyin": "Xiǎngdào nà ge kěpà de huàmiàn, lìng rén bù hán ér lì.",
+      "traduccion": "Pensar en aquella escena tan espantosa pone los pelos de punta."
+    }
+  },
+  {
+    "simplificado": "不屑一顾",
+    "tradicional": "不屑一顧",
+    "pinyin": "bù xiè yī gù",
+    "significado_literal": "No juzgar digno de una mirada",
+    "significado_figurado": "Despreciar o desestimar totalmente algo por considerarlo insignificante o indigno de atención",
+    "equivalente_espanol": "Mirar por encima del hombro / No dar el menor valor",
+    "ejemplo": {
+      "oracion": "对于那些荒谬的提议，他不屑一顾。",
+      "pinyin": "Duìyú nàxiē huāngmiù de tíyì, tā bù xiè yī gù.",
+      "traduccion": "A esas propuestas tan disparatadas ni siquiera les dio el menor valor."
+    }
+  },
+  {
+    "simplificado": "不忮不求",
+    "tradicional": "不忮不求",
+    "pinyin": "bù zhì bù qiú",
+    "significado_literal": "No envidiar, no codiciar",
+    "significado_figurado": "Mantener una actitud libre de celos, ambiciones excesivas y avaricia",
+    "equivalente_espanol": "Sin envidias ni codicia / Persona desprendida",
+    "ejemplo": {
+      "oracion": "他过着安贫乐道、不忮不求的生活。",
+      "pinyin": "Tā guòzhe ān pín lè dào, bù zhì bù qiú de shēnghuó.",
+      "traduccion": "Lleva una vida humilde y serena, libre de envidias y codicia."
+    }
+  },
+  {
+    "simplificado": "不怒而威",
+    "tradicional": "不怒而威",
+    "pinyin": "bù nù ér wēi",
+    "significado_literal": "Imponer autoridad sin montar en colera",
+    "significado_figurado": "Gozar de una presencia, dignidad o personalidad tan firme que infunde respeto natural sin alzar la voz",
+    "equivalente_espanol": "Infundir respeto natural / Dignidad imponedora",
+    "ejemplo": {
+      "oracion": "老将军站在那里，不怒而威。",
+      "pinyin": "Lǎo jiāngjūn zhàn zài nàli, bù nù ér wēi.",
+      "traduccion": "El anciano general permanecía allí, infundiendo un respeto natural."
+    }
+  },
+  {
+    "simplificado": "不怕贼偷，就怕贼惦记",
+    "tradicional": "不怕賊偷，就怕賊惦記",
+    "pinyin": "bù pà zéi tōu, jiù pà zéi diànjì",
+    "significado_literal": "No temes que el ladrón robe, temes que el ladrón no deje de pensar en ello",
+    "significado_figurado": "El peligro real no reside en un golpe aislado, sino en la amenaza constante producto de la obsesión de alguien por hacer daño",
+    "equivalente_espanol": "Lo peor es la amenaza constante / Vivir con el enemigo en la mente",
+    "ejemplo": {
+      "oracion": "面对阴险的对手，真是不怕贼偷，就怕贼惦记。",
+      "pinyin": "Miànduì yīnxiǎn de duìshǒu, zhēn shì bù pà zéi tōu, jiù pà zéi diànjì.",
+      "traduccion": "Ante un rival mañoso, lo peor es la amenaza constante."
+    }
   }
 ]
