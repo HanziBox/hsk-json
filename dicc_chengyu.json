@@ -3885,7 +3885,7 @@
       "pinyin": "Miànduì yīnxiǎn de duìshǒu, zhēn shì bù pà zéi tōu, jiù pà zéi diànjì.",
       "traduccion": "Ante un rival mañoso, lo peor es la amenaza constante."
     },
-  {
+{
     "simplificado": "不急之务",
     "tradicional": "不急之務",
     "pinyin": "bù jí zhī wù",
@@ -4006,7 +4006,7 @@
     "simplificado": "不成功便成仁",
     "tradicional": "不成功便成仁",
     "pinyin": "bù chénggōng biàn chéng rén",
-    "significado_literal": "Si no se logra el éxito, se alcanza la virtud (muerte con honor)",
+    "significado_literal": "Si no se logra el éxito, se alcanza la virtud",
     "significado_figurado": "Emprender una causa con la firme determinación de triunfar o morir en el intento defendiendo los principios",
     "equivalente_espanol": "Vencer o morir / A todo o nada",
     "ejemplo": {
@@ -4123,7 +4123,7 @@
     "simplificado": "不敢恭维",
     "tradicional": "不敢恭維",
     "pinyin": "bù gǎn gōngwéi",
-    "significado_literal": "No atreverse a alabar",
+    "significado_literal": "No atrevearse a alabar",
     "significado_figurado": "Expresión cortés pero categórica para indicar desaprobación o disgusto ante la mala calidad de algo",
     "equivalente_espanol": "Dejar mucho que desear / Nada digno de elogio",
     "ejemplo": {
@@ -4192,8 +4192,8 @@
     "significado_figurado": "Las personas que terminan viviendo juntas o colaborando estrechamente comparten rasgos, valores o hábitos muy similares",
     "equivalente_espanol": "Dios los cría y ellos se juntan / Cada oveja con su pareja",
     "ejemplo": {
-      "oracion": "他们两口子性格真是一模一样，真是不是一家人，不进一家门。",
-      "pinyin": "Tāmen liǎng kǒu zi xìnggé zhēn shì yī mú yī yàng, zhēn shì bù shì yī jiā rén, bù jìn yī jiā mén.",
+      "oracion": "他们两口子性格真是一模一样，真不是一家人，不进一家门。",
+      "pinyin": "Tāmen liǎng kǒu zi xìnggé zhēn shì yī mú yī yàng, zhēn bù shì yī jiā rén, bù jìn yī jiā mén.",
       "traduccion": "El matrimonio tiene exactamente la misma forma de ser: verdaderamente Dios los cría y ellos se juntan."
     }
   },
@@ -4205,8 +4205,8 @@
     "significado_figurado": "Expresión popular sobre personas que disputan constantemente pero cuyo destino las mantiene indisolublemente unidas",
     "equivalente_espanol": "Quienes más se pelean, más se desean / Rivales inseparables",
     "ejemplo": {
-      "oracion": "这两个人每天吵吵闹闹，真是不是冤家不聚头。",
-      "pinyin": "Zhè liǎng ge rén měi tiān chǎochǎo-nàonào, zhēn shì bù shì yuānjiā bù jù tóu.",
+      "oracion": "这两个人每天吵吵闹闹，真不是冤家不聚头。",
+      "pinyin": "Zhè liǎng ge rén měi tiān chǎochǎo-nàonào, zhēn bù shì yuānjiā bù jù tóu.",
       "traduccion": "Estos dos se la pasan discutiendo a diario; son verdaderamente rivales inseparables."
     }
   },
@@ -4272,7 +4272,7 @@
     "ejemplo": {
       "oracion": "调解人应当保持客观，不为左右袒。",
       "pinyin": "Tiáojiě rén yīngdāng bǎochí kèguān, bù wéi zuǒ yòu tǎn.",
-      "traduccion": "El mediador debe conservar la objetividad y mantenerse impartial."
+      "traduccion": "El mediador debe conservar la objetividad y mantenerse imparcial."
     }
   },
   {
@@ -4344,7 +4344,7 @@
     "simplificado": "不畏强暴",
     "tradicional": "不畏強暴",
     "pinyin": "bù wèi qiángbào",
-    "significado_literal": "No temer a la violencia tirarica",
+    "significado_literal": "No temer a la violencia tiránica",
     "significado_figurado": "Demostrar valentía al resistir el abuso de poder o la agresión violenta sin amedrentarse",
     "equivalente_espanol": "Resistir la opresión sin miedo / Valiente ante la tiranía",
     "ejemplo": {
@@ -4448,7 +4448,7 @@
     "simplificado": "不知丁董",
     "tradicional": "不知丁董",
     "pinyin": "bù zhī dīng dǒng",
-    "significado_literal": "No saber ni Ding ni Dong (sonidos campaniles/letras)",
+    "significado_literal": "No saber ni Ding ni Dong",
     "significado_figurado": "Ser completamente ignorante respecto a las reglas elementales o lenguaje de un asunto",
     "equivalente_espanol": "No saber ni papa / Ignorante en la materia",
     "ejemplo": {
@@ -4500,7 +4500,7 @@
     "simplificado": "不知所措",
     "tradicional": "不知所措",
     "pinyin": "bù zhī suǒ cuò",
-    "significado_literal": "No saber dónde poner [manos/pies]",
+    "significado_literal": "No saber dónde poner manos ni pies",
     "significado_figurado": "Quedarse paralizado, perplejo o desorientado sin saber qué decisión tomar ante una emergencia",
     "equivalente_espanol": "Sin saber qué hacer / Quedarse desorientado",
     "ejemplo": {
@@ -4526,7 +4526,7 @@
     "simplificado": "不知死活",
     "tradicional": "不知死活",
     "pinyin": "bù zhī sǐ huó",
-    "significado_literal": "No saber si [está] muerto o vivo",
+    "significado_literal": "No saber si está muerto o vivo",
     "significado_figurado": "Actuar con una temeridad insensata e inconsciente del grave peligro que se corre; no saber el paradero vital de alguien",
     "equivalente_espanol": "Inconsciente del peligro / Sin saber si está vivo o muerto",
     "ejemplo": {
