@@ -5185,5 +5185,655 @@
       "pinyin": "Zuòshì bù néng bù gù qián hòu, yào liú yǒu yúdì.",
       "traduccion": "Al actuar no se puede proceder atolondradamente; hay que dejar un margen."
     }
+  },
+  {
+    "simplificado": "不显山不露水",
+    "tradicional": "不顯山不露水",
+    "pinyin": "bù xiǎn shān bù lòu shuǐ",
+    "significado_literal": "No mostrar la montaña, no enseñar el agua",
+    "significado_figurado": "Actuar con total discreción sin presumir de las propias capacidades o intenciones",
+    "equivalente_espanol": "Sin hacer ruido / A callar calando",
+    "ejemplo": {
+      "oracion": "他平时不显山不露水，没想到竟然是个高手。",
+      "pinyin": "Tā píngshí bù xiǎn shān bù lòu shuǐ, méi xiǎngdào jìngrán shì ge gāoshǒu.",
+      "traduccion": "Normalmente no hace ruido, nadie esperaba que fuera todo un experto."
+    }
+  },
+  {
+    "simplificado": "世代相传",
+    "tradicional": "世代相傳",
+    "pinyin": "shì dài xiāng chuán",
+    "significado_literal": "Transmitir de generación en generación",
+    "significado_figurado": "Pasar una tradición, conocimiento o costumbre de padres a hijos a lo largo del tiempo",
+    "equivalente_espanol": "De generación en generación / Pasar de padres a hijos",
+    "ejemplo": {
+      "oracion": "这项手艺在我们家已经是世代相传了。",
+      "pinyin": "Zhè xiàng shǒuyì zài wǒmen jiā yǐjīng shì shì dài xiāng chuán le.",
+      "traduccion": "Este oficio se ha transmitido en nuestra familia de generación en generación."
+    }
+  },
+  {
+    "simplificado": "世态炎凉",
+    "tradicional": "世態炎涼",
+    "pinyin": "shì tài yán liáng",
+    "significado_literal": "La actitud del mundo es cálida o fría",
+    "significado_figurado": "La veleidad del trato humano, que cambia según la riqueza o posición que tengas",
+    "equivalente_espanol": "Tanto tienes, tanto vales",
+    "ejemplo": {
+      "oracion": "他遭遇失败后，深感世态炎凉。",
+      "pinyin": "Tā zāoyù shībài hòu, shēn gǎn shì tài yán liáng.",
+      "traduccion": "Tras su fracaso, sintió de cerca que tanto tienes, tanto vales."
+    }
+  },
+  {
+    "simplificado": "世风日下",
+    "tradicional": "世風日下",
+    "pinyin": "shì fēng rì xià",
+    "significado_literal": " Las costumbres de la sociedad bajan día a día",
+    "significado_figurado": "Deterioro paulatino de los valores morales y costumbres en la sociedad",
+    "equivalente_espanol": "Ir de mal en peor / Pérdida de valores",
+    "ejemplo": {
+      "oracion": "老人家看着现在的社会现象，不仅感叹世风日下。",
+      "pinyin": "Lǎorenjia kànzhe xiànzài de shèhuì xiàngxiàng, bùjǐn gǎntàn shì fēng rì xià.",
+      "traduccion": "El anciano, viendo lo que pasa hoy en día, no puede evitar suspirar por la pérdida de valores."
+    }
+  },
+  {
+    "simplificado": "丢盔弃甲",
+    "tradicional": "丟盔棄甲",
+    "pinyin": "diū kuī qì jiǎ",
+    "significado_literal": "Tirar el casco y abandonar la armadura",
+    "significado_figurado": "Huir de forma desordenada y en desbandada tras sufrir una derrota aplastante",
+    "equivalente_espanol": "Salir con la música a otra parte / Salir de estampida",
+    "ejemplo": {
+      "oracion": "敌人被打得丢盔弃甲，狼狈逃跑。",
+      "pinyin": "Dírén bèi dǎ de diū kuī qì jiǎ, lángbèi táopǎo.",
+      "traduccion": "El enemigo fue derrotado y salió de estampida."
+    }
+  },
+  {
+    "simplificado": "丢轮扯炮",
+    "tradicional": "丟輪扯炮",
+    "pinyin": "diū lún chě pào",
+    "significado_literal": "Tirar las ruedas y soltar los cañones",
+    "significado_figurado": "Abandonar a toda prisa el equipo de combate por el pánico, mostrando gran desorden",
+    "equivalente_espanol": "Salir pisotéandose / Salir por patas",
+    "ejemplo": {
+      "oracion": "败退的军队丢轮扯炮，溃不成军。",
+      "pinyin": "Bàituì de jūnduì diū lún chě pào, kuì bù chéng jūn.",
+      "traduccion": "El ejército derrotado salió por patas, totalmente desarticulado."
+    }
+  },
+  {
+    "simplificado": "并肩作战",
+    "tradicional": "並肩作戰",
+    "pinyin": "bìng jiān zuò zhàn",
+    "significado_literal": "Luchar hombro con hombro",
+    "significado_figurado": "Trabajar o luchar juntos para superar un obstáculo o lograr un objetivo común",
+    "equivalente_espanol": "Luchar hombro con hombro / Remar juntos",
+    "ejemplo": {
+      "oracion": "我们曾一起并肩作战，战胜过很多困难。",
+      "pinyin": "Wǒmen céng yīqǐ bìng jiān zuò zhàn, zhànshèng guò hěn duō kùnnan.",
+      "traduccion": "Luchamos hombro con hombro y superamos muchas dificultades."
+    }
+  },
+  {
+    "simplificado": "并驾齐驱",
+    "tradicional": "並駕齊驅",
+    "pinyin": "bìng jià qí qū",
+    "significado_literal": "Conducir carruajes alineados al mismo paso",
+    "significado_figurado": "Estar dos partes al mismo nivel de capacidad, desarrollo o calidad sin sacarse ventaja",
+    "equivalente_espanol": "Estar a la par / Ir de la mano",
+    "ejemplo": {
+      "oracion": "两家公司在技术上已经可以并驾齐驱了。",
+      "pinyin": "Liǎng jiā gōngsī zài jìshù shàng yǐjīng kěyǐ bìng jià qí qū le.",
+      "traduccion": "Las dos empresas ya están a la par en cuanto a tecnología."
+    }
+  },
+  {
+    "simplificado": "中箭落马",
+    "tradicional": "中箭落馬",
+    "pinyin": "zhòng jiàn luò mǎ",
+    "significado_literal": "Recibir una flecha y caer del caballo",
+    "significado_figurado": "Sufrir un revés repentino o caer en desgracia, como un funcionario destituido por corrupción",
+    "equivalente_espanol": "Caer de su pedestal / Morder el polvo",
+    "ejemplo": {
+      "oracion": "经过调查，多名贪腐官员相继中箭落马。",
+      "pinyin": "Jīngguò diàochá, duō míng tānfǔ guānyuán xiāngjì zhòng jiàn luò mǎ.",
+      "traduccion": "Tras la investigación, varios funcionarios corruptos mordieron el polvo uno tras otro."
+    }
+  },
+  {
+    "simplificado": "中西合璧",
+    "tradicional": "中西合璧",
+    "pinyin": "zhōng xī hé bì",
+    "significado_literal": "Unir los jades de China y de Occidente",
+    "significado_figurado": "Combinar de forma armoniosa elementos o estilos de las culturas china y occidental",
+    "equivalente_espanol": "Fusión oriente y occidente",
+    "ejemplo": {
+      "oracion": "这座建筑的设计风格是中西合璧的。",
+      "pinyin": "Zhè zuò jiànzhù de shèjì fēnggé shì zhōng xī hé bì de.",
+      "traduccion": "El diseño de este edificio es una fusión entre oriente y occidente."
+    }
+  },
+  {
+    "simplificado": "串亲访友",
+    "tradicional": "串親訪友",
+    "pinyin": "chuàn qīn fǎng yǒu",
+    "significado_literal": "Ir de casa en casa visitando parientes y amigos",
+    "significado_figurado": "Visitar a familiares y amistades para mantener el contacto, especialmente en fiestas",
+    "equivalente_espanol": "Ir de visitas / De picos pardos con la familia",
+    "ejemplo": {
+      "oracion": "春节期间，大家都在忙着串亲访友。",
+      "pinyin": "Chūnjié qījiān, dàjiā dōu zài mángzhe chuàn qīn fǎng yǒu.",
+      "traduccion": "Durante el Año Nuevo Chino, todo el mundo anda ocupado yendo de visitas."
+    }
+  },
+  {
+    "simplificado": "串通一气",
+    "tradicional": "串通一氣",
+    "pinyin": "chuàn tōng yī qì",
+    "significado_literal": "Conectar e interconectar un solo aliento",
+    "significado_figurado": "Ponerse de acuerdo a escondidas para engañar o perjudicar a alguien",
+    "equivalente_espanol": "Estar compinchados / Estar en el mismo ajo",
+    "ejemplo": {
+      "oracion": "他们几个人串通一气，故意作假。",
+      "pinyin": "Tāmen jǐ ge rén chuàn tōng yī qì, gùyì zuòjiǎ.",
+      "traduccion": "Estaban compinchados para falsificar las cosas a propósito."
+    }
+  },
+  {
+    "simplificado": "久仰大名",
+    "tradicional": "久仰大名",
+    "pinyin": "jiǔ yǎng dà míng",
+    "significado_literal": "Admirar de antiguo el gran nombre",
+    "significado_figurado": "Fórmula de cortesía al conocer a alguien muy respetado o famoso",
+    "equivalente_espanol": "He oído hablar mucho de usted / Un honor conocerle",
+    "ejemplo": {
+      "oracion": "张教授，久仰大名，今日终于相见了。",
+      "pinyin": "Zhāng jiàoshòu, jiǔ yǎng dà míng, jīnrì zhōngyú xiāngjiàn le.",
+      "traduccion": "Profesor Zhang, he oído hablar mucho de usted, por fin nos conocemos hoy."
+    }
+  },
+  {
+    "simplificado": "久病成良医",
+    "tradicional": "久病成良醫",
+    "pinyin": "jiǔ bìng chéng liáng yī",
+    "significado_literal": "Estar enfermo mucho tiempo lo convierte a uno en buen médico",
+    "significado_figurado": "Adquirir un gran conocimiento práctico sobre un tema a fuerza de lidiar con un problema prolongado",
+    "equivalente_espanol": "A fuerza de palos se aprende / La experiencia es la madre de la ciencia",
+    "ejemplo": {
+      "oracion": "他得这个病很多年了，真是久病成良医。",
+      "pinyin": "Tā dé zhè ge bìng hěn duō nián le, zhēn shì jiǔ bìng chéng liáng yī.",
+      "traduccion": "Lleva con esta enfermedad muchos años, verdaderamente la experiencia es la madre de la ciencia."
+    }
+  },
+  {
+    "simplificado": "久经考验",
+    "tradicional": "久經考驗",
+    "pinyin": "jiǔ jīng kǎoyàn",
+    "significado_literal": "Pasar por pruebas durante mucho tiempo",
+    "significado_figurado": "Haber superado numerosas dificultades y retos, demostrando ser digno de confianza",
+    "equivalente_espanol": "A prueba de bomba / Curtido en mil batallas",
+    "ejemplo": {
+      "oracion": "我们的友谊是久经考验的。",
+      "pinyin": "Wǒmen de yǒu'yì shì jiǔ jīng kǎoyàn de.",
+      "traduccion": "Nuestra amistad es a prueba de bomba."
+    }
+  },
+  {
+    "simplificado": "幺麽小丑",
+    "tradicional": "幺麼小丑",
+    "pinyin": "yāo mó xiǎochǒu",
+    "significado_literal": "Bufón diminuto e insignificante",
+    "significado_figurado": "Persona insignificante o ruin que intenta armar lío sin tener capacidad real",
+    "equivalente_espanol": "Un muertodehambre / Un cero a la izquierda",
+    "ejemplo": {
+      "oracion": "别理会那些幺麽小丑的闹剧。",
+      "pinyin": "Bié lǐhuì nàxiē yāo mó xiǎochǒu de nàojù.",
+      "traduccion": "No le hagas caso a los líos de esos ceros a la izquierda."
+    }
+  },
+  {
+    "simplificado": "之乎者也",
+    "tradicional": "之乎者也",
+    "pinyin": "zhī hū zhě yě",
+    "significado_literal": "Zhi, hu, zhe, ye (partículas del chino clásico)",
+    "significado_figurado": "Usar un lenguaje pedante o andar con rodeos formales sin ir al grano",
+    "equivalente_espanol": "Hablar con rodeos / Hablar en lenguaje de libro",
+    "ejemplo": {
+      "oracion": "说话简洁点，别总是之乎者也的。",
+      "pinyin": "Shuōhuà jiǎnjié diǎn, bié zǒngshì zhī hū zhě yě de.",
+      "traduccion": "Habla de forma más directa y déjate de pedanterías."
+    }
+  },
+  {
+    "simplificado": "乍暖还寒",
+    "tradicional": "乍暖還寒",
+    "pinyin": "zhà nuǎn hái hán",
+    "significado_literal": "Apenas se calienta, vuelve el frío",
+    "significado_figurado": "El clima inestable del comienzo de la primavera cuando se alternan momentos tibios y heladas",
+    "equivalente_espanol": "Hasta el四十 de mayo no te quites el sayo",
+    "ejemplo": {
+      "oracion": "初春时节，天气乍暖还寒，要注意保暖。",
+      "pinyin": "Chūchūn shíjié, tiānqì zhà nuǎn hái hán, yào zhùyì bǎonuǎn.",
+      "traduccion": "Al principio de la primavera el tiempo varía mucho; abrígate bien."
+    }
+  },
+  {
+    "simplificado": "乏善可陈",
+    "tradicional": "乏善可陳",
+    "pinyin": "fá shàn kě chén",
+    "significado_literal": "Carecer de cosas buenas que detallar",
+    "significado_figurado": "Algo que no tiene ningún aspecto destacable, siendo muy mediocre o vulgar",
+    "equivalente_espanol": "Sin pena ni gloria / Nada del otro mundo",
+    "ejemplo": {
+      "oracion": "这部电影的情节乏善可陈。",
+      "pinyin": "Zhè bù diànyǐng de qíngjié fá shàn kě chén.",
+      "traduccion": "La trama de esta película pasó sin pena ni gloria."
+    }
+  },
+  {
+    "simplificado": "乘人不备",
+    "tradicional": "乘人不備",
+    "pinyin": "chéng rén bù bèi",
+    "significado_literal": "Aprovechar que el otro no está preparado",
+    "significado_figurado": "Tomar la iniciativa para actuar o atacar en el momento en que la otra persona está desprevenida",
+    "equivalente_espanol": "A la traición / Coger descolocado",
+    "ejemplo": {
+      "oracion": "小偷乘人不备，偷走了钱包。",
+      "pinyin": "Xiǎotōu chéng rén bù bèi, tōu zǒu le qiánbāo.",
+      "traduccion": "El ladrón aprovechó que estaba desprevenido y le quitó la cartera."
+    }
+  },
+  {
+    "simplificado": "乘虚而入",
+    "tradicional": "乘虛而入",
+    "pinyin": "chéng xū ér rù",
+    "significado_literal": "Aprovechar la debilidad para entrar",
+    "significado_figurado": "Aprovechar un descuido o un punto débil de la otra parte para intervenir o sacar ventaja",
+    "equivalente_espanol": "Meterse por la rendija / Aprovechar el descuido",
+    "ejemplo": {
+      "oracion": "流感病毒容易乘虚而入。",
+      "pinyin": "Liúgǎn bìngdú róngyì chéng xū ér rù.",
+      "traduccion": "El virus de la gripe se mete fácil a la mínima debilidad de las defensas."
+    }
+  },
+  {
+    "simplificado": "乘风破浪",
+    "tradicional": "乘風破浪",
+    "pinyin": "chéng fēng pò làng",
+    "significado_literal": "Montar el viento y romper las olas",
+    "significado_figurado": "Avanzar con valentía y decisión superando todos los obstáculos que salgan al paso",
+    "equivalente_espanol": "Viento en popa a toda vela / Abrirse paso",
+    "ejemplo": {
+      "oracion": "年轻人要敢于乘风破浪，实现梦想。",
+      "pinyin": "Niánqīngrén yào gǎnyú chéng fēng pò làng, shíxiàn mèngxiǎng.",
+      "traduccion": "Los jóvenes deben atreverse a abrirse paso para cumplir sus sueños."
+    }
+  },
+  {
+    "simplificado": "九天仙女",
+    "tradicional": "九天仙女",
+    "pinyin": "jiǔ tiān xiān nǚ",
+    "significado_literal": "Hada del noveno cielo",
+    "significado_figurado": "Expresión elogiosa para describir a una mujer de una belleza extraordinaria o celestial",
+    "equivalente_espanol": "Un ángel / Una diosa",
+    "ejemplo": {
+      "oracion": "她打扮起来漂亮得像九天仙女一样。",
+      "pinyin": "Tā dǎban qǐlái piàoliang de xiàng jiǔ tiān xiān nǚ yīyàng.",
+      "traduccion": "Cuando se arregla, es bonita como una diosa."
+    }
+  },
+  {
+    "simplificado": "九天揽月",
+    "tradicional": "九天攬月",
+    "pinyin": "jiǔ tiān lǎn yuè",
+    "significado_literal": "Subir al noveno cielo a agarrar la luna",
+    "significado_figurado": "Poseer grandes ambiciones o ser capaz de alcanzar metas altísimas e insólitas",
+    "equivalente_espanol": "Pedir la luna / Apuntar a las estrellas",
+    "ejemplo": {
+      "oracion": "我们有九天揽月的志气，不怕任何艰难。",
+      "pinyin": "Wǒmen yǒu jiǔ tiān lǎn yuè de zhìqì, bù pà rènhé jiānnán.",
+      "traduccion": "Tenemos la ambición de apuntar a las estrellas y no le tememos a nada."
+    }
+  },
+  {
+    "simplificado": "九死一生",
+    "tradicional": "九死一生",
+    "pinyin": "jiǔ sǐ yī shēng",
+    "significado_literal": "Nueve muertes, una vida",
+    "significado_figurado": "Estar en una situación de extremo peligro donde las probabilidades de salvarse son casi nulas",
+    "equivalente_espanol": "Salvarse de milagro / Por un pelo",
+    "ejemplo": {
+      "oracion": "他从那场空难中九死一生，捡回了一条命。",
+      "pinyin": "Tā cóng nà chǎng kōngnàn zhōng jiǔ sǐ yī shēng, jiǎn huí le yī tiáo mìng.",
+      "traduccion": "Se salvó de milagro en aquel accidente aéreo."
+    }
+  },
+  {
+    "simplificado": "九牛一毛",
+    "tradicional": "九牛一毛",
+    "pinyin": "jiǔ niú yī máo",
+    "significado_literal": "Un pelo de nueve bueyes",
+    "significado_figurado": "Una cantidad sumamente pequeña o insignificante en comparación con un conjunto mucho mayor",
+    "equivalente_espanol": "Gota en el océano / Una minucia",
+    "ejemplo": {
+      "oracion": "这点钱对他来说只是九牛一毛。",
+      "pinyin": "Zhè diǎn qián duì tā lái shuō zhǐshì jiǔ niú yī máo.",
+      "traduccion": "Este poco dinero para él es solo una gota en el océano."
+    }
+  },
+  {
+    "simplificado": "九牛二虎之力",
+    "tradicional": "九牛二虎之力",
+    "pinyin": "jiǔ niú èr hǔ zhī lì",
+    "significado_literal": "La fuerza de nueve bueyes y dos tigres",
+    "significado_figurado": "Hacer un esfuerzo enorme y gigantesco para completar una tarea muy ardua",
+    "equivalente_espanol": "Sudor y lágrimas / Sudar la gota gorda",
+    "ejemplo": {
+      "oracion": "费了九牛二虎之力，终于解决了这个问题。",
+      "pinyin": "Fèi le jiǔ niú èr hǔ zhī lì, zhōngyú jiějué le zhè ge wèntí.",
+      "traduccion": "Sudando la gota gorda, por fin resolvimos este problema."
+    }
+  },
+  {
+    "simplificado": "九霄云外",
+    "tradicional": "九霄雲外",
+    "pinyin": "jiǔ xiāo yún wài",
+    "significado_literal": "Más allá de las nubes del noveno cielo",
+    "significado_figurado": "Olvidar o arrojar algo a una distancia enorme, despreocupándose del todo",
+    "equivalente_espanol": "Caer en el olvido / Mandar a paseo",
+    "ejemplo": {
+      "oracion": "玩起来就把作业抛到了九霄云外。",
+      "pinyin": "Wán qǐlái jiù bǎ zuòyè pāo dào le jiǔ xiāo yún wài.",
+      "traduccion": "En cuanto se pone a jugar, manda los deberes a paseo."
+    }
+  },
+  {
+    "simplificado": "乞哀告怜",
+    "tradicional": "乞哀告憐",
+    "pinyin": "qǐ āi gào lián",
+    "significado_literal": "Mendigar piedad, pedir compasión",
+    "significado_figurado": "Suplicar a alguien de forma humillante para dar pena y conseguir ayuda o perdón",
+    "equivalente_espanol": "Pedir piedad de rodillas / Dar pena",
+    "ejemplo": {
+      "oracion": "他向对方乞哀告怜，希望得到原谅。",
+      "pinyin": "Tā xiàng duìfāng qǐ āi gào lián, xīwàng dédào yuánliàng.",
+      "traduccion": "Le pidió piedad de rodillas con la esperanza de ser perdonado."
+    }
+  },
+  {
+    "simplificado": "乳臭未干",
+    "tradicional": "乳臭未幹",
+    "pinyin": "rǔ xiù wèi gān",
+    "significado_literal": "El olor a leche materna no se ha secado",
+    "significado_figurado": "Persona muy joven e inexperta que presume o quiere actuar como un adulto",
+    "equivalente_espanol": "Tener la leche en lips / Ser un mocoso",
+    "ejemplo": {
+      "oracion": "一个乳臭未干的小孩，懂什么大道理。",
+      "pinyin": "Yī ge rǔ xiù wèi gān de xiǎohái, dǒng shénme dà dàolǐ.",
+      "traduccion": "Un mocoso que aún tiene la leche en los labios, ¿qué va a saber de la vida?"
+    }
+  },
+  {
+    "simplificado": "干打雷，不下雨",
+    "tradicional": "幹打雷，不下雨",
+    "pinyin": "gān dǎ léi, bù xià yǔ",
+    "significado_literal": "Solo truenos, no cae雨 (lluvia)",
+    "significado_figurado": "Prometer o amenazar con mucho ruido y escándalo sin llegar a concretar ninguna acción real",
+    "equivalente_espanol": "Mucho ruido y pocas nueces / Perro ladrador, poco mordedor",
+    "ejemplo": {
+      "oracion": "他说要改革说很久了，总是干打雷，不下雨。",
+      "pinyin": "Tā shuō yào gǎigé shuō hěn jiǔ le, zǒngshì gān dǎ léi, bù xià yǔ.",
+      "traduccion": "Lleva tiempo diciendo que va a cambiar las cosas, pero todo queda en mucho ruido y pocas nueces."
+    }
+  },
+  {
+    "simplificado": "干柴烈火",
+    "tradicional": "幹柴烈火",
+    "pinyin": "gān chái liè huǒ",
+    "significado_literal": "Leña seca, fuego voraz",
+    "significado_figurado": "Atracción apasionada e irrefrenable entre un hombre y una mujer cuando están juntos",
+    "equivalente_espanol": "Saltar chispas / Pasar a mayores",
+    "ejemplo": {
+      "oracion": "两个人情投意合，犹如干柴烈火。",
+      "pinyin": "Liǎng ge rén qíng tóu yì hé, yóurú gān chái liè huǒ.",
+      "traduccion": "Se gustaban tanto que entre ellos empezaron a saltar chispas."
+    }
+  },
+  {
+    "simplificado": "乱七八糟",
+    "tradicional": "亂七八糟",
+    "pinyin": "luàn qī bā zāo",
+    "significado_literal": "Siete desórdenes, ocho desastres",
+    "significado_figurado": "Estar una cosa o lugar totalmente desordenado, revuelto o en caos",
+    "equivalente_espanol": "Pata arriba / Hecho un desastre",
+    "ejemplo": {
+      "oracion": "房间里收拾得乱七八糟的。",
+      "pinyin": "Fángjiān lǐ shōushi de luàn qī bā zāo de.",
+      "traduccion": "La habitación está patas arriba."
+    }
+  },
+  {
+    "simplificado": "乱臣贼子",
+    "tradicional": "亂臣賊子",
+    "pinyin": "luàn chén zéi zǐ",
+    "significado_literal": "Ministros rebeldes e hijos traidores",
+    "significado_figurado": "Personas conspiradoras o traidoras que buscan derrocar el orden o a sus superiores",
+    "equivalente_espanol": "Traidores / Golpistas",
+    "ejemplo": {
+      "oracion": "人人对于乱臣贼子都是极为痛恨的。",
+      "pinyin": "Rénrén duìyú luàn chén zéi zǐ dōu shì jíqí tònghèn de.",
+      "traduccion": "Todo el mundo le tiene un odio profundo a los traidores."
+    }
+  },
+  {
+    "simplificado": "了如指掌",
+    "tradicional": "了如指掌",
+    "pinyin": "liǎo rú zhǐ zhǎng",
+    "significado_literal": "Entender como las marcas de la palma de la mano",
+    "significado_figurado": "Conocer una materia o situación con absoluta claridad, detalle y precisión",
+    "equivalente_espanol": "Conocer como la palma de la mano",
+    "ejemplo": {
+      "oracion": "他对这一带的地形了如指掌。",
+      "pinyin": "Tā duì zhè yī dài de dìxíng liǎo rú zhǐ zhǎng.",
+      "traduccion": "Conoce el terreno de esta zona como la palma de su mano."
+    }
+  },
+  {
+    "simplificado": "了无生趣",
+    "tradicional": "了無生趣",
+    "pinyin": "liǎo wú shēng qù",
+    "significado_literal": "Sin ningún interés en la vida",
+    "significado_figurado": "Sentir una desesperanza profunda en la que la vida pierde todo sentido o atractivo",
+    "equivalente_espanol": "Estar desanimado / Perder el gusto a la vida",
+    "ejemplo": {
+      "oracion": "遭遇重创后，他一度觉得了无生趣。",
+      "pinyin": "Zāoyù zhòngchuāng hòu, tā yīdù juéde liǎo wú shēng qù.",
+      "traduccion": "Tras el duro golpe, durante un tiempo sintió que le perdía el gusto a la vida."
+    }
+  },
+  {
+    "simplificado": "了然于胸",
+    "tradicional": "了然於胸",
+    "pinyin": "liǎo rán yú xiōng",
+    "significado_literal": "Claro dentro del pecho",
+    "significado_figurado": "Tener la idea, el plan o la situación perfectamente asimilada e interiorizada",
+    "equivalente_espanol": "Tenerlo claro / Tenerlo bien sabido",
+    "ejemplo": {
+      "oracion": "面对接下来的任务，他早已了然于胸。",
+      "pinyin": "Miànduì jiēxiàlái de rènwu, tā zǎoyǐ liǎo rán yú xiōng.",
+      "traduccion": "Ante el reto que se viene, él ya lo tiene todo bien sabido."
+    }
+  },
+  {
+    "simplificado": "事不过三",
+    "tradicional": "事不過三",
+    "pinyin": "shì bù guò sān",
+    "significado_literal": "Los asuntos no pasan de tres veces",
+    "significado_figurado": "Advertencia de que se puede tolerar un fallo dos veces, pero a la tercera se imponen límites o castigos",
+    "equivalente_espanol": "A la tercera va la vencida / La tercera es la vencida",
+    "ejemplo": {
+      "oracion": "这次原谅你，但事不过三，下次不能再犯了。",
+      "pinyin": "Zhè cì yuánliàng nǐ, dàn shì bù guò sān, xià cì bù néng zài fàn le.",
+      "traduccion": "Te perdono esta vez, pero a la tercera va la vencida, no lo repitas."
+    }
+  },
+  {
+    "simplificado": "事不关己",
+    "tradicional": "事不關己",
+    "pinyin": "shì bù guān jǐ",
+    "significado_literal": "El asunto no concierne a uno mismo",
+    "significado_figurado": "Mantenerse al margen e indiferente porque un problema no le afecta personalmente",
+    "equivalente_espanol": "Esa no es mi guerra / Lavarse las manos",
+    "ejemplo": {
+      "oracion": "他对社区里的公共事务总是觉得事不关己。",
+      "pinyin": "Tā duì shèqū lǐ de gōnggòng shìwù zǒngshì juéde shì bù guān jǐ.",
+      "traduccion": "Con las cosas del barrio siempre siente que esa no es su guerra."
+    }
+  },
+  {
+    "simplificado": "事不关己，高高挂起",
+    "tradicional": "事不關己，高高掛起",
+    "pinyin": "shì bù guān jǐ, gāo gāo guà qǐ",
+    "significado_literal": "Si el asunto no concierne a uno, colgarlo bien alto",
+    "significado_figurado": "Actitud egoísta e indiferente de desentenderse por completo de los problemas de los demás",
+    "equivalente_espanol": "Lavarse las manos / Ver los toros desde la barrera",
+    "ejemplo": {
+      "oracion": "大家不能抱着事不关己，高高挂起的态度对待不公。",
+      "pinyin": "Dàjiā bù néng bào zhe shì bù guān jǐ, gāo gāo guà qǐ de tàidu duìdài bù gōng.",
+      "traduccion": "No se pueden ver los toros desde la barrera ante una injusticia."
+    }
+  },
+  {
+    "simplificado": "事倍功半",
+    "tradicional": "事倍功半",
+    "pinyin": "shì bèi gōng bàn",
+    "significado_literal": "El trabajo es el doble, el logro es la mitad",
+    "significado_figurado": "Emplear muchísimo esfuerzo y recursos pero obtener resultados muy pobres por mala organización",
+    "equivalente_espanol": "Dar palos de ciego / Poca chicha para tanto esfuerzo",
+    "ejemplo": {
+      "oracion": "如果不讲究解题方法，往往会事倍功半。",
+      "pinyin": "Rúguǒ bù jiǎngjiu jiětí fāngfǎ, wǎngwǎng huì shì bèi gōng bàn.",
+      "traduccion": "Si no buscas un buen método, terminarás dando palos de ciego."
+    }
+  },
+  {
+    "simplificado": "事到临头",
+    "tradicional": "事到臨頭",
+    "pinyin": "shì dào lín tóu",
+    "significado_literal": "El asunto llega al frente de la cabeza",
+    "significado_figurado": "Llegar la hora de la verdad o verse obligado a afrontar un problema en el momento justo",
+    "equivalente_espanol": "Llegada la hora de la verdad / Estar con el agua al cuello",
+    "ejemplo": {
+      "oracion": "事到临头了，你着急也没用，得想办法。",
+      "pinyin": "Shì dào lín tóu le, nǐ zhāojí yě méi yòng, děi xiǎng bànfǎ.",
+      "traduccion": "Llegada la hora de la verdad, ponerse nervioso no sirve, hay que buscar soluciones."
+    }
+  },
+  {
+    "simplificado": "事半功倍",
+    "tradicional": "事半功倍",
+    "pinyin": "shì bàn gōng bèi",
+    "significado_literal": "El trabajo es la mitad, el logro es el doble",
+    "significado_figurado": "Obtener excelentes y abundantes resultados con muy poco esfuerzo gracias a un método acertado",
+    "equivalente_espanol": "Rendir al máximo con poco / Dar en el clavo",
+    "ejemplo": {
+      "oracion": "用对合适的方法，就能达到事半功倍的效果。",
+      "pinyin": "Yòng duì héshì de fāngfǎ, jiù néng dádào shì bàn gōng bèi de xiàoguǒ.",
+      "traduccion": "Usando el método adecuado, se rinde al máximo con poco."
+    }
+  },
+  {
+    "simplificado": "事危累卵",
+    "tradicional": "事危累卵",
+    "pinyin": "shì wēi lěi luǎn",
+    "significado_literal": "El asunto es tan peligroso como amontonar huevos",
+    "significado_figurado": "Situación de riesgo extremo e inestabilidad donde todo pende de un hilo",
+    "equivalente_espanol": "Pender de un hilo / Estar en el alambre",
+    "ejemplo": {
+      "oracion": "公司眼下的处境真可谓是事危累卵。",
+      "pinyin": "Gōngsī yǎnxià de chǔjìng zhēn kě wèi shì shì wēi lěi luǎn.",
+      "traduccion": "La situación actual de la empresa verdaderamente pende de un hilo."
+    }
+  },
+  {
+    "simplificado": "事在人为",
+    "tradicional": "事在人爲",
+    "pinyin": "shì zài rén wéi",
+    "significado_literal": "Los asuntos dependen de lo que haga el hombre",
+    "significado_figurado": "El éxito de un proyecto o meta depende principalmente de la determinación y empeño humano",
+    "equivalente_espanol": "Querer es poder / El que la sigue, la consigue",
+    "ejemplo": {
+      "oracion": "别轻易放弃，事在人为嘛。",
+      "pinyin": "Bié qīngyì fàngqì, shì zài rén wéi ma.",
+      "traduccion": "No lo dejes tan fácil; al fin y al cabo, querer es poder."
+    }
+  },
+  {
+    "simplificado": "事实胜于雄辩",
+    "tradicional": "事實勝於雄辯",
+    "pinyin": "shì shí shèng yú xióngbiàn",
+    "significado_literal": "Los hechos vencen a los discursos elocuentes",
+    "significado_figurado": "Las pruebas reales y concretas demostradas son mucho más convincentes que cualquier argumento hablado",
+    "equivalente_espanol": "Obras son amores y no buenas razones / Los hechos hablan por sí solos",
+    "ejemplo": {
+      "oracion": "不用多说了，事实胜于雄辩。",
+      "pinyin": "Bù yòng duō shuō le, shì shí shèng yú xióngbiàn.",
+      "traduccion": "No digamos nada más; los hechos hablan por sí solos."
+    }
+  },
+  {
+    "simplificado": "事后聪明",
+    "tradicional": "事後聰明",
+    "pinyin": "shì hòu cōngmíng",
+    "significado_literal": "Listo tras el suceso",
+    "significado_figurado": "Dar opiniones o fingir sabiduría sobre un problema solo después de que este ya ha ocurrido",
+    "equivalente_espanol": " A toro pasado",
+    "ejemplo": {
+      "oracion": "别在这儿事后聪明了，刚才怎么不见你提意见？",
+      "pinyin": "Bié zài zhèr shì hòu cōngmíng le, gāngcái zěnme bù jiàn nǐ tí yìjiàn?",
+      "traduccion": "No vengas a opinar a toro pasado, ¿por qué no dijiste nada antes?"
+    }
+  },
+  {
+    "simplificado": "事怕行家",
+    "tradicional": "事怕行家",
+    "pinyin": "shì pà hángjiā",
+    "significado_literal": "El asunto le teme al experto",
+    "significado_figurado": "Por muy difícil que parezca una tarea, se resuelve fácil en cuanto se pone en manos de un profesional",
+    "equivalente_espanol": "Zapatero a tus zapatos / El que sabe, sabe",
+    "ejemplo": {
+      "oracion": "这台机器我们修半天没好，他一会儿就弄好了，真是事怕行家。",
+      "pinyin": "Zhè tái jīqì wǒmen xiū bàn tiān méi hǎo, tā yīhuìr jiù nòng hǎo le, zhēn shì shì pà hángjiā.",
+      "traduccion": "Llevábamos medio día intentando arreglar la máquina y él la dejó lista en un momento; verdaderamente, el que sabe, sabe."
+    }
+  },
+  {
+    "simplificado": "事无巨细",
+    "tradicional": "事無巨細",
+    "pinyin": "shì wú jù xì",
+    "significado_literal": "En los asuntos no hay grande ni pequeño",
+    "significado_figurado": "Encargarse u ocupar la atención de absolutamente todos los detalles de algo, independientemente de su tamaño",
+    "equivalente_espanol": "Hasta el más mínimo detalle / Con pelos y señales",
+    "ejemplo": {
+      "oracion": "经理这几天的准备非常用心，事无巨细都考虑到了。",
+      "pinyin": "Jīnglǐ zhè jǐ tiān de zhǔnbèi fēicháng yòngxīn, shì wú jù xì dōu kǎolǜ dào le.",
+      "traduccion": "El gerente puso mucho empeño estos días y tuvo en cuenta hasta el más mínimo detalle."
+    }
+  },
+  {
+    "simplificado": "事与愿违",
+    "tradicional": "事與願違",
+    "pinyin": "shì yǔ yuàn wéi",
+    "significado_literal": "El asunto va en contra del deseo",
+    "significado_figurado": "Desarrollarse un hecho o proyecto de forma totalmente opuesta a lo que uno esperaba o planificaba",
+    "equivalente_espanol": "Salir el tiro por la culata / Salir trasquilado",
+    "ejemplo": {
+      "oracion": "虽然他做出了极大的努力，但结果还是事与愿违。",
+      "pinyin": "Suīrán tā zuòchū le jídà de nǔlì, dàn jiéguǒ háishì shì yǔ yuàn wéi.",
+      "traduccion": "Aunque se esforzó al máximo, al final le salió el tiro por la culata."
+    }
   }
 ]
