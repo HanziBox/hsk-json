@@ -6504,7 +6504,7 @@
     "tradicional": "人心惶惶",
     "pinyin": "rén xīn huáng huáng",
     "significado_literal": "Los corazones de la gente están aterrorizados y agitados",
-    "significado_figurado": "Estado de inquietud, zozobra y pánico generalizado en una comunidad ante un peligro o incertidumbre imminente",
+    "significado_figurado": "Estado de inquietud, zozobra y pánico generalizado en una comunidad ante un peligro o incertidumbre inminente",
     "equivalente_espanol": "Con el alma en un hilo",
     "ejemplo": {
       "oracion": "谣言在城里传播，搞得人心惶惶。",
@@ -6517,7 +6517,7 @@
     "tradicional": "人心隔肚皮",
     "pinyin": "rén xīn gé dù pí",
     "significado_literal": "El corazón humano está separado por la piel del vientre",
-    "significado_figurado": "Es imposible conocer los verdaderos pensamientos e intenciones secretas de alguien desde el exterior",
+    "significado_figurado": "Es imposible conocer las verdaderas intenciones o pensamientos íntimos de alguien desde el exterior",
     "equivalente_espanol": "Caras vemos, corazones no sabemos",
     "ejemplo": {
       "oracion": "别轻易相信刚认识的人，要知道人心隔肚皮。",
@@ -6556,7 +6556,7 @@
     "tradicional": "人是鐵飯是鋼",
     "pinyin": "rén shì tiě fàn shì gāng",
     "significado_literal": "El hombre es hierro, la comida es acero",
-    "significado_figurado": "Proverbio popular que resalta la necesidad fundamental del alimento para reponer fuerzas y subsistir",
+    "significado_figurado": "Dicho popular que resalta la necesidad fundamental del alimento para reponer fuerzas y subsistir",
     "equivalente_espanol": "El comer es primero",
     "ejemplo": {
       "oracion": "再忙也得按时吃饭，人是铁饭是钢嘛。",
@@ -6583,11 +6583,11 @@
     "pinyin": "rén mó gǒu yàng",
     "significado_literal": "Molde de hombre, aspecto de perro",
     "significado_figurado": "Aparentar dignidad o decencia en la vestimenta y modales pero actuar de manera vil y despreciable",
-    "equivalente_espanol": "Un lobo con piel de cordero",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "穿得人模狗样的，做的却不是人事。",
       "pinyin": "Chuān de rén mó gǒu yàng de, zuò de què bù shì rén shì.",
-      "traduccion": "Viste como un lobo con piel de cordero, pero sus actos son despreciables."
+      "traduccion": "Va vestido con apariencia impecable, pero sus actos son despreciables."
     }
   },
   {
@@ -6596,11 +6596,11 @@
     "pinyin": "rén fú yú shì",
     "significado_literal": "La gente flota sobre los asuntos",
     "significado_figurado": "Exceso de personal en una organización o empresa en comparación con el trabajo real requerido",
-    "equivalente_espanol": "Mucha gente y poco trabajo",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "这家公司机构臃肿，人浮于事的问题很严重。",
       "pinyin": "Zhè jiā gōngsī jīgòu yōngzhǒng, rén fú yú shì de wèntí hěn yánzhòng.",
-      "traduccion": "Esta empresa tiene una estructura hipertrofiada y un problema grave de mucha gente y poco trabajo."
+      "traduccion": "Esta empresa tiene una estructura hipertrofiada y un problema grave de exceso de personal."
     }
   },
   {
@@ -6621,12 +6621,12 @@
     "tradicional": "人爲財死，鳥爲食亡",
     "pinyin": "rén wéi cái sǐ, niǎo wéi shí wáng",
     "significado_literal": "El hombre muere por las riquezas, el ave perece por la comida",
-    "significado_figurado": "Dicho que ilustra cómo el interés material y la codicia pueden llevar a los seres vivos a arriesgar su propia vida",
-    "equivalente_espanol": "Por la plata baila el perro",
+    "significado_figurado": "Dicho que ilustra cómo la codicia por las riquezas o el beneficio material puede llevar a la ruina o a la muerte",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "他为了金钱冒这么大风险，真是人为财死，鸟为食亡。",
       "pinyin": "Tā wèi le jīnqián mào zhème dà fēngxiǎn, zhēn shì rén wéi cái sǐ, niǎo wéi shí wáng.",
-      "traduccion": "Asumir semejante riesgo por dinero demuestra que por la plata baila el perro."
+      "traduccion": "Arriesgar la vida de esa manera por dinero demuestra hasta qué punto la codicia ciega a las personas."
     }
   },
   {
@@ -6635,7 +6635,7 @@
     "pinyin": "rén yān xī shǎo",
     "significado_literal": "El humo de chimenea humana es escaso y raro",
     "significado_figurado": "Zona, paraje o región con muy escasa población humana y pocos asentamientos",
-    "equivalente_espanol": "Donde Cristo perdió el mechero",
+    "equivalente_espanol": "Donde Cristo perdió el sombrero",
     "ejemplo": {
       "oracion": "这片山区海拔很高，人烟稀少。",
       "pinyin": "Zhè piàn shānqū hǎibá hěn gāo, rén yān xī shǎo.",
@@ -6665,7 +6665,7 @@
     "ejemplo": {
       "oracion": "来到旧友的故居，看到遗物，令人有人琴俱亡之感。",
       "pinyin": "Lái dào jiùyǒu de gùjū, kàndào yíwù, lìng rén yǒu rén qín jù wáng zhī gǎn.",
-      "traduccion": "Al visitar la casa de mi difunto amigo y ver sus pertenencias, sentí una nostalgia desoladora."
+      "traduccion": "Al visitar la casa de mi difunto amigo y ver sus pertenencias, sentí una tristeza desoladora."
     }
   },
   {
@@ -6700,11 +6700,11 @@
     "pinyin": "rén shēng dì bù shú",
     "significado_literal": "Las personas son extrañas, el lugar no es familiar",
     "significado_figurado": "Encontrarse recién llegado a un entorno desconocido sin conocer a nadie ni las costumbres",
-    "equivalente_espanol": "Como pulpo en un garaje",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "我刚到这个城市，人生地不熟，还需要慢慢适应。",
       "pinyin": "Wǒ gāng dào zhè ge chéngshì, rén shēng dì bù shú, hái xūyào mànmàn shìyìng.",
-      "traduccion": "Acabo de llegar a esta ciudad y estoy como pulpo en un garaje, necesito tiempo para adaptarme."
+      "traduccion": "Acabo de llegar a esta ciudad y no conozco a nadie ni el lugar, necesito tiempo para adaptarme."
     }
   },
   {
@@ -6725,12 +6725,12 @@
     "tradicional": "人生如朝露",
     "pinyin": "rén shēng rú zhāolù",
     "significado_literal": "La vida humana es como el rocío matutino",
-    "significado_figurado": "Metáfora sobre la extremada brevedad de la vida, que se evapora rápidamente con el sol",
-    "equivalente_espanol": "La vida dura dos días",
+    "significado_figurado": "Metáfora sobre la extremada brevedad de la vida, que desaparece rápidamente como el rocío con el sol",
+    "equivalente_espanol": "La vida son dos días",
     "ejemplo": {
       "oracion": "人生如朝露，应当珍惜当下的每一天。",
       "pinyin": "Rén shēng rú zhāolù, yīngdāng zhēnxī dāngxià de měi yī tiān.",
-      "traduccion": "La vida dura dos días, hay que valorar cada jornada en el presente."
+      "traduccion": "La vida son dos días, hay que valorar cada jornada en el presente."
     }
   },
   {
@@ -6751,8 +6751,8 @@
     "tradicional": "人盡可夫",
     "pinyin": "rén jìn kě fū",
     "significado_literal": "Cualquier hombre puede ser esposo",
-    "significado_figurado": "Expresión peyorativa clásica para referirse a una mujer de conducta sexual promiscua o prostituta",
-    "equivalente_espanol": "Una mujer de la vida",
+    "significado_figurado": "Expresión peyorativa clásica para referirse a una mujer de conducta sexual promiscua",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "旧社会常用人尽可夫这样的词汇贬低女性。",
       "pinyin": "Jiù shèhuì cháng yòng rén jìn kě fū zhèyàng de cíhuì biǎndī nǚxìng.",
@@ -6765,7 +6765,7 @@
     "pinyin": "rén jìn jiē zhī",
     "significado_literal": "Todas las personas lo saben por completo",
     "significado_figurado": "Un secreto o hecho que se ha difundido tanto que ha pasado a conocimiento público general",
-    "equivalente_espanol": "Saberlo hasta el apuntador / Ser un secreto a voces",
+    "equivalente_espanol": "Un secreto a voces",
     "ejemplo": {
       "oracion": "这件事早已在村里人尽皆知了。",
       "pinyin": "Zhè jiàn shì zǎoyǐ zài cūn lǐ rén jìn jiē zhī le.",
@@ -6804,7 +6804,7 @@
     "pinyin": "rén jǐ jiā zú",
     "significado_literal": "Cada persona abastecida, cada hogar abundante",
     "significado_figurado": "Situación de bienestar socioeconómico general donde las familias gozan de sustento y prosperidad",
-    "equivalente_espanol": "Atar los perros con longaniza",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "经过治理，当地开创了人给家足的繁荣局面。",
       "pinyin": "Jīngguò zhìlǐ, dāngdì kāichuàng le rén jǐ jiā zú de fánróng júmiàn.",
@@ -6827,14 +6827,14 @@
   {
     "simplificado": "人言可畏",
     "tradicional": "人言可畏",
-    "pinyin": "rén yán kě wèi",
+    "pinyin": "rén yān kě wèi",
     "significado_literal": "Las palabras de la gente son temibles",
-    "significado_figurado": "El enorme poder destructivo que pueden tener las habladurías y chismes sociales sobre la reputación",
-    "equivalente_espanol": "Las lenguas de doble filo",
+    "significado_figurado": "El enorme poder destructivo que pueden tener las habladurías y chismes sociales sobre la reputación de alguien",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
-      "oracion": "流言蜚语足以毁灭一个人，真是不言可畏。",
-      "pinyin": "Liúyán fēiyǔ zúyǐ huǐmiè yī ge rén, zhēn shì rén yán kě wèi.",
-      "traduccion": "Los chismes pueden arruinar a cualquiera: las malas lenguas son de doble filo."
+      "oracion": "流言蜚语足以毁灭一个人，真人言可畏。",
+      "pinyin": "Liúyán fēiyǔ zúyǐ huǐmiè yī ge rén, zhēn rén yán kě wèi.",
+      "traduccion": "Los chismes pueden arruinar a cualquiera: las habladurías son verdaderamente temibles."
     }
   },
   {
@@ -6847,7 +6847,7 @@
     "ejemplo": {
       "oracion": "对于这件事，坊间一时人言啧啧。",
       "pinyin": "Duìyú zhè jiàn shì, fāngjiān yīshí rén yán zé zé.",
-      "traduccion": "Sobre este escándalo, el asunto estuvo de inmediato en boca de todos."
+      "traduccion": "Sobre este asunto, el tema estuvo de inmediato en boca de todos."
     }
   },
   {
@@ -6855,12 +6855,12 @@
     "tradicional": "人言籍籍",
     "pinyin": "rén yán jí jí",
     "significado_literal": "Las palabras de la gente se amontonan desordenadamente",
-    "significado_figurado": "Rumores y críticas multitudinarias que circulan con fuerza en la opinión pública sobre algo",
+    "significado_figurado": "Rumores y críticas multitudinarias que circulan ampliamente en la opinión pública sobre un asunto",
     "equivalente_espanol": "Correr como la pólvora",
     "ejemplo": {
       "oracion": "消息传开后，外界对此人言籍籍。",
       "pinyin": "Xiāoxi chuán kāi hòu, wàijiè duì cǐ rén yán jí jí.",
-      "traduccion": "En cuanto saltó la noticia, las murmuraciones corrieron como la pólvora."
+      "traduccion": "En cuanto saltó la noticia, los rumores corrieron como la pólvora."
     }
   },
   {
@@ -6869,7 +6869,7 @@
     "pinyin": "rén shuí wú guò",
     "significado_literal": "¿Quién entre los hombres está libre de falta?",
     "significado_figurado": "Recordatorio de la imperfección humana para apelar a la comprensión y perdón ante un fallo",
-    "equivalente_espanol": "Errando, errando, se aprende a jugar / Errar es humano",
+    "equivalente_espanol": "Errar es humano",
     "ejemplo": {
       "oracion": "人谁无过，知错能改就是好事。",
       "pinyin": "Rén shuí wú guò, zhī cuò néng gǎi jiù shì hǎo shì.",
@@ -6998,12 +6998,12 @@
     "tradicional": "仁義道德",
     "pinyin": "rén yì dào dé",
     "significado_literal": "Benevolencia, rectitud, camino y virtud",
-    "significado_figurado": "Principios morales éticos tradicionales; a menudo usado con ironía hacia la hipocresía",
-    "equivalente_espanol": "Darse de santurrón",
+    "significado_figurado": "Principios morales tradicionales; a menudo usado con ironía para señalar la falsa moral o santurronería de alguien",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "嘴上满口仁义道德，背地里却净干坏事。",
       "pinyin": "Zuǐ shàng mǎn kǒu rén yì dào dé, bèidì lǐ què jìng gàn huài shì.",
-      "traduccion": "Se la pasa dándoselas de santurrón pero en secreto solo hace villanías."
+      "traduccion": "Se la pasa hablando de moralina pero en secreto solo hace villanías."
     }
   },
   {
@@ -7077,7 +7077,7 @@
     "pinyin": "jīn zhāo yǒu jiǔ jīn zhāo zuì",
     "significado_literal": "Hoy hay vino, hoy emborracharse",
     "significado_figurado": "Actitud hedonista y despreocupada centrada en disfrutar el presente sin pensar en el futuro",
-    "equivalente_espanol": "Carpe diem / Que me quiten lo bailao",
+    "equivalente_espanol": "Carpe diem",
     "ejemplo": {
       "oracion": "不能过今朝有酒今朝醉的生活，得为长远打算。",
       "pinyin": "Bù néng guò jīn zhāo yǒu jiǔ jīn zhāo zuì de shēnghuó, děi wèi chángyuǎn dǎsuàn.",
@@ -7089,7 +7089,7 @@
     "tradicional": "今非昔比",
     "pinyin": "jīn fēi xī bǐ",
     "significado_literal": "El hoy no es comparable al ayer",
-    "significado_figurado": "Haber mejorado radicalmente las condiciones o la situación presente respecto a épocas anteriores",
+    "significado_figurado": "Haber mejorado o cambiado radicalmente las condiciones presentes respecto a épocas anteriores",
     "equivalente_espanol": "De la noche al día",
     "ejemplo": {
       "oracion": "家乡的变化很大，和过去相比真是今非昔比了。",
@@ -7102,12 +7102,12 @@
     "tradicional": "他山之石可以攻玉",
     "pinyin": "tā shān zhī shí kěyǐ gōng yù",
     "significado_literal": "Las piedras de otra montaña sirven para pulir el jade",
-    "significado_figurado": "Aprovechar las ideas, críticas o experiencias ajenas para corregir e incrementar los propios conocimientos",
-    "equivalente_espanol": "Aprender en cabeza ajena",
+    "significado_figurado": "Aprovechar las ideas, críticas, métodos o experiencias ajenas para mejorar el trabajo propio",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "借鉴其他领域的经验，他山之石可以攻玉。",
       "pinyin": "Jièjiàn qítā lǐngyù de jīngyàn, tā shān zhī shí kěyǐ gōng yù.",
-      "traduccion": "Tomar la experiencia de otros campos nos permite aprender en cabeza ajena."
+      "traduccion": "Tomar la experiencia de otros campos nos permite perfeccionar nuestro propio trabajo."
     }
   },
   {
@@ -7128,12 +7128,12 @@
     "tradicional": "仗勢欺人",
     "pinyin": "zhàng shì qī rén",
     "significado_literal": "Apoyarse en el poder para humillar a la gente",
-    "significado_figurado": "Abusar de una posición, dinero o influencias para maltratar, amenazar o someter a otros",
-    "equivalente_espanol": "Mirar por encima del hombro",
+    "significado_figurado": "Abusar de una posición, poder o influencias para maltratar, amenazar o someter a otros",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
     "ejemplo": {
       "oracion": "依靠背景仗势欺人是令人厌恶的行为。",
       "pinyin": "Yīkào bèijǐng zhàng shì qī rén shì lìng rén yànwù de xíngwéi.",
-      "traduccion": "Aprovecharse del estatus para mirar por encima del hombro a los demás es deleznable."
+      "traduccion": "Abusar del poder apoyándose en las influencias es una conducta deleznable."
     }
   }
 ]
