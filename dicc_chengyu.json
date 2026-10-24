@@ -2585,5 +2585,655 @@
       "pinyin": "Tā sān xià liǎng xià jiù bǎ nántí gěi jiějué le.",
       "traduccion": "Resolvió el problema en un abrir y cerrar de ojos."
     }
+  },
+  {
+    "simplificado": "三五成群",
+    "tradicional": "三五成群",
+    "pinyin": "sān wǔ chéng qún",
+    "significado_literal": "Tres y cinco forman grupos",
+    "significado_figurado": "Personas que se juntan o caminan en pequeños grupos de tres a cinco personas",
+    "equivalente_espanol": "En pequeños grupos / De tres en tres y de cuatro en cuatro",
+    "ejemplo": {
+      "oracion": "放学后，同学们三五成群地走出校门。",
+      "pinyin": "Fàngxué hòu, tóngxuémen sān wǔ chéng qún de zǒu chū xiàomén.",
+      "traduccion": "Tras las clases, los alumnos salían por la puerta de la escuela en pequeños grupos."
+    }
+  },
+  {
+    "simplificado": "三人成虎",
+    "tradicional": "三人成虎",
+    "pinyin": "sān rén chéng hǔ",
+    "significado_literal": "Tres personas crean un tigre",
+    "significado_figurado": "Si una mentira o rumor es repetido por varias personas, termina siendo aceptado como verdad",
+    "equivalente_espanol": "Una mentira repetida mil veces se convierte en verdad / Difama, que algo queda",
+    "ejemplo": {
+      "oracion": "谣言传得多了，难免三人成虎，让人信以为真。",
+      "pinyin": "Yáoyán chuán de duō le, nánmiǎn sān rén chéng hǔ, ràng rén xìn yǐ wéi zhēn.",
+      "traduccion": "Si un rumor se difunde mucho, es inevitable que la gente termine creyéndolo."
+    }
+  },
+  {
+    "simplificado": "三令五申",
+    "tradicional": "三令五申",
+    "pinyin": "sān lìng wǔ shēn",
+    "significado_literal": "Tres órdenes, cinco reiteraciones",
+    "significado_figurado": "Repetir e inculcar una orden o advertencia en múltiples ocasiones para asegurar su cumplimiento",
+    "equivalente_espanol": "Advertir una y otra vez / Inculcar machaconamente",
+    "ejemplo": {
+      "oracion": "学校三令五申禁止考场作弊。",
+      "pinyin": "Xuéxiào sān lìng wǔ shēn jìnzhǐ kǎochǎng zuòbì.",
+      "traduccion": "La escuela advirtió una y otra vez que está prohibido copiar en los exámenes."
+    }
+  },
+  {
+    "simplificado": "三个和尚没水喝",
+    "tradicional": "三個和尚沒水喝",
+    "pinyin": "sān ge héshang méi shuǐ hē",
+    "significado_literal": "Tres monjes no tienen agua para beber",
+    "significado_figurado": "Cuando hay demasiadas personas a cargo de una tarea pero nadie asume la responsabilidad, el trabajo se queda sin hacer",
+    "equivalente_espanol": "Muchos cocineros echan a perder el caldo / La casa con dos puertas es mala de guardar",
+    "ejemplo": {
+      "oracion": "大家都不愿主动承担责任，结果三个和尚没水喝。",
+      "pinyin": "Dàjiā dōu bù yuàn zhǔdòng chéngdān zérèn, jiéguǒ sān ge héshang méi shuǐ hē.",
+      "traduccion": "Nadie quería asumir la responsabilidad, por lo que al final el trabajo se quedó sin hacer."
+    }
+  },
+  {
+    "simplificado": "三个女人一台戏",
+    "tradicional": "三個女人一台戲",
+    "pinyin": "sān ge nǚrén yī tái xì",
+    "significado_literal": "Tres mujeres, un escenario de ópera",
+    "significado_figurado": "Expresión coloquial que señala que cuando varias personas conversadoras se juntan, se genera mucho alboroto, charla o drama",
+    "equivalente_espanol": "Donde hay multitud, hay alboroto / Tres personas arman una fiesta",
+    "ejemplo": {
+      "oracion": "她们三个聚在一起聊天，真是三个女人一台戏。",
+      "pinyin": "Tāmen sān ge jù zài yīqǐ liáotiān, zhēn shì sān ge nǚrén yī tái xì.",
+      "traduccion": "Se juntaron las tres a charlar y armaron un auténtico alboroto."
+    }
+  },
+  {
+    "simplificado": "三个臭皮匠，合成一个诸葛亮",
+    "tradicional": "三個臭皮匠，合成一個諸葛亮",
+    "pinyin": "sān ge chòu píjiang, hé chéng yī ge Zhūgě Liàng",
+    "significado_literal": "Tres remendones de cuero equivalen a un Zhuge Liang",
+    "significado_figurado": "La sabiduría e inteligencia colectiva de gente común supera a la de un solo genio",
+    "equivalente_espanol": "Más ven cuatro ojos que dos / La unión hace la fuerza",
+    "ejemplo": {
+      "oracion": "大家一起想办法，三个臭皮匠，合成一个诸葛亮。",
+      "pinyin": "Dàjiā yīqǐ xiǎng bànfǎ, sān ge chòu píjiang, hé chéng yī ge Zhūgě Liàng.",
+      "traduccion": "Busquemos una solución entre todos: la unión hace la fuerza."
+    }
+  },
+  {
+    "simplificado": "三个臭皮匠，赛过一个诸葛亮",
+    "tradicional": "三個臭皮匠，賽過一個諸葛亮",
+    "pinyin": "sān ge chòu píjiang, sài guò yī ge Zhūgě Liàng",
+    "significado_literal": "Tres remendones de cuero superan a un Zhuge Liang",
+    "significado_figurado": "La cooperación y el intercambio de ideas entre personas ordinarias logran mejores resultados que el trabajo individual de un sabio",
+    "equivalente_espanol": "Más ven cuatro ojos que dos / Varias cabezas piensan mejor que una",
+    "ejemplo": {
+      "oracion": "别担心，三个臭皮匠，赛过一个诸葛亮，我们一定能搞定。",
+      "pinyin": "Bié dānxīn, sān ge chòu píjiang, sài guò yī ge Zhūgě Liàng, wǒmen yīdìng néng gǎodìng.",
+      "traduccion": "No te preocupes; varias cabezas piensan mejor que una, seguro que lo resolvemos."
+    }
+  },
+  {
+    "simplificado": "三个臭皮匠，赛过诸葛亮",
+    "tradicional": "三個臭皮匠，賽過諸葛亮",
+    "pinyin": "sān ge chòu píjiang, sài guò Zhūgě Liàng",
+    "significado_literal": "Tres remendones de cuero superan a Zhuge Liang",
+    "significado_figurado": "Variante abreviada que resalta el valor del trabajo en equipo e inteligencia colectiva",
+    "equivalente_espanol": "Más ven cuatro ojos que dos",
+    "ejemplo": {
+      "oracion": "集思广益，三个臭皮匠，赛过诸葛亮。",
+      "pinyin": "Jí sī guǎng yì, sān ge chòu píjiang, sài guò Zhūgě Liàng.",
+      "traduccion": "Sumemos ideas: más ven cuatro ojos que dos."
+    }
+  },
+  {
+    "simplificado": "三个臭皮匠，顶个诸葛亮",
+    "tradicional": "三個臭皮匠，頂個諸葛亮",
+    "pinyin": "sān ge chòu píjiang, dǐng ge Zhūgě Liàng",
+    "significado_literal": "Tres remendones de cuero equivalen a Zhuge Liang",
+    "significado_figurado": "Variante popular que indica que uniendo fuerzas entre personas comunes se iguala la capacidad de un genio",
+    "equivalente_espanol": "La unión hace la fuerza / Piensan más dos cabezas que una",
+    "ejemplo": {
+      "oracion": "咱们开会讨论讨论，三个臭皮匠，顶个诸葛亮嘛。",
+      "pinyin": "Zánmen kāihuì tǎolùn tǎolùn, sān ge chòu píjiang, dǐng ge Zhūgě Liàng ma.",
+      "traduccion": "Reunámonos a debatir: al fin y al cabo, piensan más dos cabezas que una."
+    }
+  },
+  {
+    "simplificado": "三十六计，走为上策",
+    "tradicional": "三十六計，走爲上策",
+    "pinyin": "sān shí liù jì, zǒu wéi shàng cè",
+    "significado_literal": "De treinta y seis estratagemas, retirarse es la mejor",
+    "significado_figurado": "Frente a una situación desfavorable o sin solución, la mejor opción es huir o retirarse a tiempo",
+    "equivalente_espanol": "Una retirada a tiempo es una victoria / Ponerse a salvo",
+    "ejemplo": {
+      "oracion": "情况不妙，三十六计，走为上策。",
+      "pinyin": "Qíngkuàng bù miào, sān shí liù jì, zǒu wéi shàng cè.",
+      "traduccion": "La cosa pinta mal: una retirada a tiempo es una victoria."
+    }
+  },
+  {
+    "simplificado": "三句话不离本行",
+    "tradicional": "三句話不離本行",
+    "pinyin": "sān jù huà bù lí běnháng",
+    "significado_literal": "Tres frases sin alejarse del propio oficio",
+    "significado_figurado": "Hablar constantemente de la propia profesión u oficio incluso en conversaciones casuales",
+    "equivalente_espanol": "Tirar para el monte / Hablar siempre de lo suyo",
+    "ejemplo": {
+      "oracion": "他是名医生，聊天时真是三句话不离本行。",
+      "pinyin": "Tā shì míng yīshēng, liáotiān shí zhēn shì sān jù huà bù lí běnháng.",
+      "traduccion": "Es médico, y cuando charla siempre termina hablando de lo suyo."
+    }
+  },
+  {
+    "simplificado": "三天不打，上房揭瓦",
+    "tradicional": "三天不打，上房揭瓦",
+    "pinyin": "sān tiān bù dǎ, shàng fáng jiē wǎ",
+    "significado_literal": "Tres días sin azotes, sube al tejado a quitar tejas",
+    "significado_figurado": "Dicho popular que señala que los niños se vuelven traviesos y desobedientes si no se les disciplina con frecuencia",
+    "equivalente_espanol": "A perro que no se le corrige, se le suben a las barbas / Cría cuervos",
+    "ejemplo": {
+      "oracion": "这孩子真是三天不打，上房揭瓦，太淘气了。",
+      "pinyin": "Zhè hái zi zhēn shì sān tiān bù dǎ, shàng fáng jiē wǎ, tài táoqì le.",
+      "traduccion": "A este niño si no se le frena se sube a las barbas; es extremadamente travieso."
+    }
+  },
+  {
+    "simplificado": "三天两头",
+    "tradicional": "三天兩頭",
+    "pinyin": "sān tiān liǎng tóu",
+    "significado_literal": "Tres días, dos extremos",
+    "significado_figurado": "Ocurrir algo con muchísima frecuencia, casi a diario o a cada momento",
+    "equivalente_espanol": "Un día sí y otro también / A todas horas / A cada momento",
+    "ejemplo": {
+      "oracion": "他三天两头请假，影响了工作进度。",
+      "pinyin": "Tā sān tiān liǎng tóu qǐngjià, yǐngxiǎng le gōngzuò jìdù.",
+      "traduccion": "Un día sí y otro también pide bajas, afectando el ritmo de trabajo."
+    }
+  },
+  {
+    "simplificado": "三妻四妾",
+    "tradicional": "三妻四妾",
+    "pinyin": "sān qī sì qiè",
+    "significado_literal": "Tres esposas, cuatro concubinas",
+    "significado_figurado": "Tener múltiples esposas y concubinas; poligamia en la antigua sociedad feudal",
+    "equivalente_espanol": "Poligamia / Tener un harén",
+    "ejemplo": {
+      "oracion": "在封建社会，大富人家往往三妻四妾。",
+      "pinyin": "Zài fēngjiàn shèhuì, dà fù rén jiā wǎngwǎng sān qī sì qiè.",
+      "traduccion": "En la sociedad feudal, los hombres ricos solían tener múltiples concubinas."
+    }
+  },
+  {
+    "simplificado": "三姑六婆",
+    "tradicional": "三姑六婆",
+    "pinyin": "sān gū liù pó",
+    "significado_literal": "Tres tipos de monjas, seis profesiones de mujeres",
+    "significado_figurado": "Mujeres de profesiones varias en el pasado; hoy se refiere peyorativamente a mujeres chismosas o intrusivas",
+    "equivalente_espanol": "Chismosas / Verduleras",
+    "ejemplo": {
+      "oracion": "邻里的三姑六婆总是喜欢聚在一起议论他人。",
+      "pinyin": "Línlǐ de sān gū liù pó zǒngshì xǐhuan jù zài yīqǐ yìlùn tārén.",
+      "traduccion": "Las chismosas del vecindario siempre disfrutan juntándose a hablar de los demás."
+    }
+  },
+  {
+    "simplificado": "三心二意",
+    "tradicional": "三心二意",
+    "pinyin": "sān xīn èr yì",
+    "significado_literal": "Tres corazones, dos intenciones",
+    "significado_figurado": "Estar indeciso, desatento o dividiendo el interés sin enfocarse en nada de manera constante",
+    "equivalente_espanol": "Estar a dos velas / Marear la perdiz / Estar indeciso",
+    "ejemplo": {
+      "oracion": "做事要专心，不能三心二意。",
+      "pinyin": "Zuòshì yào zhuānxīn, bù néng sān xīn èr yì.",
+      "traduccion": "Al hacer las cosas hay que concentrarse; no se puede estar mareando la perdiz."
+    }
+  },
+  {
+    "simplificado": "三思而后行",
+    "tradicional": "三思而後行",
+    "pinyin": "sān sī ér hòu xíng",
+    "significado_literal": "Pensar tres veces, después actuar",
+    "significado_figurado": "Reflexionar madura y detenidamente sobre las consecuencias antes de tomar una decisión o actuar",
+    "equivalente_espanol": "Consultarlo con la almohada / Pensárselo dos veces",
+    "ejemplo": {
+      "oracion": "这是一项重大决定，你必须三思而后行。",
+      "pinyin": "Zhè shì yī xiàng zhòngdà juédìng, nǐ bìxū sān sī ér hòu xíng.",
+      "traduccion": "Esta es una decisión trascendental; debes pensártelo dos veces."
+    }
+  },
+  {
+    "simplificado": "三思而行",
+    "tradicional": "三思而行",
+    "pinyin": "sān sī ér xíng",
+    "significado_literal": "Pensar tres veces y actuar",
+    "significado_figurado": "Variante breve que aconseja prudencia y cautela antes de emprender acciones importantes",
+    "equivalente_espanol": "Mirar antes de saltar / Pensárselo bien",
+    "ejemplo": {
+      "oracion": "面对风险，一定要三思而行。",
+      "pinyin": "Miànduì fēngxiǎn, yīdìng yào sān sī ér xíng.",
+      "traduccion": "Ante el riesgo, hay que mirar bien antes de saltar."
+    }
+  },
+  {
+    "simplificado": "三折肱为良医",
+    "tradicional": "三折肱爲良醫",
+    "pinyin": "sān zhé gōng wéi liáng yī",
+    "significado_literal": "Rompérsele a uno el brazo tres veces lo convierte en buen médico",
+    "significado_figurado": "Sufrir múltiples tropiezos o fracasos otorga la valiosa experiencia necesaria para dominar una materia",
+    "equivalente_espanol": "A fuerza de palos se aprende / La experiencia es la madre de la ciencia",
+    "ejemplo": {
+      "oracion": "俗话说三折肱为良医，经过这些失败，他终于找准了方向。",
+      "pinyin": "Súhuà shuō sān zhé gōng wéi liáng yī, jīngguò zhèxiē shībài, tā zhōngyú zhǎozhǔn le fāngxiàng.",
+      "traduccion": "Como se suele decir, a fuerza de palos se aprende: tras estos fracasos por fin dio con el camino."
+    }
+  },
+  {
+    "simplificado": "三旬九食",
+    "tradicional": "三旬九食",
+    "pinyin": "sān xún jiǔ shí",
+    "significado_literal": "En treinta días, nueve comidas",
+    "significado_figurado": "Estar sumido en la extrema escasez o penuria alimentaria por pobreza extrema",
+    "equivalente_espanol": "Pasar más hambre que un perro / Vivir en la absoluta penuria",
+    "ejemplo": {
+      "oracion": "他在战乱时期贫困潦倒，几乎是三旬九食。",
+      "pinyin": "Tā zài zhànluàn shíqī pínkùn liáodǎo, jīhū shì sān xún jiǔ shí.",
+      "traduccion": "Durante los tiempos de guerra vivió sumido en tal penuria que pasaba más hambre que un perro."
+    }
+  },
+  {
+    "simplificado": "三更半夜",
+    "tradicional": "三更半夜",
+    "pinyin": "sān gēng bàn yè",
+    "significado_literal": "Tercera vigilia, mitad de la noche",
+    "significado_figurado": "Hora sumamente tardía de la noche o altas horas de la madrugada",
+    "equivalente_espanol": "A las tantas de la noche / Altas horas de la madrugada",
+    "ejemplo": {
+      "oracion": "三更半夜的，不要大声敲门。",
+      "pinyin": "Sān gēng bàn yè de, bù yào dà shēng qiāo mén.",
+      "traduccion": "A estas tantas de la noche, no llames a la puerta haciendo tanto ruido."
+    }
+  },
+  {
+    "simplificado": "三生有幸",
+    "tradicional": "三生有幸",
+    "pinyin": "sān shēng yǒu xìng",
+    "significado_literal": "Tener buena suerte durante tres vidas",
+    "significado_figurado": "Expresión formal de cortesía para manifestar que conocer a alguien o recibir un honor es un enorme privilegio",
+    "equivalente_espanol": "Todo un honor / Un inmenso privilegio",
+    "ejemplo": {
+      "oracion": "今天能见到您，真是三生有幸。",
+      "pinyin": "Jīntiān néng jiàndào nín, zhēn shì sān shēng yǒu xìng.",
+      "traduccion": "Poder conocerle hoy es verdaderamente todo un honor para mí."
+    }
+  },
+  {
+    "simplificado": "三番五次",
+    "tradicional": "三番五次",
+    "pinyin": "sān fān wǔ cì",
+    "significado_literal": "Tres turnos, cinco veces",
+    "significado_figurado": "Reiterar o repetir una acción o petición múltiples veces con insistencia",
+    "equivalente_espanol": "Una y otra vez / En reiteradas ocasiones",
+    "ejemplo": {
+      "oracion": "我三番五次提醒他，他还是忘了。",
+      "pinyin": "Wǒ sān fān wǔ cì tíxǐng tā, tā háishì wàng le.",
+      "traduccion": "Se lo recordé una y otra vez, pero aun así lo olvidó."
+    }
+  },
+  {
+    "simplificado": "三番两次",
+    "tradicional": "三番兩次",
+    "pinyin": "sān fān liǎng cì",
+    "significado_literal": "Tres turnos, dos veces",
+    "significado_figurado": "Sinónimo de la anterior, referente a acciones repetidas frecuentemente",
+    "equivalente_espanol": "En repetidas ocasiones / Una y otra vez",
+    "ejemplo": {
+      "oracion": "他三番两次拒绝了对方的好意。",
+      "pinyin": "Tā sān fān liǎng cì jùjué le duìfāng de hǎoyì.",
+      "traduccion": "Rechazó las buenas intenciones de la otra parte en repetidas ocasiones."
+    }
+  },
+  {
+    "simplificado": "三百六十行",
+    "tradicional": "三百六十行",
+    "pinyin": "sān bǎi liù shí háng",
+    "significado_literal": "Trescientos sesenta oficios",
+    "significado_figurado": "La totalidad de las profesiones u ocupaciones laborales existentes en la sociedad",
+    "equivalente_espanol": "Todas las profesiones / Todo tipo de oficios",
+    "ejemplo": {
+      "oracion": "三百六十行，行行出状元。",
+      "pinyin": "Sān bǎi liù shí háng, háng háng chū zhuàngyuán.",
+      "traduccion": "En todo tipo de oficios se puede destacar de manera brillante."
+    }
+  },
+  {
+    "simplificado": "三纲五常",
+    "tradicional": "三綱五常",
+    "pinyin": "sān gāng wǔ cháng",
+    "significado_literal": "Tres lazos, cinco virtudes constantes",
+    "significado_figurado": "Principios morales éticos e ideológicos que regían la conducta jerárquica en el confucianismo tradicional",
+    "equivalente_espanol": "Código moral tradicional confuciano / Principios éticos tradicionales",
+    "ejemplo": {
+      "oracion": "封建社会极其看重三纲五常。",
+      "pinyin": "Fēngjiàn shèhuì jíqí kànzhòng sān gāng wǔ cháng.",
+      "traduccion": "La sociedad feudal le daba un valor extremo al código moral confuciano."
+    }
+  },
+  {
+    "simplificado": "三缄其口",
+    "tradicional": "三緘其口",
+    "pinyin": "sān jiān qí kǒu",
+    "significado_literal": "Sellarse la boca tres veces",
+    "significado_figurado": "Mantener una discreción o cautela extrema, negándose rotundamente a hablar de un tema",
+    "equivalente_espanol": "Morderse la lengua / Guardar silencio sepulcral",
+    "ejemplo": {
+      "oracion": "面对记者关于隐私的提问，他三缄其口。",
+      "pinyin": "Miànduì jìzhě guānyú yǐnsī de tíwèn, tā sān jiān qí kǒu.",
+      "traduccion": "Ante las preguntas de los periodistas sobre su privacidad, guardó silencio sepulcral."
+    }
+  },
+  {
+    "simplificado": "三茶六饭",
+    "tradicional": "三茶六飯",
+    "pinyin": "sān chá liù fàn",
+    "significado_literal": "Tres tés, seis comidas",
+    "significado_figurado": "Atención, hospitalidad y servicio extremadamente esmerado hacia los invitados o parientes",
+    "equivalente_espanol": "Atender a cuerpo de rey / Trato impecable de anfitrión",
+    "ejemplo": {
+      "oracion": "主人家三茶六饭地招待我们，非常客气。",
+      "pinyin": "Zhǔrén jiā sān chá liù fàn de zhāodài wǒmen, fēicháng kèqi.",
+      "traduccion": "La familia anfitriona nos atendió a cuerpo de rey; fueron sumamente amables."
+    }
+  },
+  {
+    "simplificado": "三言两句",
+    "tradicional": "三言兩句",
+    "pinyin": "sān yán liǎng jù",
+    "significado_literal": "Tres palabras, dos frases",
+    "significado_figurado": "Expresarse con extrema brevedad y concisión",
+    "equivalente_espanol": "En dos palabras / Brevemente",
+    "ejemplo": {
+      "oracion": "他用三言两句就把事情解释清楚了。",
+      "pinyin": "Tā yòng sān yán liǎng jù jiù bǎ shìqing jiěshì qīngchu le.",
+      "traduccion": "Explicó todo el asunto claramente en dos palabras."
+    }
+  },
+  {
+    "simplificado": "三言两语",
+    "tradicional": "三言兩語",
+    "pinyin": "sān yán liǎng yǔ",
+    "significado_literal": "Tres palabras, dos explicaciones",
+    "significado_figurado": "Sinónimo de la anterior; utilizar muy pocas palabras para dar una explicación",
+    "equivalente_espanol": "En pocas palabras / Con cuatro trazos",
+    "ejemplo": {
+      "oracion": "三言两语说不清楚，我们找个地方细谈。",
+      "pinyin": "Sān yán liǎng yǔ shuō bù qīngchu, wǒmen zhǎo ge dìfāng xì tán.",
+      "traduccion": "En pocas palabras no queda claro; busquemos un lugar para hablar en detalle."
+    }
+  },
+  {
+    "simplificado": "三足鼎立",
+    "tradicional": "三足鼎立",
+    "pinyin": "sān zú dǐng lì",
+    "significado_literal": "Un trípode sostenido en tres patas",
+    "significado_figurado": "Equilibrio geopolítico, económico o social formado por tres fuerzas contrapuestas de igual poder",
+    "equivalente_espanol": "Triunvirato de fuerzas / Terna equilibrista",
+    "ejemplo": {
+      "oracion": "三国外卖市场呈现出三足鼎立的局面。",
+      "pinyin": "Sān guó wàimài shìchǎng chéngxiàn chū sān zú dǐng lì de júmiàn.",
+      "traduccion": "El mercado de comida a domicilio presenta un equilibrio entre tres grandes fuerzas."
+    }
+  },
+  {
+    "simplificado": "三头六臂",
+    "tradicional": "三頭六臂",
+    "pinyin": "sān tóu liù bì",
+    "significado_literal": "Tres cabezas, seis brazos",
+    "significado_figurado": "Poseer destrezas o capacidades extraordinarias y sobrehumanas para resolver múltiples problemas",
+    "equivalente_espanol": "Ser un superhombre / Tener mil manos",
+    "ejemplo": {
+      "oracion": "就算你有三头六臂，一个人也干不完这么多活。",
+      "pinyin": "Jiùsuàn nǐ yǒu sān tóu liù bì, yī ge rén yě gàn bù wán zhème duō huó.",
+      "traduccion": "Aunque fueras un superhombre, una sola persona no puede terminar tanto trabajo."
+    }
+  },
+  {
+    "simplificado": "三顾茅庐",
+    "tradicional": "三顧茅廬",
+    "pinyin": "sān gù máolú",
+    "significado_literal": "Tres visitas a la choza de paja",
+    "significado_figurado": "Insistir con sincera humillación y constancia para convocar o contratar a alguien de gran talento",
+    "equivalente_espanol": "Rogar de rodillas / Porfiar hasta convencer a un talento",
+    "ejemplo": {
+      "oracion": "为了请这位专家出山，总经理亲自三顾茅庐。",
+      "pinyin": "Wèile qǐng zhè wèi zhuānjiā chūshān, zǒngjīnglǐ qīnzì sān gù máolú.",
+      "traduccion": "Para contratar a este experto, el director general en persona acudió a insistir con absoluta humildad."
+    }
+  },
+  {
+    "simplificado": "上一次当，学一次乖",
+    "tradicional": "上一次當，學一次乖",
+    "pinyin": "shàng yī cì dàng, xué yī cì guāi",
+    "significado_literal": "Sufrir un engaño una vez enseña una lección de prudencia",
+    "significado_figurado": "Sufrir un tropiezo o estafa aporta el aprendizaje para ser más prevenido en el futuro",
+    "equivalente_espanol": "De los errores se aprende / Escarmentar en cabeza propia",
+    "ejemplo": {
+      "oracion": "这次受骗就当是买个教训吧，上一次当，学一次乖。",
+      "pinyin": "Zhè cì shòupiàn jiù dāng shì mǎi ge jiàoxun ba, shàng yī cì dàng, xué yī cì guāi.",
+      "traduccion": "Toma este engaño como un aprendizaje: de los errores se aprende a ser más precavido."
+    }
+  },
+  {
+    "simplificado": "上下其手",
+    "tradicional": "上下其手",
+    "pinyin": "shàng xià qí shǒu",
+    "significado_literal": "Mover la mano arriba y abajo",
+    "significado_figurado": "Manipular sutilmente las reglas o documentos en provecho propio; acosar o manosear físicamente a alguien",
+    "equivalente_espanol": "Amañar / Hacer trampas / Manosear",
+    "ejemplo": {
+      "oracion": "他在投标过程中上下其手，谋取私利。",
+      "pinyin": "Tā zài tóubiāo guòchéng zhōng shàng xià qí shǒu, móuqǔ sīlì.",
+      "traduccion": "Amañó el proceso de licitación para obtener beneficios privados."
+    }
+  },
+  {
+    "simplificado": "上刀山，下油锅",
+    "tradicional": "上刀山，下油鍋",
+    "pinyin": "shàng dāo shān, xià yóu guō",
+    "significado_literal": "Subir la montaña de cuchillos, bajar al caldero de aceite",
+    "significado_figurado": "Enfrentar los tormentos más despiadados o arriesgar la vida por lealtad sin el menor reparo",
+    "equivalente_espanol": "Ir al fin del mundo / Pasar por el fuego y el agua",
+    "ejemplo": {
+      "oracion": "为了兄弟，就算上刀山，下油锅我也在所不辞。",
+      "pinyin": "Wèile xiōngdì, jiùsuàn shàng dāo shān, xià yóu guō wǒ yě zàisuǒbùcí.",
+      "traduccion": "Por un hermano, iría al fin del mundo sin dudarlo."
+    }
+  },
+  {
+    "simplificado": "上刀山，下火海",
+    "tradicional": "上刀山，下火海",
+    "pinyin": "shàng dāo shān, xià huǒ hǎi",
+    "significado_literal": "Subir la montaña de cuchillos, bajar al mar de fuego",
+    "significado_figurado": "Soportar cualquier peligro o sacrificio extremo con inquebrantable determinación",
+    "equivalente_espanol": "Ir al fin del mundo / Atravesar mar y fuego",
+    "ejemplo": {
+      "oracion": "只要是任务需要，战士们上刀山，下火海绝不犹豫。",
+      "pinyin": "Zhǐyào shì rènwu xūyào, zhànshìmen shàng dāo shān, xià huǒ hǎi jué bù yóuyù.",
+      "traduccion": "Si la misión lo exige, los soldados atravesarán mar y fuego sin dudar."
+    }
+  },
+  {
+    "simplificado": "上天入地",
+    "tradicional": "上天入地",
+    "pinyin": "shàng tiān rù dì",
+    "significado_literal": "Subir al cielo, entrar en la tierra",
+    "significado_figurado": "Poseer destrezas asombrosas para desplazarse a cualquier parte o buscar exhaustivamente en todos los rincones",
+    "equivalente_espanol": "Mover cielo y tierra / Estar en todas partes",
+    "ejemplo": {
+      "oracion": "孙悟空有上天入地的本领。",
+      "pinyin": "Sūn Wùkōng yǒu shàng tiān rù dì de běnlǐng.",
+      "traduccion": "Sun Wukong posee la habilidad de mover cielo y tierra."
+    }
+  },
+  {
+    "simplificado": "上天无路，入地无门",
+    "tradicional": "上天無路，入地無門",
+    "pinyin": "shàng tiān wú lù, rù dì wú mén",
+    "significado_literal": "Para subir al cielo no hay camino, para entrar en la tierra no hay puerta",
+    "significado_figurado": "Estar acorralado en una situación desesperada sin ninguna vía de escape o salvación",
+    "equivalente_espanol": "Estar en un callejón sin salida / Acorralado sin salida",
+    "ejemplo": {
+      "oracion": "逃犯陷进了包围圈，真是上天无路，入地无门。",
+      "pinyin": "Táofàn xiàn jìn le bāowéi quān, zhēn shì shàng tiān wú lù, rù dì wú mén.",
+      "traduccion": "El prófugo cayó en el cerco; verdaderamente estaba acorralado sin salida."
+    }
+  },
+  {
+    "simplificado": "上有天堂，下有苏杭",
+    "tradicional": "上有天堂，下有蘇杭",
+    "pinyin": "shàng yǒu tiāntáng, xià yǒu Sū Háng",
+    "significado_literal": "Arriba está el cielo, abajo están Suzhou y Hangzhou",
+    "significado_figurado": "Elogio poético a la extrema belleza, prosperidad y encanto idílico de las ciudades de Suzhou y Hangzhou",
+    "equivalente_espanol": "Un paraíso en la tierra",
+    "ejemplo": {
+      "oracion": "上有天堂，下有苏杭，这里的风景果然名不虚传。",
+      "pinyin": "Shàng yǒu tiāntáng, xià yǒu Sū Háng, zhèlǐ de fēngjǐng guǒrán míng bù xū chuán.",
+      "traduccion": " Suzhou y Hangzhou son un paraíso en la tierra; el paisaje hace justicia a su fama."
+    }
+  },
+  {
+    "simplificado": "上有政策，下有对策",
+    "tradicional": "上有政策，下有對策",
+    "pinyin": "shàng yǒu zhèngcè, xià yǒu duìcè",
+    "significado_literal": "Arriba hay políticas, abajo hay contramedidas",
+    "significado_figurado": "Burlar o esquivar astutamente las regulaciones e directivas impuestas por las autoridades superiores",
+    "equivalente_espanol": "Hecha la ley, hecha la trampa",
+    "ejemplo": {
+      "oracion": "如果不加强监管，有些部门就会上有政策，下有对策。",
+      "pinyin": "Rúguǒ bù jiāqiáng jiānguǎn, yǒu xiē bùmén jiù huì shàng yǒu zhèngcè, xià yǒu duìcè.",
+      "traduccion": "Si no se refuerza la supervisión, algunos departamentos aplicarán el dicho de hecha la ley, hecha la trampa."
+    }
+  },
+  {
+    "simplificado": "上有老下有小",
+    "tradicional": "上有老下有小",
+    "pinyin": "shàng yǒu lǎo xià yǒu xiǎo",
+    "significado_literal": "Arriba hay ancianos, abajo hay niños",
+    "significado_figurado": "Tener la pesada responsabilidad económica de mantener tanto a padres ancianos como a hijos pequeños",
+    "equivalente_espanol": "Tener cargas familiares a hombros",
+    "ejemplo": {
+      "oracion": "中年人生活压力大，上有老下有小。",
+      "pinyin": "Zhōngnián rén shēnghuó yālì dà, shàng yǒu lǎo xià yǒu xiǎo.",
+      "traduccion": "Las personas de mediana edad sufren gran presión vital: tienen todas las cargas familiares a cuestas."
+    }
+  },
+  {
+    "simplificado": "上梁不正下梁歪",
+    "tradicional": "上梁不正下梁歪",
+    "pinyin": "shàng liáng bù zhèng xià liáng wāi",
+    "significado_literal": "Si la viga superior es torcida, la viga inferior queda inclinada",
+    "significado_figurado": "Si los líderes o padres actúan de forma corrupta o equivocada, los subordinados o hijos seguirán el mal ejemplo",
+    "equivalente_espanol": "De tal palo, tal astilla / Si el jefe roba, los empleados copian",
+    "ejemplo": {
+      "oracion": "领导自己就不守规矩，真是上梁不正下梁歪。",
+      "pinyin": "Lǐngdǎo zìjǐ jiù bù shǒu guīju, zhēn shì shàng liáng bù zhèng xià liáng wāi.",
+      "traduccion": "El propio líder no respeta las normas; verdaderamente, si la viga superior está torcida, las de abajo se inclinan."
+    }
+  },
+  {
+    "simplificado": "上气不接下气",
+    "tradicional": "上氣不接下氣",
+    "pinyin": "shàng qì bù jiē xià qì",
+    "significado_literal": "El aire que sube no empalma con el aire que baja",
+    "significado_figurado": "Respirar con extrema dificultad, jadear intensamente tras un gran esfuerzo físico",
+    "equivalente_espanol": "Quedarse sin aliento / Jadear sin parar",
+    "ejemplo": {
+      "oracion": "一口气跑完长跑，他累得上气不接下气。",
+      "pinyin": "Yī kǒu qì pǎo wán chángpǎo, tā lèi de shàng qì bù jiē xià qì.",
+      "traduccion": "Tras correr la maratón de un tirón, quedó sin aliento por el cansancio."
+    }
+  },
+  {
+    "simplificado": "上当受骗",
+    "tradicional": "上當受騙",
+    "pinyin": "shàng dàng shòu piàn",
+    "significado_literal": "Caer en la trampa y sufrir engaño",
+    "significado_figurado": "Ser víctima de una estafa, fraude o manipulaciones maliciosas",
+    "equivalente_espanol": "Caer en la trampa / Dar gato por liebre",
+    "ejemplo": {
+      "oracion": "老年人容易在保健品促销中上当受骗。",
+      "pinyin": "Lǎonián rén róngyì zài bǎojiànpǐn cùxiāo zhōng shàng dàng shòu piàn.",
+      "traduccion": "Las personas mayores son propensas a caer en la trampa con las promociones de suplementos."
+    }
+  },
+  {
+    "simplificado": "上行下效",
+    "tradicional": "上行下效",
+    "pinyin": "shàng xíng xià xiào",
+    "significado_literal": "Los superiores actúan, los inferiores imitan",
+    "significado_figurado": "Los subordinados o la sociedad siguen e imitan las conductas (buenas o malas) de los gobernantes o superiores",
+    "equivalente_espanol": "Cundir el ejemplo / Imitar a los de arriba",
+    "ejemplo": {
+      "oracion": "倡导节约要上行下效，领导人先做好表率。",
+      "pinyin": "Chàngdǎo jiéyuē yào shàng xíng xià xiào, lǐngdǎorén xiān zuò hǎo biǎoshuài.",
+      "traduccion": "Promover el ahorro requiere que cunda el ejemplo: los líderes deben dar primero la pauta."
+    }
+  },
+  {
+    "simplificado": "上贼船",
+    "tradicional": "上賊船",
+    "pinyin": "shàng zéi chuán",
+    "significado_literal": "Subir al barco pirata",
+    "significado_figurado": "Unirse sin saberlo o por engaño a una organización o causa delictiva o dudosa",
+    "equivalente_espanol": "Meterse en el fango / Embarcarse en una mala causa",
+    "ejemplo": {
+      "oracion": "误信了他的谎言，我这是上了贼船。",
+      "pinyin": "Wù xìn le tā de huǎngyán, wǒ zhè shì shàng le zéi chuán.",
+      "traduccion": "Al creerme sus mentiras, me metí de lleno en el fango."
+    }
+  },
+  {
+    "simplificado": "不三不四",
+    "tradicional": "不三不四",
+    "pinyin": "bù sān bù sì",
+    "significado_literal": "Ni tres ni cuatro",
+    "significado_figurado": "Persona sospechosa, de dudosa reputación, informal o vulgar",
+    "equivalente_espanol": "De mala catadura / De dudosa reputación",
+    "ejemplo": {
+      "oracion": "少和那些不三不四的人来往。",
+      "pinyin": "Shǎo hé nàxiē bù sān bù sì de rén lái wǎng.",
+      "traduccion": "Trata menos con esa gente de mala catadura."
+    }
+  },
+  {
+    "simplificado": "不以为然",
+    "tradicional": "不以爲然",
+    "pinyin": "bù yǐ wéi rán",
+    "significado_literal": "No considerarlo correcto",
+    "significado_figurado": "Estar en desacuerdo o desestimar una opinión por considerarla errónea",
+    "equivalente_espanol": "No estar de acuerdo / Desestimar",
+    "ejemplo": {
+      "oracion": "对于我的建议，他态度冷淡，不以为然。",
+      "pinyin": "Duìyú wǒ de jiànyì, tā tàidu lěngdàn, bù yǐ wéi rán.",
+      "traduccion": "Ante mi sugerencia mostró una actitud fría y la desestimó."
+    }
+  },
+  {
+    "simplificado": "不以词害志",
+    "tradicional": "不以詞害志",
+    "pinyin": "bù yǐ cí hài zhì",
+    "significado_literal": "No dejar que las palabras dañen la intención",
+    "significado_figurado": "No quedarse atascado en el significado literal de las palabras sin comprender la verdadera intención del autor",
+    "equivalente_espanol": "Captar el espíritu y no solo la letra / No quedarse en la corteza",
+    "ejemplo": {
+      "oracion": "阅读古诗要懂得不以词害志，领会深刻意境。",
+      "pinyin": "Yuèdú gǔshī yào dǒngde bù yǐ cí hài zhì, lǐnghuì shēnke yìjìng.",
+      "traduccion": "Al leer poesía clásica hay que aprender a captar el espíritu y no quedarse solo en la corteza."
+    }
   }
 ]
