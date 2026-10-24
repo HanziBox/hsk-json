@@ -5835,5 +5835,655 @@
       "pinyin": "Suīrán tā zuòchū le jídà de nǔlì, dàn jiéguǒ háishì shì yǔ yuàn wéi.",
       "traduccion": "Aunque se esforzó al máximo, al final le salió el tiro por la culata."
     }
+  },
+  {
+    "simplificado": "事过境迁",
+    "tradicional": "事過境遷",
+    "pinyin": "shì guò jìng qiān",
+    "significado_literal": "El asunto pasa, el escenario cambia",
+    "significado_figurado": "Las circunstancias han cambiado totalmente con el paso del tiempo y la situación ya no es la misma que antes",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "多年后再回到老家，早已事过境迁。",
+      "pinyin": "Duō nián hòu zài huí dào lǎojiā, zǎoyǐ shì guò jìng qiān.",
+      "traduccion": "Al regresar a su pueblo tras muchos años, las circunstancias ya habían cambiado por completo."
+    }
+  },
+  {
+    "simplificado": "二话不说",
+    "tradicional": "二話不說",
+    "pinyin": "èr huà bù shuō",
+    "significado_literal": "Ni dos palabras decir",
+    "significado_figurado": "Actuar de inmediato, sin vacilar ni poner objeciones",
+    "equivalente_espanol": "Sin pensárselo dos veces",
+    "ejemplo": {
+      "oracion": "听说朋友有难，他二话不说就跑去帮忙了。",
+      "pinyin": "Tīngshuō péngyou yǒu nàn, tā èr huà bù shuō jiù pǎo qù bāngmáng le.",
+      "traduccion": "Al enterarse de que su amigo estaba en apuros, sin pensárselo dos veces fue a ayudarlo."
+    }
+  },
+  {
+    "simplificado": "互为因果",
+    "tradicional": "互爲因果",
+    "pinyin": "hù wéi yīn guǒ",
+    "significado_literal": "Mutuamente ser causa y efecto",
+    "significado_figurado": "Dos hechos o elementos que se influyen y provocan el uno al otro de forma recíproca",
+    "equivalente_espanol": "La pescadilla que se muerde la cola",
+    "ejemplo": {
+      "oracion": "这两个问题互相影响，互为因果。",
+      "pinyin": "Zhè liǎng ge wèntí hùxiāng yǐngxiǎng, hù wéi yīn guǒ.",
+      "traduccion": "Estos dos problemas se influyen mutuamente; es como la pescadilla que se muerde la cola."
+    }
+  },
+  {
+    "simplificado": "互相推诿",
+    "tradicional": "互相推諉",
+    "pinyin": "hù xiāng tuī wěi",
+    "significado_literal": "Mutuamente empujar la culpa",
+    "significado_figurado": "Rechazar la responsabilidad de un fallo o tarea achacándosela a los demás",
+    "equivalente_espanol": "Pasarse la pelota",
+    "ejemplo": {
+      "oracion": "出事之后，几个部门互相推诿。",
+      "pinyin": "Chū shì zhīhòu, jǐ ge bùmén hùxiāng tuī wěi.",
+      "traduccion": "Tras el incidente, los departamentos empezaron a pasarse la pelota unos a otros."
+    }
+  },
+  {
+    "simplificado": "互诉衷肠",
+    "tradicional": "互訴衷腸",
+    "pinyin": "hù sù zhōng cháng",
+    "significado_literal": "Mutuamente relatar las entrañas",
+    "significado_figurado": "Contarse dos personas sinceramente sus sentimientos o pensamientos más íntimos",
+    "equivalente_espanol": "Abrir el corazón",
+    "ejemplo": {
+      "oracion": "老友重逢，两人坐在一起互诉衷肠。",
+      "pinyin": "Lǎoyǒu chóngféng, liǎng rén zuò zài yīqǐ hù sù zhōng cháng.",
+      "traduccion": "Al reencontrarse tras tanto tiempo, los dos viejos amigos se sentaron a abrirse el corazón."
+    }
+  },
+  {
+    "simplificado": "互通有无",
+    "tradicional": "互通有無",
+    "pinyin": "hù tōng yǒu wú",
+    "significado_literal": "Mutuamente hacer circular lo que se tiene y lo que falta",
+    "significado_figurado": "Intercambiar bienes, información o recursos según las necesidades de cada parte",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "两国通过商业贸易，互通有无。",
+      "pinyin": "Liǎng guó tōngguò shāngyè màoyì, hù tōng yǒu wú.",
+      "traduccion": "Ambos países intercambian lo que les falta a través del comercio."
+    }
+  },
+  {
+    "simplificado": "五光十色",
+    "tradicional": "五光十色",
+    "pinyin": "wǔ guāng shí sè",
+    "significado_literal": "Cinco luces, diez colores",
+    "significado_figurado": "Variedad enorme de colores brillantes, llamativos o estilos muy vistosos",
+    "equivalente_espanol": "De mil colores",
+    "ejemplo": {
+      "oracion": "夜晚的商业街灯光闪烁，五光十色。",
+      "pinyin": "Yèwǎn de shāngyè jiē dēngguāng shǎnshuò, wǔ guāng shí sè.",
+      "traduccion": "De noche, la calle comercial brilla con luces de mil colores."
+    }
+  },
+  {
+    "simplificado": "五十步笑百步",
+    "tradicional": "五十步笑百步",
+    "pinyin": "wǔ shí bù xiào bǎi bù",
+    "significado_literal": "El de cincuenta pasos se ríe del de cien pasos",
+    "significado_figurado": "Criticar a alguien por un fallo cuando uno mismo ha cometido el mismo error, solo que en menor grado",
+    "equivalente_espanol": "Dijo la sartén al cazo",
+    "ejemplo": {
+      "oracion": "你自己也迟到了，就别五十步笑百步了。",
+      "pinyin": "Nǐ zìjǐ yě chídào le, jiù bié wǔ shí bù xiào bǎi bù le.",
+      "traduccion": "Tú también has llegado tarde, así que no le digas la sartén al cazo."
+    }
+  },
+  {
+    "simplificado": "五味俱全",
+    "tradicional": "五味俱全",
+    "pinyin": "wǔ wèi jù quán",
+    "significado_literal": "Los cinco sabores están completos",
+    "significado_figurado": "Tener todos los matices de sabor; o bien, experimentar en la vida una mezcla compleja de sensaciones",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "回顾这一年来的经历，真是五味俱全。",
+      "pinyin": "Huígù zhè yī nián lái de jīnglì, zhēn shì wǔ wèi jù quán.",
+      "traduccion": "Repasando las vivencias de este año, uno siente verdaderamente de todo un poco."
+    }
+  },
+  {
+    "simplificado": "五味杂陈",
+    "tradicional": "五味雜陳",
+    "pinyin": "wǔ wèi zá chén",
+    "significado_literal": "Los cinco sabores se mezclan",
+    "significado_figurado": "Sentir una mezcla agridulce e intensa de emociones complejas difíciles de explicar",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "听到这个意外的消息，他心里五味杂陈。",
+      "pinyin": "Tīngdào zhè ge yìwài de xiāoxi, tā xīnlǐ wǔ wèi zá chén.",
+      "traduccion": "Al enterarse de esta noticia inesperada, sintió una maraña de emociones encontradas."
+    }
+  },
+  {
+    "simplificado": "五彩缤纷",
+    "tradicional": "五彩繽紛",
+    "pinyin": "wǔ cǎi bīnfēn",
+    "significado_literal": "Cinco colores en abundancia",
+    "significado_figurado": "Tener multitud de colores llamativos, vivos y variados",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "节日里，花坛里盛开着五彩缤纷的花朵。",
+      "pinyin": "Jiérì lǐ, huātán lǐ shèngkāizhe wǔ cǎi bīnfēn de huāduǒ.",
+      "traduccion": "En las fiestas, los parterres están llenos de flores multicolores."
+    }
+  },
+  {
+    "simplificado": "五色缤纷",
+    "tradicional": "五色繽紛",
+    "pinyin": "wǔ sè bīnfēn",
+    "significado_literal": "Cinco tonos en abundancia",
+    "significado_figurado": "Variante de la anterior; profusión de colores vivos y variados",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "夜空中绽放出五色缤纷的烟花。",
+      "pinyin": "Yèkōng zhōng zhànfàng chū wǔ sè bīnfēn de yāohuā.",
+      "traduccion": "En el cielo nocturno estallaron fuegos artificiales de mil colores."
+    }
+  },
+  {
+    "simplificado": "五马分尸",
+    "tradicional": "五馬分屍",
+    "pinyin": "wǔ mǎ fēn shī",
+    "significado_literal": "Cinco caballos descuartizan un cadáver",
+    "significado_figurado": "Antiguo castigo de ejecución al tirar de las extremidades; figuradamente, descuartizar algo",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "古代曾有用五马分尸这种酷刑。",
+      "pinyin": "Gǔdài céng yǒu yòng wǔ mǎ fēn shī zhè zhǒng kùxíng.",
+      "traduccion": "En la antigüedad existía el cruel castigo de descuartizar con cinco caballos."
+    }
+  },
+  {
+    "simplificado": "五体投地",
+    "tradicional": "五體投地",
+    "pinyin": "wǔ tǐ tóu dì",
+    "significado_literal": "Cinco extremidades al suelo",
+    "significado_figurado": "Sentir una admiración, respeto o sumisión absoluta hacia alguien",
+    "equivalente_espanol": "Quitarse el sombrero",
+    "ejemplo": {
+      "oracion": "我对他的才华佩服得五体投地。",
+      "pinyin": "Wǒ duì tā de cáihuá pèifú de wǔ tǐ tóu dì.",
+      "traduccion": "Ante su talento me quito el sombrero."
+    }
+  },
+  {
+    "simplificado": "井井有条",
+    "tradicional": "井井有條",
+    "pinyin": "jǐng jǐng yǒu tiáo",
+    "significado_literal": "Campos en cuadrícula con orden",
+    "significado_figurado": "Tener las cosas perfectamente estructuradas, organizadas y pulcras",
+    "equivalente_espanol": "En perfecto orden",
+    "ejemplo": {
+      "oracion": "她把办公室里安排得井井有条。",
+      "pinyin": "Tā bǎ bàngōngshì lǐ ānpái de jǐng jǐng yǒu tiáo.",
+      "traduccion": "Tiene la oficina organizada en perfecto orden."
+    }
+  },
+  {
+    "simplificado": "井底之蛙",
+    "tradicional": "井底之蛙",
+    "pinyin": "jǐng dǐ zhī wā",
+    "significado_literal": "Rana en el fondo del pozo",
+    "significado_figurado": "Persona de visión muy estrecha e ignorante que cree que su pequeño entorno lo es todo",
+    "equivalente_espanol": "No ver más allá de sus narices",
+    "ejemplo": {
+      "oracion": "如果不出去看看世界，就会变成井底之蛙。",
+      "pinyin": "Rúguǒ bù chūqù kànkan shìjiè, jiù huì biàn chéng jǐng dǐ zhī wā.",
+      "traduccion": "Si no sales a ver mundo, acabarás sin ver más allá de tus narices."
+    }
+  },
+  {
+    "simplificado": "井然有序",
+    "tradicional": "井然有序",
+    "pinyin": "jǐng rán yǒu xù",
+    "significado_literal": "Ordenado como una cuadrícula",
+    "significado_figurado": "Estar todo dispuesto con perfecta secuencia y método, sin el menor caos",
+    "equivalente_espanol": "En perfecto orden",
+    "ejemplo": {
+      "oracion": "队伍排列得井然有序。",
+      "pinyin": "Duìwu páiliè de jǐng rán yǒu xù.",
+      "traduccion": "La fila estaba organizada en perfecto orden."
+    }
+  },
+  {
+    "simplificado": "井蛙之见",
+    "tradicional": "井蛙之見",
+    "pinyin": "jǐng wā zhī jiàn",
+    "significado_literal": "La visión de la rana del pozo",
+    "significado_figurado": "Opinión o punto de vista sumamente limitado, ingenuo y falto de perspectiva",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "这只是我的井蛙之见，供大家参考。",
+      "pinyin": "Zhè zhǐshì wǒ de jǐng wā zhī jiàn, gōng dàjiā cānkǎo.",
+      "traduccion": "Esta es solo mi limitada visión, para vuestra consideración."
+    }
+  },
+  {
+    "simplificado": "亘古不变",
+    "tradicional": "亘古不變",
+    "pinyin": "gèn gǔ bù biàn",
+    "significado_literal": "Desde la antigüedad no cambia",
+    "significado_figurado": "Permanecer inalterable a lo largo del tiempo o de la historia",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "日月星辰的运行似乎是亘古不变的。",
+      "pinyin": "Rì yuè xīngchén de yùnxíng sìhū shì gèn gǔ bù biàn de.",
+      "traduccion": "El movimiento del sol y las estrellas parece inalterable con los siglos."
+    }
+  },
+  {
+    "simplificado": "亡命之徒",
+    "tradicional": "亡命之徒",
+    "pinyin": "wáng mìng zhī tú",
+    "significado_literal": "Individuo que arriesga la vida",
+    "significado_figurado": "Criminal o sujeto peligroso y desesperado capaz de cualquier atrocidad sin temer a la muerte",
+    "equivalente_espanol": "Un desalmado",
+    "ejemplo": {
+      "oracion": "警察正在抓捕那个逃跑的亡命之徒。",
+      "pinyin": "Jǐngchá zhèngzài zhuābǔ nà ge táopǎo de wáng mìng zhī tú.",
+      "traduccion": "La policía persigue a ese desalmado que se ha dado a la fuga."
+    }
+  },
+  {
+    "simplificado": "亡国灭种",
+    "tradicional": "亡國滅種",
+    "pinyin": "wáng guó miè zhǒng",
+    "significado_literal": "Perder el estado, extinguirse la estirpe",
+    "significado_figurado": "Catástrofe máxima en la que una nación cae destruida y su pueblo queda aniquilado",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "面对亡国灭种的危险，大家团结了起来。",
+      "pinyin": "Miànduì wáng guó miè zhǒng de wěixiǎn, dàjiā tuánjié le qǐlái.",
+      "traduccion": "Ante la amenaza del exterminio total de la nación, todos se unieron."
+    }
+  },
+  {
+    "simplificado": "亡羊补牢",
+    "tradicional": "亡羊補牢",
+    "pinyin": "wáng yáng bǔ láo",
+    "significado_literal": "Perder la oveja, reparar el corral",
+    "significado_figurado": "Tomar medidas correctoras tras haber sufrido una pérdida para evitar que se repita",
+    "equivalente_espanol": "Más vale tarde que nunca",
+    "ejemplo": {
+      "oracion": "虽然造成了损失，但现在亡羊补牢还来得及。",
+      "pinyin": "Suīrán zàochéng le sǔnshī, dàn xiànzài wáng yáng bǔ láo hái láidejí.",
+      "traduccion": "Aunque hubo pérdidas, tomar medidas ahora es mejor que nunca."
+    }
+  },
+  {
+    "simplificado": "交口称誉",
+    "tradicional": "交口稱譽",
+    "pinyin": "jiāo kǒu chēng yù",
+    "significado_literal": "Bocas cruzadas elogian",
+    "significado_figurado": "Alabar o elogiar todo el mundo de forma unánime a una persona o acción",
+    "equivalente_espanol": "Deshacerse en elogios",
+    "ejemplo": {
+      "oracion": "对于他的好人好事，大家都交口称誉。",
+      "pinyin": "Duìyú tā de hǎorén hǎoshì, dàjiā dōu jiāo kǒu chēng yù.",
+      "traduccion": "Ante su noble gesto, todo el mundo se deshizo en elogios."
+    }
+  },
+  {
+    "simplificado": "交浅言深",
+    "tradicional": "交淺言深",
+    "pinyin": "jiāo qiǎn yán shēn",
+    "significado_literal": "Trato superficial, palabras profundas",
+    "significado_figurado": "Tratar asuntos muy íntimos o comprometedores con alguien a quien apenas se conoce",
+    "equivalente_espanol": "Hablar de más con desconocidos",
+    "ejemplo": {
+      "oracion": "我和他刚认识，不好交浅言深。",
+      "pinyin": "Wǒ hé tā gāng rènshi, bù hǎo jiāo qiǎn yán shēn.",
+      "traduccion": "Apenas acabo de conocerlo, no conviene hablar de más."
+    }
+  },
+  {
+    "simplificado": "亦敌亦友",
+    "tradicional": "亦敵亦友",
+    "pinyin": "yì dí yì yǒu",
+    "significado_literal": "También enemigo, también amigo",
+    "significado_figurado": "Relación ambivalente entre dos competidores que rivalizan pero al mismo tiempo se respetan",
+    "equivalente_espanol": "Amigos y rivales",
+    "ejemplo": {
+      "oracion": "在多年竞争中，他们成了亦敌亦友的关系。",
+      "pinyin": "Zài duō nián jìngzhēng zhōng, tāmen chéng le yì dí yì yǒu de guānxi.",
+      "traduccion": "Tras años de competencia, acabaron teniendo una relación de amigos y rivales."
+    }
+  },
+  {
+    "simplificado": "亦步亦趋",
+    "tradicional": "亦步亦趨",
+    "pinyin": "yì bù yì qū",
+    "significado_literal": "Si da un paso das un paso, si trota trotas",
+    "significado_figurado": "Imitar o seguir ciegamente a otra persona en todo sin tener iniciativa propia",
+    "equivalente_espanol": "Seguir el juego a alguien",
+    "ejemplo": {
+      "oracion": "做事要有独创精神，不能亦步亦趋。",
+      "pinyin": "Zuòshì yào yǒu dúchuàng jīngshén, bù néng yì bù yì qū.",
+      "traduccion": "Al trabajar hay que tener iniciativa propia y no limitarse a seguir el juego al resto."
+    }
+  },
+  {
+    "simplificado": "亭亭玉立",
+    "tradicional": "亭亭玉立",
+    "pinyin": "tíng tíng yù lì",
+    "significado_literal": "Erguida como una figura de jade",
+    "significado_figurado": "Describir la figura esbelta, alta y elegante de una joven mujer",
+    "equivalente_espanol": "Esbelta como un junco",
+    "ejemplo": {
+      "oracion": "几年不见，小姑娘已经长得亭亭玉立了。",
+      "pinyin": "Jǐ nián bù jiàn, xiǎo gūniang yǐjīng zhǎng de tíng tíng yù lì le.",
+      "traduccion": "Tras unos años sin verla, la jovencita ha crecido y está esbelta como un junco."
+    }
+  },
+  {
+    "simplificado": "人丁兴旺",
+    "tradicional": "人丁興旺",
+    "pinyin": "rén dīng xīngwàng",
+    "significado_literal": "Los miembros de la familia prosperan",
+    "significado_figurado": "Tener una familia numerosa con muchos descendientes y buen crecimiento",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "这个家族人口众多，人丁兴旺。",
+      "pinyin": "Zhè ge jiāzú rénkǒu zhòngduō, rén dīng xīngwàng.",
+      "traduccion": "Esta familia tiene muchísimos miembros y un gran crecimiento."
+    }
+  },
+  {
+    "simplificado": "人不可貌相",
+    "tradicional": "人不可貌相",
+    "pinyin": "rén bù kě mào xiàng",
+    "significado_literal": "A las personas no se las juzga por el aspecto",
+    "significado_figurado": "No se debe evaluar el talento o la valía de alguien basándose solo en su apariencia externa",
+    "equivalente_espanol": "El hábito no hace al monje",
+    "ejemplo": {
+      "oracion": "别看他穿得普通，人不可貌相，他可是个隐形富豪。",
+      "pinyin": "Bié kàn tā chuān de pǔtōng, rén bù kě mào xiàng, tā kě shì ge yǐnxíng fùháo.",
+      "traduccion": "Aunque viste sencillo, el hábito no hace al monje; resulta que es millonario."
+    }
+  },
+  {
+    "simplificado": "人不可貌相，海水不可斗量",
+    "tradicional": "人不可貌相，海水不可斗量",
+    "pinyin": "rén bù kě mào xiàng, hǎi shuǐ bù kě dǒu liáng",
+    "significado_literal": "A las personas no se las juzga por la cara; el agua del mar no se mide con un cazo",
+    "significado_figurado": "Refrán completo que advierte contra el error de menospreciar la capacidad de alguien por su físico humilde",
+    "equivalente_espanol": "Las apariencias engañan",
+    "ejemplo": {
+      "oracion": "正所谓人不可貌相，海水不可斗量，你可不能小看他。",
+      "pinyin": "Zhèng suǒwèi rén bù kě mào xiàng, hǎi shuǐ bù kě dǒu liáng, nǐ kě bù néng xiǎokàn tā.",
+      "traduccion": "Como se suele decir, las apariencias engañan, así que no lo subestimes."
+    }
+  },
+  {
+    "simplificado": "人中龙凤",
+    "tradicional": "人中龍鳳",
+    "pinyin": "rén zhōng lóng fèng",
+    "significado_literal": "Dragón y fénix entre los hombres",
+    "significado_figurado": "Persona de talento, estatus o virtudes extraordinarias que destaca sobre el común de la gente",
+    "equivalente_espanol": "Un fuera de serie",
+    "ejemplo": {
+      "oracion": "他从小聪明过人，真是人中龙凤。",
+      "pinyin": "Tā cóngxiǎo cōngmíng guòrén, zhēn shì rén zhōng lóng fèng.",
+      "traduccion": "Desde pequeño fue brillante; verdaderamente es un fuera de serie."
+    }
+  },
+  {
+    "simplificado": "人之常情",
+    "tradicional": "人之常情",
+    "pinyin": "rén zhī cháng qíng",
+    "significado_literal": "Sentimiento habitual de las personas",
+    "significado_figurado": "Reacción, emoción o deseo normal y comprensible en cualquier ser humano",
+    "equivalente_espanol": "Lo más normal del mundo",
+    "ejemplo": {
+      "oracion": "遇到困难会感到沮丧，这是人之常情。",
+      "pinyin": "Yùdào kùnnan huì gǎndào jǔsàng, zhè shì rén zhī cháng qíng.",
+      "traduccion": "Desanimarse ante los problemas es lo más normal del mundo."
+    }
+  },
+  {
+    "simplificado": "人云亦云",
+    "tradicional": "人雲亦雲",
+    "pinyin": "rén yún yì yún",
+    "significado_literal": "Lo que otros dicen, uno también lo dice",
+    "significado_figurado": "Repetir la opinión ajena sin tener criterio propio ni reflexionar sobre ello",
+    "equivalente_espanol": "Repetir como un papagayo",
+    "ejemplo": {
+      "oracion": "思考问题要有主见，不能人云亦云。",
+      "pinyin": "Sīkǎo wèntí yào yǒu zhǔjiàn, bù néng rén yún yì yún.",
+      "traduccion": "Hay que tener criterio propio y no repetir como un papagayo."
+    }
+  },
+  {
+    "simplificado": "人五人六",
+    "tradicional": "人五人六",
+    "pinyin": "rén wǔ rén liù",
+    "significado_literal": "Aparentar ser cinco o seis personas",
+    "significado_figurado": "Fingir importancia, darse aires de grandeza o aparentar ser decente sin serlo",
+    "equivalente_espanol": "Darse aires",
+    "ejemplo": {
+      "oracion": "看他穿得人五人六的，说话却很粗俗。",
+      "pinyin": "Kàn tā chuān de rén wǔ rén liù de, shuōhuà què hěn cūsú.",
+      "traduccion": "Míralo dándose aires con esa ropa, pero al hablar es de lo más vulgar."
+    }
+  },
+  {
+    "simplificado": "人仰马翻",
+    "tradicional": "人仰馬翻",
+    "pinyin": "rén yǎng mǎ fān",
+    "significado_literal": "Hombres caídos, caballos volcados",
+    "significado_figurado": "Caos total, desorden extremo o gran agotamiento tras un combate o jornada intensa",
+    "equivalente_espanol": "Estar hecho un trapo",
+    "ejemplo": {
+      "oracion": "忙活了一整天，大家累得人仰马翻。",
+      "pinyin": "Mánghuo le yī zhěng tiān, dàjiā lèi de rén yǎng mǎ fān.",
+      "traduccion": "Tras trabajar todo el día, todos terminaron hechos un trapo."
+    }
+  },
+  {
+    "simplificado": "人来人往",
+    "tradicional": "人來人往",
+    "pinyin": "rén lái rén wǎng",
+    "significado_literal": "Gente que viene, gente que va",
+    "significado_figurado": "Un lugar continuo de paso con mucho ajetreo y tránsito constante de personas",
+    "equivalente_espanol": "Un hormiguero de gente",
+    "ejemplo": {
+      "oracion": "车站里人来人往，非常热闹。",
+      "pinyin": "Chēzhàn lǐ rén lái rén wǎng, fēicháng rènao.",
+      "traduccion": "En la estación hay un auténtico hormiguero de gente."
+    }
+  },
+  {
+    "simplificado": "人杰地灵",
+    "tradicional": "人傑地靈",
+    "pinyin": "rén jié dì líng",
+    "significado_literal": "Gente ilustre, tierra con alma",
+    "significado_figurado": "Lugar hermoso o próspero que destaca por haber dado grandes talentos y figuras eminentes",
+    "equivalente_espanol": "Cuna de sabios",
+    "ejemplo": {
+      "oracion": "这座小城人杰地灵，出了不少名人。",
+      "pinyin": "Zhè zuò xiǎochéng rén jié dì líng, chū le bù shǎo míngrén.",
+      "traduccion": "Esta pequeña ciudad es cuna de sabios y ha dado muchas figuras ilustres."
+    }
+  },
+  {
+    "simplificado": "人去楼空",
+    "tradicional": "人去樓空",
+    "pinyin": "rén qù lóu kōng",
+    "significado_literal": "La gente se marchó, el edificio quedó vacío",
+    "significado_figurado": "Sensación de nostalgia al volver a un sitio donde ya no están las personas queridas",
+    "equivalente_espanol": "Ahí no queda ni el tato",
+    "ejemplo": {
+      "oracion": "重访旧居，早已人去楼空。",
+      "pinyin": "Chóngfǎng jiùjū, zǎoyǐ rén qù lóu kōng.",
+      "traduccion": "Al volver a su antigua casa, allí no quedaba ni el tato."
+    }
+  },
+  {
+    "simplificado": "人命关天",
+    "tradicional": "人命關天",
+    "pinyin": "rén mìng guān tiān",
+    "significado_literal": "La vida humana toca al cielo",
+    "significado_figurado": "Asunto de máxima gravedad e importancia porque está en juego la vida de una persona",
+    "equivalente_espanol": "Cuestión de vida o muerte",
+    "ejemplo": {
+      "oracion": "这可是人命关天的大事，不能疏忽。",
+      "pinyin": "Zhè kě shì rén mìng guān tiān de dàshì, bù néng shūhu.",
+      "traduccion": "Esta es una cuestión de vida o muerte, no se puede tener ningún descuido."
+    }
+  },
+  {
+    "simplificado": "人喊马嘶",
+    "tradicional": "人喊馬嘶",
+    "pinyin": "rén hǎn mǎ sī",
+    "significado_literal": "Hombres gritando, caballos relinchando",
+    "significado_figurado": "Gran alboroto, ruido estruendoso y movimiento caótico en un sitio concurrido",
+    "equivalente_espanol": "Un guirigay",
+    "ejemplo": {
+      "oracion": "现场人喊马嘶，一片混乱。",
+      "pinyin": "Xiànchǎng rén hǎn mǎ sī, yīpiàn hùnluàn.",
+      "traduccion": "En el lugar había un guirigay y todo era un caos."
+    }
+  },
+  {
+    "simplificado": "人困马乏",
+    "tradicional": "人困馬乏",
+    "pinyin": "rén kùn mǎ fá",
+    "significado_literal": "Hombres agotados, caballos cansados",
+    "significado_figurado": "Agotamiento extremo de todo un equipo tras un largo viaje o esfuerzo continuo",
+    "equivalente_espanol": "No poder con las botas",
+    "ejemplo": {
+      "oracion": "经过赶路，队伍已经人困马乏。",
+      "pinyin": "Jīngguò gǎnlù, duìwu yǐjīng rén kùn mǎ fá.",
+      "traduccion": "Tras el viaje, el grupo estaba que no podía con las botas."
+    }
+  },
+  {
+    "simplificado": "人寿年丰",
+    "tradicional": "人壽年豐",
+    "pinyin": "rén shòu nián fēng",
+    "significado_literal": "Gente longeva, año de buena cosecha",
+    "significado_figurado": "Deseo o descripción de una época próspera y saludable para la comunidad",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "村里生活富足，一片人寿年丰的景象。",
+      "pinyin": "Cūn lǐ shēnghuó fùzú, yīpiàn rén shòu nián fēng de jǐngxiàng.",
+      "traduccion": "En el pueblo la vida es próspera y se respira paz y abundancia."
+    }
+  },
+  {
+    "simplificado": "人外有人，天外有天",
+    "tradicional": "人外有人，天外有天",
+    "pinyin": "rén wài yǒu rén, tiān wài yǒu tiān",
+    "significado_literal": "Fuera de la persona hay personas, fuera del cielo hay cielos",
+    "significado_figurado": "Por hábil que sea alguien, siempre habrá otra persona con mayor capacidad, por lo que conviene ser humilde",
+    "equivalente_espanol": "Siempre hay un pez más grande",
+    "ejemplo": {
+      "oracion": "别太自满，要知道人外有人，天外有天。",
+      "pinyin": "Bié tài zìmǎn, yào zhīdào rén wài yǒu rén, tiān wài yǒu tiān.",
+      "traduccion": "No presumas tanto; recuerda que siempre hay un pez más grande."
+    }
+  },
+  {
+    "simplificado": "人多势众",
+    "tradicional": "人多勢眾",
+    "pinyin": "rén duō shì zhòng",
+    "significado_literal": "Mucha gente, gran fuerza",
+    "significado_figurado": "Tener ventaja por contar con un grupo numeroso de personas a favor",
+    "equivalente_espanol": "Ser multitud",
+    "ejemplo": {
+      "oracion": "对方人多势众，我们不可硬拼。",
+      "pinyin": "Duìfāng rén duō shì zhòng, wǒmen bù kě yìng pīn.",
+      "traduccion": "Ellos son multitud, no debemos enfrentarnos a la fuerza."
+    }
+  },
+  {
+    "simplificado": "人如其名",
+    "tradicional": "人如其名",
+    "pinyin": "rén rú qí míng",
+    "significado_literal": "La persona es como su nombre",
+    "significado_figurado": "Cuando el carácter o aspecto de alguien encaja con el significado de su nombre",
+    "equivalente_espanol": "Hacer honor a su nombre",
+    "ejemplo": {
+      "oracion": "她叫美丽，长得也确实人如其名。",
+      "pinyin": "Tā jiào Měilì, zhǎng de yě quèshí rén rú qí míng.",
+      "traduccion": "Se llama Meili (Bella) y verdaderamente hace honor a su nombre."
+    }
+  },
+  {
+    "simplificado": "人定胜天",
+    "tradicional": "人定勝天",
+    "pinyin": "rén dìng shèng tiān",
+    "significado_literal": "La determinación humana vence al cielo",
+    "significado_figurado": "La voluntad y el esfuerzo del hombre pueden superar los obstáculos naturales o el destino",
+    "equivalente_espanol": "Querer es poder",
+    "ejemplo": {
+      "oracion": "只要大家团结一心，相信人定胜天。",
+      "pinyin": "Zhǐyào dàjiā tuánjié yīxīn, xiāngxìn rén dìng shèng tiān.",
+      "traduccion": "Mientras nos unamos todos, confío en que querer es poder."
+    }
+  },
+  {
+    "simplificado": "人山人海",
+    "tradicional": "人山人海",
+    "pinyin": "rén shān rén hǎi",
+    "significado_literal": "Montañas de gente, mares de gente",
+    "significado_figurado": "Lugar repleto con una multitud enorme de personas congregadas",
+    "equivalente_espanol": "A reventar",
+    "ejemplo": {
+      "oracion": "广场上人山人海，非常热闹。",
+      "pinyin": "Guǎngchǎng shàng rén shān rén hǎi, fēicháng rènao.",
+      "traduccion": "La plaza estaba a reventar de gente."
+    }
+  },
+  {
+    "simplificado": "人往高处走，水往低处流",
+    "tradicional": "人往高處走，水往低處流",
+    "pinyin": "rén wǎng gāo chù zǒu, shuǐ wǎng dī chù liú",
+    "significado_literal": "El hombre camina hacia lo alto, el agua fluye hacia lo bajo",
+    "significado_figurado": "Es natural que las personas busquen progresar y mejorar en la vida",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "他换工作是为了更好地发展，人往高处走，水往低处流嘛。",
+      "pinyin": "Tā huàn gōngzuò shì wèile gèng hǎo de fāzhǎn, rén wǎng gāo chù zǒu, shuǐ wǎng dī chù liú ma.",
+      "traduccion": "Cambió de trabajo para crecer; al fin y al cabo, buscar progresar es lo natural."
+    }
+  },
+  {
+    "simplificado": "人微言轻",
+    "tradicional": "人微言輕",
+    "pinyin": "rén wēi yán qīng",
+    "significado_literal": "La persona es insignificante, sus palabras pesan poco",
+    "significado_figurado": "Tener poca posición, por lo que las opiniones de uno no son tenidas en cuenta",
+    "equivalente_espanol": "No pintar nada",
+    "ejemplo": {
+      "oracion": "我在公司人微言轻，说话没人在乎。",
+      "pinyin": "Wǒ zài gōngsī rén wēi yán qīng, shuōhuà méi rén zàihu.",
+      "traduccion": "En la empresa no pinto nada, nadie le hace caso a lo que digo."
+    }
+  },
+  {
+    "simplificado": "人心不古",
+    "tradicional": "人心不古",
+    "pinyin": "rén xīn bù gǔ",
+    "significado_literal": "El corazón humano no es como el antiguo",
+    "significado_figurado": "Lamentar que la honestidad y rectitud moral de la gente han empeorado respecto a tiempos pasados",
+    "equivalente_espanol": "Sin equivalente idiomático directo",
+    "ejemplo": {
+      "oracion": "社会上屡发骗案，不仅让人感叹人心不古。",
+      "pinyin": "Shèhuì shàng lǚ fā piàn'àn, bùjǐn ràng rén gǎntàn rén xīn bù gǔ.",
+      "traduccion": "Con tanto engaño suelto, da la impresión de que se ha perdido la honestidad de antaño."
+    }
   }
 ]
