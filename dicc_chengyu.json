@@ -2057,17 +2057,34 @@
     "significado_literal": "No hay un solo orificio que esté abierto.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "No saber ni jota.",
+    "equivalente_espanol": "No tener ni idea.",
     "sinonimos": [
       "一无所知"
     ],
     "ejemplo": {
       "oracion": "他对这门课一窍不通。",
       "pinyin": "Tā duì zhè mén kè yī qiào bù tōng.",
-      "traduccion": "Él no entiende nada de esta materia."
+      "traduccion": "Él no tiene ni idea sobre esta materia."
     },
     "revision_manual_pendiente": false
   },
+  {
+  "simplificado": "心不在焉",
+  "tradicional": "心不在焉",
+  "pinyin": "xīn bù zài yān",
+  "significado_figurado": "Estar distraído o tener la mente en otra parte, sin prestar atención a lo que sucede.",
+  "significado_literal": "El corazón (la mente) no está ahí.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Estar en las nubes",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他上课时总是心不在焉。",
+    "pinyin": "Tā shàng kè shí zǒng shì xīn bù zài yān.",
+    "traduccion": "Siempre está en las nubes durante las clases."
+  },
+  "revision_manual_pendiente": false
+},
   {
     "simplificado": "一笔不苟",
     "tradicional": "一筆不苟",
@@ -2076,7 +2093,7 @@
     "significado_literal": "No dejar ni una sola traza descuidada.",
     "frecuencia": 3,
     "registro": "Literario",
-    "equivalente_espanol": "Con mano firme.",
+    "equivalente_espanol": "Meticuloso.",
     "sinonimos": [
       "一丝不苟"
     ],
@@ -2228,7 +2245,7 @@
     "significado_literal": "No dejar ni un solo hilo descuidado.",
     "frecuencia": 4,
     "registro": "Literario",
-    "equivalente_espanol": "Con mano firme.",
+    "equivalente_espanol": "Meticuloso.",
     "sinonimos": [
       "一笔不苟"
     ],
@@ -2316,11 +2333,45 @@
     "revision_manual_pendiente": false
   },
   {
+  "simplificado": "引人注目",
+  "tradicional": "引人注目",
+  "pinyin": "yǐn rén zhù mù",
+  "significado_figurado": "Llamar la atención; atraer las miradas o destacar entre los demás.",
+  "significado_literal": "Atraer la atención de las personas y fijar la mirada.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Llamar la atención.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "她穿了一件引人注目的红色连衣裙。",
+    "pinyin": "Tā chuān le yí jiàn yǐn rén zhù mù de hóngsè liányīqún.",
+    "traduccion": "Llevaba un vestido rojo que llamaba mucho la atención."
+  },
+  "revision_manual_pendiente": false
+},
+  {
+  "simplificado": "马马虎虎",
+  "tradicional": "馬馬虎虎",
+  "pinyin": "mǎ ma hū hu",
+  "significado_figurado": "Hacer algo de manera descuidada o mediocre; también puede significar que algo es más o menos aceptable o que uno se encuentra regular, según el contexto.",
+  "significado_literal": "Caballo, caballo, tigre, tigre.",
+  "frecuencia": 5,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Así así, regular, de cualquier manera.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他做事总是马马虎虎，所以经常出错。",
+    "pinyin": "Tā zuò shì zǒng shì mǎmahūhū, suǒyǐ jīngcháng chūcuò.",
+    "traduccion": "Siempre hace las cosas de cualquier manera, por eso comete errores con frecuencia."
+  },
+  "revision_manual_pendiente": false
+},
+  {
     "simplificado": "一举两得",
     "tradicional": "一舉兩得",
     "pinyin": "yī jǔ liǎng dé",
     "significado_figurado": "Lograr dos beneficios con una sola acción.",
-    "significado_literal": "Un levantamiento, dos beneficios.",
+    "significado_literal": "Una acción, dos beneficios.",
     "frecuencia": 5,
     "registro": "Neutro",
     "equivalente_espanol": "Matar dos pájaros de un tiro.",
@@ -2454,7 +2505,7 @@
     "significado_literal": "Amor en un solo vistazo.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "Amor a primera vista.",
+    "equivalente_espanol": "Amor a primera vista, flechazo.",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "他们在派对上相遇，真是一见钟情。",
@@ -7519,12 +7570,12 @@
     "significado_literal": "Desordenado y en descomposición.",
     "frecuencia": 5,
     "registro": "Neutro",
-    "equivalente_espanol": "Un lío.",
+    "equivalente_espanol": "Un desastre, un lío.",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "他的房间总是乱七八糟，根本没法住人。",
       "pinyin": "Tā de fángjiān zǒng shì luàn qī bā zāo, gēnběn méi fǎ zhù rén.",
-      "traduccion": "Su habitación siempre está hecha un lío, no se puede vivir allí."
+      "traduccion": "Su habitación siempre está hecha un desastre, no se puede vivir allí."
     },
     "revision_manual_pendiente": false
   },
@@ -8090,14 +8141,14 @@
     "significado_literal": "La rana en el fondo del pozo.",
     "frecuencia": 3,
     "registro": "Literario",
-    "equivalente_espanol": "Rana de pozo",
+    "equivalente_espanol": "Estrecho de miras, provinciano",
     "sinonimos": [
       "井底之蛙"
     ],
     "ejemplo": {
       "oracion": "他是个井底之蛙，根本不知道外面的世界。",
       "pinyin": "Tā shì gè jǐng dǐ zhī wā, gēnběn bù zhīdào wàimiàn de shìjiè.",
-      "traduccion": "Es una rana de pozo, no tiene idea del mundo exterior."
+      "traduccion": "Es un estrecho de miras, no tiene idea del mundo exterior."
     },
     "revision_manual_pendiente": false
   },
@@ -8204,7 +8255,7 @@
     "significado_literal": "Reparar el establo después de perder una oveja.",
     "frecuencia": 4,
     "registro": "Literario",
-    "equivalente_espanol": "Más vale tarde que nunca",
+    "equivalente_espanol": "Remediar el error.",
     "sinonimos": [
       "亡羊补牢"
     ],
@@ -18182,7 +18233,7 @@
     "significado_figurado": "Dejar algo a medio camino, no completar un esfuerzo o proyecto.",
     "significado_literal": "Abandonar a medio camino.",
     "frecuencia": 4,
-    "registro": "Literario",
+    "registro": "Neutro",
     "equivalente_espanol": "Dejar a medias",
     "sinonimos": [
       "半途而废"
@@ -26522,19 +26573,36 @@
     "revision_manual_pendiente": false
   },
   {
+  "simplificado": "翻来覆去",
+  "tradicional": "翻來覆去",
+  "pinyin": "fān lái fù qù",
+  "significado_figurado": "Dar vueltas repetidamente a un asunto, repetir algo una y otra vez o revolverse sin poder quedarse quieto, especialmente en la cama.",
+  "significado_literal": "Darse la vuelta de un lado a otro, girar repetidamente.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Dar vueltas y vueltas",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "昨晚我翻来覆去，怎么也睡不着。",
+    "pinyin": "Zuówǎn wǒ fān lái fù qù, zěnme yě shuì bu zháo.",
+    "traduccion": "Anoche no paré de dar vueltas en la cama y no conseguía dormirme."
+  },
+  "revision_manual_pendiente": false
+},
+  {
     "simplificado": "大吃一惊",
     "tradicional": "大吃一驚",
     "pinyin": "dà chī yī jīng",
     "significado_figurado": "Sorprenderse mucho o quedar asombrado.",
     "significado_literal": "Comer un gran susto.",
-    "frecuencia": 4,
+    "frecuencia": 5,
     "registro": "Neutro",
     "equivalente_espanol": "Quedarse boquiabierto.",
     "sinonimos": [],
     "ejemplo": {
-      "oracion": "他的大吃一惊让大家都笑了。",
-      "pinyin": "Tā de dà chī yī jīng ràng dàjiā dōu xiàole.",
-      "traduccion": "Su gran sorpresa hizo reír a todos."
+    "oracion": "听到这个消息，他大吃一惊。",
+    "pinyin": "Tīng dào zhège xiāoxi, tā dà chī yì jīng.",
+    "traduccion": "Al escuchar esta noticia, se llevó una gran sorpresa."
     },
     "revision_manual_pendiente": false
   },
@@ -32893,12 +32961,12 @@
     "significado_literal": "Con cuidado y con cautela.",
     "frecuencia": 5,
     "registro": "Neutro",
-    "equivalente_espanol": "Con pies de plomo.",
+    "equivalente_espanol": "Con sumo cuidado, con pies de plomo.",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "他小心翼翼地处理这个敏感问题。",
       "pinyin": "Tā xiǎo xīn yì yì de chǔlǐ zhège mǐngǎn wèntí.",
-      "traduccion": "Él maneja este asunto delicado con mucho cuidado."
+      "traduccion": "Él maneja este asunto delicado con sumo cuidado."
     },
     "revision_manual_pendiente": false
   },
@@ -34990,7 +35058,7 @@
     "significado_literal": "Descuidar el sueño y olvidar la comida.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "Estar tan absorto que se olvida de comer y dormir.",
+    "equivalente_espanol": ".",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "他为了研究这个课题，废寝忘食。",
@@ -37671,7 +37739,7 @@
     "significado_literal": "Inquietud y desasosiego.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "Estar nervioso",
+    "equivalente_espanol": "Estar inquieto.",
     "sinonimos": [
       "心神不宁"
     ],
@@ -39589,12 +39657,12 @@
     "significado_literal": "El amor no permite soltar la mano.",
     "frecuencia": 5,
     "registro": "Neutro",
-    "equivalente_espanol": "No poder dejar de tener algo en las manos.",
+    "equivalente_espanol": "No poder dejar o soltar algo.",
     "sinonimos": [],
     "ejemplo": {
-      "oracion": "这件衣服我爱不释手，天天都穿。",
-      "pinyin": "Zhè jiàn yīfú wǒ ài bù shì shǒu, tiāntiān dōu chuān.",
-      "traduccion": "Esta prenda me encanta tanto que la uso todos los días."
+      "oracion": "这本书太有趣了，我读得爱不释手。",
+      "pinyin": "Zhè běn shū tài yǒuqù le, wǒ dú de àibùshìshǒu.",
+      "traduccion": "Este libro es tan interesante que no puedo soltarlo."
     },
     "revision_manual_pendiente": false
   },
@@ -43302,6 +43370,23 @@
     },
     "revision_manual_pendiente": false
   },
+  {
+  "simplificado": "自相矛盾",
+  "tradicional": "自相矛盾",
+  "pinyin": "zì xiāng máo dùn",
+  "significado_figurado": "Contradecirse a uno mismo; presentar contradicciones entre las propias palabras, afirmaciones o acciones.",
+  "significado_literal": "La propia lanza y el propio escudo.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Contradictorio.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "你刚才说的话自相矛盾。",
+    "pinyin": "Nǐ gāngcái shuō de huà zìxiāngmáodùn.",
+    "traduccion": "Lo que acabas de decir es contradictorio."
+  },
+  "revision_manual_pendiente": false
+},
   {
     "simplificado": "指鹿作马",
     "tradicional": "指鹿作馬",
@@ -58653,6 +58738,57 @@
     "revision_manual_pendiente": false
   },
   {
+  "simplificado": "胡说八道",
+  "tradicional": "胡說八道",
+  "pinyin": "hú shuō bā dào",
+  "significado_figurado": "Hablar sin fundamento, decir disparates o afirmar cosas absurdas sin sentido ni pruebas.",
+  "significado_literal": "Hablar ocho vías",
+  "frecuencia": 5,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Decir tonterías.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "你别胡说八道，我根本没有说过那种话。",
+    "pinyin": "Nǐ bié hú shuō bā dào, wǒ gēnběn méiyǒu shuō guo nà zhǒng huà.",
+    "traduccion": "No digas disparates; yo nunca he dicho algo así."
+  },
+  "revision_manual_pendiente": false
+},
+  {
+  "simplificado": "丢三落四",
+  "tradicional": "丟三落四",
+  "pinyin": "diū sān là sì",
+  "significado_figurado": "Describir a una persona despistada o descuidada que suele olvidar cosas o dejarse objetos por descuido.",
+  "significado_literal": "Perder tres cosas y dejar atrás cuatro.",
+  "frecuencia": 5,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Ser despistado, olvidadizo",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他总是丢三落四，出门时不是忘了手机，就是忘了钥匙。",
+    "pinyin": "Tā zǒng shì diū sān là sì, chūmén shí bú shì wàng le shǒujī, jiù shì wàng le yàoshi.",
+    "traduccion": "Siempre es un despistado: cuando sale, o se olvida del móvil o se deja las llaves."
+  },
+  "revision_manual_pendiente": false
+},
+  {
+  "simplificado": "五颜六色",
+  "tradicional": "五顏六色",
+  "pinyin": "wǔ yán liù sè",
+  "significado_figurado": "Describir algo con una gran variedad de colores, tonos o matices.",
+  "significado_literal": "Cinco aspectos y seis colores.",
+  "frecuencia": 5,
+  "registro": "Neutro",
+  "equivalente_espanol": "De muchos colores; multicolor; lleno de colores variados",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "商店里摆满了五颜六色的气球。",
+    "pinyin": "Shāngdiàn lǐ bǎi mǎn le wǔ yán liù sè de qìqiú.",
+    "traduccion": "La tienda estaba llena de globos de muchos colores."
+  },
+  "revision_manual_pendiente": false
+},
+  {
     "simplificado": "滔滔不绝",
     "tradicional": "滔滔不絕",
     "pinyin": "tāo tāo bù jué",
@@ -58660,7 +58796,7 @@
     "significado_literal": "Fluir sin cesar.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "Hablar sin parar",
+    "equivalente_espanol": "Hablar sin parar, hablar por los codos",
     "sinonimos": [
       "喋喋不休"
     ],
@@ -61509,7 +61645,7 @@
     "significado_literal": "Sin poder para actuar.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "No poder hacer nada.",
+    "equivalente_espanol": "Impotente, de manos atadas.",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "在这种情况下，我感到无能为力。",
@@ -65320,12 +65456,12 @@
     "significado_literal": "Dibujar un dragón y añadirle los ojos.",
     "frecuencia": 4,
     "registro": "Literario",
-    "equivalente_espanol": "Dar en el clavo.",
+    "equivalente_espanol": "El toque final, el broche de oro, la guinda en el pastel.",
     "sinonimos": [],
     "ejemplo": {
-      "oracion": "这篇文章的最后一句话真是画龙点睛。",
-      "pinyin": "Zhè piān wénzhāng de zuìhòu yījù huà shì huà lóng diǎn jīng.",
-      "traduccion": "La última frase de este artículo realmente da en el clavo."
+      "oracion": "这句话画龙点睛，让整篇文章更加精彩。",
+      "pinyin": "Zhè jù huà huàlóngdiǎnjīng, ràng zhěng piān wénzhāng gèng jiā jīngcǎi.",
+      "traduccion": "Esta frase puso el broche de oro e hizo que todo el artículo resultara mucho más brillante."
     },
     "revision_manual_pendiente": false
   },
@@ -69282,12 +69418,12 @@
     "significado_literal": "Conocer la satisfacción es felicidad constante.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "El que está satisfecho siempre es feliz",
+    "equivalente_espanol": "Contentarse con lo que se tiene.",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "知足常乐是人生的智慧。",
       "pinyin": "Zhī zú cháng lè shì rénshēng de zhìhuì.",
-      "traduccion": "Estar satisfecho es la sabiduría de la vida."
+      "traduccion": "Contentarse con lo que se tiene es la sabiduría de la vida."
     },
     "revision_manual_pendiente": false
   },
@@ -72261,9 +72397,9 @@
     "pinyin": "jīn pí lì jìn",
     "significado_figurado": "Estar completamente agotado, tanto física como mentalmente.",
     "significado_literal": "Músculos cansados y fuerzas agotadas.",
-    "frecuencia": 4,
+    "frecuencia": 5,
     "registro": "Neutro",
-    "equivalente_espanol": "Estar hecho polvo.",
+    "equivalente_espanol": "Estar derrengado, estar exhausto.",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "经过一整天的工作，我感到筋疲力尽。",
@@ -77068,7 +77204,7 @@
     "significado_literal": "Pisar el suelo firme.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "Poner los pies en la tierra.",
+    "equivalente_espanol": "Teneer los pies en la tierra.",
     "sinonimos": [
       "脚踏实地"
     ],
@@ -77543,7 +77679,7 @@
     "significado_literal": "Creerse uno mismo correcto.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "Creerse el ombligo del mundo",
+    "equivalente_espanol": "",
     "sinonimos": [
       "自以为聪明"
     ],
@@ -99280,12 +99416,12 @@
     "significado_literal": "Sorprender el cielo y mover la tierra.",
     "frecuencia": 3,
     "registro": "Literario",
-    "equivalente_espanol": "Un escándalo que sacude los cimientos.",
+    "equivalente_espanol": "Causar conmoción.",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "这场比赛的结果真是惊天动地。",
       "pinyin": "Zhè chǎng bǐsài de jiéguǒ zhēn shì jīng tiān dòng dì.",
-      "traduccion": "El resultado de este partido es realmente sorprendente."
+      "traduccion": "El resultado de este partido causa conmoción."
     },
     "revision_manual_pendiente": false
   },
