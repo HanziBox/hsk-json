@@ -113,7 +113,7 @@
     "significado_literal": "No lograr nada en un asunto.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "No hacer nada.",
+    "equivalente_espanol": "",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "他这一年一事无成。",
@@ -66255,7 +66255,7 @@
     "significado_literal": "Gastar palabras en vano.",
     "frecuencia": 3,
     "registro": "Neutro",
-    "equivalente_espanol": "Hablar para nada.",
+    "equivalente_espanol": "Predicar en el desierto.",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "他白费唇舌，试图说服她，但她根本不在乎。",
@@ -66268,18 +66268,18 @@
     "simplificado": "白云苍狗",
     "tradicional": "白雲蒼狗",
     "pinyin": "bái yún cāng gǒu",
-    "significado_figurado": "Las cosas cambian rápidamente, como las nubes y los perros en el cielo.",
-    "significado_literal": "Nubes blancas y perros oscuros.",
+    "significado_figurado": "Referencia a la inconstancia de la vida y las circunstancias, como las nubes que cambian de forma, a menudo en un contexto filosófico.",
+    "significado_literal": "Nube blanca, perro gris.",
     "frecuencia": 3,
     "registro": "Literario",
     "equivalente_espanol": "",
     "sinonimos": [
-      "浮云变幻"
+      "白衣苍狗"
     ],
     "ejemplo": {
       "oracion": "人生如白云苍狗，变化无常。",
       "pinyin": "Rénshēng rú bái yún cāng gǒu, biànhuà wúcháng.",
-      "traduccion": "La vida es como nubes blancas y perros oscuros, cambia constantemente."
+      "traduccion": "La vida es como una nube blanca que se transforma en perro gris, cambia constantemente."
     },
     "revision_manual_pendiente": false
   },
@@ -66298,7 +66298,7 @@
     "ejemplo": {
       "oracion": "他是个白面书生，缺乏社会经验。",
       "pinyin": "Tā shì gè bái miàn shū shēng, quēfá shèhuì jīngyàn.",
-      "traduccion": "Él es un joven intelectual, carece de experiencia social."
+      "traduccion": "Él es un intelectual inexperto, carece de experiencia social."
     },
     "revision_manual_pendiente": false
   },
@@ -66331,7 +66331,7 @@
     "registro": "Literario",
     "equivalente_espanol": "",
     "sinonimos": [
-      "白头齐眉"
+      "白头共老"
     ],
     "ejemplo": {
       "oracion": "他们的爱情故事让人羡慕，白首齐眉，恩爱如初。",
@@ -66344,7 +66344,7 @@
     "simplificado": "白驹过隙",
     "tradicional": "白駒過隙",
     "pinyin": "bái jū guò xì",
-    "significado_figurado": "El tiempo pasa rápidamente, como un caballo blanco que atraviesa una rendija.",
+    "significado_figurado": "El tiempo pasa extraordinariamente rápido, casi sin que nos demos cuenta.",
     "significado_literal": "Caballo blanco que pasa por una rendija.",
     "frecuencia": 4,
     "registro": "Literario",
@@ -66367,7 +66367,7 @@
     "significado_literal": "Cien cosas, ninguna lograda.",
     "frecuencia": 3,
     "registro": "Neutro",
-    "equivalente_espanol": "No conseguir nada.",
+    "equivalente_espanol": "",
     "sinonimos": [
       "一事无成"
     ],
@@ -66443,7 +66443,7 @@
     "significado_literal": "Cien familias compiten en el canto.",
     "frecuencia": 4,
     "registro": "Literario",
-    "equivalente_espanol": "La pluralidad de voces.",
+    "equivalente_espanol": "Pluralidad de voces.",
     "sinonimos": [
       "百家争鸣"
     ],
