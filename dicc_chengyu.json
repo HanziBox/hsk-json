@@ -77335,22 +77335,22 @@
       "traduccion": "Cada vez que como sopa de lechuga y pescado lucio, recuerdo mi hogar."
     }
   },
-  {
-    "simplificado": "莼鲈之思",
-    "tradicional": "莼鱸之思",
-    "pinyin": "chún lú zhī sī",
-    "significado_figurado": "La nostalgia por la comida y los sabores de la infancia, especialmente en relación con la familia y el hogar.",
-    "significado_literal": "El pensamiento de la lechuga y el pescado lucio.",
-    "frecuencia": 2,
-    "registro": "Literario",
-    "equivalente_espanol": "",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "莼鲈之思常常让我感到温暖。",
-      "pinyin": "Chún lú zhī sī chángcháng ràng wǒ gǎndào wēnnuǎn.",
-      "traduccion": "La nostalgia por la lechuga y el pescado lucio a menudo me hace sentir cálido."
-    }
-  },
+{
+  "simplificado": "莼鲈之思",
+  "tradicional": "蓴鱸之思",
+  "pinyin": "chún lú zhī sī",
+  "significado_figurado": "Nostalgia por la tierra natal y deseo de regresar a casa.",
+  "significado_literal": "Añoranza de la planta acuática chún y de la perca.",
+  "frecuencia": 2,
+  "registro": "Literario",
+  "equivalente_espanol": "Añorar la tierra natal; sentir morriña.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他离家多年，心中常有莼鲈之思。",
+    "pinyin": "Tā lí jiā duō nián, xīnzhōng cháng yǒu chún lú zhī sī.",
+    "traduccion": "Lleva muchos años lejos de casa y siente a menudo nostalgia por su tierra natal."
+  }
+},
   {
     "simplificado": "蔚为大观",
     "tradicional": "蔚為大觀",
