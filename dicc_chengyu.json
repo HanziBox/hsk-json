@@ -77383,22 +77383,22 @@
       "traduccion": "Hoy en día, la conciencia ambiental se ha vuelto común en la sociedad."
     }
   },
-  {
-    "simplificado": "蔫头耷脑",
-    "tradicional": "蔫頭垂腦",
-    "pinyin": "niān tóu dā nǎo",
-    "significado_figurado": "Estar abatido, desanimado o sin energía.",
-    "significado_literal": "Cabeza caída y cuello colgante.",
-    "frecuencia": 3,
-    "registro": "Coloquial",
-    "equivalente_espanol": "Estar como un trapo.",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "他今天看起来蔫头耷脑的，似乎心情不好。",
-      "pinyin": "Tā jīntiān kàn qǐlái niān tóu dā nǎo de, sìhū xīnqíng bù hǎo.",
-      "traduccion": "Hoy parece estar abatido, como si estuviera de mal humor."
-    }
-  },
+{
+  "simplificado": "蔫头耷脑",
+  "tradicional": "蔫頭耷腦",
+  "pinyin": "niān tóu dā nǎo",
+  "significado_figurado": "Estar decaído, desanimado o sin energía.",
+  "significado_literal": "Tener la cabeza gacha y el ánimo apagado.",
+  "frecuencia": 3,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Estar de capa caída.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他今天蔫头耷脑的，好像遇到了什么不开心的事。",
+    "pinyin": "Tā jīntiān niān tóu dā nǎo de, hǎoxiàng yùdào le shénme bù kāixīn de shì.",
+    "traduccion": "Hoy está de capa caída, como si le hubiera pasado algo desagradable."
+  }
+},
   {
     "simplificado": "萧规曹随",
     "tradicional": "蕭規曹隨",
@@ -77415,22 +77415,22 @@
       "traduccion": "En este equipo, todos siguen las reglas establecidas, careciendo de innovación."
     }
   },
-  {
-    "simplificado": "姜还是老的辣",
-    "tradicional": "姜還是老的辣",
-    "pinyin": "jiāng hái shì lǎo de là",
-    "significado_figurado": "La experiencia y la sabiduría de los mayores son insustituibles.",
-    "significado_literal": "El jengibre viejo es más picante.",
-    "frecuencia": 4,
-    "registro": "Literario",
-    "equivalente_espanol": "Más vale viejo conocido que nuevo por conocer.",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "在工作中，姜还是老的辣，经验丰富的同事总能给我们提供帮助。",
-      "pinyin": "Zài gōngzuò zhōng, jiāng hái shì lǎo de là, jīngyàn fēngfù de tóngshì zǒng néng gěi wǒmen tígōng bāngzhù.",
-      "traduccion": "En el trabajo, la experiencia de los mayores siempre nos brinda ayuda."
-    }
-  },
+{
+  "simplificado": "姜还是老的辣",
+  "tradicional": "薑還是老的辣",
+  "pinyin": "jiāng hái shì lǎo de là",
+  "significado_figurado": "Las personas con más experiencia suelen ser más astutas y tener más recursos.",
+  "significado_literal": "El jengibre viejo sigue siendo más picante.",
+  "frecuencia": 4,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Más sabe el diablo por viejo que por diablo.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "这件事还是爷爷处理得好，真是姜还是老的辣。",
+    "pinyin": "Zhè jiàn shì háishi yéye chǔlǐ de hǎo, zhēn shì jiāng hái shì lǎo de là.",
+    "traduccion": "El abuelo supo resolverlo mejor; más sabe el diablo por viejo que por diablo."
+  }
+},
   {
     "simplificado": "薪火相传",
     "tradicional": "薪火相傳",
