@@ -1560,7 +1560,7 @@
     "simplificado": "一模一样",
     "tradicional": "一模一樣",
     "pinyin": "yī mú yī yàng",
-    "significado_figurado": "Ser exactamente igual; no hay diferencias.",
+    "significado_figurado": "Ser exactamente igual; no haber diferencias.",
     "significado_literal": "Una forma, una apariencia.",
     "frecuencia": 5,
     "registro": "Neutro",
@@ -1615,7 +1615,7 @@
     "significado_literal": "No sacar ni un pelo.",
     "frecuencia": 3,
     "registro": "Neutro",
-    "equivalente_espanol": "No dar ni un centavo",
+    "equivalente_espanol": "Ser un agarrado, no soltar ni un céntimo",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "他真是一毛不拔的人，从不愿意帮助别人。",
@@ -1632,12 +1632,12 @@
     "significado_literal": "Una ola no se ha calmado, otra ola ya se levanta.",
     "frecuencia": 3,
     "registro": "Neutro",
-    "equivalente_espanol": "",
+    "equivalente_espanol": "Un problema tras otro",
     "sinonimos": [],
     "ejemplo": {
       "oracion": "在这个国家，一波未平，一波又起的局面屡见不鲜。",
       "pinyin": "Zài zhège guójiā, yī bō wèi píng, yī bō yòu qǐ de júmiàn lǚ jiàn bù xiān.",
-      "traduccion": "En este país, la situación de que un problema no se ha resuelto cuando ya surge otro es común."
+      "traduccion": "En este país, es muy habitual que los problemas se sucedan uno tras otro."
     },
     "revision_manual_pendiente": false
   },
@@ -1649,12 +1649,12 @@
     "significado_literal": "Uno claro, dos claros.",
     "frecuencia": 5,
     "registro": "Neutro",
-    "equivalente_espanol": "Claro como el agua",
+    "equivalente_espanol": "Con toda claridad",
     "sinonimos": [],
     "ejemplo": {
-      "oracion": "他的解释让我一清二楚。",
-      "pinyin": "Tā de jiěshì ràng wǒ yī qīng èr chǔ.",
-      "traduccion": "Su explicación me dejó completamente claro."
+      "oracion": "经过调查，账目已经查得一清二楚了。",
+      "pinyin": "Jīngguò diàochá, zhàngmù yǐjīng chá dé yī qīng'èr chǔle.",
+      "traduccion": "Tras una investigación, las cuentas han quedado totalmente aclaradas."
     },
     "revision_manual_pendiente": false
   },
@@ -1798,43 +1798,41 @@
     "simplificado": "一琴一鹤",
     "tradicional": "一琴一鶴",
     "pinyin": "yī qín yī hè",
-    "significado_figurado": "Representa la armonía y la belleza en la música y la naturaleza; a menudo se refiere a la unión de lo humano y lo divino.",
-    "significado_literal": "Un instrumento musical y una grulla.",
-    "frecuencia": 2,
-    "registro": "Literario",
+    "significado_figurado": "Describe el equipaje sumamente sencillo de un viajero. Se usa para elogiar la honestidad, austeridad y falta de corrupción de un funcionario público.",
+    "significado_literal": "Una cítara (guqin) y una grulla.",
     "equivalente_espanol": "",
-    "sinonimos": [],
+    "sinonimos": ["两袖清风", "一尘不染"],
     "ejemplo": {
-      "oracion": "他们的音乐如同一琴一鹤，令人陶醉。",
-      "pinyin": "Tāmen de yīnyuè rútóng yī qín yī hè, lìng rén táozuì.",
-      "traduccion": "Su música es como un instrumento musical y una grulla, embriagadora."
+      "oracion": "他去外地赴任，一琴一鹤，行装十分简便。",
+      "pinyin": "Tā qù wàidì fùrèn, yī qín yī hè, xíngzhuāng shífēn jiǎnbiàn.",
+      "traduccion": "Se fue a ocupar su nuevo cargo en otra ciudad ligero de equipaje; sus pertenencias eran sumamente sencillas."
     },
     "revision_manual_pendiente": false
   },
-  {
-    "simplificado": "一瓶子不响，半瓶子晃荡",
-    "tradicional": "一瓶子不響，半瓶子晃蕩",
-    "pinyin": "yī píngzi bù xiǎng, bàn píngzi huàngdàng",
-    "significado_figurado": "Las personas que tienen poco conocimiento suelen ser las más ruidosas o arrogantes; el que sabe poco habla mucho.",
-    "significado_literal": "Una botella llena no suena, una botella medio llena hace ruido.",
-    "frecuencia": 3,
-    "registro": "Coloquial",
-    "equivalente_espanol": "El que sabe poco habla mucho",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "那些一瓶子不响，半瓶子晃荡的人总是最吵。",
-      "pinyin": "Nàxiē yī píngzi bù xiǎng, bàn píngzi huàngdàng de rén zǒng shì zuì chǎo.",
-      "traduccion": "Aquellos que son ruidosos suelen ser los que saben poco."
-    },
-    "revision_manual_pendiente": false
+{
+  "simplificado": "一瓶子不响，半瓶子晃荡",
+  "tradicional": "一瓶子不響，半瓶子晃蕩",
+  "pinyin": "yī píngzi bù xiǎng, bàn píngzi huàngdang",
+  "significado_figurado": "Quien sabe poco suele presumir mucho.",
+  "significado_literal": "Una botella llena no hace ruido, mientras que una medio llena sí.",
+  "frecuencia": 3,
+  "registro": "Coloquial",
+  "equivalente_espanol": "",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他懂得不多，却总爱发表意见，真是一瓶子不响，半瓶子晃荡。",
+    "pinyin": "Tā dǒng de bù duō, què zǒng ài fābiǎo yìjiàn, zhēn shì yī píngzi bù xiǎng, bàn píngzi huàngdang.",
+    "traduccion": "Sabe poco, pero siempre opina; es el típico que sabe poco y presume mucho."
   },
+  "revision_manual_pendiente": false
+},
   {
     "simplificado": "一生一世",
     "tradicional": "一生一世",
     "pinyin": "yī shēng yī shì",
     "significado_figurado": "Para toda la vida; un compromiso eterno.",
     "significado_literal": "Una vida, una era.",
-    "frecuencia": 4,
+    "frecuencia": 5,
     "registro": "Neutro",
     "equivalente_espanol": "Toda la vida",
     "sinonimos": [],
@@ -1858,7 +1856,7 @@
     "ejemplo": {
       "oracion": "这个团队一男半女，缺乏平衡。",
       "pinyin": "Zhège tuánduì yī nán bàn nǚ, quēfá pínghéng.",
-      "traduccion": "Este equipo tiene un hombre y media mujer, careciendo de equilibrio."
+      "traduccion": "Este equipo tiene un hombre y media mujer, le falta equilibrio."
     },
     "revision_manual_pendiente": false
   },
@@ -1879,30 +1877,30 @@
     },
     "revision_manual_pendiente": false
   },
-  {
-    "simplificado": "一盘散沙",
-    "tradicional": "一盤散沙",
-    "pinyin": "yī pán sàn shā",
-    "significado_figurado": "Un grupo que carece de cohesión o unidad; personas que están desorganizadas o dispersas.",
-    "significado_literal": "Un plato de arena dispersa.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "Un grupo desorganizado",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "这个团队就像一盘散沙，无法合作。",
-      "pinyin": "Zhège tuánduì jiù xiàng yī pán sàn shā, wúfǎ hézuò.",
-      "traduccion": "Este equipo es como un plato de arena dispersa, incapaz de colaborar."
-    },
-    "revision_manual_pendiente": false
+{
+  "simplificado": "一盘散沙",
+  "tradicional": "一盤散沙",
+  "pinyin": "yī pán sǎn shā",
+  "significado_figurado": "Grupo desunido, sin cohesión ni organización.",
+  "significado_literal": "Un montón de arena suelta en una bandeja.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Cada uno va por su lado.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "如果大家不团结，这个团队就会变成一盘散沙。",
+    "pinyin": "Rúguǒ dàjiā bù tuánjié, zhège tuánduì jiù huì biàn chéng yī pán sǎn shā.",
+    "traduccion": "Si no nos unimos, en este equipo acabará cada uno por su lado."
   },
+  "revision_manual_pendiente": false
+},
   {
     "simplificado": "一目了然",
     "tradicional": "一目了然",
     "pinyin": "yī mù liǎo rán",
     "significado_figurado": "Ser claro y evidente a simple vista; fácil de entender.",
     "significado_literal": "A primera vista es claro.",
-    "frecuencia": 4,
+    "frecuencia": 5,
     "registro": "Neutro",
     "equivalente_espanol": "A simple vista",
     "sinonimos": [],
@@ -1930,40 +1928,23 @@
     },
     "revision_manual_pendiente": false
   },
-  {
-    "simplificado": "一目了然",
-    "tradicional": "一目了然",
-    "pinyin": "yī mù liǎo rán",
-    "significado_figurado": "Ser claro y evidente a simple vista; fácil de entender.",
-    "significado_literal": "A primera vista es claro.",
-    "frecuencia": 4,
-    "registro": "Neutro",
-    "equivalente_espanol": "A simple vista",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "这个问题一目了然，大家都明白。",
-      "pinyin": "Zhège wèntí yī mù liǎo rán, dàjiā dōu míngbái.",
-      "traduccion": "Este problema es claro a simple vista, todos lo entienden."
-    },
-    "revision_manual_pendiente": false
+{
+  "simplificado": "一眼看穿",
+  "tradicional": "一眼看穿",
+  "pinyin": "yī yǎn kàn chuān",
+  "significado_figurado": "Descubrir de inmediato las intenciones o la verdad oculta de algo o alguien.",
+  "significado_literal": "Ver a través de algo con una sola mirada.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Ver a través de alguien; calar a alguien.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "我一眼就看穿了他的谎言。",
+    "pinyin": "Wǒ yī yǎn jiù kàn chuān le tā de huǎngyán.",
+    "traduccion": "Descubrí su mentira de inmediato."
   },
-  {
-    "simplificado": "一眼看穿",
-    "tradicional": "一眼看穿",
-    "pinyin": "yī yǎn kàn chuān",
-    "significado_figurado": "Ver a través de algo o alguien; entender la verdad detrás de las apariencias.",
-    "significado_literal": "Ver a través de un vistazo.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "他一眼看穿了她的谎言。",
-      "pinyin": "Tā yī yǎn kàn chuānle tā de huǎngyán.",
-      "traduccion": "Él vio a través de su mentira de un vistazo."
-    },
-    "revision_manual_pendiente": false
-  },
+  "revision_manual_pendiente": false
+},
   {
     "simplificado": "一矢中的",
     "tradicional": "一矢中的",
@@ -1981,57 +1962,57 @@
     },
     "revision_manual_pendiente": false
   },
-  {
-    "simplificado": "一知半解",
-    "tradicional": "一知半解",
-    "pinyin": "yī zhī bàn jiě",
-    "significado_figurado": "Tener un conocimiento superficial o incompleto sobre un tema.",
-    "significado_literal": "Un conocimiento y medio entendimiento.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "Saber un poco",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "他对这个问题一知半解，无法深入讨论。",
-      "pinyin": "Tā duì zhège wèntí yī zhī bàn jiě, wúfǎ shēnrù tǎolùn.",
-      "traduccion": "Él tiene un conocimiento superficial sobre este tema y no puede discutirlo en profundidad."
-    },
-    "revision_manual_pendiente": false
+{
+  "simplificado": "一知半解",
+  "tradicional": "一知半解",
+  "pinyin": "yī zhī bàn jiě",
+  "significado_figurado": "Tener conocimientos superficiales o incompletos sobre algo.",
+  "significado_literal": "Saber una parte y comprender solo la mitad.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Saber algo a medias.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他对这个问题只是一知半解。",
+    "pinyin": "Tā duì zhège wèntí zhǐ shì yī zhī bàn jiě.",
+    "traduccion": "Solo tiene conocimientos superficiales sobre este tema."
   },
-  {
-    "simplificado": "一石二鸟",
-    "tradicional": "一石二鳥",
-    "pinyin": "yī shí èr niǎo",
-    "significado_figurado": "Lograr dos objetivos con una sola acción; hacer dos cosas a la vez.",
-    "significado_literal": "Una piedra, dos pájaros.",
-    "frecuencia": 4,
-    "registro": "Neutro",
-    "equivalente_espanol": "Matar dos pájaros de un tiro",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "通过这次会议，我们可以一石二鸟。",
-      "pinyin": "Tōngguò zhè cì huìyì, wǒmen kěyǐ yī shí èr niǎo.",
-      "traduccion": "A través de esta reunión, podemos matar dos pájaros de un tiro."
-    },
-    "revision_manual_pendiente": false
+  "revision_manual_pendiente": false
+},
+{
+  "simplificado": "一石二鸟",
+  "tradicional": "一石二鳥",
+  "pinyin": "yī shí èr niǎo",
+  "significado_figurado": "Conseguir dos objetivos con una sola acción.",
+  "significado_literal": "Matar dos pájaros de una piedra.",
+  "frecuencia": 5,
+  "registro": "Neutro",
+  "equivalente_espanol": "Matar dos pájaros de un tiro.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "这样既能省钱，又能节省时间，真是一石二鸟。",
+    "pinyin": "Zhèyàng jì néng shěng qián, yòu néng jiéshěng shíjiān, zhēn shì yī shí èr niǎo.",
+    "traduccion": "Así ahorramos dinero y tiempo a la vez; matamos dos pájaros de un tiro."
   },
-  {
-    "simplificado": "一碗水端平",
-    "tradicional": "一碗水端平",
-    "pinyin": "yī wǎn shuǐ duān píng",
-    "significado_figurado": "Tratar a todos por igual; mantener la imparcialidad.",
-    "significado_literal": "Sostener un cuenco de agua de manera nivelada.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "Tratar a todos por igual",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "在这个问题上，我们应该一碗水端平。",
-      "pinyin": "Zài zhège wèntí shàng, wǒmen yīnggāi yī wǎn shuǐ duān píng.",
-      "traduccion": "En este asunto, deberíamos tratar a todos por igual."
-    },
-    "revision_manual_pendiente": false
+  "revision_manual_pendiente": false
+},
+{
+  "simplificado": "一碗水端平",
+  "tradicional": "一碗水端平",
+  "pinyin": "yī wǎn shuǐ duān píng",
+  "significado_figurado": "Tratar a todos por igual, con imparcialidad y justicia.",
+  "significado_literal": "Mantener nivelado un cuenco de agua.",
+  "frecuencia": 4,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Con la misma vara.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "作为老师，应该对每个学生一碗水端平。",
+    "pinyin": "Zuòwéi lǎoshī, yīnggāi duì měi ge xuésheng yī wǎn shuǐ duān píng.",
+    "traduccion": "Como profesor, debe tratar a todos los alumnos por igual."
   },
+  "revision_manual_pendiente": false
+},
   {
     "simplificado": "一秉虔诚",
     "tradicional": "一秉虔誠",
