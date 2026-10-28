@@ -18914,22 +18914,22 @@
       "traduccion": "Él actuó con valentía en la competencia, enfrentándose audazmente a su oponente."
     }
   },
-  {
-    "simplificado": "吃粮不管事",
-    "tradicional": "吃糧不管事",
-    "pinyin": "chī liáng bù guǎn shì",
-    "significado_figurado": "Recibir beneficios sin asumir responsabilidades.",
-    "significado_literal": "Comer sin preocuparse por los asuntos.",
-    "frecuencia": 2,
-    "registro": "Neutro",
-    "equivalente_espanol": "",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "他只想吃粮不管事，完全不关心公司的运营。",
-      "pinyin": "Tā zhǐ xiǎng chī liáng bù guǎn shì, wánquán bù guānxīn gōngsī de yùnxíng.",
-      "traduccion": "Él solo quiere recibir beneficios sin preocuparse por la operación de la empresa."
-    }
-  },
+{
+  "simplificado": "吃粮不管事",
+  "tradicional": "吃糧不管事",
+  "pinyin": "chī liáng bù guǎn shì",
+  "significado_figurado": "Recibir un sueldo o sustento sin asumir responsabilidades.",
+  "significado_literal": "Comer del grano sin ocuparse de los asuntos.",
+  "frecuencia": 3,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Cobrar sin dar un palo al agua.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "有些人整天坐在办公室里，吃粮不管事。",
+    "pinyin": "Yǒuxiē rén zhěngtiān zuò zài bàngōngshì lǐ, chī liáng bù guǎn shì.",
+    "traduccion": "Algunas personas se pasan el día sentadas en la oficina, cobrando sin asumir sus responsabilidades."
+  }
+},
   {
     "simplificado": "吃苦耐劳",
     "tradicional": "吃苦耐勞",
@@ -18946,38 +18946,38 @@
       "traduccion": "Él es una persona que sabe sufrir y siempre está dispuesta a trabajar horas extras."
     }
   },
-  {
-    "simplificado": "吃着碗里，看着锅里",
-    "tradicional": "吃著碗裡，看著鍋裡",
-    "pinyin": "chī zhe wǎn lǐ, kàn zhe guō lǐ",
-    "significado_figurado": "Ser insatisfecho y desear más, a menudo en un contexto de codicia.",
-    "significado_literal": "Comer en el cuenco mientras se mira la olla.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "他总是吃着碗里，看着锅里，永远不满足。",
-      "pinyin": "Tā zǒng shì chī zhe wǎn lǐ, kàn zhe guō lǐ, yǒngyuǎn bù mǎnzú.",
-      "traduccion": "Él siempre está insatisfecho, comiendo en el cuenco mientras mira la olla."
-    }
-  },
-  {
-    "simplificado": "吃里扒外",
-    "tradicional": "吃裡扒外",
-    "pinyin": "chī lǐ pā wài",
-    "significado_figurado": "Ser desleal o traicionar a alguien que te ha proporcionado beneficios.",
-    "significado_literal": "Comer dentro y raspar fuera.",
-    "frecuencia": 2,
-    "registro": "Neutro",
-    "equivalente_espanol": "",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "他在公司里吃里扒外，背叛了同事。",
-      "pinyin": "Tā zài gōngsī lǐ chī lǐ pā wài, bèipànle tóngshì.",
-      "traduccion": "Él fue desleal en la empresa, traicionando a sus colegas."
-    }
-  },
+{
+  "simplificado": "吃着碗里，看着锅里",
+  "tradicional": "吃著碗裡，看著鍋裡",
+  "pinyin": "chī zhe wǎn lǐ, kàn zhe guō lǐ",
+  "significado_figurado": "No conformarse con lo que se tiene y desear siempre más, especialmente en relaciones amorosas.",
+  "significado_literal": "Comer del cuenco mientras se mira lo que hay en la olla.",
+  "frecuencia": 4,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Quererlo todo, no conformarse con lo que se tiene.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他已经有女朋友了，却还对别的女生献殷勤，真是吃着碗里，看着锅里。",
+    "pinyin": "Tā yǐjīng yǒu nǚ péngyou le, què hái duì bié de nǚshēng xiàn yīnqín, zhēn shì chī zhe wǎn lǐ, kàn zhe guō lǐ.",
+    "traduccion": "Ya tiene novia, pero sigue coqueteando con otras chicas; no se conforma con lo que tiene."
+  }
+},
+{
+  "simplificado": "吃里扒外",
+  "tradicional": "吃裡扒外",
+  "pinyin": "chī lǐ pá wài",
+  "significado_figurado": "Beneficiarse de un grupo mientras se favorece o se traiciona a otro en su perjuicio.",
+  "significado_literal": "Comer de dentro mientras se escarba hacia fuera.",
+  "frecuencia": 4,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Morder la mano que te da de comer, ser un traidor.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他拿着公司的工资，却偷偷把机密告诉竞争对手，真是吃里扒外。",
+    "pinyin": "Tā názhe gōngsī de gōngzī, què tōutōu bǎ jīmì gàosu jìngzhēng duìshǒu, zhēn shì chī lǐ pá wài.",
+    "traduccion": "Cobra de la empresa, pero filtra sus secretos a la competencia a escondidas; es un auténtico traidor."
+  }
+},
   {
     "simplificado": "吃软不吃硬",
     "tradicional": "吃軟不吃硬",
@@ -19010,70 +19010,70 @@
       "traduccion": "En esta casa, comer es lo más importante."
     }
   },
-  {
-    "simplificado": "吃香喝辣",
-    "tradicional": "吃香喝辣",
-    "pinyin": "chī xiāng hē là",
-    "significado_figurado": "Vivir una vida de lujo y placer.",
-    "significado_literal": "Comer bien y beber picante.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "Vivir como un rey.",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "他现在过得很好，吃香喝辣。",
-      "pinyin": "Tā xiànzài guò dé hěn hǎo, chī xiāng hē là.",
-      "traduccion": "Él ahora vive muy bien, disfrutando de una vida de lujo."
-    }
-  },
-  {
-    "simplificado": "各人自扫门前雪，莫管他家瓦上霜",
-    "tradicional": "各人自掃門前雪，莫管他家瓦上霜",
-    "pinyin": "gè rén zì sǎo mén qián xuě, mò guǎn tā jiā wǎ shàng shuāng",
-    "significado_figurado": "Cada uno debe ocuparse de sus propios asuntos y no interferir en los de los demás.",
-    "significado_literal": "Cada persona barre la nieve frente a su puerta, no se ocupa de la escarcha en el tejado de otros.",
-    "frecuencia": 3,
-    "registro": "Literario",
-    "equivalente_espanol": "Cada uno en su casa y Dios en la de todos.",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "我们应该各人自扫门前雪，莫管他家瓦上霜。",
-      "pinyin": "Wǒmen yīnggāi gè rén zì sǎo mén qián xuě, mò guǎn tā jiā wǎ shàng shuāng.",
-      "traduccion": "Deberíamos ocuparnos de nuestros propios asuntos y no interferir en los de los demás."
-    }
-  },
-  {
-    "simplificado": "各取所需",
-    "tradicional": "各取所需",
-    "pinyin": "gè qǔ suǒ xū",
-    "significado_figurado": "Cada uno toma lo que necesita, a menudo en un contexto de intercambio o cooperación.",
-    "significado_literal": "Cada uno toma lo que necesita.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "在这个合作中，各取所需，互惠互利。",
-      "pinyin": "Zài zhège hézuò zhōng, gè qǔ suǒ xū, hù huì hù lì.",
-      "traduccion": "En esta cooperación, cada uno toma lo que necesita, beneficiándose mutuamente."
-    }
-  },
-  {
-    "simplificado": "各执一词",
-    "tradicional": "各執一詞",
-    "pinyin": "gè zhí yī cí",
-    "significado_figurado": "Cada uno sostiene su propia opinión, a menudo en un contexto de desacuerdo.",
-    "significado_literal": "Cada uno sostiene una palabra.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "Cada uno con su opinión.",
-    "sinonimos": [],
-    "ejemplo": {
-      "oracion": "在这个争论中，各执一词，无法达成共识。",
-      "pinyin": "Zài zhège zhēnglùn zhōng, gè zhí yī cí, wúfǎ dáchéng gòngshí.",
-      "traduccion": "En esta discusión, cada uno sostiene su propia opinión, sin poder llegar a un consenso."
-    }
-  },
+{
+  "simplificado": "吃香喝辣",
+  "tradicional": "吃香喝辣",
+  "pinyin": "chī xiāng hē là",
+  "significado_figurado": "Disfrutar de una vida cómoda y placentera, con buenos alimentos y comodidades.",
+  "significado_literal": "Comer alimentos aromáticos y beber cosas picantes.",
+  "frecuencia": 3,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Darse la buena vida, vivir a cuerpo de rey.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他整天吃香喝辣，过得十分舒服。",
+    "pinyin": "Tā zhěngtiān chī xiāng hē là, guò de shífēn shūfu.",
+    "traduccion": "Se pasa el día dándose la buena vida y vive muy cómodamente."
+  }
+},
+{
+  "simplificado": "各人自扫门前雪，莫管他家瓦上霜",
+  "tradicional": "各人自掃門前雪，莫管他家瓦上霜",
+  "pinyin": "gè rén zì sǎo mén qián xuě, mò guǎn tā jiā wǎ shàng shuāng",
+  "significado_figurado": "Cada uno debe ocuparse de sus propios asuntos sin meterse en los de los demás.",
+  "significado_literal": "Que cada uno barra la nieve delante de su puerta y no se preocupe por la escarcha del tejado ajeno.",
+  "frecuencia": 4,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Cada uno a lo suyo, no meterse donde no le llaman.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他总说各人自扫门前雪，莫管他家瓦上霜，不愿帮邻居解决问题。",
+    "pinyin": "Tā zǒng shuō gè rén zì sǎo mén qián xuě, mò guǎn tā jiā wǎ shàng shuāng, bù yuàn bāng línjū jiějué wèntí.",
+    "traduccion": "Siempre dice que cada uno debe ocuparse de lo suyo y no quiere ayudar a los vecinos a resolver sus problemas."
+  }
+},
+{
+  "simplificado": "各取所需",
+  "tradicional": "各取所需",
+  "pinyin": "gè qǔ suǒ xū",
+  "significado_figurado": "Cada persona obtiene lo que necesita o busca.",
+  "significado_literal": "Cada uno toma lo que necesita.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "我们合作，各取所需，互相帮助。",
+    "pinyin": "Wǒmen hézuò, gè qǔ suǒ xū, hùxiāng bāngzhù.",
+    "traduccion": "Colaboramos, cada uno obtiene lo que necesita y nos ayudamos mutuamente."
+  }
+},
+{
+  "simplificado": "各执一词",
+  "tradicional": "各執一詞",
+  "pinyin": "gè zhí yī cí",
+  "significado_figurado": "Cada parte mantiene su propia versión u opinión, sin llegar a un acuerdo.",
+  "significado_literal": "Cada uno sostiene su propio argumento.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Cada uno defiende su versión.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "对于这件事，双方各执一词，谁也说服不了谁。",
+    "pinyin": "Duìyú zhè jiàn shì, shuāngfāng gè zhí yī cí, shéi yě shuōfú bù liǎo shéi.",
+    "traduccion": "Sobre este asunto, ambas partes defienden su versión y ninguna logra convencer a la otra."
+  }
+},
   {
     "simplificado": "各执己见",
     "tradicional": "各執己見",
@@ -19082,7 +19082,7 @@
     "significado_literal": "Cada uno sostiene su propia opinión.",
     "frecuencia": 4,
     "registro": "Neutro",
-    "equivalente_espanol": "Cada uno con su opinión.",
+    "equivalente_espanol": "Cada uno defiende su opinión.",
     "sinonimos": [
       "各持己见"
     ],
@@ -19092,24 +19092,22 @@
       "traduccion": "En este asunto, todos sostienen su propia opinión, lo que dificulta alcanzar un consenso."
     }
   },
-  {
-    "simplificado": "各奔前程",
-    "tradicional": "各奔前程",
-    "pinyin": "gè bèn qián chéng",
-    "significado_figurado": "Cada uno sigue su propio camino o busca su propio futuro.",
-    "significado_literal": "Cada uno corre hacia su propio futuro.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "",
-    "sinonimos": [
-      "各自发展"
-    ],
-    "ejemplo": {
-      "oracion": "毕业后，大家各奔前程，追求自己的梦想。",
-      "pinyin": "Bìyè hòu, dàjiā gè bèn qián chéng, zhuīqiú zìjǐ de mèngxiǎng.",
-      "traduccion": "Después de graduarse, todos siguieron su propio camino, persiguiendo sus sueños."
-    }
-  },
+{
+  "simplificado": "各奔前程",
+  "tradicional": "各奔前程",
+  "pinyin": "gè bēn qián chéng",
+  "significado_figurado": "Cada uno sigue su propio camino y persigue su futuro por separado.",
+  "significado_literal": "Cada uno se dirige hacia su propio futuro.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Cada uno sigue su camino.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "毕业以后，大家各奔前程，开始了新的生活。",
+    "pinyin": "Bìyè yǐhòu, dàjiā gè bēn qián chéng, kāishǐ le xīn de shēnghuó.",
+    "traduccion": "Después de graduarnos, cada uno siguió su propio camino y comenzó una nueva vida."
+  }
+},
   {
     "simplificado": "各奔东西",
     "tradicional": "各奔東西",
@@ -19164,24 +19162,22 @@
       "traduccion": "Después de esforzarse, todos en este equipo obtuvieron lo que les correspondía."
     }
   },
-  {
-    "simplificado": "各打五十大板",
-    "tradicional": "各打五十大板",
-    "pinyin": "gè dǎ wǔ shí dà bǎn",
-    "significado_figurado": "Ambas partes son culpables y deben ser castigadas por igual.",
-    "significado_literal": "Cada uno recibe cincuenta golpes.",
-    "frecuencia": 2,
-    "registro": "Neutro",
-    "equivalente_espanol": "",
-    "sinonimos": [
-      "一视同仁"
-    ],
-    "ejemplo": {
-      "oracion": "在这场争论中，双方各打五十大板，谁也没有完全对。",
-      "pinyin": "Zài zhè chǎng zhēnglùn zhōng, shuāngfāng gè dǎ wǔ shí dà bǎn, shéi yě méiyǒu wánquán duì.",
-      "traduccion": "En esta disputa, ambas partes son culpables, ninguna de ellas tiene toda la razón."
-    }
-  },
+{
+  "simplificado": "各打五十大板",
+  "tradicional": "各打五十大板",
+  "pinyin": "gè dǎ wǔ shí dà bǎn",
+  "significado_figurado": "Culpar o castigar por igual a ambas partes, sin distinguir sus diferentes responsabilidades.",
+  "significado_literal": "Dar cincuenta golpes de tablón a cada uno.",
+  "frecuencia": 3,
+  "registro": "Coloquial",
+  "equivalente_espanol": "Meter a todos en el mismo saco, repartir culpas por igual.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "处理这场纠纷时，不能不分青红皂白地各打五十大板。",
+    "pinyin": "Chǔlǐ zhè chǎng jiūfēn shí, bù néng bù fēn qīng hóng zào bái de gè dǎ wǔ shí dà bǎn.",
+    "traduccion": "Al resolver este conflicto, no se puede culpar por igual a ambas partes sin distinguir quién tiene razón."
+  }
+},
   {
     "simplificado": "各持己见",
     "tradicional": "各持己見",
@@ -19200,24 +19196,22 @@
       "traduccion": "En la reunión, todos mantuvieron su propia opinión, y la discusión fue muy intensa."
     }
   },
-  {
-    "simplificado": "各有千秋",
-    "tradicional": "各有千秋",
-    "pinyin": "gè yǒu qiān qiū",
-    "significado_figurado": "Cada persona tiene sus propias fortalezas o virtudes.",
-    "significado_literal": "Cada uno tiene sus mil cualidades.",
-    "frecuencia": 3,
-    "registro": "Literario",
-    "equivalente_espanol": "Cada uno tiene sus virtudes.",
-    "sinonimos": [
-      "各有特色"
-    ],
-    "ejemplo": {
-      "oracion": "这两位艺术家各有千秋，各自的作品都很出色。",
-      "pinyin": "Zhè liǎng wèi yìshùjiā gè yǒu qiān qiū, gè zì de zuòpǐn dōu hěn chūsè.",
-      "traduccion": "Estos dos artistas tienen sus propias virtudes, y sus obras son excelentes."
-    }
-  },
+{
+  "simplificado": "各有千秋",
+  "tradicional": "各有千秋",
+  "pinyin": "gè yǒu qiān qiū",
+  "significado_figurado": "Cada persona o cosa tiene sus propias virtudes y cualidades destacables.",
+  "significado_literal": "Cada uno tiene mil otoños.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Cada uno tiene lo suyo; cada cual destaca a su manera.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "这两位歌手风格不同，但各有千秋。",
+    "pinyin": "Zhè liǎng wèi gēshǒu fēnggé bù tóng, dàn gè yǒu qiān qiū.",
+    "traduccion": "Estos dos cantantes tienen estilos diferentes, pero cada uno destaca a su manera."
+  }
+},
   {
     "simplificado": "各有所好",
     "tradicional": "各有所好",
