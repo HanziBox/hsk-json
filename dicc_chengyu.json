@@ -19248,24 +19248,22 @@
       "traduccion": "En este equipo, todos dan lo mejor de sí mismos para completar la tarea juntos."
     }
   },
-  {
-    "simplificado": "各色各样",
-    "tradicional": "各色各樣",
-    "pinyin": "gè sè gè yàng",
-    "significado_figurado": "De diversos tipos o variedades.",
-    "significado_literal": "De todos los colores y estilos.",
-    "frecuencia": 4,
-    "registro": "Neutro",
-    "equivalente_espanol": "De todo tipo.",
-    "sinonimos": [
-      "五花八门"
-    ],
-    "ejemplo": {
-      "oracion": "市场上有各色各样的商品，满足不同消费者的需求。",
-      "pinyin": "Shìchǎng shàng yǒu gè sè gè yàng de shāngpǐn, mǎnzú bùtóng xiāofèi zhě de xūqiú.",
-      "traduccion": "En el mercado hay productos de todo tipo, que satisfacen las necesidades de diferentes consumidores."
-    }
-  },
+{
+  "simplificado": "各色各样",
+  "tradicional": "各色各樣",
+  "pinyin": "gè sè gè yàng",
+  "significado_figurado": "De muchos tipos, formas o variedades diferentes.",
+  "significado_literal": "De cada color y de cada tipo.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "De todo tipo; de todas las clases.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "商店里摆着各色各样的商品。",
+    "pinyin": "Shāngdiàn lǐ bǎizhe gè sè gè yàng de shāngpǐn.",
+    "traduccion": "En la tienda hay productos de todo tipo."
+  }
+},
   {
     "simplificado": "各行其是",
     "tradicional": "各行其是",
@@ -19302,96 +19300,86 @@
       "traduccion": "En la competencia, los participantes mostraron sus habilidades, compitiendo por el campeonato."
     }
   },
-  {
-    "simplificado": "合情合理",
-    "tradicional": "合情合理",
-    "pinyin": "hé qíng hé lǐ",
-    "significado_figurado": "Razonable y justo, acorde con la lógica y la emoción.",
-    "significado_literal": "Acorde con la razón y la emoción.",
-    "frecuencia": 4,
-    "registro": "Neutro",
-    "equivalente_espanol": "Razonable y justo.",
-    "sinonimos": [
-      "合理合法"
-    ],
-    "ejemplo": {
-      "oracion": "这个方案合情合理，大家都能接受。",
-      "pinyin": "Zhège fāng'àn hé qíng hé lǐ, dàjiā dōu néng jiēshòu.",
-      "traduccion": "Este plan es razonable y justo, todos pueden aceptarlo."
-    }
-  },
-  {
-    "simplificado": "合眼摸象",
-    "tradicional": "合眼摸象",
-    "pinyin": "hé yǎn mō xiàng",
-    "significado_figurado": "Formar juicios basados en información incompleta o superficial.",
-    "significado_literal": "Tocar un elefante con los ojos cerrados.",
-    "frecuencia": 2,
-    "registro": "Literario",
-    "equivalente_espanol": "",
-    "sinonimos": [
-      "盲人摸象"
-    ],
-    "ejemplo": {
-      "oracion": "在没有充分证据的情况下，合眼摸象的判断是不可靠的。",
-      "pinyin": "Zài méiyǒu chōngfèn zhèngjù de qíngkuàng xià, hé yǎn mō xiàng de pànduàn shì bù kěkào de.",
-      "traduccion": "Sin evidencia suficiente, un juicio basado en información incompleta no es confiable."
-    }
-  },
-  {
-    "simplificado": "合而为一",
-    "tradicional": "合而為一",
-    "pinyin": "hé ér wéi yī",
-    "significado_figurado": "Unirse para formar un todo, trabajar juntos en armonía.",
-    "significado_literal": "Unirse en uno.",
-    "frecuencia": 3,
-    "registro": "Neutro",
-    "equivalente_espanol": "",
-    "sinonimos": [
-      "团结一致"
-    ],
-    "ejemplo": {
-      "oracion": "为了实现目标，团队成员必须合而为一。",
-      "pinyin": "Wèile shíxiàn mùbiāo, tuánduì chéngyuán bìxū hé ér wéi yī.",
-      "traduccion": "Para alcanzar el objetivo, los miembros del equipo deben unirse como uno."
-    }
-  },
-  {
-    "simplificado": "吉人自有天相",
-    "tradicional": "吉人自有天相",
-    "pinyin": "jí rén zì yǒu tiān xiàng",
-    "significado_figurado": "Las personas de buen carácter o virtudes recibirán ayuda o protección del destino.",
-    "significado_literal": "Las personas afortunadas tienen su propio destino.",
-    "frecuencia": 2,
-    "registro": "Literario",
-    "equivalente_espanol": "",
-    "sinonimos": [
-      "天助自助者"
-    ],
-    "ejemplo": {
-      "oracion": "吉人自有天相，努力的人总会有好运。",
-      "pinyin": "Jí rén zì yǒu tiān xiàng, nǔlì de rén zǒng huì yǒu hǎo yùn.",
-      "traduccion": "Las personas de buen carácter siempre recibirán ayuda, quienes se esfuerzan siempre tendrán buena suerte."
-    }
-  },
-  {
-    "simplificado": "吉光片羽",
-    "tradicional": "吉光片羽",
-    "pinyin": "jí guāng piàn yǔ",
-    "significado_figurado": "Un pequeño fragmento de algo valioso o notable.",
-    "significado_literal": "Un pluma de luz afortunada.",
-    "frecuencia": 2,
-    "registro": "Literario",
-    "equivalente_espanol": "",
-    "sinonimos": [
-      "一鳞半爪"
-    ],
-    "ejemplo": {
-      "oracion": "从这篇文章中，我们只能看到吉光片羽，无法了解全貌。",
-      "pinyin": "Cóng zhè piān wénzhāng zhōng, wǒmen zhǐ néng kàn dào jí guāng piàn yǔ, wúfǎ liǎojiě quánmào.",
-      "traduccion": "De este artículo, solo podemos ver un pequeño fragmento, sin poder entender el panorama completo."
-    }
-  },
+{
+  "simplificado": "合情合理",
+  "tradicional": "合情合理",
+  "pinyin": "hé qíng hé lǐ",
+  "significado_figurado": "Ser razonable, justo y acorde con los sentimientos y la lógica.",
+  "significado_literal": "Conforme a los sentimientos y a la razón.",
+  "frecuencia": 5,
+  "registro": "Neutro",
+  "equivalente_espanol": "Ser razonable; tener sentido.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "他的要求合情合理，我们应该接受。",
+    "pinyin": "Tā de yāoqiú hé qíng hé lǐ, wǒmen yīnggāi jiēshòu.",
+    "traduccion": "Su petición es razonable y deberíamos aceptarla."
+  }
+},
+{
+  "simplificado": "合眼摸象",
+  "tradicional": "合眼摸象",
+  "pinyin": "hé yǎn mō xiàng",
+  "significado_figurado": "Juzgar algo sin conocerlo bien, basándose en información limitada o incompleta.",
+  "significado_literal": "Cerrar los ojos y palpar un elefante.",
+  "frecuencia": 2,
+  "registro": "Literario",
+  "equivalente_espanol": "Juzgar precipitadamente.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "不了解事情的全貌就下结论，无异于合眼摸象。",
+    "pinyin": "Bù liǎojiě shìqing de quánmào jiù xià jiélùn, wúyì yú hé yǎn mō xiàng.",
+    "traduccion": "Sacar conclusiones sin conocer toda la situación equivale a juzgar sin conocer todos los hechos."
+  }
+},
+{
+  "simplificado": "合而为一",
+  "tradicional": "合而為一",
+  "pinyin": "hé ér wéi yī",
+  "significado_figurado": "Unir varias partes o elementos para formar un todo.",
+  "significado_literal": "Combinarse y convertirse en uno solo.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Fusionarse en uno; unirse en un todo.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "我们应该把理论和实践合而为一。",
+    "pinyin": "Wǒmen yīnggāi bǎ lǐlùn hé shíjiàn hé ér wéi yī.",
+    "traduccion": "Deberíamos unir la teoría y la práctica en un todo."
+  }
+},
+{
+  "simplificado": "吉人自有天相",
+  "tradicional": "吉人自有天相",
+  "pinyin": "jí rén zì yǒu tiān xiàng",
+  "significado_figurado": "Las personas buenas suelen recibir ayuda de la fortuna y superar las dificultades.",
+  "significado_literal": "Las personas afortunadas cuentan con la protección del cielo.",
+  "frecuencia": 3,
+  "registro": "Neutro",
+  "equivalente_espanol": "",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "别太担心，吉人自有天相，他一定能渡过难关。",
+    "pinyin": "Bié tài dānxīn, jí rén zì yǒu tiān xiàng, tā yídìng néng dùguò nánguān.",
+    "traduccion": "No te preocupes demasiado; la fortuna protege a las buenas personas y seguro que logrará superar esta dificultad."
+  }
+},
+{
+  "simplificado": "吉光片羽",
+  "tradicional": "吉光片羽",
+  "pinyin": "jí guāng piàn yǔ",
+  "significado_figurado": "Fragmento valioso de algo del pasado que se ha conservado; también, vestigio de algo precioso o excepcional.",
+  "significado_literal": "Una pluma de la mítica bestia auspiciosa Jiguang.",
+  "frecuencia": 2,
+  "registro": "Literario",
+  "equivalente_espanol": "",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "这本古籍虽然残缺不全，但仍保存着不少吉光片羽。",
+    "pinyin": "Zhè běn gǔjí suīrán cánquē bù quán, dàn réng bǎocún zhe bù shǎo jí guāng piàn yǔ.",
+    "traduccion": "Aunque este libro antiguo está incompleto, todavía conserva numerosos fragmentos valiosos."
+  }
+},
   {
     "simplificado": "同仇敌忾",
     "tradicional": "同仇敵愾",
