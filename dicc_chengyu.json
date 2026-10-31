@@ -19399,6 +19399,38 @@
     }
   },
   {
+  "simplificado": "细水长流",
+  "tradicional": "細水長流",
+  "pinyin": "xì shuǐ cháng liú",
+  "significado_figurado": "Administrar los recursos con moderación para que duren; mantener algo de forma constante y sostenible a largo plazo.",
+  "significado_literal": "Agua fina, fluye largo.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Poco a poco se llega lejos.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "过日子要精打细算，细水长流。",
+    "pinyin": "Guò rìzi yào jīngdǎ xìsuàn, xì shuǐ cháng liú.",
+    "traduccion": "Para llevar bien la economía doméstica hay que administrar el dinero con cuidado y procurar que dure."
+  }
+},
+  {
+  "simplificado": "三瓦两舍",
+  "tradicional": "三瓦兩舍",
+  "pinyin": "sān wǎ liǎng shè",
+  "significado_figurado": "Antiguos lugares de entretenimiento popular, como teatros, casas de té y locales de ocio.",
+  "significado_literal": "Tres casas de tejas y dos posadas.",
+  "frecuencia": 1,
+  "registro": "Literario",
+  "equivalente_espanol": "",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "古代的三瓦两舍常常聚集着听曲看戏的人。",
+    "pinyin": "Gǔdài de sān wǎ liǎng shè chángcháng jùjí zhe tīng qǔ kàn xì de rén.",
+    "traduccion": "En los antiguos barrios de entretenimiento solían reunirse personas para escuchar música y ver representaciones teatrales."
+  }
+},
+  {
     "simplificado": "同室操戈",
     "tradicional": "同室操戈",
     "pinyin": "tóng shì cāo gē",
