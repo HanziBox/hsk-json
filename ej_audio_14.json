@@ -67,7 +67,11 @@
     "pinyin": "Nǐ de shū zài nàli.",
     "exactMatches": [
       "tus libros estan alli",
-      "tus libros estan alla"
+      "tus libros estan alla",
+      "tus libros estan ahi",
+      "tu libro esta alli",
+      "tu libro esta alla",
+      "tus libros estan ahi",
     ],
     "keywords": [
       ["tus"],
@@ -75,7 +79,7 @@
       ["estan"],
       ["alli", "alla"]
     ],
-    "modelTranslation": "Tus libros están allí."
+    "modelTranslation": "Tu/s libro/s está/n allí."
   },
   {
     "id": 6,
