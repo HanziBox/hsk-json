@@ -61,27 +61,26 @@
     ],
     "modelTranslation": "Quiero comer en casa."
   },
-  {
-  "id": 7,
-  "targetAudioText": "你的书不在那里。",
-  "pinyin": "Nǐ de shū bú zài nàlǐ.",
+{
+  "id": 5,
+  "targetAudioText": "你的书在那里。",
+  "pinyin": "Nǐ de shū zài nàlǐ.",
   "exactMatches": [
-    "tu libro no esta alli",
-    "tu libro no esta ahi",
-    "tu libro no esta en ese lugar",
-    "tus libros no estan alli",
-    "tus libros no estan ahi",
-    "tus libros no estan en ese lugar"
+    "tu libro esta alli",
+    "tu libro esta ahi",
+    "tu libro esta en ese lugar",
+    "tus libros estan alli",
+    "tus libros estan ahi",
+    "tus libros estan en ese lugar"
   ],
   "keywords": [
     ["tu", "tus"],
     ["libro", "libros"],
-    ["no"],
     ["esta", "estan"],
     ["alli", "ahi", "en ese lugar"]
   ],
-  "modelTranslation": "Tu libro no está allí."
-},
+  "modelTranslation": "Tu libro está allí."
+}
   {
     "id": 6,
     "targetAudioText": "你的手机不在这里。",
