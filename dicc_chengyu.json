@@ -46370,6 +46370,22 @@
     }
   },
   {
+  "simplificado": "一锤定音",
+  "tradicional": "一錘定音",
+  "pinyin": "yī chuí dìng yīn",
+  "significado_figurado": "Tomar una decisión definitiva que resuelve una cuestión o pone fin a una discusión.",
+  "significado_literal": "Dar un golpe de martillo para fijar el tono definitivo.",
+  "frecuencia": 4,
+  "registro": "Neutro",
+  "equivalente_espanol": "Dar la última palabra; zanjar una cuestión.",
+  "sinonimos": [],
+  "ejemplo": {
+    "oracion": "经过长时间的讨论，经理终于一锤定音，决定了最终方案。",
+    "pinyin": "Jīngguò cháng shíjiān de tǎolùn, jīnglǐ zhōngyú yī chuí dìng yīn, juédìng le zuìzhōng fāng'àn.",
+    "traduccion": "Después de mucho tiempo de debate, el gerente tomó finalmente la decisión definitiva y estableció el plan final."
+  }
+},
+  {
     "simplificado": "昙花一现",
     "tradicional": "昙花一現",
     "pinyin": "tán huā yī xiàn",
