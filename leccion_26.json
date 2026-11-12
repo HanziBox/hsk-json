@@ -75,7 +75,8 @@
             {"hanzi": "星期四", "pinyin": "xīngqīsì"},
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "没", "pinyin": "méi"},
-            {"hanzi": "在家", "pinyin": "zàijiā"},
+            {"hanzi": "在", "pinyin": "zài"},
+            {"hanzi": "家", "pinyin": "jiā"},
             {"hanzi": "吃饭", "pinyin": "chīfàn"}
         ],
         "translation": "El jueves pasado no comí en casa."
