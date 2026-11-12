@@ -69,7 +69,7 @@
                 { "hanzi": "不", "pinyin": "bù" },
                 { "hanzi": "知道", "pinyin": "zhīdào" },
                 { "hanzi": "是", "pinyin": "shì" },
-                { "hanzi": "谁", "pinyin": "shuí" }
+                { "hanzi": "谁", "pinyin": "shéi" }
             ],
             "translation": "Alguien te llamó, pero no sé quién fue."
         },
@@ -145,7 +145,7 @@
             {"hanzi": "我", "pinyin": "wǒ"},
             {"hanzi": "自己", "pinyin": "zìjǐ"},
             {"hanzi": "是", "pinyin": "shì"},
-            {"hanzi": "谁", "pinyin": "shuí"}
+            {"hanzi": "谁", "pinyin": "shéi"}
         ],
         "translation": "Mi padre me hizo saber quién soy."
     },
